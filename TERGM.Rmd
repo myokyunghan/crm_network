@@ -1,17 +1,27 @@
 ---
 title: "TERGM"
-editor: visual
+output: html_document
 ---
 
+
 ```{r}
-#install.packages(c("network", "btergm", "tergm"))
+# install.packages(c("network", "btergm", "tergm", "ggraph", "intergraph"))
+```
+
+
+```{r}
+#install.packages(c("ggraph", "intergraph"))
 ```
 
 ```{r}
 library(network)
 library(btergm)
 library(sna)
+library(igraph)
+library(ggraph)
+library(intergraph)
 ```
+
 
 ```{r}
 edges_t1 <- read.csv("edge_list_data_2010.csv")
@@ -21,12 +31,16 @@ edges_t2 <- read.csv("edge_list_data_2020.csv")
 The `echo: false` option disables the printing of code (only output is displayed).
 
 ```{r}
-head(edges_t1)
+#head(edges_t1)
+dim(edges_t2)  
 ```
-
 ```{r}
 nodes <- unique(c(edges_t1$from, edges_t1$to, edges_t2$from, edges_t2$to))
 node_df <- data.frame(name = nodes)
+```
+
+```{r}
+length(nodes)
 ```
 
 ```{r}
@@ -40,6 +54,7 @@ set.edge.attribute(net2, "weight", edges_t2$weight)
 ```{r}
 net.list <- list(net1, net2)
 ```
+
 
 ```{r}
 # === 6. (선택) 예시 공변량 생성 ===
@@ -67,7 +82,6 @@ length(sim)      # 예: 1
 class(sim[[1]])  # "network"
 
 ```
-
 ```{r}
 str(sim, max.level = 1)
 ```
@@ -81,29 +95,49 @@ class(net_pred)
 # [1] "network"
 
 # 시각화
-library(network)
-plot.network(net_pred,
-             displaylabels = TRUE,
-             vertex.col = "skyblue",
-             label.cex = 0.6,
-             main = "Predicted Network (Next Time Step)")
+deg <- degree(net_pred, gmode = "digraph")
+
+#plot.network(net_pred,
+#             displaylabels = TRUE,
+#             vertex.col = "skyblue",
+#             label.cex = 0.6,
+#            main = "Predicted Network (Next Time Step)")
+
+
+
+# network 객체 → igraph 변환
+g <- asIgraph(net_pred)
+
+# 중심성 계산 (노드 크기용)
+deg <- degree(g, mode = "all")
+
+# 시각화
+ggraph(g, layout = "fr") +  # "fr" = Fruchterman-Reingold layout
+  geom_edge_link(aes(alpha = 0.3), colour = "gray60") +
+  geom_node_point(aes(size = deg), colour = "skyblue") +
+  geom_node_text(aes(label = name), repel = TRUE, size = 3) +
+  theme_void() +
+  ggtitle("Predicted Network (Clean Layout)") +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 16)
+  )
 
 ```
 
 ```{r}
 plot.network(net2,
+            #vertex.cex = (deg / max(deg)) * 3,
              displaylabels = TRUE,
              vertex.col = "skyblue",
              label.cex = 0.6,
-             main = "Predicted Network (Next Time Step)")
+             main = "TPU Network : 2020 ~")
 ```
-
 ```{r}
 deg <- degree(net1, gmode = "digraph")
 plot.network(net1,
-             vertex.cex = (deg / max(deg)) * 5,
+            # vertex.cex = (deg / max(deg)) * 3,
              displaylabels = TRUE,
              vertex.col = "skyblue",
              label.cex = 0.6,
-             main = "Predicted Network (Next Time Step)")
+             main = "TPU Network : 2010 ~")
 ```
