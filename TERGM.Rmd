@@ -47,8 +47,8 @@ length(nodes)
 net1 <- network(edges_t1, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 net2 <- network(edges_t2, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 
-set.edge.attribute(net1, "weight", edges_t1$weight)
-set.edge.attribute(net2, "weight", edges_t2$weight)
+network::set.edge.attribute(net1, "weight", edges_t1$weight)
+network::set.edge.attribute(net2, "weight", edges_t2$weight)
 ```
 
 ```{r}
@@ -95,7 +95,7 @@ class(net_pred)
 # [1] "network"
 
 # 시각화
-deg <- degree(net_pred, gmode = "digraph")
+deg <- sna::degree(net_pred, gmode = "digraph")
 
 #plot.network(net_pred,
 #             displaylabels = TRUE,
@@ -104,9 +104,12 @@ deg <- degree(net_pred, gmode = "digraph")
 #            main = "Predicted Network (Next Time Step)")
 
 
-
 # network 객체 → igraph 변환
 g <- asIgraph(net_pred)
+
+if (is.null(V(g)$name)) {
+  V(g)$name <- network.vertex.names(net_pred)
+}
 
 # 중심성 계산 (노드 크기용)
 deg <- degree(g, mode = "all")
@@ -123,6 +126,11 @@ ggraph(g, layout = "fr") +  # "fr" = Fruchterman-Reingold layout
   )
 
 ```
+```{r}
+network.vertex.names(net_pred)
+```
+
+
 
 ```{r}
 plot.network(net2,
@@ -133,7 +141,7 @@ plot.network(net2,
              main = "TPU Network : 2020 ~")
 ```
 ```{r}
-deg <- degree(net1, gmode = "digraph")
+deg <- sna::degree(net1, gmode = "digraph")
 plot.network(net1,
             # vertex.cex = (deg / max(deg)) * 3,
              displaylabels = TRUE,
