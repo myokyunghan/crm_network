@@ -43,12 +43,17 @@ node_df <- data.frame(name = nodes)
 length(nodes)
 ```
 
+
 ```{r}
+#library(network)
+#library(igraph)
+#library(intergraph)
+
 net1 <- network(edges_t1, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 net2 <- network(edges_t2, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 
-set.edge.attribute(net1, "weight", edges_t1$weight)
-set.edge.attribute(net2, "weight", edges_t2$weight)
+network::set.edge.attribute(net1, "weight", edges_t1$weight)
+network::set.edge.attribute(net2, "weight", edges_t2$weight)
 ```
 
 ```{r}
@@ -95,7 +100,7 @@ class(net_pred)
 # [1] "network"
 
 # 시각화
-deg <- degree(net_pred, gmode = "digraph")
+deg <- network::degree(net_pred, gmode = "digraph")
 
 #plot.network(net_pred,
 #             displaylabels = TRUE,
@@ -109,7 +114,7 @@ deg <- degree(net_pred, gmode = "digraph")
 g <- asIgraph(net_pred)
 
 # 중심성 계산 (노드 크기용)
-deg <- degree(g, mode = "all")
+deg <- network::degree(g, mode = "all")
 
 # 시각화
 ggraph(g, layout = "fr") +  # "fr" = Fruchterman-Reingold layout
