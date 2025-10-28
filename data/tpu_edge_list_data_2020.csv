@@ -1,0 +1,235 @@
+from,to,weight
+joule (programming language),microscale chemistry,0.2
+joule (programming language),nanomaterials,0.2
+joule (programming language),textile,0.2
+joule (programming language),carbon fibers,0.2
+polyether ether ketone,biocompatibility,0.25
+polyether ether ketone,acrylonitrile butadiene styrene,0.25
+lignocellulosic biomass,carbon fibers,0.3333333333333333
+lignocellulosic biomass,characterization,0.3333333333333333
+stiffening,thermoplastic elastomer,0.3333333333333333
+stiffening,gyroid,0.3333333333333333
+stiffening,soft robotics,0.3333333333333333
+embrittlement,polylactic acid,0.25
+embrittlement,ductility (earth science),0.25
+sepiolite,thermal stability,0.25
+strain energy,strain (injury),0.4
+strain energy,thermoplastic elastomer,0.2
+strain energy,acrylonitrile butadiene styrene,0.2
+strain energy,delamination,0.2
+perlite,polypropylene,0.2
+perlite,maleic anhydride,0.2
+perlite,molding (decorative),0.2
+perlite,melt flow index,0.2
+perlite,compatibilization,0.2
+transfer printing,flexible electronics,0.2857142857142857
+transfer printing,printed electronics,0.21428571428571427
+capacitance probe,screen printing,0.2
+masterbatch,thermoplastic elastomer,0.25
+masterbatch,thermal stability,0.25
+masterbatch,degradation,0.25
+thermistor,thermoplastic elastomer,0.2
+thermistor,piezoresistive effect,0.2
+thermistor,resistive touchscreen,0.2
+thermistor,tactile sensor,0.2
+reactive extrusion,polylactic acid,0.3333333333333333
+endothermic process,polymer nanocomposite,0.25
+endothermic process,flexural modulus,0.25
+endothermic process,thermal stability,0.25
+fashion design,textile,0.2857142857142857
+honeycomb structure,honeycomb,0.3076923076923077
+deposition,fused deposition modeling,0.30392156862745096
+stencil,flexible electronics,0.2857142857142857
+self-healing material,smart polymer,0.2
+self-healing material,smart material,0.2
+photothermal effect,shape-memory polymer,0.2
+photothermal effect,characterization,0.2
+photothermal effect,electrospinning,0.2
+smart polymer,smart material,0.3
+smart polymer,shape-memory polymer,0.2
+linearity,piezoresistive effect,0.23076923076923078
+encapsulation,nanomaterials,0.2
+encapsulation,textile,0.2
+encapsulation,electrospinning,0.2
+organic peroxide,thermoplastic elastomer,0.25
+organic peroxide,tear resistance,0.25
+organic peroxide,prepolymer,0.25
+organic peroxide,thermogravimetric analysis,0.25
+woven fabric,textile,0.2
+woven fabric,electrospinning,0.2
+zeolitic imidazolate framework,thermal stability,0.2
+zeolitic imidazolate framework,limiting oxygen index,0.2
+zeolitic imidazolate framework,intumescent,0.2
+zeolitic imidazolate framework,thermogravimetric analysis,0.2
+zeolitic imidazolate framework,charring,0.2
+neural cell,biocompatibility,0.2
+neural cell,biomaterial,0.2
+neural cell,polycaprolactone,0.2
+neural cell,polylactic acid,0.2
+thermomechanical analysis,thermogravimetric analysis,0.2
+absorbance,biodegradable polymer,0.25
+absorbance,thermogravimetric analysis,0.25
+absorbance,thermal stability,0.25
+absorbance,polylactic acid,0.25
+polyoxymethylene,antistatic agent,0.2
+polyoxymethylene,heat deflection temperature,0.2
+polyoxymethylene,thermoplastic elastomer,0.2
+polyoxymethylene,thermogravimetric analysis,0.2
+excipient,polyvinyl alcohol,0.3333333333333333
+silsesquioxane,biocompatibility,0.2
+silsesquioxane,gelatin,0.2
+silsesquioxane,thermogravimetric analysis,0.2
+silsesquioxane,thermal stability,0.2
+silsesquioxane,toughening,0.2
+telerehabilitation,piezoresistive effect,0.3333333333333333
+telerehabilitation,gauge factor,0.3333333333333333
+hemicellulose,nanocellulose,0.2
+hemicellulose,thermogravimetric analysis,0.2
+hemicellulose,thermal stability,0.2
+die swell,polylactic acid,0.5
+die swell,thermal stability,0.5
+exfoliation joint,surface modification,0.25
+enzymatic hydrolysis,nanocellulose,0.2
+enzymatic hydrolysis,thermogravimetric analysis,0.2
+enzymatic hydrolysis,thermal stability,0.2
+simulated body fluid,polylactic acid,0.25
+electrochemical energy conversion,stretchable electronics,0.25
+electrochemical energy conversion,flexible electronics,0.25
+blow molding,thermoplastic elastomer,0.3333333333333333
+blow molding,3d printed,0.3333333333333333
+blow molding,molding (decorative),0.3333333333333333
+electroactive polymers,soft robotics,0.26666666666666666
+carbon footprint,carbon fibers,0.2222222222222222
+bead,molding (decorative),0.2
+polyacrylonitrile,electrospinning,0.30434782608695654
+weld line,polypropylene,0.2
+weld line,acrylonitrile butadiene styrene,0.2
+weld line,compression molding,0.2
+weld line,molding (decorative),0.2
+neoprene,piezoresistive effect,0.2
+neoprene,gauge factor,0.2
+neoprene,tension (geology),0.2
+neoprene,tear resistance,0.2
+thermal grease,polypropylene,0.25
+thermal grease,compression molding,0.25
+thermal grease,high-density polyethylene,0.25
+thermal grease,polylactic acid,0.25
+surface-mount technology,screen printing,0.2
+prosthetic hand,flexible electronics,0.2
+prosthetic hand,tactile sensor,0.2
+fatigue limit,molding (decorative),0.2
+fatigue limit,polypropylene,0.2
+fatigue limit,acrylonitrile butadiene styrene,0.2
+fatigue limit,compression molding,0.2
+magneto,smart material,0.25
+agglomerate,fused deposition modeling,0.2
+agglomerate,compounding,0.2
+agglomerate,surface modification,0.2
+stress relaxation,polylactic acid,0.2857142857142857
+thermal desorption,thermoplastic elastomer,0.2
+thermal desorption,fragmentation,0.2
+thermal desorption,characterization,0.2
+thermal desorption,degradation,0.2
+gelatin,biocompatibility,0.21428571428571427
+minimal surface,polylactic acid,0.2
+penetration (warfare),textile,0.25
+penetration (warfare),polypropylene,0.25
+penetration (warfare),thermoplastic elastomer,0.25
+penetration (warfare),nonwoven fabric,0.25
+rigidity (electromagnetism),soft robotics,0.25
+conformable matrix,stretchable electronics,0.23076923076923078
+isoprene,thermoplastic elastomer,0.3333333333333333
+isoprene,thermal stability,0.3333333333333333
+seahorse,pneumatic actuator,0.2
+hexagonal boron nitride,screen printing,0.2222222222222222
+organoclay,thermal stability,0.2857142857142857
+organoclay,thermogravimetric analysis,0.2857142857142857
+multirotor,selective laser sintering,0.25
+energy-dispersive x-ray spectroscopy,polypyrrole,0.25
+energy-dispersive x-ray spectroscopy,deposition,0.25
+imidazole,thermogravimetric analysis,0.25
+imidazole,cone calorimeter,0.25
+imidazole,thermal stability,0.25
+talc,thermoplastic elastomer,0.25
+talc,matrix (chemical analysis),0.25
+talc,polylactic acid,0.25
+strontium titanate,surface modification,0.3333333333333333
+strontium titanate,thermal stability,0.3333333333333333
+strontium titanate,thermogravimetric analysis,0.3333333333333333
+carbonyl iron,reflection loss,0.375
+magnetorheological elastomer,thermoplastic elastomer,0.4
+magnetorheological elastomer,smart material,0.2
+magnetorheological elastomer,piezoresistive effect,0.2
+magnetorheological elastomer,carbonyl iron,0.2
+honeycomb,honeycomb structure,0.26666666666666666
+reflection loss,dielectric loss,0.3125
+filtration (mathematics),electrospinning,0.2413793103448276
+poly(n-isopropylacrylamide),biocompatibility,0.2
+poly(n-isopropylacrylamide),heat deflection temperature,0.2
+poly(n-isopropylacrylamide),flexural modulus,0.2
+poly(n-isopropylacrylamide),polylactic acid,0.2
+poly(n-isopropylacrylamide),compression molding,0.2
+hypophosphite,thermogravimetric analysis,0.25
+hypophosphite,cone calorimeter,0.25
+neural tissue engineering,biomaterial,0.2
+hounsfield scale,3d printed,0.375
+fire performance,thermal stability,0.25
+fire performance,thermogravimetric analysis,0.25
+fire performance,cone calorimeter,0.25
+fire performance,intumescent,0.25
+ion-mobility spectrometry,degradation,0.2
+ion-mobility spectrometry,thermoplastic elastomer,0.2
+ion-mobility spectrometry,fragmentation,0.2
+ion-mobility spectrometry,characterization,0.2
+layer by layer,polylactic acid,0.25
+pneumatic actuator,soft robotics,0.3076923076923077
+chemical sensor,textile,0.25
+microfiber,electrospinning,0.25
+nanoporous,electrospinning,0.3333333333333333
+cellulose acetate,electrospinning,0.4117647058823529
+wood flour,maleic anhydride,0.2
+wood flour,polylactic acid,0.4
+graphite oxide,nanomaterials,0.2857142857142857
+suspension,biocompatibility,0.25
+touchscreen,tactile sensor,0.3333333333333333
+aka,smart material,0.25
+cardanol,thermoplastic elastomer,0.3333333333333333
+boehmite,textile,0.25
+boehmite,smart material,0.25
+boehmite,shape-memory polymer,0.25
+stab,particle (ecology),0.3333333333333333
+stab,textile,0.3333333333333333
+low-density polyethylene,polypropylene,0.2857142857142857
+propagation constant,acrylonitrile butadiene styrene,0.25
+propagation constant,dissipation factor,0.25
+propagation constant,dielectric loss,0.25
+ammonium polyphosphate,cone calorimeter,0.2033898305084746
+human motion,strain (injury),0.26666666666666666
+void (composites),acrylonitrile butadiene styrene,0.2857142857142857
+strain gauge,gauge factor,0.26605504587155965
+poisson's ratio,auxetics,0.3333333333333333
+cost reduction,selective laser sintering,0.25
+selective laser melting,characterization,0.2
+selective laser melting,smart material,0.2
+selective laser melting,selective laser sintering,0.2
+parametric design,textile,0.2
+orthogonal array,deposition,0.2
+orthogonal array,acrylonitrile butadiene styrene,0.4
+orthogonal array,fused deposition modeling,0.2
+template,shrinkage,0.2
+template,electrospinning,0.2
+template,microfiber,0.2
+template,polylactic acid,0.2
+modularity,tactile sensor,0.25
+proton nmr,cone calorimeter,0.25
+proton nmr,thermal stability,0.25
+proton nmr,thermogravimetric analysis,0.25
+styrene-butadiene,thermoplastic elastomer,0.375
+styrene-butadiene,gauge factor,0.25
+relative density,gauge factor,0.2
+relative density,piezoresistive effect,0.2
+relative density,selective laser sintering,0.2
+plain weave,textile,0.2
+plain weave,polylactic acid,0.2
+lcr meter,screen printing,0.2
+box–behnken design,shape-memory polymer,0.2
