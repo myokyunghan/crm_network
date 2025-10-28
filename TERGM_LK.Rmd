@@ -1,0 +1,360 @@
+---
+title: "TERGM"
+output: html_document
+---
+
+
+```{r}
+# install.packages(c("network", "btergm", "tergm", "ggraph", "intergraph"))
+```
+
+
+```{r}
+#install.packages(c("ggraph", "intergraph"))
+```
+
+```{r}
+library(network)
+library(tergm)
+library(sna)
+library(igraph)
+library(ggraph)
+library(intergraph)
+library(ndtv)
+```
+
+
+```{r}
+edges_t1 <- read.csv("edge_list_data_2010.csv")
+edges_t2 <- read.csv("edge_list_data_2020.csv")
+```
+
+The `echo: false` option disables the printing of code (only output is displayed).
+
+```{r}
+#head(edges_t1)
+dim(edges_t2)  
+```
+```{r}
+nodes <- unique(c(edges_t1$from, edges_t1$to, edges_t2$from, edges_t2$to))
+node_df <- data.frame(name = nodes)
+```
+
+```{r}
+length(nodes)
+```
+
+```{r}
+net1 <- network(edges_t1, 
+                directed = TRUE, vertices = node_df, matrix.type = "edgelist")
+net2 <- network(edges_t2, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
+
+indeg1 <- sna::degree(net1, cmode="indegree")
+indeg2 <- sna::degree(net2, cmode="indegree")
+
+network::set.edge.attribute(net1, "weight", edges_t1$weight)
+network::set.edge.attribute(net2, "weight", edges_t2$weight)
+
+network::set.vertex.attribute(net1, "indegree", indeg1)
+network::set.vertex.attribute(net2, "indegree", indeg2)
+```
+
+```{r}
+net.list <- list(net1, net2)
+```
+
+
+```{r}
+# === 6. (선택) 예시 공변량 생성 ===
+# 두 시점마다 동일 크기의 행렬 리스트로 생성해야 함
+set.seed(123)
+X1 <- matrix(runif(length(nodes)^2, 0, 1), nrow = length(nodes))
+X2 <- matrix(runif(length(nodes)^2, 0, 1), nrow = length(nodes))
+X.list <- list(X1, X2)
+
+# === 7. TERGM (btergm) 모델 추정 ===
+set.seed(100)
+model <- tergm(net.list ~ edges 
+                + gwesp(0.1, fixed = TRUE) 
+                #+ edgecov(X.list)
+                + mutual
+                + nodecov("indegree")
+                + diff(attr="indegree", dir="t-h")
+                , 
+                estimate="CMLE", times=0:2)
+
+# === 8. 결과 확인 ===
+summary(model)
+```
+
+```{r}
+# nsim = 생성할 네트워크 수 (기본값은 1)
+sim <- simulate(model, nsim = 1, time.slices = 5, nw.start="first")
+
+# === 2. 결과 확인 ===
+# sim은 네트워크 객체 형태의 리스트로 반환됩니다.
+class(sim)       # "list"
+length(sim)      # 예: 1
+class(sim[[1]])  # "network"
+
+```
+```{r}
+str(sim, max.level = 1)
+```
+
+```{r}
+plot.par = list(edge.col="darkgray",
+displaylabels = T,
+label.cex=.8,
+label.col="blue",
+vertex.cex = 1)
+
+render.d3movie(sim)
+```
+
+
+```{r}
+sim <- simulate(model, nsim = 1, time.slices = 3, nw.start="last")
+
+deg <- sna::degree(net1, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=2, network.vertex.names(net1), "")
+set.seed(150)
+plot.network(net1,
+             label=label,
+             vertex.cex = sqrt(deg+1)*0.8,
+             displaylabels = TRUE,
+             vertex.col = "skyblue",
+             vertex.border=0.3,
+             edge.col = "grey60",
+             label.cex = 0.6,
+             edge.lwd = 0.1,
+             main = "TPU Network : 2010 ~",
+             displayisolates=FALSE,
+             mode="fruchtermanreingold")
+```
+
+
+
+```{r}
+deg <- sna::degree(net2, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=2, network.vertex.names(net2), "")
+set.seed(513)
+plot.network(net2,
+             label=label,
+             vertex.cex = sqrt(deg+1)*0.8,
+             displaylabels = TRUE,
+             vertex.col = "skyblue",
+             vertex.border=0.3,
+             edge.col = "grey60",
+             label.cex = 0.6,
+             edge.lwd = 0.1,
+             main = "TPU Network : 2020 ~",
+             displayisolates=FALSE,
+             mode="fruchtermanreingold")
+```
+
+
+
+```{r}
+# Simulated results
+simp1 <- network.extract(sim, at=1)
+deg <- sna::degree(simp1, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=2, network.vertex.names(simp1), "")
+set.seed(52113)
+plot.network(simp1,
+             label=label,
+             vertex.cex = sqrt(deg+1)*0.8,
+             displaylabels = TRUE,
+             vertex.col = "skyblue",
+             vertex.border=0.3,
+             edge.col = "grey60",
+             label.cex = 0.6,
+             edge.lwd = 0.3,
+             main = "TPU Network : 2030 ~",
+             displayisolates=FALSE,
+             mode="fruchtermanreingold"
+             )
+```
+
+```{r}
+# Simulated results
+simp2 <- network.extract(sim, at=2)
+deg <- sna::degree(simp2, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=3, network.vertex.names(simp2), "")
+set.seed(5156)
+plot.network(simp2,
+             label=label,
+             vertex.cex = sqrt(deg+1)*0.8,
+             displaylabels = TRUE,
+             vertex.col = "skyblue",
+             vertex.border=0.3,
+             edge.col = "grey60",
+              label.cex = 0.6,
+              edge.lwd = 0.3,
+             main = "TPU Network : 2040 ~",
+             displayisolates=FALSE,
+             mode="fruchtermanreingold")
+```
+
+
+```{r}
+# Simulated results
+simp3 <- network.extract(sim, at=3)
+deg <- sna::degree(simp3, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=2, network.vertex.names(simp3), "")
+set.seed(515)
+plot.network(simp3,
+             label=label,
+             vertex.cex = sqrt(deg+1)*0.8,
+             displaylabels = TRUE,
+             vertex.col = "skyblue",
+             vertex.border=0.3,
+             edge.col = "grey60",
+             label.cex = 0.6,
+             edge.lwd = 0.1,
+             main = "TPU Network : 2050 ~",
+             displayisolates=FALSE,
+             mode="fruchtermanreingold")
+```
+
+
+```{r}
+library(dplyr)
+library(sna)
+library(network)
+
+find_new_edges_tergm <- function(net_pred, net_list) {
+  if (length(net_list) < 2) stop("❌ net_list에는 최소 2개의 네트워크가 필요합니다.")
+  
+  # --- 기준 노드셋 추출 ---
+  base_nodes <- network.vertex.names(net_list[[1]])
+  
+  # --- 엣지리스트를 node name 기준으로 변환하는 함수 ---
+  get_edges_named <- function(net, base_nodes) {
+    el <- as.data.frame(as.edgelist.sna(net))[, 1:2]
+    names(el) <- c("from_id", "to_id")
+    el <- el %>%
+      mutate(
+        from = base_nodes[from_id],
+        to   = base_nodes[to_id]
+      ) %>%
+      select(from, to)
+    return(el)
+  }
+  
+  # --- 각 네트워크에서 엣지리스트 추출 ---
+  edges_prev1 <- get_edges_named(net_list[[1]], base_nodes)
+  edges_prev2 <- get_edges_named(net_list[[2]], base_nodes)
+  edges_pred  <- get_edges_named(net_pred,     base_nodes)
+  
+  # --- 과거 엣지 통합 ---
+  edges_prev_all <- distinct(bind_rows(edges_prev1, edges_prev2))
+  
+  # --- 새롭게 등장한 엣지 추출 ---
+  edges_new <- anti_join(edges_pred, edges_prev_all, by = c("from", "to"))
+  
+  cat("✅ 새로 등장한 엣지 수:", nrow(edges_new), "\n")
+  return(edges_new)
+}
+
+
+
+
+```
+
+
+
+```{r}
+# ---- indegree 기반 노드 크기 / 라벨 설정 ----
+edges_new <- find_new_edges_tergm(simp1, list(net1, net2))
+deg <- sna::degree(simp1, gmode = "digraph", cmode = "indegree")
+label <- ifelse(deg >= 2, network.vertex.names(simp1), "")
+
+# ---- 네트워크 시각화 ----
+set.seed(52113)
+plot.network(
+  simp1,
+  label = label,
+  vertex.cex = sqrt(deg + 1) * 0.8,   # indegree에 따른 노드 크기
+  displaylabels = TRUE,
+  vertex.col = "skyblue",
+  vertex.border = 0.3,
+  edge.col = ifelse(
+    paste0(as.edgelist.sna(simp1)[, 1], "-", as.edgelist.sna(simp1)[, 2]) %in%
+      paste0(match(edges_new$from, network.vertex.names(simp1)), "-", 
+             match(edges_new$to, network.vertex.names(simp1))),
+    "red", "grey60"                   # 🔴 새 엣지는 빨간색, 나머지는 회색
+  ),
+  label.cex = 0.6,
+  edge.lwd = 0.3,
+  main = "TPU Network : 2030 ~ (New Edges Highlighted)",
+  displayisolates = FALSE,            # 고립 노드 제거
+  mode = "fruchtermanreingold"        # 레이아웃
+)
+
+
+```
+
+
+
+```{r}
+# ---- indegree 기반 노드 크기 / 라벨 설정 ----
+edges_new <- find_new_edges_tergm(simp2, list(net1, net2))
+deg <- sna::degree(simp2, gmode = "digraph", cmode = "indegree")
+label <- ifelse(deg >= 3, network.vertex.names(simp2), "")
+
+# ---- 네트워크 시각화 ----
+set.seed(5156)
+plot.network(
+  simp2,
+  label = label,
+  vertex.cex = sqrt(deg + 1) * 0.8,   # indegree에 따른 노드 크기
+  displaylabels = TRUE,
+  vertex.col = "skyblue",
+  vertex.border = 0.3,
+  edge.col = ifelse(
+    paste0(as.edgelist.sna(simp2)[, 1], "-", as.edgelist.sna(simp2)[, 2]) %in%
+      paste0(match(edges_new$from, network.vertex.names(simp2)), "-", 
+             match(edges_new$to, network.vertex.names(simp2))),
+    "red", "grey60"                   # 🔴 새 엣지는 빨간색, 나머지는 회색
+  ),
+  label.cex = 0.6,
+  edge.lwd = 0.3,
+  main = "TPU Network : 2040 ~ (New Edges Highlighted)",
+  displayisolates = FALSE,            # 고립 노드 제거
+  mode = "fruchtermanreingold"        # 레이아웃
+)
+
+
+```
+
+```{r}
+# ---- indegree 기반 노드 크기 / 라벨 설정 ----
+edges_new <- find_new_edges_tergm(simp3, list(net1, net2))
+deg <- sna::degree(simp3, gmode = "digraph", cmode = "indegree")
+label <- ifelse(deg >= 3, network.vertex.names(simp3), "")
+
+# ---- 네트워크 시각화 ----
+set.seed(515)
+plot.network(
+  simp3,
+  label = label,
+  vertex.cex = sqrt(deg + 1) * 0.8,   # indegree에 따른 노드 크기
+  displaylabels = TRUE,
+  vertex.col = "skyblue",
+  vertex.border = 0.3,
+  edge.col = ifelse(
+    paste0(as.edgelist.sna(simp3)[, 1], "-", as.edgelist.sna(simp3)[, 2]) %in%
+      paste0(match(edges_new$from, network.vertex.names(simp3)), "-", 
+             match(edges_new$to, network.vertex.names(simp3))),
+    "red", "grey60"                   # 🔴 새 엣지는 빨간색, 나머지는 회색
+  ),
+  label.cex = 0.6,
+  edge.lwd = 0.3,
+  main = "TPU Network : 2050 ~ (New Edges Highlighted)",
+  displayisolates = FALSE,            # 고립 노드 제거
+  mode = "fruchtermanreingold"        # 레이아웃
+)
+
+
+```
