@@ -1,0 +1,56 @@
+from,to,weight
+carbothermic reaction,carbon fibers,0.3333333333333333
+somnolence,lithium carbonate,0.25
+somnolence,irritability,0.25
+somnolence,depression,0.25
+somnolence,apathy,0.25
+pleurotus ostreatus,lithium carbonate,0.25
+pleurotus ostreatus,lithium chloride,0.25
+pleurotus ostreatus,husk,0.25
+pleurotus ostreatus,edible mushroom,0.25
+clinical endpoint,lithium carbonate,0.2631578947368421
+clinical endpoint,riluzole,0.2631578947368421
+memory span,verbal fluency test,0.3333333333333333
+memory span,depression,0.3333333333333333
+memory span,lithium carbonate,0.3333333333333333
+apathy,depression,0.25
+hypomania,depression,0.25
+relapse prevention,mood stabilizer,0.2857142857142857
+vice president,lithium metal,0.3333333333333333
+vice president,lithium hydroxide,0.3333333333333333
+vice president,lithium carbonate,0.3333333333333333
+bet theory,specific surface area,0.4
+salt lake,brine,0.25
+leukopenia,lithium carbonate,0.3333333333333333
+dose,lithium carbonate,0.3333333333333333
+hamilton depression scale,clinical efficacy,0.3333333333333333
+hamilton depression scale,lithium carbonate,0.3333333333333333
+hamilton depression scale,depression,0.3333333333333333
+clinical efficacy,lithium carbonate,0.5
+iron phosphate,lithium iron phosphate,0.25
+imide,lithium battery,0.3333333333333333
+auger electron spectroscopy,characterization,0.25
+auger electron spectroscopy,particle (ecology),0.25
+auger electron spectroscopy,lithium oxide,0.25
+auger electron spectroscopy,lithium carbonate,0.25
+rapid cycling,depression,0.3333333333333333
+diethyl carbonate,dimethyl carbonate,0.25
+partial pressure,atmospheric temperature range,0.3333333333333333
+cobalt extraction techniques,lithium cobalt oxide,0.25
+cobalt extraction techniques,lithium carbonate,0.25
+cobalt extraction techniques,sodium carbonate,0.25
+potassium hydroxide,lithium hydroxide,0.3333333333333333
+potassium hydroxide,lithium carbonate,0.3333333333333333
+potassium hydroxide,lithium chloride,0.3333333333333333
+therapeutic index,therapeutic effect,0.25
+therapeutic index,lithium carbonate,0.25
+edible mushroom,pleurotus ostreatus,0.25
+edible mushroom,lithium carbonate,0.25
+edible mushroom,lithium chloride,0.25
+lithium therapy,lithium carbonate,0.3125
+riluzole,clinical endpoint,0.38461538461538464
+riluzole,lithium carbonate,0.3076923076923077
+therapeutic effect,lithium carbonate,0.4
+sodium thiosulfate,lithium carbonate,0.25
+sodium thiosulfate,sodium carbonate,0.25
+sodium thiosulfate,lithium cobalt oxide,0.25

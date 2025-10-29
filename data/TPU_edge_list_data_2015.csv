@@ -1,0 +1,76 @@
+from,to,weight
+piezoresistive effect,thermoplastic polyurethane,0.13157894736842105
+strain gauge,gauge factor,0.23943661971830985
+thermal stability,thermoplastic polyurethane,0.1614457831325301
+thermal stability,thermogravimetric analysis,0.12771084337349398
+smart material,shape-memory polymer,0.16279069767441862
+degradation,thermal stability,0.13043478260869565
+maleic anhydride,polypropylene,0.15
+in situ polymerization,thermoplastic polyurethane,0.16129032258064516
+ethylene-vinyl acetate,vinyl acetate,0.24074074074074073
+organoclay,thermal stability,0.17142857142857143
+organoclay,thermoplastic polyurethane,0.14285714285714285
+organoclay,thermogravimetric analysis,0.14285714285714285
+polybutylene succinate,miscibility,0.15
+compatibilization,thermoplastic polyurethane,0.12727272727272726
+masterbatch,thermal stability,0.13043478260869565
+masterbatch,cone calorimeter,0.13043478260869565
+masterbatch,thermogravimetric analysis,0.13043478260869565
+limiting oxygen index,thermogravimetric analysis,0.17
+limiting oxygen index,thermal stability,0.13
+limiting oxygen index,cone calorimeter,0.15
+ammonium polyphosphate,thermogravimetric analysis,0.14285714285714285
+ammonium polyphosphate,cone calorimeter,0.15873015873015872
+glycidyl methacrylate,thermoplastic polyurethane,0.21739130434782608
+elongation,thermoplastic polyurethane,0.16129032258064516
+shape-memory polymer,thermoplastic polyurethane,0.12643678160919541
+vinyl acetate,ethylene-vinyl acetate,0.28888888888888886
+cone calorimeter,thermogravimetric analysis,0.16666666666666666
+cone calorimeter,thermoplastic polyurethane,0.15873015873015872
+cone calorimeter,thermal stability,0.11904761904761904
+cone calorimeter,limiting oxygen index,0.11904761904761904
+thermoplastic composites,thermoplastic polyurethane,0.19230769230769232
+blowing agent,thermoplastic polyurethane,0.23529411764705882
+acrylonitrile butadiene styrene,polylactic acid,0.125
+acrylonitrile butadiene styrene,thermoplastic polyurethane,0.125
+gelatin,biocompatibility,0.125
+gelatin,miscibility,0.125
+gelatin,electrospinning,0.1875
+particle (ecology),thermoplastic polyurethane,0.125
+adipate,thermoplastic polyurethane,0.12121212121212122
+microfiber,electrospinning,0.17391304347826086
+dielectric loss,thermoplastic polyurethane,0.14814814814814814
+plasticizer,thermoplastic polyurethane,0.16666666666666666
+flexural modulus,thermoplastic polyurethane,0.2
+electrospinning,thermoplastic polyurethane,0.16265060240963855
+rheometry,thermoplastic polyurethane,0.21875
+exfoliation joint,thermal stability,0.13157894736842105
+exfoliation joint,thermoplastic polyurethane,0.2631578947368421
+wood flour,thermoplastic polyurethane,0.2
+wood flour,thermal stability,0.13333333333333333
+strain (injury),gauge factor,0.13559322033898305
+hexamethylene diisocyanate,thermal stability,0.13333333333333333
+compounding,thermoplastic polyurethane,0.23809523809523808
+polyolefin,thermoplastic elastomer,0.2
+compression molding,molding (decorative),0.1566265060240964
+compression molding,thermoplastic polyurethane,0.12048192771084337
+biocompatibility,electrospinning,0.15
+biocompatibility,thermoplastic polyurethane,0.15
+halloysite,thermoplastic polyurethane,0.32142857142857145
+morphology,thermoplastic polyurethane,0.13333333333333333
+gauge factor,piezoresistive effect,0.11956521739130435
+gauge factor,thermoplastic polyurethane,0.1956521739130435
+gauge factor,strain gauge,0.18478260869565216
+thermogravimetric analysis,thermoplastic polyurethane,0.1605351170568562
+thermogravimetric analysis,thermal stability,0.17725752508361203
+thermoplastic elastomer,thermoplastic polyurethane,0.21965317919075145
+thermogravimetry,thermal stability,0.16666666666666666
+intumescent,ammonium polyphosphate,0.12280701754385964
+intumescent,cone calorimeter,0.15789473684210525
+intumescent,thermogravimetric analysis,0.12280701754385964
+intumescent,limiting oxygen index,0.12280701754385964
+flexible electronics,stretchable electronics,0.16304347826086957
+tacticity,polypropylene,0.19047619047619047
+stretchable electronics,flexible electronics,0.15306122448979592
+printed electronics,flexible electronics,0.13846153846153847
+printed electronics,stretchable electronics,0.12307692307692308

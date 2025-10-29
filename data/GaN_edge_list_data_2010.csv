@@ -1,0 +1,419 @@
+from,to,weight
+opacity,crystal (programming language),0.07017543859649122
+band offset,wide-bandgap semiconductor,0.24
+band offset,band bending,0.072
+pyramid (geometry),crystal (programming language),0.08333333333333333
+pyramid (geometry),cathodoluminescence,0.08333333333333333
+incandescent light bulb,solid-state lighting,0.11764705882352941
+incandescent light bulb,led lamp,0.20588235294117646
+nanosphere lithography,wide-bandgap semiconductor,0.07751937984496124
+nanosphere lithography,nanopillar,0.08527131782945736
+nanosphere lithography,nanorod,0.08527131782945736
+metal–semiconductor junction,wide-bandgap semiconductor,0.1643835616438356
+metal–semiconductor junction,ohmic contact,0.1095890410958904
+metal–semiconductor junction,leakage (economics),0.0684931506849315
+metal–semiconductor junction,reverse leakage current,0.10273972602739725
+metal–semiconductor junction,thermionic emission,0.0958904109589041
+charge carrier,wide-bandgap semiconductor,0.08940397350993377
+charge carrier,electron mobility,0.0695364238410596
+coaxial,nanorod,0.07142857142857142
+coaxial,cathodoluminescence,0.125
+coaxial,wurtzite crystal structure,0.07142857142857142
+mesfet,wide-bandgap semiconductor,0.06818181818181818
+mesfet,cutoff frequency,0.06818181818181818
+surface photovoltage,wide-bandgap semiconductor,0.10144927536231885
+surface photovoltage,surface states,0.07246376811594203
+surface photovoltage,band bending,0.14492753623188406
+nanoporous,nanopore,0.06802721088435375
+nanoporous,wide-bandgap semiconductor,0.07482993197278912
+photoexcitation,charge carrier,0.10344827586206896
+photoexcitation,carrier lifetime,0.06896551724137931
+photoexcitation,wide-bandgap semiconductor,0.06896551724137931
+bowing,wide-bandgap semiconductor,0.22784810126582278
+bowing,wurtzite crystal structure,0.0759493670886076
+bowing,lattice (music),0.08860759493670886
+bowing,lattice constant,0.11392405063291139
+intensity,wide-bandgap semiconductor,0.06896551724137931
+indium gallium nitride,quantum efficiency,0.15847860538827258
+indium gallium nitride,wide-bandgap semiconductor,0.20443740095087162
+hamiltonian (control theory),wurtzite crystal structure,0.14018691588785046
+electron mobility,wide-bandgap semiconductor,0.2108843537414966
+power electronics,wide-bandgap semiconductor,0.125
+visible spectrum,ultraviolet,0.08038585209003216
+blue laser,laser diode,0.14285714285714285
+blue laser,wide-bandgap semiconductor,0.06666666666666667
+blue laser,continuous wave,0.09523809523809523
+continuous wave,slope efficiency,0.09278350515463918
+continuous wave,blue laser,0.10309278350515463
+continuous wave,laser diode,0.1134020618556701
+atom probe,wide-bandgap semiconductor,0.10204081632653061
+atom probe,characterization,0.12244897959183673
+optical power,wide-bandgap semiconductor,0.07339449541284404
+ultraviolet,wide-bandgap semiconductor,0.11426592797783934
+ultraviolet,quantum efficiency,0.07756232686980609
+open-circuit voltage,wide-bandgap semiconductor,0.08791208791208792
+open-circuit voltage,quantum efficiency,0.16483516483516483
+metastability,wurtzite crystal structure,0.08602150537634409
+time constant,wide-bandgap semiconductor,0.08333333333333333
+penning trap,electron mobility,0.07462686567164178
+penning trap,wide-bandgap semiconductor,0.13432835820895522
+penning trap,deep-level transient spectroscopy,0.1791044776119403
+penning trap,trap (plumbing),0.11940298507462686
+deep-level transient spectroscopy,wide-bandgap semiconductor,0.13071895424836602
+deep-level transient spectroscopy,penning trap,0.0784313725490196
+barrier layer,wide-bandgap semiconductor,0.18333333333333332
+barrier layer,electron mobility,0.06666666666666667
+impact ionization,wide-bandgap semiconductor,0.09803921568627451
+impact ionization,avalanche breakdown,0.09803921568627451
+impact ionization,leakage (economics),0.06862745098039216
+impact ionization,electron mobility,0.0784313725490196
+zigzag,magnetic semiconductor,0.07246376811594203
+response time,ultraviolet,0.12121212121212122
+template,nanorod,0.07926829268292683
+template,wide-bandgap semiconductor,0.12195121951219512
+nanopillar,wide-bandgap semiconductor,0.15254237288135594
+oscillation (cell signaling),cutoff frequency,0.100418410041841
+oscillation (cell signaling),transconductance,0.12133891213389121
+photoelectrochemistry,photoelectrochemical cell,0.17525773195876287
+photoelectrochemistry,photocurrent,0.1958762886597938
+indium tin oxide,wide-bandgap semiconductor,0.10097719869706841
+indium tin oxide,nanorod,0.06514657980456026
+indium tin oxide,ohmic contact,0.09771986970684039
+trimethylindium,indium nitride,0.08823529411764706
+magnetic semiconductor,magnetism,0.12162162162162163
+magnetic semiconductor,wurtzite crystal structure,0.10472972972972973
+spin coating,wurtzite crystal structure,0.14545454545454545
+phonon scattering,wide-bandgap semiconductor,0.12121212121212122
+phonon scattering,electron mobility,0.2
+q factor,wide-bandgap semiconductor,0.07692307692307693
+rutherford backscattering spectrometry,lattice constant,0.08695652173913043
+rutherford backscattering spectrometry,lattice (music),0.07246376811594203
+rutherford backscattering spectrometry,wurtzite crystal structure,0.08695652173913043
+cavity magnetron,deposition,0.22857142857142856
+surface diffusion,morphology,0.09259259259259259
+shallow donor,wide-bandgap semiconductor,0.1
+shallow donor,acceptor,0.25
+shallow donor,wurtzite crystal structure,0.06666666666666667
+photocurrent,photoconductivity,0.13509316770186336
+photocurrent,ultraviolet,0.09161490683229814
+carrier lifetime,wide-bandgap semiconductor,0.11612903225806452
+carrier lifetime,quantum efficiency,0.0935483870967742
+reverse bias,reverse leakage current,0.14084507042253522
+reverse bias,leakage (economics),0.1267605633802817
+reverse bias,biasing,0.14084507042253522
+aspect ratio (aeronautics),nanorod,0.13636363636363635
+microanalysis,cathodoluminescence,0.14705882352941177
+microanalysis,characterization,0.10294117647058823
+vertical-cavity surface-emitting laser,wide-bandgap semiconductor,0.07142857142857142
+vertical-cavity surface-emitting laser,laser diode,0.11428571428571428
+non-radiative recombination,wide-bandgap semiconductor,0.11627906976744186
+non-radiative recombination,carrier lifetime,0.18604651162790697
+non-radiative recombination,quantum efficiency,0.23255813953488372
+non-blocking i/o,wide-bandgap semiconductor,0.08602150537634409
+non-blocking i/o,nanorod,0.0967741935483871
+microelectronics,wide-bandgap semiconductor,0.06504065040650407
+solid-state lighting,led lamp,0.11160714285714286
+solid-state lighting,quantum efficiency,0.06696428571428571
+ellipsometry,wide-bandgap semiconductor,0.08256880733944955
+ellipsometry,wurtzite crystal structure,0.11009174311926606
+nanogenerator,wide-bandgap semiconductor,0.12643678160919541
+nanogenerator,wurtzite crystal structure,0.06896551724137931
+rutile,titanium dioxide,0.11320754716981132
+rutile,nanorod,0.09433962264150944
+chemical bath deposition,nanorod,0.1276595744680851
+chemical bath deposition,deposition,0.1276595744680851
+chemical bath deposition,ultraviolet,0.0851063829787234
+pulsed laser deposition,deposition,0.20982142857142858
+pulsed laser deposition,wide-bandgap semiconductor,0.08482142857142858
+pulsed laser deposition,wurtzite crystal structure,0.07142857142857142
+lattice (music),lattice constant,0.1359026369168357
+rectangular potential barrier,wide-bandgap semiconductor,0.0958904109589041
+rectangular potential barrier,thermionic emission,0.0958904109589041
+rectangular potential barrier,quantum efficiency,0.0684931506849315
+rectangular potential barrier,barrier layer,0.1780821917808219
+trimethylgallium,deposition,0.14285714285714285
+trimethylgallium,wide-bandgap semiconductor,0.08571428571428572
+amplified spontaneous emission,wide-bandgap semiconductor,0.07142857142857142
+luminous flux,led lamp,0.0661764705882353
+luminous flux,luminous efficacy,0.19852941176470587
+luminous flux,color temperature,0.11029411764705882
+luminous flux,color rendering index,0.0661764705882353
+green-light,quantum efficiency,0.14285714285714285
+green-light,wide-bandgap semiconductor,0.1357142857142857
+cladding (metalworking),ultraviolet,0.08461538461538462
+cladding (metalworking),quantum efficiency,0.06923076923076923
+cladding (metalworking),indium gallium nitride,0.07692307692307693
+cladding (metalworking),wide-bandgap semiconductor,0.09230769230769231
+photodetection,ultraviolet,0.1891891891891892
+photodetection,wide-bandgap semiconductor,0.06756756756756757
+photodetection,photocurrent,0.13513513513513514
+photodetection,photoconductivity,0.13513513513513514
+misorientation,wide-bandgap semiconductor,0.07894736842105263
+misorientation,hillock,0.07894736842105263
+atomic units,atom probe,0.08333333333333333
+tunnel junction,wide-bandgap semiconductor,0.16666666666666666
+tunnel junction,quantum efficiency,0.06666666666666667
+active layer,wide-bandgap semiconductor,0.13218390804597702
+active layer,ultraviolet,0.10919540229885058
+active layer,quantum efficiency,0.14942528735632185
+color temperature,luminous efficacy,0.10300429184549356
+color temperature,color rendering index,0.19313304721030042
+color temperature,chromaticity,0.07725321888412018
+atmospheric temperature range,wide-bandgap semiconductor,0.09071274298056156
+localized surface plasmon,nanorod,0.13402061855670103
+aluminium nitride,wide-bandgap semiconductor,0.1276595744680851
+aluminium nitride,deposition,0.0851063829787234
+band diagram,wide-bandgap semiconductor,0.22549019607843138
+band diagram,quantum efficiency,0.08823529411764706
+hydrostatic pressure,wurtzite crystal structure,0.18548387096774194
+ultraviolet light,ultraviolet,0.3956043956043956
+ultraviolet light,wide-bandgap semiconductor,0.06593406593406594
+laser linewidth,wide-bandgap semiconductor,0.0918918918918919
+coalescence (physics),wide-bandgap semiconductor,0.0755813953488372
+coalescence (physics),cathodoluminescence,0.08139534883720931
+sublimation,electron mobility,0.075
+stacking fault,crystal (programming language),0.08064516129032258
+stacking fault,wide-bandgap semiconductor,0.16129032258064516
+stacking fault,cathodoluminescence,0.12903225806451613
+depletion region,photocurrent,0.06818181818181818
+texture (cosmology),crystal (programming language),0.06557377049180328
+strain (injury),wide-bandgap semiconductor,0.11607142857142858
+nanodot,nanorod,0.07575757575757576
+slope efficiency,laser diode,0.13861386138613863
+slope efficiency,continuous wave,0.0891089108910891
+slope efficiency,crystal (programming language),0.07920792079207921
+mole fraction,wide-bandgap semiconductor,0.07216494845360824
+mole fraction,crystal (programming language),0.07216494845360824
+biasing,wide-bandgap semiconductor,0.08042895442359249
+transconductance,wide-bandgap semiconductor,0.09
+transconductance,cutoff frequency,0.09
+transconductance,electron mobility,0.118
+transconductance,passivation,0.072
+auger effect,wide-bandgap semiconductor,0.11637931034482758
+auger effect,indium gallium nitride,0.08189655172413793
+auger effect,carrier lifetime,0.07758620689655173
+auger effect,quantum efficiency,0.21551724137931033
+high-κ dielectric,leakage (economics),0.125
+high-κ dielectric,passivation,0.10714285714285714
+transient (computer programming),wide-bandgap semiconductor,0.0851063829787234
+equivalent series resistance,wide-bandgap semiconductor,0.0761904761904762
+equivalent series resistance,contact resistance,0.06666666666666667
+degradation,electron mobility,0.07232704402515723
+degradation,wide-bandgap semiconductor,0.13836477987421383
+torr,ultraviolet,0.0784313725490196
+torr,plasma etching,0.11764705882352941
+charge density,wide-bandgap semiconductor,0.13829787234042554
+photon energy,wide-bandgap semiconductor,0.07526881720430108
+nanosheet,ultraviolet,0.08
+nanosheet,nanorod,0.08
+nanosheet,template,0.08
+color rendering index,color temperature,0.22058823529411764
+color rendering index,luminous efficacy,0.12254901960784313
+luminous efficacy,color temperature,0.11764705882352941
+luminous efficacy,color rendering index,0.12254901960784313
+luminous efficacy,luminous flux,0.1323529411764706
+strain engineering,strain (injury),0.1794871794871795
+strain engineering,wide-bandgap semiconductor,0.07692307692307693
+hexagonal phase,wurtzite crystal structure,0.22
+trap (plumbing),penning trap,0.06611570247933884
+trap (plumbing),wide-bandgap semiconductor,0.12396694214876033
+trap (plumbing),transient (computer programming),0.09090909090909091
+nanoimprint lithography,nanorod,0.12359550561797752
+nanoimprint lithography,dry etching,0.11235955056179775
+leakage (economics),wide-bandgap semiconductor,0.1372854914196568
+leakage (economics),reverse leakage current,0.0904836193447738
+leakage (economics),quantum efficiency,0.0686427457098284
+basal plane,stacking fault,0.1111111111111111
+plasma etching,dry etching,0.1958041958041958
+high voltage,wide-bandgap semiconductor,0.1326530612244898
+high voltage,power electronics,0.07142857142857142
+tin oxide,nanorod,0.09523809523809523
+tin oxide,indium tin oxide,0.14285714285714285
+erbium,waveguide,0.1111111111111111
+erbium,wide-bandgap semiconductor,0.1111111111111111
+faceting,wurtzite crystal structure,0.1
+faceting,wide-bandgap semiconductor,0.06666666666666667
+faceting,facet (psychology),0.1
+faceting,nanorod,0.06666666666666667
+nanomaterials,nanorod,0.08530805687203792
+magnetism,magnetic semiconductor,0.2553191489361702
+quantum-confined stark effect,indium gallium nitride,0.08383233532934131
+quantum-confined stark effect,quantum efficiency,0.11377245508982035
+quantum-confined stark effect,wide-bandgap semiconductor,0.17664670658682635
+quantum-confined stark effect,blueshift,0.08682634730538923
+saturation current,saturation (graph theory),0.16826923076923078
+saturation current,transconductance,0.11538461538461539
+blocking (statistics),quantum efficiency,0.1391304347826087
+blocking (statistics),wide-bandgap semiconductor,0.20869565217391303
+p–n junction,wide-bandgap semiconductor,0.1951219512195122
+cathodoluminescence,wide-bandgap semiconductor,0.1454248366013072
+lattice constant,lattice (music),0.17539267015706805
+lattice constant,wurtzite crystal structure,0.08376963350785341
+charge-carrier density,wide-bandgap semiconductor,0.09195402298850575
+charge-carrier density,electron mobility,0.12643678160919541
+charge-carrier density,carrier lifetime,0.11494252873563218
+photocathode,quantum efficiency,0.25
+photocathode,photocurrent,0.1111111111111111
+facet (psychology),wide-bandgap semiconductor,0.08695652173913043
+facet (psychology),crystal (programming language),0.06521739130434782
+threading (protein sequence),leakage (economics),0.11627906976744186
+threading (protein sequence),wide-bandgap semiconductor,0.13953488372093023
+reverse leakage current,wide-bandgap semiconductor,0.14691943127962084
+reverse leakage current,leakage (economics),0.27488151658767773
+reverse leakage current,metal–semiconductor junction,0.07109004739336493
+isotropic etching,dry etching,0.1286549707602339
+isotropic etching,chemical mechanical planarization,0.07602339181286549
+orthorhombic crystal system,wurtzite crystal structure,0.0759493670886076
+cutoff frequency,oscillation (cell signaling),0.12631578947368421
+cutoff frequency,transconductance,0.23684210526315788
+deposition,pulsed laser deposition,0.0734375
+poisson's equation,charge density,0.078125
+poisson's equation,wide-bandgap semiconductor,0.21875
+poisson's equation,barrier layer,0.078125
+thermal stability,wide-bandgap semiconductor,0.06584362139917696
+photoresist,dry etching,0.08333333333333333
+stress relaxation,lattice (music),0.06504065040650407
+stress relaxation,strain (injury),0.17073170731707318
+stress relaxation,wide-bandgap semiconductor,0.12195121951219512
+stress relaxation,cathodoluminescence,0.06504065040650407
+light intensity,intensity,0.0975609756097561
+polarity (international relations),wide-bandgap semiconductor,0.15384615384615385
+passivation,wide-bandgap semiconductor,0.10843373493975904
+chromaticity,color temperature,0.16363636363636364
+chromaticity,color rendering index,0.09090909090909091
+quantum yield,quantum efficiency,0.08536585365853659
+ohmic contact,contact resistance,0.18397997496871088
+ohmic contact,wide-bandgap semiconductor,0.11514392991239049
+electron beam processing,electron mobility,0.125
+electron beam processing,leakage (economics),0.08333333333333333
+electron beam processing,cathodoluminescence,0.08333333333333333
+dangling bond,passivation,0.16883116883116883
+dangling bond,wurtzite crystal structure,0.14285714285714285
+chemical mechanical planarization,isotropic etching,0.12037037037037036
+chemical mechanical planarization,crystal (programming language),0.09259259259259259
+porous silicon,surface modification,0.06976744186046512
+gallium phosphide,indium phosphide,0.125
+gallium phosphide,wide-bandgap semiconductor,0.075
+saturation velocity,electron mobility,0.15384615384615385
+saturation velocity,wide-bandgap semiconductor,0.11538461538461539
+saturation velocity,saturation (graph theory),0.08974358974358974
+photoelectric effect,photoconductivity,0.06896551724137931
+photoelectric effect,ultraviolet,0.07758620689655173
+photoelectric effect,photocurrent,0.10344827586206896
+stokes shift,blueshift,0.08333333333333333
+density of states,surface states,0.09174311926605505
+density of states,wurtzite crystal structure,0.11009174311926606
+band bending,wide-bandgap semiconductor,0.17560975609756097
+vapor phase,wide-bandgap semiconductor,0.07920792079207921
+pseudopotential,wurtzite crystal structure,0.12612612612612611
+thermionic emission,wide-bandgap semiconductor,0.09900990099009901
+thermionic emission,metal–semiconductor junction,0.06930693069306931
+thermionic emission,schottky effect,0.0891089108910891
+absorption edge,wide-bandgap semiconductor,0.07179487179487179
+absorption edge,wurtzite crystal structure,0.10256410256410256
+electrospinning,nanomaterials,0.1111111111111111
+wetting layer,indium gallium nitride,0.08823529411764706
+led lamp,solid-state lighting,0.11210762331838565
+led lamp,incandescent light bulb,0.09417040358744394
+oscillator strength,biexciton,0.1111111111111111
+oscillator strength,quantum-confined stark effect,0.07936507936507936
+oscillator strength,wurtzite crystal structure,0.1111111111111111
+surface states,passivation,0.08280254777070063
+surface states,wide-bandgap semiconductor,0.14012738853503184
+resistive touchscreen,ohmic contact,0.06557377049180328
+resistive touchscreen,wide-bandgap semiconductor,0.08196721311475409
+electrical contacts,wide-bandgap semiconductor,0.07575757575757576
+electrical contacts,contact resistance,0.25757575757575757
+electrical contacts,ohmic contact,0.22727272727272727
+rod,nanorod,0.24096385542168675
+hysteresis,wide-bandgap semiconductor,0.13725490196078433
+monoclinic crystal system,nanorod,0.07272727272727272
+extremely high frequency,cutoff frequency,0.06716417910447761
+extremely high frequency,transconductance,0.07462686567164178
+purcell effect,indium gallium nitride,0.09090909090909091
+purcell effect,wide-bandgap semiconductor,0.09090909090909091
+purcell effect,quantum efficiency,0.15151515151515152
+quantum efficiency,indium gallium nitride,0.06510416666666667
+quantum efficiency,ultraviolet,0.07291666666666667
+quantum efficiency,wide-bandgap semiconductor,0.17447916666666666
+vapor–liquid–solid method,deposition,0.08536585365853659
+vapor–liquid–solid method,wurtzite crystal structure,0.12195121951219512
+nanopore,nanoporous,0.2222222222222222
+nanopore,deposition,0.06666666666666667
+nanopore,nanorod,0.08888888888888889
+indium phosphide,gallium phosphide,0.10869565217391304
+photodiode,ultraviolet,0.14878892733564014
+photodiode,quantum efficiency,0.06920415224913495
+tetragonal crystal system,wurtzite crystal structure,0.08045977011494253
+characterization,wide-bandgap semiconductor,0.08346972176759411
+avalanche breakdown,impact ionization,0.10526315789473684
+avalanche breakdown,wide-bandgap semiconductor,0.09473684210526316
+avalanche breakdown,photodiode,0.08421052631578947
+current crowding,wide-bandgap semiconductor,0.1111111111111111
+current crowding,quantum efficiency,0.1111111111111111
+current crowding,blocking (statistics),0.08333333333333333
+indium nitride,indium gallium nitride,0.13191489361702127
+indium nitride,wide-bandgap semiconductor,0.14893617021276595
+indium nitride,wurtzite crystal structure,0.14468085106382977
+subthreshold conduction,leakage (economics),0.10476190476190476
+etch pit density,crystal (programming language),0.12244897959183673
+etch pit density,cathodoluminescence,0.08163265306122448
+etch pit density,dry etching,0.08163265306122448
+power density,wide-bandgap semiconductor,0.12138728323699421
+saturation (graph theory),wide-bandgap semiconductor,0.0684931506849315
+saturation (graph theory),saturation current,0.11986301369863013
+blueshift,wide-bandgap semiconductor,0.1310344827586207
+blueshift,quantum-confined stark effect,0.1
+blueshift,quantum efficiency,0.07586206896551724
+photoelectrochemical cell,wide-bandgap semiconductor,0.06666666666666667
+photoelectrochemical cell,photoelectrochemistry,0.22666666666666666
+photoelectrochemical cell,photocurrent,0.2
+flicker noise,transconductance,0.06666666666666667
+nanocrystalline material,wurtzite crystal structure,0.07784431137724551
+light emission,wide-bandgap semiconductor,0.16666666666666666
+homojunction,ultraviolet,0.11940298507462686
+homojunction,nanorod,0.1044776119402985
+homojunction,open-circuit voltage,0.07462686567164178
+homojunction,wide-bandgap semiconductor,0.08955223880597014
+auger electron spectroscopy,auger effect,0.07142857142857142
+auger electron spectroscopy,ohmic contact,0.11904761904761904
+biexciton,wide-bandgap semiconductor,0.07547169811320754
+biexciton,oscillator strength,0.0660377358490566
+biexciton,wurtzite crystal structure,0.12264150943396226
+contact resistance,wide-bandgap semiconductor,0.09433962264150944
+contact resistance,ohmic contact,0.3466981132075472
+double heterostructure,wide-bandgap semiconductor,0.2
+double heterostructure,ultraviolet,0.06666666666666667
+double heterostructure,quantum efficiency,0.16666666666666666
+double heterostructure,active layer,0.06666666666666667
+electron holography,wide-bandgap semiconductor,0.1891891891891892
+electron holography,characterization,0.08108108108108109
+electron holography,wurtzite crystal structure,0.08108108108108109
+photoconductivity,ultraviolet,0.10864745011086474
+photoconductivity,photocurrent,0.19290465631929046
+diffractometer,ultraviolet,0.06666666666666667
+diffractometer,characterization,0.06666666666666667
+diffractometer,crystal (programming language),0.06666666666666667
+diffractometer,wurtzite crystal structure,0.06666666666666667
+emission intensity,wide-bandgap semiconductor,0.11940298507462686
+emission intensity,intensity,0.06716417910447761
+nanorod,wide-bandgap semiconductor,0.08898305084745763
+titanium dioxide,rutile,0.1276595744680851
+acceptor,wide-bandgap semiconductor,0.11173184357541899
+microscale chemistry,wide-bandgap semiconductor,0.08
+photoluminescence excitation,wide-bandgap semiconductor,0.12222222222222222
+photoluminescence excitation,ultraviolet,0.06666666666666667
+buffer (optical fiber),wide-bandgap semiconductor,0.13488372093023257
+buffer (optical fiber),leakage (economics),0.06511627906976744
+temperature coefficient,wide-bandgap semiconductor,0.08196721311475409
+temperature coefficient,atmospheric temperature range,0.19672131147540983
+dry etching,wide-bandgap semiconductor,0.07339449541284404
+dry etching,plasma etching,0.12844036697247707
+dry etching,isotropic etching,0.10091743119266056
+wurtzite crystal structure,wide-bandgap semiconductor,0.10641399416909621
+schottky effect,metal–semiconductor junction,0.12280701754385964
+schottky effect,atmospheric temperature range,0.12280701754385964
+schottky effect,thermionic emission,0.3157894736842105
+hillock,misorientation,0.06976744186046512
+hillock,cathodoluminescence,0.18604651162790697
+hillock,wide-bandgap semiconductor,0.06976744186046512

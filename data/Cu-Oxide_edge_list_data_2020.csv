@@ -1,0 +1,461 @@
+from,to,weight
+cementitious,slag (welding),0.07291666666666667
+biopolymer,biocompatibility,0.08270676691729323
+polylactic acid,biopolymer,0.08333333333333333
+tungstate,bismuth,0.0967741935483871
+tungstate,visible spectrum,0.0967741935483871
+malachite green,degradation,0.08943089430894309
+malachite green,malachite,0.10569105691056911
+furfuryl alcohol,hydrogenolysis,0.06666666666666667
+furfuryl alcohol,bimetallic strip,0.06666666666666667
+cancer therapy,nanomaterials,0.09923664122137404
+cancer therapy,biocompatibility,0.09923664122137404
+cancer therapy,nanocarriers,0.08396946564885496
+bacterial cellulose,biopolymer,0.1
+bacterial cellulose,biocompatibility,0.08333333333333333
+bacterial cellulose,nanocellulose,0.16666666666666666
+photocurrent,photocathode,0.09761388286334056
+orthorhombic crystal system,monoclinic crystal system,0.07017543859649122
+orthorhombic crystal system,tetragonal crystal system,0.17543859649122806
+methyl orange,visible spectrum,0.07643312101910828
+methyl orange,degradation,0.1337579617834395
+methyl orange,photodegradation,0.07006369426751592
+zsm-5,selective catalytic reduction,0.15
+copper sulfide,copper oxide,0.11650485436893204
+photocatalytic water splitting,degradation,0.08
+photocatalytic water splitting,graphitic carbon nitride,0.08
+photocatalytic water splitting,visible spectrum,0.12
+photocatalytic water splitting,photocurrent,0.08
+photocatalytic water splitting,carbon nitride,0.08
+photocatalytic water splitting,carbon fibers,0.08
+overlayer,photocurrent,0.06666666666666667
+overlayer,photocathode,0.08888888888888889
+overlayer,overpotential,0.06666666666666667
+overlayer,oxygen evolution,0.06666666666666667
+human decontamination,environmentally friendly,0.10416666666666667
+human decontamination,groundwater remediation,0.08333333333333333
+cellulose acetate,phase inversion,0.09090909090909091
+cellulose acetate,bacterial cellulose,0.09090909090909091
+cellulose acetate,copper oxide,0.09090909090909091
+cellulose acetate,thermogravimetric analysis,0.09090909090909091
+cadmium oxide,absorbance,0.09090909090909091
+cadmium oxide,copper oxide,0.18181818181818182
+phase inversion,ultrafiltration (renal),0.09259259259259259
+phase inversion,biofouling,0.1111111111111111
+phase inversion,polyvinylidene fluoride,0.09259259259259259
+hybrid material,nanomaterials,0.09090909090909091
+nanosheet,oxygen evolution,0.07246376811594203
+methylene blue,degradation,0.14720812182741116
+methylene blue,visible spectrum,0.08798646362098139
+methylene blue,photodegradation,0.077834179357022
+energetic material,ammonium perchlorate,0.10526315789473684
+energetic material,thermite,0.10526315789473684
+photoelectrochemical cell,photoelectrochemistry,0.11940298507462686
+photoelectrochemical cell,reversible hydrogen electrode,0.08208955223880597
+photoelectrochemical cell,photocathode,0.15671641791044777
+photoelectrochemical cell,photocurrent,0.17164179104477612
+inert,inert gas,0.24242424242424243
+thermal desorption spectroscopy,selective catalytic reduction,0.07407407407407407
+thermal desorption spectroscopy,space velocity,0.07407407407407407
+thermal desorption spectroscopy,temperature-programmed reduction,0.07407407407407407
+nanosensor,nanomaterials,0.16216216216216217
+cuprite,copper oxide,0.09876543209876543
+cuprite,malachite,0.08641975308641975
+specific surface area,bet theory,0.09012875536480687
+congo red,degradation,0.09375
+congo red,methylene blue,0.09375
+ultraviolet visible spectroscopy,energy-dispersive x-ray spectroscopy,0.14285714285714285
+chronoamperometry,amperometry,0.07142857142857142
+chronoamperometry,linear sweep voltammetry,0.14285714285714285
+chronoamperometry,electrochemical gas sensor,0.07142857142857142
+chronoamperometry,oxygen evolution,0.07142857142857142
+molar absorptivity,absorbance,0.07894736842105263
+kirkendall effect,nanorod,0.11538461538461539
+kirkendall effect,nanomaterials,0.07692307692307693
+kirkendall effect,bimetal,0.07692307692307693
+kirkendall effect,carbon fibers,0.07692307692307693
+hydroquinone,differential pulse voltammetry,0.08
+hydroquinone,electrochemical gas sensor,0.12
+hydroquinone,glassy carbon,0.08
+hydroquinone,deposition,0.08
+electrolysis of water,oxygen evolution,0.29245283018867924
+electrolysis of water,overpotential,0.14150943396226415
+aspergillus niger,nanomaterials,0.0851063829787234
+aspergillus niger,silver nanoparticle,0.0851063829787234
+environmental pollution,environmentally friendly,0.06666666666666667
+vinyl alcohol,polyvinyl alcohol,0.14285714285714285
+vinyl alcohol,thermogravimetric analysis,0.08571428571428572
+electrosynthesis,ammonia production,0.16666666666666666
+electrosynthesis,oxygen evolution,0.07407407407407407
+microscale chemistry,nanomaterials,0.09230769230769231
+polyacrylonitrile,electrospinning,0.2647058823529412
+diffuse reflection,copper oxide,0.09090909090909091
+diffuse reflection,visible spectrum,0.13636363636363635
+diffuse reflection,nanorod,0.09090909090909091
+diffuse reflection,methylene blue,0.09090909090909091
+ammonia borane,nanomaterial-based catalyst,0.07692307692307693
+ammonia borane,ammonia production,0.07692307692307693
+nanochemistry,copper oxide,0.07894736842105263
+nanochemistry,nanomaterials,0.10526315789473684
+nanometre,nanomaterials,0.1095890410958904
+sodium nitrate,thermal stability,0.10526315789473684
+catharanthus roseus,degradation,0.07142857142857142
+catharanthus roseus,methyl orange,0.07142857142857142
+catharanthus roseus,biocompatibility,0.07142857142857142
+catharanthus roseus,silver nanoparticle,0.07142857142857142
+catharanthus roseus,biomolecule,0.07142857142857142
+catharanthus roseus,nanomaterials,0.07142857142857142
+catharanthus roseus,copper oxide,0.21428571428571427
+catharanthus roseus,zeta potential,0.07142857142857142
+catharanthus roseus,energy-dispersive x-ray spectroscopy,0.07142857142857142
+catharanthus roseus,mtt assay,0.07142857142857142
+catharanthus roseus,viability assay,0.07142857142857142
+overpotential,oxygen evolution,0.2152777777777778
+imidazolate,zeolitic imidazolate framework,0.2894736842105263
+partial pressure,copper oxide,0.08333333333333333
+partial pressure,slag (welding),0.1111111111111111
+differential pulse voltammetry,electrochemical gas sensor,0.291044776119403
+agar diffusion test,phytochemical,0.07407407407407407
+agar diffusion test,silver nanoparticle,0.09259259259259259
+tap water,electrochemical gas sensor,0.125
+carbon dioxide reforming,water-gas shift reaction,0.0851063829787234
+nanocarriers,cancer therapy,0.0990990990990991
+nanocarriers,biocompatibility,0.07207207207207207
+titanium oxide,copper oxide,0.11666666666666667
+titanium oxide,titanium dioxide,0.13333333333333333
+reusability,degradation,0.12987012987012986
+sodium hydroxide,copper oxide,0.07692307692307693
+nitrophenol,selective catalytic reduction,0.14516129032258066
+nitrophenol,4-nitrophenol,0.3064516129032258
+surface modification,nanomaterials,0.08009153318077804
+hexavalent chromium,langmuir adsorption model,0.12903225806451613
+ammonia production,selective catalytic reduction,0.10576923076923077
+ammonia production,reversible hydrogen electrode,0.0673076923076923
+ammonia production,electrosynthesis,0.08653846153846154
+hydrometallurgy,pyrometallurgy,0.07526881720430108
+abts,silver nanoparticle,0.10526315789473684
+abts,zeta potential,0.10526315789473684
+heteroatom,carbon fibers,0.09523809523809523
+heteroatom,oxygen evolution,0.07142857142857142
+cavity magnetron,deposition,0.16216216216216217
+methanation,carbon fibers,0.07407407407407407
+delafossite,copper oxide,0.08695652173913043
+silver nitrate,silver nanoparticle,0.2857142857142857
+inert gas,inert,0.17391304347826086
+ultraviolet,visible spectrum,0.0915032679738562
+halloysite,characterization,0.08
+halloysite,thermogravimetry,0.08
+halloysite,space velocity,0.08
+nickel oxide,non-blocking i/o,0.3008130081300813
+nickel oxide,copper oxide,0.08130081300813008
+glucose oxidase,nanomaterials,0.15517241379310345
+phosphide,electrolysis of water,0.06666666666666667
+phosphide,bimetallic strip,0.06666666666666667
+phosphide,overpotential,0.1
+phosphide,oxygen evolution,0.06666666666666667
+electrophoretic deposition,deposition,0.23529411764705882
+viability assay,mtt assay,0.1717171717171717
+crystal violet,methylene blue,0.14634146341463414
+crystal violet,silver nanoparticle,0.07317073170731707
+thermal stability,thermogravimetric analysis,0.10459183673469388
+hydrotalcite,layered double hydroxides,0.09803921568627451
+ammonium perchlorate,thermogravimetric analysis,0.10294117647058823
+ammonium perchlorate,energetic material,0.08823529411764706
+spray pyrolysis,copper oxide,0.1111111111111111
+spray pyrolysis,deposition,0.1111111111111111
+scherrer equation,monoclinic crystal system,0.1724137931034483
+scherrer equation,lattice constant,0.06896551724137931
+scherrer equation,rietveld refinement,0.06896551724137931
+scherrer equation,copper oxide,0.1724137931034483
+scherrer equation,powder diffraction,0.06896551724137931
+scherrer equation,nanorod,0.06896551724137931
+cationic polymerization,degradation,0.13114754098360656
+cationic polymerization,photodegradation,0.08196721311475409
+sodium borohydride,reducing agent,0.10416666666666667
+sodium borohydride,copper oxide,0.08333333333333333
+layered double hydroxides,coprecipitation,0.06976744186046512
+endothermic process,langmuir adsorption model,0.14423076923076922
+endothermic process,exothermic reaction,0.125
+reaction rate,chemical-looping combustion,0.07142857142857142
+light intensity,photoelectrochemistry,0.07692307692307693
+light intensity,charge carrier,0.07692307692307693
+light intensity,photocurrent,0.07692307692307693
+light intensity,visible spectrum,0.07692307692307693
+indigo carmine,absorbance,0.06666666666666667
+indigo carmine,degradation,0.06666666666666667
+indigo carmine,visible spectrum,0.06666666666666667
+indigo carmine,photodegradation,0.13333333333333333
+indigo carmine,rhodamine b,0.06666666666666667
+electrochemical energy conversion,oxygen evolution,0.1206896551724138
+electrochemical energy conversion,energy transformation,0.1724137931034483
+electrochemical energy conversion,nanomaterials,0.06896551724137931
+iron oxide nanoparticles,nanomaterials,0.14583333333333334
+iron oxide nanoparticles,biocompatibility,0.10416666666666667
+plating (geology),overpotential,0.06756756756756757
+oxalic acid,degradation,0.07142857142857142
+hydrogenolysis,bimetallic strip,0.07692307692307693
+zeolitic imidazolate framework,imidazolate,0.34375
+nanocellulose,bacterial cellulose,0.14705882352941177
+polypyrrole,nanomaterials,0.06896551724137931
+cerium oxide,copper oxide,0.0989010989010989
+brilliant green,methylene blue,0.09302325581395349
+brilliant green,degradation,0.09302325581395349
+brilliant green,malachite green,0.06976744186046512
+rhodamine b,degradation,0.13513513513513514
+rhodamine b,photodegradation,0.07335907335907337
+hydrodeoxygenation,bimetallic strip,0.08064516129032258
+facet (psychology),crystal (programming language),0.2391304347826087
+hydroxyl radical,degradation,0.24615384615384617
+sunlight,degradation,0.125
+characterization,nanomaterials,0.07262569832402235
+sodium dodecyl sulfate,zeta potential,0.13043478260869565
+open-circuit voltage,perovskite solar cell,0.07446808510638298
+tetragonal crystal system,orthorhombic crystal system,0.11235955056179775
+tetragonal crystal system,monoclinic crystal system,0.06741573033707865
+visible spectrum,photodegradation,0.08404558404558404
+visible spectrum,methylene blue,0.07407407407407407
+visible spectrum,degradation,0.12108262108262108
+groundwater remediation,biopolymer,0.08333333333333333
+groundwater remediation,human decontamination,0.16666666666666666
+groundwater remediation,environmentally friendly,0.08333333333333333
+groundwater remediation,nanomaterials,0.125
+groundwater remediation,degradation,0.08333333333333333
+benzyl alcohol,benzaldehyde,0.13513513513513514
+benzyl alcohol,catalytic oxidation,0.08108108108108109
+benzyl alcohol,alcohol oxidation,0.16216216216216217
+molybdenum disulfide,nanomaterials,0.10638297872340426
+rhodamine 6g,rhodamine b,0.15625
+rhodamine 6g,nanomaterials,0.125
+wurtzite crystal structure,photodegradation,0.08421052631578947
+tin dioxide,tin oxide,0.25
+central composite design,langmuir adsorption model,0.09302325581395349
+central composite design,malachite green,0.06976744186046512
+malachite,malachite green,0.11403508771929824
+biomolecule,nanomaterials,0.16030534351145037
+biomolecule,biocompatibility,0.07633587786259542
+biomolecule,surface modification,0.06870229007633588
+graphitic carbon nitride,carbon nitride,0.20245398773006135
+graphitic carbon nitride,carbon fibers,0.12269938650306748
+graphitic carbon nitride,degradation,0.07975460122699386
+morphology,copper oxide,0.075
+nanotoxicology,nanomaterials,0.152
+rhodamine,rhodamine b,0.32608695652173914
+rhodamine,degradation,0.08695652173913043
+powder diffraction,monoclinic crystal system,0.11304347826086956
+bet theory,specific surface area,0.1794871794871795
+molybdenum trioxide,visible spectrum,0.07142857142857142
+thermal treatment,bimetallic strip,0.07692307692307693
+degradation,visible spectrum,0.08079847908745247
+degradation,photodegradation,0.07034220532319392
+degradation,methylene blue,0.08269961977186312
+repeatability,electrochemical gas sensor,0.12727272727272726
+working fluid,heat transfer enhancement,0.14450867052023122
+gravimetric analysis,chemical-looping combustion,0.10810810810810811
+gravimetric analysis,thermal stability,0.08108108108108109
+pyrometallurgy,slag (welding),0.23728813559322035
+oxidation state,x-ray absorption spectroscopy,0.0859375
+oxidation state,copper oxide,0.0703125
+hydrazine (antidepressant),copper oxide,0.08823529411764706
+hydrazine (antidepressant),electrochemical gas sensor,0.08823529411764706
+acceptor,open-circuit voltage,0.06976744186046512
+indium tin oxide,tin oxide,0.13924050632911392
+indium tin oxide,copper oxide,0.0759493670886076
+thermal oxidation,copper oxide,0.18867924528301888
+selected area diffraction,copper oxide,0.10416666666666667
+bimetal,bimetallic strip,0.14864864864864866
+phase-change material,heat transfer enhancement,0.09174311926605505
+persulfate,degradation,0.2682926829268293
+physical vapor deposition,deposition,0.28125
+physical vapor deposition,pulsed laser deposition,0.09375
+prussian blue,bimetallic strip,0.08333333333333333
+prussian blue,surface modification,0.08333333333333333
+biocompatibility,nanomaterials,0.08791208791208792
+spectrophotometry,absorbance,0.14285714285714285
+spectrophotometry,silver nanoparticle,0.09523809523809523
+monolith,degradation,0.07407407407407407
+monolith,prox,0.07407407407407407
+monolith,catalytic combustion,0.07407407407407407
+monolith,carbon fibers,0.07407407407407407
+mtt assay,viability assay,0.14782608695652175
+ultrafiltration (renal),phase inversion,0.08620689655172414
+ultrafiltration (renal),biofouling,0.13793103448275862
+polyvinylidene fluoride,phase inversion,0.11363636363636363
+polyvinylidene fluoride,electrospinning,0.06818181818181818
+polyvinylidene fluoride,thermogravimetric analysis,0.06818181818181818
+dispersity,zeta potential,0.07272727272727272
+dispersity,silver nanoparticle,0.09090909090909091
+band bending,chemical bath deposition,0.06896551724137931
+band bending,photocurrent,0.20689655172413793
+band bending,charge carrier,0.06896551724137931
+band bending,nanorod,0.06896551724137931
+band bending,photocathode,0.06896551724137931
+chemical bath deposition,deposition,0.07692307692307693
+chemical bath deposition,copper oxide,0.10256410256410256
+electron mobility,charge carrier,0.07017543859649122
+electron mobility,perovskite solar cell,0.08771929824561403
+photoelectric effect,visible spectrum,0.06779661016949153
+photoelectric effect,photocurrent,0.0847457627118644
+photoelectric effect,nanorod,0.06779661016949153
+perovskite solar cell,non-blocking i/o,0.08108108108108109
+perovskite solar cell,tandem,0.09009009009009009
+thermogravimetric analysis,thermal stability,0.07854406130268199
+superhydrophilicity,portable water purification,0.06779661016949153
+superhydrophilicity,biofouling,0.0847457627118644
+oxygen evolution,electrolysis of water,0.09872611464968153
+oxygen evolution,overpotential,0.19745222929936307
+carbon nitride,carbon fibers,0.17777777777777778
+carbon nitride,graphitic carbon nitride,0.24444444444444444
+non-blocking i/o,nickel oxide,0.07974137931034483
+rutile,titanium dioxide,0.10112359550561797
+rutile,nanomaterials,0.06741573033707865
+superparamagnetism,methyl orange,0.06896551724137931
+superparamagnetism,nanomaterials,0.08620689655172414
+tannic acid,copper oxide,0.07692307692307693
+tannic acid,silver nanoparticle,0.07692307692307693
+tannic acid,noble metal,0.07692307692307693
+tannic acid,morphology,0.07692307692307693
+tannic acid,nitrophenol,0.07692307692307693
+tannic acid,degradation,0.07692307692307693
+tannic acid,absorbance,0.07692307692307693
+tannic acid,nanomaterials,0.07692307692307693
+tannic acid,surface modification,0.07692307692307693
+tannic acid,ammonia production,0.07692307692307693
+tannic acid,oxalic acid,0.07692307692307693
+chemisorption,langmuir adsorption model,0.07407407407407407
+langmuir adsorption model,methylene blue,0.08875739644970414
+langmuir adsorption model,endothermic process,0.08875739644970414
+diffractometer,copper oxide,0.10714285714285714
+diffractometer,monoclinic crystal system,0.08928571428571429
+spin coating,photocurrent,0.08620689655172414
+spin coating,copper oxide,0.08620689655172414
+spin coating,monoclinic crystal system,0.10344827586206896
+energy transformation,electrochemical energy conversion,0.09523809523809523
+energy transformation,nanomaterials,0.0761904761904762
+monoclinic crystal system,copper oxide,0.12470588235294118
+industrial wastewater treatment,nanomaterials,0.06976744186046512
+industrial wastewater treatment,degradation,0.06976744186046512
+industrial wastewater treatment,textile,0.06976744186046512
+surface charge,zeta potential,0.15151515151515152
+polymer nanocomposite,nanomaterials,0.10714285714285714
+polymer nanocomposite,copper oxide,0.07142857142857142
+polymer nanocomposite,surface modification,0.07142857142857142
+polymer nanocomposite,absorbance,0.07142857142857142
+electrochemiluminescence,linear range,0.08823529411764706
+electrochemiluminescence,nanomaterials,0.08823529411764706
+electrochemiluminescence,nanoclusters,0.11764705882352941
+x-ray absorption spectroscopy,oxidation state,0.09401709401709402
+x-ray absorption spectroscopy,xanes,0.11965811965811966
+nanoflower,oxygen evolution,0.08823529411764706
+bacterial growth,silver nanoparticle,0.10909090909090909
+minimum bactericidal concentration,silver nanoparticle,0.10256410256410256
+sonication,zeta potential,0.1111111111111111
+field emission microscopy,monoclinic crystal system,0.07142857142857142
+field emission microscopy,deposition,0.07142857142857142
+field emission microscopy,thermogravimetric analysis,0.10714285714285714
+field emission microscopy,diffractometer,0.07142857142857142
+dimensionless quantity,thermal radiation,0.08928571428571429
+photoelectrochemistry,photoelectrochemical cell,0.10596026490066225
+photoelectrochemistry,photocurrent,0.17218543046357615
+photoelectrochemistry,photocathode,0.13245033112582782
+photocathode,photoelectrochemical cell,0.09130434782608696
+photocathode,photoelectrochemistry,0.08695652173913043
+photocathode,photocurrent,0.1956521739130435
+tin oxide,copper oxide,0.08522727272727272
+biomaterial,surface modification,0.09523809523809523
+biomaterial,biocompatibility,0.15873015873015872
+lanthanum,copper oxide,0.08333333333333333
+pulsed laser deposition,deposition,0.22077922077922077
+fraction (chemistry),mass fraction,0.11290322580645161
+anodizing,photocurrent,0.06666666666666667
+anodizing,nanoporous,0.06666666666666667
+precious metal,water-gas shift reaction,0.09375
+precious metal,noble metal,0.15625
+thermite,reactive material,0.075
+thermite,exothermic reaction,0.1
+xanes,x-ray absorption spectroscopy,0.16279069767441862
+xanes,oxidation state,0.09302325581395349
+selenide,copper oxide,0.09302325581395349
+selenide,nanomaterials,0.09302325581395349
+lattice constant,lattice (music),0.09090909090909091
+differential thermal analysis,thermogravimetry,0.1
+differential thermal analysis,thermogravimetric analysis,0.14
+biocompatible material,nanomaterials,0.08653846153846154
+biocompatible material,biocompatibility,0.08653846153846154
+slag (welding),pyrometallurgy,0.09090909090909091
+portable water purification,nanomaterials,0.07936507936507936
+portable water purification,photodegradation,0.07936507936507936
+chemical stability,chemical-looping combustion,0.1590909090909091
+absorption edge,visible spectrum,0.13513513513513514
+absorption edge,copper oxide,0.08108108108108109
+methylene,methylene blue,0.3148148148148148
+reversible hydrogen electrode,photoelectrochemical cell,0.0990990990990991
+reversible hydrogen electrode,overpotential,0.08108108108108109
+reversible hydrogen electrode,photocurrent,0.12612612612612611
+reversible hydrogen electrode,photocathode,0.07207207207207207
+amperometry,electrochemical gas sensor,0.1565217391304348
+linear sweep voltammetry,oxygen evolution,0.07954545454545454
+linear sweep voltammetry,chronoamperometry,0.11363636363636363
+4-nitrophenol,nitrophenol,0.21839080459770116
+4-nitrophenol,selective catalytic reduction,0.1839080459770115
+hela,nanomaterials,0.06818181818181818
+hela,mtt assay,0.13636363636363635
+hela,zeta potential,0.06818181818181818
+benzaldehyde,catalytic oxidation,0.075
+benzaldehyde,benzyl alcohol,0.125
+prox,oxidation state,0.09375
+mixed oxide,coprecipitation,0.09375
+quartz crystal microbalance,copper oxide,0.08333333333333333
+volume fraction,heat transfer enhancement,0.13978494623655913
+reactive material,energetic material,0.06666666666666667
+reactive material,thermite,0.2
+carboxymethyl cellulose,copper oxide,0.07936507936507936
+rational design,nanomaterials,0.11363636363636363
+rational design,nanomaterial-based catalyst,0.09090909090909091
+alcohol oxidation,benzyl alcohol,0.15
+glassy carbon,carbon fibers,0.17721518987341772
+glassy carbon,electrochemical gas sensor,0.13924050632911392
+scrap,slag (welding),0.11666666666666667
+scrap,pyrometallurgy,0.06666666666666667
+linear range,electrochemical gas sensor,0.10084033613445378
+mass fraction,volume fraction,0.10377358490566038
+cobalt oxide,copper oxide,0.11206896551724138
+bismuth vanadate,visible spectrum,0.16666666666666666
+carbon paste electrode,electrochemical gas sensor,0.16666666666666666
+carbon paste electrode,carbon fibers,0.125
+carbon paste electrode,copper oxide,0.10416666666666667
+carbon paste electrode,differential pulse voltammetry,0.125
+matrix (chemical analysis),particle (ecology),0.07042253521126761
+molar ratio,water-gas shift reaction,0.07692307692307693
+exothermic reaction,endothermic process,0.09285714285714286
+exothermic reaction,thermite,0.08571428571428572
+galvanic cell,bimetallic strip,0.09836065573770492
+template,nanorod,0.06666666666666667
+charge carrier,photocurrent,0.10869565217391304
+catalytic combustion,noble metal,0.12195121951219512
+catalytic combustion,cerium oxide,0.07317073170731707
+photoconductivity,nanorod,0.08620689655172414
+photoconductivity,visible spectrum,0.10344827586206896
+photoconductivity,photocurrent,0.2413793103448276
+polyvinylpyrrolidone,electrospinning,0.0821917808219178
+polyvinylpyrrolidone,copper oxide,0.1095890410958904
+tandem,perovskite solar cell,0.10526315789473684
+tandem,photocathode,0.08421052631578947
+power density,carbon fibers,0.1
+hydrothermal synthesis,monoclinic crystal system,0.07142857142857142
+hydrothermal synthesis,copper oxide,0.08928571428571429
+selective catalytic reduction,4-nitrophenol,0.07920792079207921
+solar fuel,carbon fibers,0.07894736842105263
+solar fuel,visible spectrum,0.10526315789473684
+solar fuel,photocathode,0.07894736842105263
+heat transfer enhancement,volume fraction,0.07065217391304347
+heat transfer enhancement,working fluid,0.06793478260869565
+electrochemical gas sensor,copper oxide,0.08041958041958042
+electrochemical gas sensor,nanomaterials,0.07342657342657342
+electrochemical gas sensor,differential pulse voltammetry,0.13636363636363635
+quantum yield,visible spectrum,0.06896551724137931
+quantum yield,quantum efficiency,0.06896551724137931
+microemulsion,water-gas shift reaction,0.13636363636363635
+microemulsion,nanomaterials,0.09090909090909091
+photodegradation,visible spectrum,0.11346153846153846
+photodegradation,degradation,0.1423076923076923
+photodegradation,methylene blue,0.08846153846153847

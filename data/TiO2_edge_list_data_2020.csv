@@ -1,0 +1,1214 @@
+from,to,weight
+cerium oxide,titanium dioxide,0.060810810810810814
+cerium oxide,titanium oxide,0.05405405405405406
+photoelectric effect,visible spectrum,0.052830188679245285
+photoelectric effect,charge carrier,0.052830188679245285
+photoelectric effect,photocurrent,0.09433962264150944
+vanadium oxide,selective catalytic reduction,0.0684931506849315
+methyl orange,degradation,0.10387469084913438
+methyl orange,photodegradation,0.10387469084913438
+methyl orange,titanium dioxide,0.08903544929925804
+methyl orange,methylene blue,0.051112943116240726
+methyl orange,visible spectrum,0.08491343775762572
+microreactor,degradation,0.05982905982905983
+microreactor,visible spectrum,0.05128205128205128
+resistive touchscreen,memristor,0.16049382716049382
+molecularly imprinted polymer,molecular imprinting,0.21904761904761905
+molecularly imprinted polymer,electrochemical gas sensor,0.06666666666666667
+biomaterial,surface modification,0.12034383954154727
+biomaterial,biocompatibility,0.1518624641833811
+gelatin,biocompatibility,0.08947368421052632
+mercury,titanium dioxide,0.10227272727272728
+polylactic acid,titanium dioxide,0.13942307692307693
+polylactic acid,thermal stability,0.052884615384615384
+chemical bath deposition,deposition,0.08823529411764706
+chemical bath deposition,titanium dioxide,0.07058823529411765
+chemical bath deposition,photocurrent,0.09411764705882353
+chemical bath deposition,nanorod,0.052941176470588235
+plasticizer,degradation,0.08641975308641975
+plasticizer,thermal stability,0.06172839506172839
+temperature-programmed reduction,physisorption,0.0625
+temperature-programmed reduction,space velocity,0.0625
+temperature-programmed reduction,atmospheric temperature range,0.0625
+temperature-programmed reduction,selective catalytic reduction,0.078125
+temperature-programmed reduction,thermal desorption spectroscopy,0.078125
+temperature-programmed reduction,thermogravimetric analysis,0.078125
+temperature-programmed reduction,chemisorption,0.078125
+nanotoxicology,nanomaterials,0.11716621253405994
+nanotoxicology,titanium dioxide,0.11444141689373297
+elongation,titanium dioxide,0.056818181818181816
+elongation,thermal stability,0.056818181818181816
+elongation,tensile testing,0.056818181818181816
+hybrid material,titanium dioxide,0.06696428571428571
+hybrid material,surface modification,0.05357142857142857
+magnetic separation,iron ore,0.06179775280898876
+magnetic separation,beneficiation,0.09550561797752809
+magnetic separation,ilmenite,0.12359550561797752
+photodiode,photoelectric effect,0.06578947368421052
+photodiode,photocurrent,0.09210526315789473
+laser ablation,nanomaterials,0.054878048780487805
+laser ablation,titanium dioxide,0.0975609756097561
+density of states,crystal (programming language),0.05084745762711865
+density of states,charge density,0.0847457627118644
+density of states,lattice constant,0.05084745762711865
+density of states,rutile,0.05084745762711865
+density of states,tetragonal crystal system,0.05084745762711865
+membrane reactor,membrane fouling,0.05
+membrane reactor,degradation,0.08333333333333333
+membrane reactor,methylene blue,0.08333333333333333
+membrane reactor,photodegradation,0.06666666666666667
+membrane reactor,filtration (mathematics),0.05
+membrane reactor,titanium dioxide,0.05
+ammonium bromide,titanium dioxide,0.06818181818181818
+ammonium bromide,nanorod,0.06818181818181818
+vanadate,selective catalytic reduction,0.05454545454545454
+vanadate,bismuth,0.09090909090909091
+vanadate,monoclinic crystal system,0.07272727272727272
+vanadate,titanium dioxide,0.09090909090909091
+vanadate,bismuth vanadate,0.09090909090909091
+spray pyrolysis,fluorine,0.06666666666666667
+spray pyrolysis,characterization,0.13333333333333333
+spray pyrolysis,deposition,0.06666666666666667
+spray pyrolysis,titanium dioxide,0.06666666666666667
+spray pyrolysis,rutile,0.06666666666666667
+nickel titanium,biocompatibility,0.10596026490066225
+nickel titanium,surface modification,0.059602649006622516
+nickel titanium,titanium alloy,0.09271523178807947
+fraction (chemistry),mass fraction,0.061946902654867256
+rietveld refinement,powder diffraction,0.0990990990990991
+rietveld refinement,rutile,0.12162162162162163
+rietveld refinement,tetragonal crystal system,0.04954954954954955
+photodetection,ultraviolet,0.06329113924050633
+photodetection,charge carrier,0.0759493670886076
+photodetection,photoconductivity,0.05063291139240506
+photodetection,photocurrent,0.0759493670886076
+muffle furnace,titanium dioxide,0.06060606060606061
+titanium carbide,titanium dioxide,0.06711409395973154
+titanium carbide,carbon fibers,0.053691275167785234
+titanium carbide,mxenes,0.10067114093959731
+biopolymer,biocompatibility,0.05864197530864197
+powder metallurgy,titanium alloy,0.09558823529411764
+powder metallurgy,matrix (chemical analysis),0.058823529411764705
+powder metallurgy,particle (ecology),0.051470588235294115
+triethoxysilane,thermal stability,0.05454545454545454
+triethoxysilane,surface modification,0.09090909090909091
+mxenes,titanium carbide,0.055762081784386616
+mxenes,nanomaterials,0.08921933085501858
+barium,barium titanate,0.16666666666666666
+nanodot,titanium dioxide,0.0547945205479452
+nanodot,carbon fibers,0.1095890410958904
+matrix (chemical analysis),titanium dioxide,0.055232558139534885
+hexavalent chromium,visible spectrum,0.07954545454545454
+hexavalent chromium,titanium dioxide,0.125
+photoconductivity,ultraviolet,0.07586206896551724
+photoconductivity,charge carrier,0.05517241379310345
+photoconductivity,photocurrent,0.1724137931034483
+plasmonic nanoparticles,visible spectrum,0.06756756756756757
+plasmonic nanoparticles,nanorod,0.05405405405405406
+nanoporous,anodizing,0.08801955990220049
+solar fuel,energy transformation,0.06422018348623854
+solar fuel,visible spectrum,0.05504587155963303
+solar fuel,carbon fibers,0.05504587155963303
+solar fuel,photoelectrochemistry,0.05504587155963303
+surface photovoltage,rutile,0.05263157894736842
+surface photovoltage,charge carrier,0.07017543859649122
+surface photovoltage,photocurrent,0.13157894736842105
+base (topology),titanium dioxide,0.08280254777070063
+nanometre,nanomaterials,0.05726872246696035
+nanometre,titanium dioxide,0.05726872246696035
+cladding (metalworking),titanium alloy,0.058333333333333334
+ultrapure water,degradation,0.15151515151515152
+ultrapure water,titanium dioxide,0.10101010101010101
+ultrapure water,photodegradation,0.0707070707070707
+cellulose acetate,titanium dioxide,0.056962025316455694
+cellulose acetate,electrospinning,0.06962025316455696
+cellulose acetate,bacterial cellulose,0.06329113924050633
+cellulose acetate,phase inversion,0.056962025316455694
+cellulose acetate,thermogravimetric analysis,0.05063291139240506
+non-blocking i/o,nickel oxide,0.10863509749303621
+levulinic acid,bimetallic strip,0.1095890410958904
+degradation,titanium dioxide,0.07528916929547845
+degradation,visible spectrum,0.08538380651945321
+degradation,photodegradation,0.07907465825446898
+degradation,methylene blue,0.0565720294426919
+caprolactone,electrospinning,0.0625
+caprolactone,degradation,0.0625
+caprolactone,titanium dioxide,0.0625
+caprolactone,biocompatibility,0.09375
+hydrodeoxygenation,bimetallic strip,0.05319148936170213
+bicarbonate,hydroxyl radical,0.05
+bicarbonate,degradation,0.1
+bicarbonate,sodium carbonate,0.05
+bicarbonate,ultrapure water,0.05
+stearic acid,surface modification,0.08333333333333333
+stearic acid,thermal stability,0.05
+stearic acid,bimetallic strip,0.05
+dielectric loss,high-κ dielectric,0.05314009661835749
+dielectric loss,rutile,0.05314009661835749
+dielectric loss,reflection loss,0.057971014492753624
+4-nitrophenol,reducing agent,0.06896551724137931
+4-nitrophenol,visible spectrum,0.05172413793103448
+4-nitrophenol,selective catalytic reduction,0.06896551724137931
+4-nitrophenol,degradation,0.05172413793103448
+4-nitrophenol,photodegradation,0.06896551724137931
+in situ polymerization,titanium dioxide,0.09090909090909091
+in situ polymerization,thermal stability,0.06060606060606061
+in situ polymerization,surface modification,0.06060606060606061
+in situ polymerization,pickering emulsion,0.06060606060606061
+charge carrier,visible spectrum,0.10225763612217796
+charge carrier,photocurrent,0.06772908366533864
+layer by layer,deposition,0.23469387755102042
+layer by layer,titanium dioxide,0.05102040816326531
+catalytic oxidation,noble metal,0.05319148936170213
+bismuth,visible spectrum,0.08064516129032258
+nanomaterials,titanium dioxide,0.0828782524895599
+lead (geology),perovskite solar cell,0.05555555555555555
+graphitic carbon nitride,carbon fibers,0.09051724137931035
+graphitic carbon nitride,carbon nitride,0.16163793103448276
+graphitic carbon nitride,visible spectrum,0.08836206896551724
+graphitic carbon nitride,degradation,0.06465517241379311
+high-density polyethylene,titanium dioxide,0.06862745098039216
+high-density polyethylene,polypropylene,0.06862745098039216
+high-density polyethylene,low-density polyethylene,0.09803921568627451
+glucose oxidase,titanium dioxide,0.05063291139240506
+glucose oxidase,amperometry,0.11392405063291139
+glucose oxidase,nanorod,0.05063291139240506
+glucose oxidase,nanomaterials,0.05063291139240506
+glutaraldehyde,titanium dioxide,0.0967741935483871
+cadmium telluride photovoltaics,photocurrent,0.09090909090909091
+cadmium telluride photovoltaics,charge carrier,0.06060606060606061
+scherrer equation,rutile,0.125
+scherrer equation,tetragonal crystal system,0.0625
+scherrer equation,silver nanoparticle,0.0625
+scherrer equation,morphology,0.0625
+scherrer equation,titanium dioxide,0.09375
+scherrer equation,nanomaterials,0.0625
+borosilicate glass,deposition,0.05
+hydrotalcite,cementitious,0.05172413793103448
+hydrotalcite,methanation,0.05172413793103448
+hydrotalcite,layered double hydroxides,0.06896551724137931
+microanalysis,energy-dispersive x-ray spectroscopy,0.06349206349206349
+metastability,rutile,0.06707317073170732
+polyvinylpyrrolidone,electrospinning,0.09523809523809523
+polyvinylpyrrolidone,polyvinyl alcohol,0.05952380952380952
+hardening (computing),slag (welding),0.06097560975609756
+suboxide,carbon fibers,0.07142857142857142
+suboxide,deposition,0.07142857142857142
+suboxide,rutile,0.07142857142857142
+poly(n-isopropylacrylamide),titanium dioxide,0.06382978723404255
+poly(n-isopropylacrylamide),polystyrene,0.0851063829787234
+ionic radius,rutile,0.1016949152542373
+coprecipitation,photodegradation,0.06349206349206349
+brookite,rutile,0.2153846153846154
+brookite,titanium dioxide,0.13162393162393163
+tensile testing,titanium dioxide,0.09649122807017543
+tensile testing,thermogravimetric analysis,0.05263157894736842
+tensile testing,vickers hardness test,0.06140350877192982
+sodium borohydride,reducing agent,0.05128205128205128
+sodium borohydride,silver nanoparticle,0.05128205128205128
+sodium borohydride,bimetallic strip,0.05128205128205128
+sodium borohydride,nanomaterial-based catalyst,0.05128205128205128
+sodium borohydride,titanium dioxide,0.0641025641025641
+hydrogenolysis,bond cleavage,0.06422018348623854
+hydrogenolysis,bimetallic strip,0.05504587155963303
+silicone rubber,titanium dioxide,0.14285714285714285
+silicone rubber,thermogravimetric analysis,0.05714285714285714
+silicone rubber,filler (materials),0.1
+ostwald ripening,metastability,0.05263157894736842
+ostwald ripening,rutile,0.07017543859649122
+dip-coating,degradation,0.06140350877192982
+dip-coating,titanium dioxide,0.12280701754385964
+electrolysis of water,oxygen evolution,0.28217821782178215
+electrolysis of water,overpotential,0.12871287128712872
+electrolysis of water,noble metal,0.0594059405940594
+screen printing,electrochromic devices,0.06349206349206349
+screen printing,auxiliary electrode,0.09523809523809523
+decarboxylation,hydroxylation,0.08333333333333333
+decarboxylation,degradation,0.05555555555555555
+hexagonal phase,visible spectrum,0.06521739130434782
+hexagonal phase,rutile,0.08695652173913043
+hexagonal phase,tetragonal crystal system,0.08695652173913043
+hexagonal phase,wurtzite crystal structure,0.08695652173913043
+hexagonal phase,orthorhombic crystal system,0.06521739130434782
+succinic acid,titanium dioxide,0.1
+succinic acid,textile,0.05
+aspergillus niger,silver nanoparticle,0.09259259259259259
+aspergillus niger,titanium dioxide,0.07407407407407407
+aspergillus niger,nanomaterials,0.05555555555555555
+phase inversion,ultrafiltration (renal),0.09047619047619047
+phase inversion,polyvinylidene fluoride,0.08095238095238096
+phase inversion,biofouling,0.09523809523809523
+mixed oxide,titanium oxide,0.07272727272727272
+mixed oxide,cerium oxide,0.05454545454545454
+thermal desorption spectroscopy,selective catalytic reduction,0.08536585365853659
+thermal desorption spectroscopy,temperature-programmed reduction,0.06097560975609756
+thermal desorption spectroscopy,rutile,0.08536585365853659
+boric acid,titanium dioxide,0.06818181818181818
+hydroquinone,visible spectrum,0.06741573033707865
+hydroquinone,degradation,0.06741573033707865
+hydroquinone,catechol,0.056179775280898875
+chemical-looping combustion,ilmenite,0.07692307692307693
+chemical-looping combustion,carbon fibers,0.05128205128205128
+chemical-looping combustion,thermogravimetric analysis,0.05982905982905983
+chemical-looping combustion,reactivity,0.09401709401709402
+mesoscopic physics,carbon fibers,0.05714285714285714
+mesoscopic physics,perovskite solar cell,0.1
+cationic polymerization,methylene blue,0.08285714285714285
+cationic polymerization,degradation,0.05142857142857143
+polycaprolactone,biocompatibility,0.0641025641025641
+polycaprolactone,electrospinning,0.11538461538461539
+polycaprolactone,titanium dioxide,0.08974358974358974
+silver nanoparticle,titanium dioxide,0.09484193011647254
+silver nanoparticle,nanomaterials,0.04991680532445923
+brilliant green,degradation,0.06349206349206349
+brilliant green,photodegradation,0.07936507936507936
+brilliant green,methylene blue,0.07936507936507936
+brilliant green,crystal violet,0.06349206349206349
+protein adsorption,surface modification,0.10077519379844961
+protein adsorption,biocompatibility,0.11627906976744186
+protein adsorption,bovine serum albumin,0.05426356589147287
+nanosecond,picosecond,0.1111111111111111
+nanosecond,charge carrier,0.06944444444444445
+scavenger,degradation,0.14925373134328357
+scavenger,photodegradation,0.05970149253731343
+tetragonal crystal system,rutile,0.14868421052631578
+tetragonal crystal system,monoclinic crystal system,0.06315789473684211
+bimetal,visible spectrum,0.06976744186046512
+bimetal,carbon fibers,0.06976744186046512
+bimetal,bimetallic strip,0.18604651162790697
+bimetal,nanomaterials,0.11627906976744186
+bimetal,characterization,0.09302325581395349
+biocompatibility,titanium dioxide,0.05452292441140025
+biocompatibility,surface modification,0.08674101610904585
+carbon nitride,graphitic carbon nitride,0.2403846153846154
+carbon nitride,carbon fibers,0.19230769230769232
+carbon nitride,visible spectrum,0.05448717948717949
+carbon nitride,degradation,0.05448717948717949
+indium tin oxide,tin oxide,0.08677685950413223
+indium tin oxide,titanium dioxide,0.09090909090909091
+methylene blue,degradation,0.13264299802761342
+methylene blue,visible spectrum,0.09516765285996055
+methylene blue,photodegradation,0.09467455621301775
+methylene blue,titanium dioxide,0.08382642998027613
+superparamagnetism,nanomaterials,0.07142857142857142
+active packaging,biopolymer,0.05741626794258373
+benzyl alcohol,benzaldehyde,0.18023255813953487
+benzyl alcohol,alcohol oxidation,0.13953488372093023
+benzyl alcohol,visible spectrum,0.05813953488372093
+sodium dodecyl sulfate,dispersion stability,0.06
+sodium dodecyl sulfate,zeta potential,0.1
+sodium dodecyl sulfate,titanium dioxide,0.06
+aluminate,slag (welding),0.09210526315789473
+aluminate,plasma electrolytic oxidation,0.05263157894736842
+corundum,rutile,0.06015037593984962
+identification,characterization,0.06201550387596899
+field emission microscopy,titanium dioxide,0.07407407407407407
+field emission microscopy,rutile,0.05185185185185185
+field emission microscopy,visible spectrum,0.05185185185185185
+field emission microscopy,nanorod,0.05185185185185185
+field emission microscopy,diffractometer,0.07407407407407407
+water-gas shift reaction,methanation,0.09375
+bond cleavage,rutile,0.09917355371900827
+bond cleavage,hydrogenolysis,0.05785123966942149
+propane,propene,0.1728395061728395
+propane,rutile,0.04938271604938271
+human decontamination,degradation,0.07462686567164178
+human decontamination,nanomaterials,0.05472636815920398
+human decontamination,titanium dioxide,0.07960199004975124
+volume fraction,particle (ecology),0.06086956521739131
+volume fraction,heat transfer enhancement,0.05652173913043478
+volume fraction,mass fraction,0.05217391304347826
+layered double hydroxides,degradation,0.0898876404494382
+layered double hydroxides,coprecipitation,0.056179775280898875
+layered double hydroxides,photodegradation,0.07865168539325842
+surface layer,titanium oxide,0.05172413793103448
+surface layer,surface modification,0.08620689655172414
+surface layer,titanium alloy,0.10344827586206896
+surface layer,titanium dioxide,0.06896551724137931
+microscale chemistry,surface modification,0.06521739130434782
+columbite,cassiterite,0.07446808510638298
+columbite,pegmatite,0.14361702127659576
+enterococcus faecalis,silver nanoparticle,0.06153846153846154
+micrometer,particle (ecology),0.07317073170731707
+photocatalytic water splitting,charge carrier,0.06474820143884892
+photocatalytic water splitting,visible spectrum,0.07194244604316546
+photocatalytic water splitting,titanium dioxide,0.050359712230215826
+stoichiometry,rutile,0.050239234449760764
+wurtzite crystal structure,visible spectrum,0.05128205128205128
+wurtzite crystal structure,photodegradation,0.08547008547008547
+wurtzite crystal structure,rutile,0.05982905982905983
+photocathode,reversible hydrogen electrode,0.06639004149377593
+photocathode,photocurrent,0.1991701244813278
+photocathode,photoelectrochemical cell,0.0912863070539419
+photocathode,photoelectrochemistry,0.05394190871369295
+biocomposite,biocompatibility,0.05
+biocomposite,degradation,0.06666666666666667
+biocomposite,polylactic acid,0.05
+biocomposite,titanium dioxide,0.08333333333333333
+cementitious,metakaolin,0.07249466950959488
+cementitious,slag (welding),0.06396588486140725
+morphology,titanium dioxide,0.05491329479768786
+congo red,titanium dioxide,0.06914893617021277
+congo red,photodegradation,0.09574468085106383
+congo red,degradation,0.11170212765957446
+congo red,visible spectrum,0.06382978723404255
+uv filter,titanium dioxide,0.1111111111111111
+uv filter,ultraviolet,0.09722222222222222
+uv filter,visible spectrum,0.05555555555555555
+lithium titanate,titanium dioxide,0.13953488372093023
+lithium titanate,carbon fibers,0.09302325581395349
+lithium titanate,titanium oxide,0.06976744186046512
+ceramic membrane,filtration (mathematics),0.10975609756097561
+ceramic membrane,ultrafiltration (renal),0.10365853658536585
+ceramic membrane,membrane fouling,0.12195121951219512
+hysteresis,perovskite solar cell,0.08372093023255814
+rhodamine b,degradation,0.14018691588785046
+rhodamine b,visible spectrum,0.09920920201294033
+rhodamine b,photodegradation,0.09345794392523364
+rhodamine b,titanium dioxide,0.06973400431344356
+exfoliation joint,nanomaterials,0.05084745762711865
+bacterial growth,titanium dioxide,0.12222222222222222
+bacterial growth,active packaging,0.06666666666666667
+carrier lifetime,charge carrier,0.13432835820895522
+carrier lifetime,passivation,0.16417910447761194
+carrier lifetime,perovskite solar cell,0.07462686567164178
+visible spectrum,degradation,0.10059464816650149
+visible spectrum,titanium dioxide,0.08498513379583747
+visible spectrum,photodegradation,0.08102081268582755
+tetracycline hydrochloride,visible spectrum,0.12987012987012986
+tetracycline hydrochloride,degradation,0.24675324675324675
+tetracycline hydrochloride,rhodamine b,0.06493506493506493
+hydroxyl radical,degradation,0.17857142857142858
+hydroxyl radical,advanced oxidation process,0.05952380952380952
+3d printed,biocompatibility,0.058823529411764705
+ibuprofen,degradation,0.14754098360655737
+ibuprofen,photodegradation,0.06557377049180328
+power density,carbon fibers,0.075
+power density,titanium dioxide,0.05
+power density,pseudocapacitance,0.05
+cassiterite,pegmatite,0.07058823529411765
+cassiterite,tourmaline,0.07647058823529412
+mass fraction,volume fraction,0.0821917808219178
+mass fraction,particle (ecology),0.0547945205479452
+polyvinylidene fluoride,titanium dioxide,0.088
+polyvinylidene fluoride,biofouling,0.064
+polyvinylidene fluoride,filtration (mathematics),0.056
+polyvinylidene fluoride,phase inversion,0.068
+plasma electrolytic oxidation,titanium dioxide,0.05527638190954774
+plasma electrolytic oxidation,rutile,0.09045226130653267
+plasma electrolytic oxidation,simulated body fluid,0.06030150753768844
+plasma electrolytic oxidation,titanium alloy,0.10552763819095477
+plasma electrolytic oxidation,biocompatibility,0.06030150753768844
+plasma electrolytic oxidation,surface modification,0.09045226130653267
+plasma electrolytic oxidation,titanium oxide,0.05025125628140704
+plasma electrolytic oxidation,anodizing,0.05025125628140704
+nanomaterial-based catalyst,nanomaterials,0.05818181818181818
+zinc nitrate,photodegradation,0.14285714285714285
+zinc nitrate,wurtzite crystal structure,0.07142857142857142
+zinc nitrate,rutile,0.07142857142857142
+titanium oxide,titanium dioxide,0.15901060070671377
+titanium oxide,rutile,0.0706713780918728
+conversion coating,plasma electrolytic oxidation,0.07317073170731707
+tandem,perovskite solar cell,0.11428571428571428
+tandem,photocurrent,0.05714285714285714
+tungsten trioxide,titanium dioxide,0.08
+tungsten trioxide,visible spectrum,0.09333333333333334
+tungsten trioxide,nanorod,0.05333333333333334
+tungsten trioxide,photocurrent,0.06666666666666667
+tungsten trioxide,tin oxide,0.05333333333333334
+ultraviolet light,ultraviolet,0.23270440251572327
+ultraviolet light,visible spectrum,0.12578616352201258
+ultraviolet light,titanium dioxide,0.09119496855345911
+oxidation state,x-ray absorption spectroscopy,0.06338028169014084
+oxidation state,oxygen evolution,0.07042253521126761
+cobalt oxide,titanium dioxide,0.057692307692307696
+passivation,photocurrent,0.05202312138728324
+quantum yield,visible spectrum,0.1038961038961039
+quantum yield,carbon fibers,0.05194805194805195
+tribometer,titanium alloy,0.1
+tribometer,energy-dispersive x-ray spectroscopy,0.05
+tribometer,titanium dioxide,0.05
+lattice constant,lattice (music),0.08759124087591241
+lattice constant,tetragonal crystal system,0.0948905109489051
+lattice constant,rutile,0.06569343065693431
+photoactive layer,active layer,0.10416666666666667
+photoactive layer,hybrid solar cell,0.0625
+photoactive layer,perovskite solar cell,0.08333333333333333
+photoactive layer,photocurrent,0.08333333333333333
+copper oxide,titanium dioxide,0.06666666666666667
+copper oxide,titanium oxide,0.125
+silica fume,cementitious,0.10493827160493827
+silica fume,slag (welding),0.06172839506172839
+silica fume,metakaolin,0.12345679012345678
+nitric acid,titanium dioxide,0.05
+nitric acid,oxalic acid,0.05
+biofouling,membrane fouling,0.07858546168958742
+biofouling,ultrafiltration (renal),0.05697445972495088
+biofouling,filtration (mathematics),0.060903732809430254
+portable water purification,titanium dioxide,0.06422018348623854
+portable water purification,degradation,0.05963302752293578
+surface modification,biocompatibility,0.06334841628959276
+surface modification,titanium dioxide,0.0579185520361991
+methanation,bimetallic strip,0.050359712230215826
+methanation,overlayer,0.050359712230215826
+methanation,carbon fibers,0.08633093525179857
+methanation,water-gas shift reaction,0.06474820143884892
+chirality,nanomaterials,0.058823529411764705
+chirality,nanorod,0.058823529411764705
+economic shortage,environmental pollution,0.0625
+economic shortage,nanomaterials,0.0625
+ultrafiltration (renal),filtration (mathematics),0.09659090909090909
+ultrafiltration (renal),membrane fouling,0.11363636363636363
+ultrafiltration (renal),membrane technology,0.06534090909090909
+ultrafiltration (renal),biofouling,0.08238636363636363
+ultrafiltration (renal),phase inversion,0.05397727272727273
+fluorite,rutile,0.08333333333333333
+fluorite,pegmatite,0.05
+biocompatible material,biocompatibility,0.12861736334405144
+biocompatible material,nanomaterials,0.07717041800643087
+dispersion stability,titanium dioxide,0.05660377358490566
+dispersion stability,particle (ecology),0.05660377358490566
+dispersion stability,thermal stability,0.07547169811320754
+dispersion stability,zeta potential,0.1509433962264151
+dispersion stability,sodium dodecyl sulfate,0.05660377358490566
+energy transformation,nanomaterials,0.05612244897959184
+active layer,photoactive layer,0.05555555555555555
+active layer,perovskite solar cell,0.12222222222222222
+active layer,titanium dioxide,0.06666666666666667
+active layer,photocurrent,0.05555555555555555
+refractory (planetary science),mullite,0.05357142857142857
+beneficiation,magnetic separation,0.06910569105691057
+beneficiation,ilmenite,0.06097560975609756
+surface states,photocurrent,0.13636363636363635
+surface states,passivation,0.07575757575757576
+surface states,band bending,0.06060606060606061
+hydrothermal synthesis,visible spectrum,0.06153846153846154
+hydrothermal synthesis,rutile,0.07692307692307693
+hydrothermal synthesis,titanium dioxide,0.07912087912087912
+hydrothermal synthesis,nanorod,0.05274725274725275
+silver nitrate,silver nanoparticle,0.2807017543859649
+superhydrophobic coating,polydimethylsiloxane,0.051470588235294115
+superhydrophobic coating,abrasion (mechanical),0.08088235294117647
+superhydrophobic coating,superhydrophilicity,0.08088235294117647
+horizontal scan rate,titanium dioxide,0.08108108108108109
+horizontal scan rate,non-blocking i/o,0.08108108108108109
+horizontal scan rate,nanorod,0.08108108108108109
+solvothermal synthesis,visible spectrum,0.1
+solvothermal synthesis,rhodamine b,0.05714285714285714
+reusability,degradation,0.11538461538461539
+space velocity,selective catalytic reduction,0.13636363636363635
+petrochemical,environmentally friendly,0.06097560975609756
+opacity,titanium dioxide,0.10476190476190476
+molar ratio,ultraviolet,0.05172413793103448
+diffractometer,visible spectrum,0.0546875
+diffractometer,titanium dioxide,0.0546875
+vickers hardness test,tensile testing,0.051094890510948905
+high-κ dielectric,polymer nanocomposite,0.0673076923076923
+high-κ dielectric,dielectric loss,0.10576923076923077
+zirconium dioxide,silicon dioxide,0.08064516129032258
+zirconium dioxide,titanium dioxide,0.27419354838709675
+europium,photodegradation,0.078125
+europium,titanium dioxide,0.109375
+fluorine,rutile,0.05555555555555555
+electrophoretic deposition,deposition,0.17613636363636365
+electrophoretic deposition,surface modification,0.0625
+electrophoretic deposition,biocompatibility,0.056818181818181816
+electrophoretic deposition,titanium alloy,0.05113636363636364
+electrophoretic deposition,titanium dioxide,0.06818181818181818
+agglomerate,titanium dioxide,0.08839779005524862
+agglomerate,particle (ecology),0.09392265193370165
+quartz crystal microbalance,titanium dioxide,0.05747126436781609
+muscovite,pegmatite,0.09283819628647215
+muscovite,tourmaline,0.0610079575596817
+molybdenum trioxide,orthorhombic crystal system,0.05128205128205128
+molybdenum trioxide,absorbance,0.05128205128205128
+molybdenum trioxide,visible spectrum,0.05128205128205128
+molybdenum trioxide,titanium dioxide,0.07692307692307693
+molybdenum trioxide,nanorod,0.07692307692307693
+rhodamine 6g,rhodamine b,0.1595744680851064
+rhodamine 6g,degradation,0.06382978723404255
+rhodamine 6g,visible spectrum,0.05319148936170213
+rhodamine 6g,titanium dioxide,0.09574468085106383
+rhodamine 6g,rhodamine,0.05319148936170213
+endothermic process,langmuir adsorption model,0.2072072072072072
+endothermic process,exothermic reaction,0.06756756756756757
+facet (psychology),crystal (programming language),0.1342281879194631
+facet (psychology),rutile,0.08053691275167785
+characterization,nanomaterials,0.050488599348534204
+friction stir processing,surface modification,0.06557377049180328
+hydrochloric acid,titanium dioxide,0.06382978723404255
+hydrochloric acid,rutile,0.06914893617021277
+hydrochloric acid,ilmenite,0.09042553191489362
+sonication,titanium dioxide,0.06986899563318777
+sonication,zeta potential,0.05240174672489083
+sonication,degradation,0.05240174672489083
+textile,degradation,0.060209424083769635
+textile,titanium dioxide,0.06544502617801047
+titanium dioxide,rutile,0.051479152108082925
+materials processing,industrial chemistry,0.36363636363636365
+physisorption,chemisorption,0.087248322147651
+physisorption,titanium dioxide,0.053691275167785234
+moiety,homo/lumo,0.057971014492753624
+separator (oil production),thermal stability,0.06363636363636363
+separator (oil production),polysulfide,0.11818181818181818
+polyacrylamide,photodegradation,0.08823529411764706
+polyacrylamide,methyl orange,0.058823529411764705
+polyacrylamide,titanium dioxide,0.08823529411764706
+polyacrylamide,zeta potential,0.08823529411764706
+polyacrylamide,degradation,0.11764705882352941
+mechanochemistry,reactivity,0.0625
+photocurrent,visible spectrum,0.06072874493927125
+photocurrent,photoelectrochemistry,0.05610179294389821
+photodegradation,degradation,0.12090032154340837
+photodegradation,titanium dioxide,0.08520900321543408
+photodegradation,methylene blue,0.06173633440514469
+photodegradation,visible spectrum,0.10514469453376206
+diffuse reflection,degradation,0.05755395683453238
+diffuse reflection,visible spectrum,0.17985611510791366
+diffuse reflection,titanium dioxide,0.06474820143884892
+diffuse reflection,photodegradation,0.050359712230215826
+photoexcitation,charge carrier,0.09803921568627451
+monoclinic crystal system,tetragonal crystal system,0.09716599190283401
+monoclinic crystal system,rutile,0.08299595141700405
+monoclinic crystal system,orthorhombic crystal system,0.05060728744939271
+malachite green,titanium dioxide,0.08808290155440414
+malachite green,degradation,0.12953367875647667
+malachite green,visible spectrum,0.07772020725388601
+malachite green,photodegradation,0.05699481865284974
+ammonium fluoride,titanium dioxide,0.13953488372093023
+ammonium fluoride,rutile,0.09302325581395349
+ammonium fluoride,anodizing,0.22093023255813954
+ammonium fluoride,ilmenite,0.05813953488372093
+industrial chemistry,materials processing,0.18867924528301888
+photon upconversion,visible spectrum,0.12612612612612611
+biasing,photocurrent,0.07142857142857142
+photoelectrochemistry,photoelectrochemical cell,0.09486166007905138
+photoelectrochemistry,photocurrent,0.191699604743083
+stabilizer (aeronautics),titanium dioxide,0.05714285714285714
+stabilizer (aeronautics),photodegradation,0.05714285714285714
+stabilizer (aeronautics),degradation,0.05714285714285714
+stabilizer (aeronautics),pickering emulsion,0.05714285714285714
+microelectronics,deposition,0.078125
+amperometry,electrochemical gas sensor,0.07526881720430108
+amperometry,glucose oxidase,0.0967741935483871
+powder diffraction,rietveld refinement,0.10628019323671498
+powder diffraction,rutile,0.0966183574879227
+monolith,carbon fibers,0.0784313725490196
+monolith,degradation,0.058823529411764705
+monolith,cordierite,0.058823529411764705
+noble metal,visible spectrum,0.0513347022587269
+nanocarriers,biocompatibility,0.06875
+nanocarriers,nanomaterials,0.05625
+photothermal effect,nanomaterials,0.06363636363636363
+photothermal effect,surface modification,0.05454545454545454
+photothermal effect,titanium dioxide,0.05454545454545454
+photothermal effect,biocompatibility,0.08181818181818182
+photothermal effect,nanorod,0.06363636363636363
+intensity,light intensity,0.13333333333333333
+nickel oxide,non-blocking i/o,0.2532467532467532
+chronoamperometry,linear sweep voltammetry,0.10679611650485436
+chronoamperometry,photocurrent,0.06796116504854369
+tin oxide,rutile,0.08038976857490865
+tin oxide,titanium dioxide,0.05115712545676005
+groundwater remediation,degradation,0.05128205128205128
+groundwater remediation,human decontamination,0.10256410256410256
+groundwater remediation,environmental pollution,0.05128205128205128
+groundwater remediation,environmentally friendly,0.07692307692307693
+groundwater remediation,nanomaterials,0.1282051282051282
+groundwater remediation,titanium dioxide,0.05128205128205128
+rutile,titanium dioxide,0.09737827715355805
+halloysite,nanomaterials,0.07526881720430108
+halloysite,titanium dioxide,0.053763440860215055
+universal testing machine,titanium dioxide,0.07518796992481203
+universal testing machine,acrylic resin,0.10526315789473684
+crystal violet,visible spectrum,0.07482993197278912
+crystal violet,degradation,0.08163265306122448
+crystal violet,methylene blue,0.06802721088435375
+crystal violet,photodegradation,0.05442176870748299
+vinyl alcohol,titanium dioxide,0.09467455621301775
+vinyl alcohol,electrospinning,0.05325443786982249
+vinyl alcohol,polyvinyl alcohol,0.11242603550295859
+barium titanate,barium,0.09239130434782608
+barium titanate,tetragonal crystal system,0.059782608695652176
+polysulfone,biofouling,0.05555555555555555
+polysulfone,phase inversion,0.07777777777777778
+polysulfone,ultrafiltration (renal),0.1111111111111111
+autoclave,hydrothermal synthesis,0.10810810810810811
+autoclave,titanium dioxide,0.0945945945945946
+autoclave,rutile,0.05405405405405406
+perovskite solar cell,open-circuit voltage,0.08008658008658008
+benzaldehyde,alcohol oxidation,0.08108108108108109
+benzaldehyde,benzyl alcohol,0.20945945945945946
+benzaldehyde,benzoic acid,0.07432432432432433
+acrylic resin,universal testing machine,0.09722222222222222
+acrylic resin,titanium dioxide,0.14583333333333334
+formamidinium,perovskite solar cell,0.1590909090909091
+formamidinium,thermal stability,0.06818181818181818
+formamidinium,passivation,0.07954545454545454
+sunlight,ultraviolet,0.05583756345177665
+sunlight,photodegradation,0.07614213197969544
+sunlight,degradation,0.12690355329949238
+sunlight,titanium dioxide,0.07614213197969544
+sunlight,visible spectrum,0.05583756345177665
+overpotential,oxygen evolution,0.24819277108433735
+overpotential,electrolysis of water,0.06265060240963856
+oleylamine,surface modification,0.05263157894736842
+oleylamine,nanomaterials,0.10526315789473684
+oleylamine,titanium dioxide,0.07894736842105263
+oleylamine,auxiliary electrode,0.05263157894736842
+thermal oxidation,titanium oxide,0.06521739130434782
+thermal oxidation,rutile,0.11956521739130435
+thermal oxidation,titanium alloy,0.05434782608695652
+electrochromic devices,titanium dioxide,0.06097560975609756
+electrochromic devices,non-blocking i/o,0.07317073170731707
+alcohol oxidation,benzyl alcohol,0.20869565217391303
+alcohol oxidation,benzaldehyde,0.10434782608695652
+surface charge,zeta potential,0.11538461538461539
+anti-reflective coating,deposition,0.058823529411764705
+anti-reflective coating,reflection,0.11764705882352941
+distilled water,titanium dioxide,0.07590759075907591
+wide-bandgap semiconductor,visible spectrum,0.07462686567164178
+selected area diffraction,nanomaterials,0.0625
+selected area diffraction,nanocrystalline material,0.078125
+selected area diffraction,rutile,0.078125
+selected area diffraction,titanium dioxide,0.0625
+high-refractive-index polymer,titanium dioxide,0.10975609756097561
+persulfate,degradation,0.2743362831858407
+persulfate,advanced oxidation process,0.07964601769911504
+strain (injury),titanium dioxide,0.05263157894736842
+atomic units,nanometre,0.05
+atomic units,rutile,0.125
+atomic units,lattice (music),0.05
+imidazolate,zeolitic imidazolate framework,0.40384615384615385
+imidazolate,degradation,0.07692307692307693
+imidazolate,specific surface area,0.057692307692307696
+open-circuit voltage,perovskite solar cell,0.09068627450980392
+open-circuit voltage,auxiliary electrode,0.05392156862745098
+open-circuit voltage,titanium dioxide,0.06372549019607843
+amide,noble metal,0.06153846153846154
+amide,hydrodeoxygenation,0.06153846153846154
+tin dioxide,tin oxide,0.1506849315068493
+tin dioxide,rutile,0.1004566210045662
+tin dioxide,titanium dioxide,0.1278538812785388
+tin dioxide,tetragonal crystal system,0.0502283105022831
+biodegradable polymer,biocompatibility,0.05263157894736842
+biodegradable polymer,electrospinning,0.06578947368421052
+biodegradable polymer,environmentally friendly,0.05263157894736842
+catalytic combustion,noble metal,0.06666666666666667
+bagasse,degradation,0.07246376811594203
+membrane technology,membrane fouling,0.13725490196078433
+membrane technology,ultrafiltration (renal),0.11274509803921569
+membrane technology,biofouling,0.058823529411764705
+membrane technology,filtration (mathematics),0.12254901960784313
+membrane technology,nanofiltration,0.0784313725490196
+polyoxometalate,photodegradation,0.05813953488372093
+polyoxometalate,visible spectrum,0.05813953488372093
+polyoxometalate,degradation,0.06976744186046512
+immersion,surface modification,0.05660377358490566
+immersion,distilled water,0.05660377358490566
+repeatability,titanium dioxide,0.061946902654867256
+repeatability,electrochemical gas sensor,0.07079646017699115
+aloe vera,titanium dioxide,0.1346153846153846
+superhydrophilicity,titanium dioxide,0.12202380952380952
+titanium alloy,biocompatibility,0.09736842105263158
+titanium alloy,anodizing,0.06184210526315789
+titanium alloy,surface modification,0.1013157894736842
+environmental pollution,degradation,0.06376811594202898
+environmental pollution,environmentally friendly,0.08405797101449275
+triethanolamine,titanium dioxide,0.07575757575757576
+triethanolamine,visible spectrum,0.10606060606060606
+triethanolamine,photocurrent,0.06060606060606061
+compounding,titanium dioxide,0.08196721311475409
+alkalinity,red mud,0.08181818181818182
+magnetism,rutile,0.09574468085106383
+batch reactor,degradation,0.14705882352941177
+polydimethylsiloxane,biofouling,0.05970149253731343
+polydimethylsiloxane,titanium dioxide,0.06965174129353234
+inert gas,inert,0.15178571428571427
+zinc ferrite,titanium dioxide,0.13513513513513514
+zinc ferrite,nanomaterials,0.05405405405405406
+zinc ferrite,visible spectrum,0.05405405405405406
+zinc ferrite,superparamagnetism,0.05405405405405406
+zinc ferrite,degradation,0.05405405405405406
+zinc ferrite,methylene blue,0.10810810810810811
+zinc ferrite,coprecipitation,0.05405405405405406
+zinc ferrite,specific surface area,0.05405405405405406
+zeta potential,titanium dioxide,0.050955414012738856
+triiodide,auxiliary electrode,0.13846153846153847
+triiodide,homo/lumo,0.06153846153846154
+triiodide,formamidinium,0.06153846153846154
+membrane fouling,membrane technology,0.07799442896935933
+membrane fouling,ultrafiltration (renal),0.11142061281337047
+membrane fouling,filtration (mathematics),0.1309192200557103
+membrane fouling,biofouling,0.11142061281337047
+membrane fouling,ceramic membrane,0.055710306406685235
+nanocrystalline material,titanium dioxide,0.05070993914807302
+nanocrystalline material,rutile,0.0973630831643002
+polycarbonate,deposition,0.05172413793103448
+polycarbonate,titanium dioxide,0.08620689655172414
+bismuth vanadate,photocurrent,0.0707070707070707
+bismuth vanadate,titanium dioxide,0.0707070707070707
+bismuth vanadate,visible spectrum,0.0707070707070707
+bismuth vanadate,bismuth,0.10101010101010101
+bismuth vanadate,monoclinic crystal system,0.08080808080808081
+bismuth vanadate,vanadate,0.050505050505050504
+nanochemistry,nanomaterials,0.16071428571428573
+dispersity,titanium dioxide,0.052132701421800945
+dispersity,particle (ecology),0.07109004739336493
+dispersity,zeta potential,0.07109004739336493
+nitrobenzene,photodegradation,0.09259259259259259
+nitrobenzene,degradation,0.09259259259259259
+nitrobenzene,benzyl alcohol,0.05555555555555555
+nitrobenzene,benzaldehyde,0.07407407407407407
+electron mobility,charge carrier,0.11875
+electron mobility,perovskite solar cell,0.06875
+calcium titanate,rutile,0.06666666666666667
+calcium titanate,titanium dioxide,0.17777777777777778
+prussian blue,photocurrent,0.0625
+molding (decorative),polypropylene,0.05263157894736842
+inert,inert gas,0.11486486486486487
+ultraviolet,ultraviolet light,0.06406926406926407
+ultraviolet,titanium dioxide,0.10476190476190476
+ultraviolet,visible spectrum,0.07532467532467532
+ultraviolet,degradation,0.05627705627705628
+boosting,degradation,0.058823529411764705
+boosting,rutile,0.058823529411764705
+molybdenum disulfide,titanium dioxide,0.06557377049180328
+physical vapor deposition,deposition,0.2125
+physical vapor deposition,titanium dioxide,0.05
+incipient wetness impregnation,selective catalytic reduction,0.12
+incipient wetness impregnation,carbon dioxide reforming,0.06
+spin coating,titanium dioxide,0.103125
+spin coating,deposition,0.0625
+roasting,ilmenite,0.08024691358024691
+roasting,rutile,0.06172839506172839
+roasting,magnetic separation,0.04938271604938271
+microcrystalline,titanium alloy,0.05714285714285714
+microcrystalline,rutile,0.05714285714285714
+electrospinning,titanium dioxide,0.08342480790340286
+light intensity,degradation,0.06993006993006994
+light intensity,intensity,0.08391608391608392
+light intensity,titanium dioxide,0.06993006993006994
+carboxylate,reactivity,0.05263157894736842
+carboxylate,rutile,0.05263157894736842
+photoelectrochemical cell,photoelectrochemistry,0.142433234421365
+photoelectrochemical cell,photocathode,0.06528189910979229
+photoelectrochemical cell,photocurrent,0.18397626112759644
+surface-area-to-volume ratio,rutile,0.05714285714285714
+surface-area-to-volume ratio,electrospinning,0.05714285714285714
+surface-area-to-volume ratio,specific surface area,0.11428571428571428
+surface-area-to-volume ratio,nanoporous,0.05714285714285714
+heteroatom,degradation,0.052083333333333336
+heteroatom,nanomaterials,0.0625
+heteroatom,carbon fibers,0.13541666666666666
+advanced oxidation process,degradation,0.21830985915492956
+advanced oxidation process,hydroxyl radical,0.07042253521126761
+advanced oxidation process,persulfate,0.06338028169014084
+simulated body fluid,titanium alloy,0.10576923076923077
+simulated body fluid,biocompatibility,0.11538461538461539
+simulated body fluid,surface modification,0.11538461538461539
+strontium titanate,visible spectrum,0.05
+strontium titanate,tetragonal crystal system,0.05
+langmuir adsorption model,titanium dioxide,0.06313131313131314
+langmuir adsorption model,endothermic process,0.11616161616161616
+langmuir adsorption model,methylene blue,0.07323232323232323
+silicon dioxide,titanium dioxide,0.30103806228373703
+plga,biocompatibility,0.12
+plga,surface modification,0.06
+plga,biomaterial,0.06
+zeolitic imidazolate framework,imidazolate,0.45652173913043476
+sulfonic acid,nafion,0.05172413793103448
+sulfonic acid,titanium dioxide,0.15517241379310345
+sulfonic acid,thermogravimetric analysis,0.05172413793103448
+iron oxide nanoparticles,biocompatibility,0.06818181818181818
+carbon steel,titanium dioxide,0.06578947368421052
+carbon steel,carbon fibers,0.17105263157894737
+tourmaline,cassiterite,0.06933333333333333
+tourmaline,pegmatite,0.10666666666666667
+tourmaline,muscovite,0.06133333333333333
+nanofiltration,ultrafiltration (renal),0.08602150537634409
+nanofiltration,filtration (mathematics),0.06989247311827956
+nanofiltration,membrane fouling,0.053763440860215055
+nanofiltration,membrane technology,0.08602150537634409
+central composite design,titanium dioxide,0.06
+central composite design,degradation,0.13333333333333333
+ecotoxicity,titanium dioxide,0.08695652173913043
+ecotoxicity,nanomaterials,0.057971014492753624
+ecotoxicity,degradation,0.06280193236714976
+propene,propane,0.1891891891891892
+propene,rutile,0.05405405405405406
+thin-film composite membrane,nanofiltration,0.09803921568627451
+thin-film composite membrane,polysulfone,0.0784313725490196
+thin-film composite membrane,biofouling,0.058823529411764705
+rhodamine,degradation,0.16355140186915887
+rhodamine,visible spectrum,0.06074766355140187
+rhodamine,rhodamine b,0.29439252336448596
+rod,nanorod,0.07017543859649122
+filtration (mathematics),membrane fouling,0.08453237410071943
+filtration (mathematics),biofouling,0.05575539568345324
+filtration (mathematics),ultrafiltration (renal),0.06115107913669065
+nafion,thermal stability,0.08641975308641975
+nafion,thermogravimetric analysis,0.04938271604938271
+reflection loss,dielectric loss,0.21428571428571427
+sonodynamic therapy,biocompatibility,0.06837606837606838
+sonodynamic therapy,titanium dioxide,0.05128205128205128
+sonodynamic therapy,nanomaterials,0.05128205128205128
+memristor,resistive touchscreen,0.06615776081424936
+acrylic acid,methylene blue,0.09333333333333334
+acrylic acid,titanium dioxide,0.12
+indigo carmine,degradation,0.11764705882352941
+indigo carmine,photodegradation,0.10588235294117647
+indigo carmine,visible spectrum,0.058823529411764705
+indigo carmine,titanium dioxide,0.08235294117647059
+indigo carmine,rhodamine b,0.058823529411764705
+absorbance,titanium dioxide,0.10378912685337727
+absorbance,visible spectrum,0.07084019769357495
+ambient pressure,carbon fibers,0.078125
+ambient pressure,rutile,0.109375
+overlayer,photocurrent,0.059880239520958084
+x-ray absorption spectroscopy,xanes,0.10555555555555556
+x-ray absorption spectroscopy,oxidation state,0.05
+x-ray absorption spectroscopy,oxygen evolution,0.06111111111111111
+turbidity,titanium dioxide,0.07547169811320754
+orthorhombic crystal system,monoclinic crystal system,0.08896797153024912
+orthorhombic crystal system,rutile,0.06405693950177936
+orthorhombic crystal system,tetragonal crystal system,0.08896797153024912
+filler (materials),titanium dioxide,0.0681265206812652
+cellulose fiber,surface modification,0.0625
+cellulose fiber,cellulose acetate,0.078125
+polyacrylonitrile,electrospinning,0.20710059171597633
+chemical state,rutile,0.06521739130434782
+chemical state,surface modification,0.06521739130434782
+chemical state,oxidation state,0.08695652173913043
+chemical state,stoichiometry,0.06521739130434782
+chemical state,anodizing,0.06521739130434782
+methylene,methylene blue,0.2916666666666667
+methylene,photodegradation,0.05
+methylene,degradation,0.1
+temperature coefficient,rutile,0.07352941176470588
+temperature coefficient,atmospheric temperature range,0.1323529411764706
+phosphide,reactivity,0.09433962264150944
+phosphide,surface modification,0.09433962264150944
+phosphide,thermogravimetric analysis,0.09433962264150944
+pickering emulsion,particle (ecology),0.07017543859649122
+pickering emulsion,titanium dioxide,0.07017543859649122
+nanoreactor,electrosynthesis,0.08571428571428572
+nanoreactor,ammonia production,0.05714285714285714
+nanoreactor,characterization,0.05714285714285714
+nanoreactor,nanomaterials,0.05714285714285714
+linear sweep voltammetry,anodizing,0.060810810810810814
+linear sweep voltammetry,chronoamperometry,0.07432432432432433
+linear sweep voltammetry,photocurrent,0.14189189189189189
+specific surface area,titanium dioxide,0.06839378238341969
+specific surface area,bet theory,0.0849740932642487
+specific surface area,rutile,0.049740932642487044
+specific surface area,photodegradation,0.05906735751295337
+specific surface area,degradation,0.05906735751295337
+electrosynthesis,ammonia production,0.08888888888888889
+electrosynthesis,titanium dioxide,0.06666666666666667
+electrosynthesis,nanoreactor,0.06666666666666667
+electrosynthesis,overpotential,0.08888888888888889
+rose bengal,photodegradation,0.09803921568627451
+rose bengal,visible spectrum,0.13725490196078433
+rose bengal,titanium dioxide,0.058823529411764705
+polyvinyl alcohol,titanium dioxide,0.12021857923497267
+polyvinyl alcohol,vinyl alcohol,0.05191256830601093
+penetration (warfare),titanium dioxide,0.06766917293233082
+carbon quantum dots,carbon fibers,0.32978723404255317
+carbon quantum dots,nanomaterials,0.06382978723404255
+carbon quantum dots,surface modification,0.06382978723404255
+carbon quantum dots,biocompatibility,0.05319148936170213
+carbon quantum dots,visible spectrum,0.05319148936170213
+carbon quantum dots,degradation,0.07446808510638298
+nanoflower,rutile,0.09090909090909091
+nanoflower,photocurrent,0.09090909090909091
+nanoflower,nanorod,0.13636363636363635
+fibroin,biopolymer,0.0547945205479452
+fibroin,biocompatibility,0.0958904109589041
+reducing agent,selective catalytic reduction,0.061068702290076333
+exothermic reaction,endothermic process,0.13157894736842105
+biomolecule,biocompatibility,0.06172839506172839
+biomolecule,surface modification,0.08641975308641975
+biomolecule,nanomaterials,0.0823045267489712
+thermogravimetric analysis,thermal stability,0.08258381030253475
+thermogravimetric analysis,titanium dioxide,0.06132461161079313
+metakaolin,cementitious,0.1111111111111111
+metakaolin,silica fume,0.06535947712418301
+carboxymethyl cellulose,titanium dioxide,0.12222222222222222
+electron acceptor,acceptor,0.1569767441860465
+lanthanum,degradation,0.050505050505050504
+carbon dioxide reforming,carbon fibers,0.14736842105263157
+carbon dioxide reforming,bimetallic strip,0.05263157894736842
+anodizing,titanium dioxide,0.08648648648648649
+anodizing,rutile,0.05297297297297297
+anodizing,surface modification,0.05081081081081081
+anodizing,titanium alloy,0.05081081081081081
+low-density polyethylene,high-density polyethylene,0.11363636363636363
+low-density polyethylene,polypropylene,0.06818181818181818
+low-density polyethylene,titanium dioxide,0.056818181818181816
+metal–insulator transition,rutile,0.10743801652892562
+metal–insulator transition,monoclinic crystal system,0.08264462809917356
+polysulfide,separator (oil production),0.15476190476190477
+polysulfide,carbon fibers,0.16666666666666666
+reflection,anti-reflective coating,0.06451612903225806
+pegmatite,tourmaline,0.07707129094412331
+pegmatite,columbite,0.05202312138728324
+pegmatite,muscovite,0.0674373795761079
+phosphoric acid,titanium dioxide,0.06837606837606838
+phosphoric acid,anodizing,0.05982905982905983
+bovine serum albumin,protein adsorption,0.07368421052631578
+bovine serum albumin,titanium dioxide,0.10526315789473684
+air purifier,titanium dioxide,0.12962962962962962
+surface-enhanced raman spectroscopy,silver nanoparticle,0.056818181818181816
+surface-enhanced raman spectroscopy,titanium dioxide,0.07954545454545454
+oxygen evolution,electrolysis of water,0.07392996108949416
+oxygen evolution,overpotential,0.13359273670557717
+oxygen evolution,rutile,0.07522697795071336
+texture (cosmology),titanium alloy,0.05
+nanogenerator,electrospinning,0.09722222222222222
+nanogenerator,polydimethylsiloxane,0.05555555555555555
+organic dye,degradation,0.11267605633802817
+organic dye,visible spectrum,0.07042253521126761
+organic dye,photodegradation,0.056338028169014086
+organic dye,titanium dioxide,0.07042253521126761
+nanopore,nanoporous,0.13043478260869565
+nanopore,anodizing,0.17391304347826086
+box–behnken design,photodegradation,0.05434782608695652
+box–behnken design,degradation,0.16304347826086957
+box–behnken design,central composite design,0.05434782608695652
+biocide,environmentally friendly,0.06666666666666667
+biocide,biofouling,0.18666666666666668
+biocide,titanium dioxide,0.06666666666666667
+perlite,metakaolin,0.058823529411764705
+ellipsometry,titanium dioxide,0.059322033898305086
+ellipsometry,deposition,0.09322033898305085
+molecular imprinting,molecularly imprinted polymer,0.30666666666666664
+suspension,titanium dioxide,0.07905138339920949
+suspension,particle (ecology),0.09486166007905138
+cadmium sulfide,visible spectrum,0.05405405405405406
+cadmium sulfide,titanium dioxide,0.08108108108108109
+cadmium sulfide,nanomaterials,0.05405405405405406
+cadmium sulfide,chemical bath deposition,0.06756756756756757
+cadmium sulfide,photocurrent,0.06756756756756757
+nanosheet,visible spectrum,0.05154639175257732
+attenuated total reflection,surface modification,0.05063291139240506
+attenuated total reflection,titanium dioxide,0.08860759493670886
+environmentally friendly,nanomaterials,0.05251875669882101
+mesoporous organosilica,titanium dioxide,0.15151515151515152
+mesoporous organosilica,specific surface area,0.06060606060606061
+mesoporous organosilica,nanomaterials,0.06060606060606061
+mesoporous organosilica,perovskite solar cell,0.06060606060606061
+gravimetric analysis,thermogravimetric analysis,0.1368421052631579
+nonmetal,degradation,0.06779661016949153
+nonmetal,visible spectrum,0.1016949152542373
+nonmetal,titanium dioxide,0.15254237288135594
+oxidizing agent,degradation,0.07804878048780488
+oxidizing agent,titanium dioxide,0.05365853658536585
+pulsed laser deposition,deposition,0.164021164021164
+pulsed laser deposition,rutile,0.10052910052910052
+polymer nanocomposite,titanium dioxide,0.06521739130434782
+polymer nanocomposite,nanomaterials,0.08152173913043478
+polymer nanocomposite,surface modification,0.059782608695652176
+chromophore,acceptor,0.09174311926605505
+ilmenite,rutile,0.1112214498510427
+potassium hydroxide,carbon fibers,0.0625
+potassium hydroxide,metakaolin,0.0625
+sodium hydroxide,metakaolin,0.060240963855421686
+sponge,titanium dioxide,0.12121212121212122
+sponge,abrasion (mechanical),0.06060606060606061
+sponge,degradation,0.12121212121212122
+sponge,polydimethylsiloxane,0.06060606060606061
+sponge,methylene blue,0.06060606060606061
+homo/lumo,acceptor,0.061068702290076333
+band bending,charge carrier,0.07058823529411765
+band bending,photocurrent,0.08235294117647059
+ammonia production,selective catalytic reduction,0.08403361344537816
+small-angle x-ray scattering,characterization,0.05714285714285714
+small-angle x-ray scattering,dispersity,0.08571428571428572
+small-angle x-ray scattering,morphology,0.05714285714285714
+small-angle x-ray scattering,surface modification,0.05714285714285714
+viability assay,mtt assay,0.09252669039145907
+viability assay,biocompatibility,0.05693950177935943
+viability assay,titanium dioxide,0.09608540925266904
+acceptor,electron acceptor,0.09407665505226481
+acceptor,open-circuit voltage,0.05574912891986063
+acceptor,homo/lumo,0.05574912891986063
+hydroxylation,degradation,0.17857142857142858
+hydroxylation,decarboxylation,0.07142857142857142
+hydroxylation,rutile,0.05952380952380952
+mtt assay,viability assay,0.16149068322981366
+mtt assay,titanium dioxide,0.09937888198757763
+mtt assay,zeta potential,0.055900621118012424
+mtt assay,biocompatibility,0.07453416149068323
+tungstate,bismuth,0.12903225806451613
+tungstate,visible spectrum,0.06451612903225806
+differential thermal analysis,thermogravimetric analysis,0.11564625850340136
+monoxide,titanium dioxide,0.21212121212121213
+monoxide,rutile,0.09090909090909091
+linear range,electrochemical gas sensor,0.07766990291262135
+linear range,aptamer,0.06796116504854369
+linear range,photocurrent,0.05825242718446602
+bioactive glass,biocompatibility,0.05263157894736842
+bioactive glass,surface modification,0.07368421052631578
+bioactive glass,simulated body fluid,0.05263157894736842
+bioactive glass,titanium alloy,0.05263157894736842
+nanocellulose,nanomaterials,0.06748466257668712
+nanocellulose,surface modification,0.06748466257668712
+nanocellulose,bacterial cellulose,0.06748466257668712
+nanocellulose,titanium dioxide,0.06748466257668712
+lattice (music),lattice constant,0.06217616580310881
+lattice (music),rutile,0.10362694300518134
+bacterial cellulose,biopolymer,0.07534246575342465
+bacterial cellulose,biocompatibility,0.0821917808219178
+bacterial cellulose,cellulose acetate,0.0684931506849315
+bacterial cellulose,nanocellulose,0.07534246575342465
+industrial wastewater treatment,degradation,0.07058823529411765
+industrial wastewater treatment,titanium dioxide,0.08235294117647059
+sodium carbonate,ilmenite,0.0684931506849315
+sodium carbonate,distilled water,0.0547945205479452
+polypyrrole,titanium dioxide,0.05952380952380952
+xanes,x-ray absorption spectroscopy,0.125
+xanes,absorption edge,0.06578947368421052
+xanes,rutile,0.07236842105263158
+reversible hydrogen electrode,oxygen evolution,0.07751937984496124
+reversible hydrogen electrode,photoelectrochemical cell,0.08527131782945736
+reversible hydrogen electrode,titanium dioxide,0.05426356589147287
+reversible hydrogen electrode,overpotential,0.06201550387596899
+reversible hydrogen electrode,photocathode,0.12403100775193798
+reversible hydrogen electrode,photocurrent,0.20930232558139536
+pseudocapacitance,power density,0.06779661016949153
+pseudocapacitance,mxenes,0.1016949152542373
+pseudocapacitance,nanosheet,0.05084745762711865
+pseudocapacitance,gravimetric analysis,0.05084745762711865
+pseudocapacitance,carbon fibers,0.05084745762711865
+benzoic acid,benzaldehyde,0.11702127659574468
+benzoic acid,visible spectrum,0.05319148936170213
+benzoic acid,benzyl alcohol,0.0851063829787234
+benzoic acid,photodegradation,0.05319148936170213
+chemisorption,langmuir adsorption model,0.05485232067510549
+chemisorption,physisorption,0.05485232067510549
+bet theory,specific surface area,0.25386996904024767
+bet theory,photodegradation,0.04953560371517028
+bet theory,methylene blue,0.06191950464396285
+cavity magnetron,rutile,0.05555555555555555
+cavity magnetron,deposition,0.17777777777777778
+cavity magnetron,titanium dioxide,0.06666666666666667
+thermal stability,titanium dioxide,0.05026455026455026
+thermal stability,thermogravimetric analysis,0.0890652557319224
+orange g,methyl orange,0.23076923076923078
+orange g,degradation,0.07692307692307693
+orange g,rutile,0.05128205128205128
+orange g,photodegradation,0.05128205128205128
+orange g,surface modification,0.05128205128205128
+orange g,bismuth,0.05128205128205128
+orange g,rhodamine b,0.07692307692307693
+orange g,methylene blue,0.05128205128205128
+orange g,visible spectrum,0.05128205128205128
+atmospheric temperature range,rutile,0.04938271604938271
+crystal (programming language),rutile,0.11366906474820145
+crystal (programming language),titanium dioxide,0.051798561151079135
+picosecond,charge carrier,0.14084507042253522
+picosecond,nanosecond,0.11267605633802817
+thermochromism,monoclinic crystal system,0.07692307692307693
+lead sulfide,cadmium sulfide,0.06521739130434782
+lead sulfide,visible spectrum,0.06521739130434782
+lead sulfide,photocurrent,0.06521739130434782
+aptamer,biomolecule,0.05154639175257732
+aptamer,photocurrent,0.07216494845360824
+aptamer,linear range,0.07216494845360824
+niobium oxide,titanium dioxide,0.056338028169014086
+niobium oxide,rutile,0.056338028169014086
+niobium oxide,titanium oxide,0.08450704225352113
+spectrophotometry,titanium dioxide,0.08064516129032258
+spectrophotometry,degradation,0.11290322580645161
+graphene quantum dot,visible spectrum,0.125
+graphene quantum dot,nanomaterials,0.09375
+graphene quantum dot,electrospinning,0.0625
+graphene quantum dot,surface modification,0.0625
+graphene quantum dot,tin oxide,0.0625
+graphene quantum dot,titanium dioxide,0.09375
+ultraviolet visible spectroscopy,energy-dispersive x-ray spectroscopy,0.058823529411764705
+ultraviolet visible spectroscopy,ultraviolet,0.14705882352941177
+ultraviolet visible spectroscopy,visible spectrum,0.08823529411764706
+ultraviolet visible spectroscopy,absorbance,0.058823529411764705
+absorption edge,visible spectrum,0.12274368231046931
+absorption edge,titanium dioxide,0.09386281588447654
+absorption edge,rutile,0.09386281588447654
+sepiolite,rutile,0.06060606060606061
+sepiolite,methyl orange,0.06060606060606061
+sepiolite,specific surface area,0.09090909090909091
+sepiolite,thermal stability,0.06060606060606061
+sepiolite,titanium dioxide,0.09090909090909091
+sepiolite,photodegradation,0.06060606060606061
+nitrogen oxides,selective catalytic reduction,0.2727272727272727
+nitrogen oxides,titanium dioxide,0.06060606060606061
+tartrazine,degradation,0.14285714285714285
+tartrazine,titanium dioxide,0.14285714285714285
+tartrazine,photodegradation,0.11904761904761904
+phase-change material,heat transfer enhancement,0.06802721088435375
+phase-change material,thermal stability,0.08843537414965986
+heat transfer enhancement,volume fraction,0.049429657794676805
+maghemite,nanomaterials,0.05
+iron ore,magnetic separation,0.05759162303664921
+iron ore,slag (welding),0.05759162303664921
+platinum nanoparticles,titanium dioxide,0.10869565217391304
+platinum nanoparticles,visible spectrum,0.07608695652173914
+platinum nanoparticles,noble metal,0.05434782608695652
+titanium tetrachloride,rutile,0.08333333333333333
+titanium tetrachloride,titanium dioxide,0.1388888888888889
+silanol,surface modification,0.08333333333333333
+silanol,siloxane,0.0625
+methyl blue,visible spectrum,0.11764705882352941
+methyl blue,specific surface area,0.058823529411764705
+methyl blue,methylene blue,0.14705882352941177
+methyl blue,degradation,0.08823529411764706
+methyl blue,methyl orange,0.058823529411764705
+methyl blue,photodegradation,0.08823529411764706
+nanoimprint lithography,high-refractive-index polymer,0.06896551724137931
+nanoimprint lithography,ultraviolet,0.05172413793103448
+nanoimprint lithography,titanium dioxide,0.08620689655172414
+nanoimprint lithography,nanopillar,0.06896551724137931
+nanoimprint lithography,anti-reflective coating,0.05172413793103448
+auxiliary electrode,tin oxide,0.06956521739130435
+auxiliary electrode,carbon fibers,0.05652173913043478
+auxiliary electrode,open-circuit voltage,0.09565217391304348
+auxiliary electrode,photocurrent,0.06086956521739131
+auxiliary electrode,titanium dioxide,0.06521739130434782
+sonochemistry,titanium dioxide,0.0673076923076923
+sonochemistry,nanomaterials,0.0673076923076923
+sonochemistry,sonication,0.09615384615384616
+sonochemistry,degradation,0.09615384615384616
+charge density,surface charge,0.09375
+charge density,rutile,0.078125
+charge density,density of states,0.078125
+nanoclusters,rutile,0.07407407407407407
+natural dye,auxiliary electrode,0.056818181818181816
+natural dye,open-circuit voltage,0.09090909090909091
+natural dye,titanium dioxide,0.07954545454545454
+natural dye,absorbance,0.07954545454545454
+hybrid solar cell,perovskite solar cell,0.07142857142857142
+hybrid solar cell,chemical bath deposition,0.05102040816326531
+hybrid solar cell,open-circuit voltage,0.05102040816326531
+hybrid solar cell,tandem,0.05102040816326531
+quantum efficiency,visible spectrum,0.05583756345177665
+quantum efficiency,photocurrent,0.050761421319796954
+selective catalytic reduction,nitrogen oxides,0.05901639344262295
+structural coloration,visible spectrum,0.06542056074766354
+nanopillar,nanoimprint lithography,0.06349206349206349
+trace (psycholinguistics),trace element,0.1686746987951807
+catechol,hydroquinone,0.060240963855421686
+gangue,beneficiation,0.056179775280898875
+gangue,ilmenite,0.056179775280898875
+gloss (optics),titanium dioxide,0.05405405405405406
+acetylacetone,visible spectrum,0.058823529411764705
+acetylacetone,photodegradation,0.058823529411764705
+acetylacetone,oxidizing agent,0.058823529411764705
+acetylacetone,thermogravimetric analysis,0.058823529411764705
+acetylacetone,perovskite solar cell,0.058823529411764705
+thermogravimetry,thermogravimetric analysis,0.051470588235294115
+thermogravimetry,differential thermal analysis,0.051470588235294115
+nanorod,titanium dioxide,0.07174556213017752
+nanorod,photocurrent,0.05251479289940828
+nanorod,rutile,0.07988165680473373
+surface engineering,surface modification,0.18584070796460178
+surface engineering,biocompatibility,0.07964601769911504

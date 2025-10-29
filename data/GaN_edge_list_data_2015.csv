@@ -1,0 +1,775 @@
+from,to,weight
+band offset,band diagram,0.08620689655172414
+band offset,wide-bandgap semiconductor,0.1810344827586207
+band offset,band bending,0.07758620689655173
+band offset,wurtzite crystal structure,0.06896551724137931
+nanosphere lithography,ultraviolet,0.07692307692307693
+nanosphere lithography,nanorod,0.07692307692307693
+charge carrier,carrier lifetime,0.07662835249042145
+power-added efficiency,linear amplifier,0.13881748071979436
+power-added efficiency,power bandwidth,0.13624678663239073
+surface photovoltage,band bending,0.15384615384615385
+surface photovoltage,depletion region,0.07692307692307693
+surface photovoltage,wide-bandgap semiconductor,0.09615384615384616
+surface photovoltage,absorption edge,0.07692307692307693
+photoexcitation,photoconductivity,0.10526315789473684
+texture synthesis,texture (cosmology),0.1746031746031746
+visible spectrum,ultraviolet,0.09523809523809523
+electron mobility,wide-bandgap semiconductor,0.1697645600991326
+power electronics,power module,0.08638743455497382
+power electronics,wide-bandgap semiconductor,0.11780104712041885
+blue laser,laser diode,0.1111111111111111
+optical power,waveguide,0.08426966292134831
+ultraviolet,wide-bandgap semiconductor,0.09506790564689063
+ultraviolet,quantum efficiency,0.09077912794853467
+open-circuit voltage,quantum efficiency,0.12195121951219512
+metastability,wurtzite crystal structure,0.0967741935483871
+decoupling (probability),power density,0.06756756756756757
+penning trap,trap (plumbing),0.15384615384615385
+penning trap,deep-level transient spectroscopy,0.2564102564102564
+penning trap,electron beam processing,0.10256410256410256
+pooling,feature (linguistics),0.08955223880597014
+pooling,convolution (computer science),0.06716417910447761
+barrier layer,wide-bandgap semiconductor,0.17391304347826086
+barrier layer,transconductance,0.06521739130434782
+radiation hardening,radiation damage,0.13513513513513514
+radiation hardening,wide-bandgap semiconductor,0.10810810810810811
+impact ionization,avalanche breakdown,0.18518518518518517
+impact ionization,wide-bandgap semiconductor,0.07407407407407407
+impact ionization,avalanche diode,0.08641975308641975
+discriminator,generative adversarial network,0.08240426563257393
+template,wide-bandgap semiconductor,0.12213740458015267
+hybrid material,characterization,0.08333333333333333
+hybrid material,visible spectrum,0.08333333333333333
+end-to-end principle,discriminator,0.10526315789473684
+inpainting,discriminator,0.07191780821917808
+indium tin oxide,ohmic contact,0.09375
+indium tin oxide,ultraviolet,0.06696428571428571
+anodizing,nanoporous,0.08333333333333333
+benchmarking,benchmark (surveying),0.07865168539325842
+avalanche diode,avalanche breakdown,0.19658119658119658
+avalanche diode,single-photon avalanche diode,0.15384615384615385
+phonon scattering,wide-bandgap semiconductor,0.10317460317460317
+phonon scattering,electron mobility,0.15079365079365079
+q factor,nanophotonics,0.11538461538461539
+rutherford backscattering spectrometry,lattice constant,0.10256410256410256
+manifold (fluid mechanics),generative model,0.075
+manifold (fluid mechanics),autoencoder,0.075
+transparent conducting film,ultraviolet,0.1111111111111111
+transparent conducting film,indium tin oxide,0.3055555555555556
+photocurrent,photoconductivity,0.09067357512953368
+photocurrent,ultraviolet,0.06606217616580311
+supervised learning,labeled data,0.08088235294117647
+supervised learning,discriminator,0.10294117647058823
+factor (programming language),representation,0.08108108108108109
+factor (programming language),modalities,0.08108108108108109
+factor (programming language),code (set theory),0.08108108108108109
+organic semiconductor,wide-bandgap semiconductor,0.08571428571428572
+divergence (linguistics),discriminator,0.14492753623188406
+load pull,signal (programming language),0.0945945945945946
+load pull,wideband,0.06756756756756757
+load pull,power-added efficiency,0.08108108108108109
+microsecond,characterization,0.06666666666666667
+microsecond,nanosecond,0.06666666666666667
+radiation damage,saturation (graph theory),0.07142857142857142
+radiation damage,radiation hardening,0.11904761904761904
+radiation damage,electron mobility,0.07142857142857142
+gate driver,switching time,0.12269938650306748
+gate driver,power mosfet,0.06748466257668712
+mosaicity,wurtzite crystal structure,0.1388888888888889
+mosaicity,wide-bandgap semiconductor,0.1388888888888889
+adjacent channel,wideband,0.10526315789473684
+adjacent channel,linearity,0.07894736842105263
+adjacent channel,dbc,0.15789473684210525
+adjacent channel,power-added efficiency,0.07894736842105263
+adjacent channel,linearization,0.07368421052631578
+merge (version control),encode,0.08571428571428572
+interfacial thermal resistance,wide-bandgap semiconductor,0.3125
+interfacial thermal resistance,phonon scattering,0.08333333333333333
+interfacial thermal resistance,microelectronics,0.08333333333333333
+non-radiative recombination,carrier lifetime,0.1
+non-radiative recombination,quantum efficiency,0.21666666666666667
+non-radiative recombination,wide-bandgap semiconductor,0.2
+non-radiative recombination,cathodoluminescence,0.06666666666666667
+power module,power electronics,0.14601769911504425
+power module,power density,0.07964601769911504
+power module,wide-bandgap semiconductor,0.07079646017699115
+solid-state lighting,quantum efficiency,0.08762886597938144
+dbc,power-added efficiency,0.07575757575757576
+dbc,adjacent channel,0.15151515151515152
+dbc,linearity,0.08080808080808081
+dbc,wideband,0.06565656565656566
+ellipsometry,wurtzite crystal structure,0.07339449541284404
+rectangular potential barrier,resonant-tunneling diode,0.06779661016949153
+rectangular potential barrier,wide-bandgap semiconductor,0.0847457627118644
+rectangular potential barrier,barrier layer,0.2033898305084746
+rietveld refinement,powder diffraction,0.1509433962264151
+pulsed laser deposition,deposition,0.18461538461538463
+deblurring,kernel (algebra),0.09411764705882353
+luminous flux,luminous efficacy,0.23076923076923078
+luminous flux,color temperature,0.09615384615384616
+luminous flux,led lamp,0.07692307692307693
+luminous flux,color rendering index,0.0673076923076923
+green-light,quantum efficiency,0.1360544217687075
+green-light,wide-bandgap semiconductor,0.06802721088435375
+cladding (metalworking),quantum efficiency,0.09090909090909091
+cladding (metalworking),waveguide,0.08181818181818182
+misorientation,crystal (programming language),0.08695652173913043
+misorientation,deposition,0.08695652173913043
+misorientation,wide-bandgap semiconductor,0.08695652173913043
+misorientation,mosaicity,0.08695652173913043
+atomic units,wurtzite crystal structure,0.07575757575757576
+atomic units,atom probe,0.10606060606060606
+differential privacy,generative model,0.13414634146341464
+differential privacy,synthetic data,0.0975609756097561
+active layer,wide-bandgap semiconductor,0.12727272727272726
+active layer,ultraviolet,0.1
+active layer,quantum efficiency,0.1
+free carrier,carrier lifetime,0.07142857142857142
+free carrier,charge-carrier density,0.07142857142857142
+free carrier,picosecond,0.07142857142857142
+drain-induced barrier lowering,leakage (economics),0.12195121951219512
+drain-induced barrier lowering,fin,0.0975609756097561
+drain-induced barrier lowering,gate voltage,0.07317073170731707
+drain-induced barrier lowering,subthreshold conduction,0.07317073170731707
+specific detectivity,quantum efficiency,0.07462686567164178
+specific detectivity,ultraviolet,0.14925373134328357
+specific detectivity,photodetection,0.1044776119402985
+specific detectivity,photodiode,0.1044776119402985
+specific detectivity,visible spectrum,0.08955223880597014
+pillar,nanoporous,0.08163265306122448
+chemical space,representation,0.08888888888888889
+chemical space,generative model,0.17777777777777778
+chemical space,benchmark (surveying),0.06666666666666667
+chemical space,sample (material),0.06666666666666667
+discriminative model,discriminator,0.08050436469447139
+discriminative model,feature (linguistics),0.07565470417070805
+aluminium nitride,wide-bandgap semiconductor,0.10416666666666667
+aluminium nitride,crystal (programming language),0.08333333333333333
+band diagram,band offset,0.08403361344537816
+band diagram,wide-bandgap semiconductor,0.15966386554621848
+band diagram,quantum efficiency,0.06722689075630252
+jfet,power mosfet,0.078125
+jfet,high voltage,0.078125
+jfet,cascode,0.09375
+surface layer,band bending,0.08108108108108109
+surface layer,depletion region,0.08108108108108109
+velocity saturation,saturation velocity,0.27586206896551724
+velocity saturation,saturation current,0.06896551724137931
+velocity saturation,electron mobility,0.13793103448275862
+velocity saturation,saturation (graph theory),0.15517241379310345
+velocity saturation,wide-bandgap semiconductor,0.06896551724137931
+generative model,representation,0.07142857142857142
+buck converter,power density,0.10218978102189781
+buck converter,duty cycle,0.072992700729927
+coalescence (physics),cathodoluminescence,0.07964601769911504
+wideband,power bandwidth,0.08284023668639054
+stacking fault,wide-bandgap semiconductor,0.08256880733944955
+stacking fault,wurtzite crystal structure,0.1651376146788991
+stacking fault,cathodoluminescence,0.10091743119266056
+depletion region,wide-bandgap semiconductor,0.08695652173913043
+texture (cosmology),texture synthesis,0.12941176470588237
+strain (injury),stress relaxation,0.06808510638297872
+strain (injury),wide-bandgap semiconductor,0.11914893617021277
+nanodot,carbon fibers,0.07692307692307693
+nanodot,nanorod,0.07692307692307693
+high-κ dielectric,electron mobility,0.06896551724137931
+high-κ dielectric,passivation,0.1896551724137931
+high-κ dielectric,transconductance,0.06896551724137931
+duty cycle,modulation (music),0.07692307692307693
+laser diode,modulation (music),0.07272727272727272
+mnist database,generative model,0.07547169811320754
+mnist database,discriminator,0.0880503144654088
+photocatalytic water splitting,oxygen evolution,0.07894736842105263
+photocatalytic water splitting,visible spectrum,0.13157894736842105
+photocatalytic water splitting,photoelectrochemical cell,0.07894736842105263
+charge density,wide-bandgap semiconductor,0.08888888888888889
+charge density,electron mobility,0.07777777777777778
+ground truth,discriminator,0.09119496855345911
+insulated-gate bipolar transistor,power electronics,0.08536585365853659
+hexagonal phase,wide-bandgap semiconductor,0.125
+hexagonal phase,wurtzite crystal structure,0.25
+strain engineering,strain (injury),0.1728395061728395
+strain engineering,wide-bandgap semiconductor,0.07407407407407407
+color rendering index,color temperature,0.2376237623762376
+color rendering index,luminous efficacy,0.11221122112211221
+sequence (biology),discriminator,0.07990867579908675
+electrical efficiency,modulation (music),0.06666666666666667
+electrical efficiency,quantum efficiency,0.06666666666666667
+trap (plumbing),wide-bandgap semiconductor,0.1099476439790576
+trap (plumbing),transient (computer programming),0.08900523560209424
+luminous efficacy,quantum efficiency,0.06611570247933884
+luminous efficacy,luminous flux,0.09917355371900827
+luminous efficacy,color rendering index,0.14049586776859505
+luminous efficacy,color temperature,0.1322314049586777
+nanoimprint lithography,nanosphere lithography,0.07407407407407407
+nanoimprint lithography,wide-bandgap semiconductor,0.07407407407407407
+nanoimprint lithography,nanorod,0.13580246913580246
+leakage (economics),reverse leakage current,0.0919175911251981
+leakage (economics),wide-bandgap semiconductor,0.12678288431061807
+plasma etching,dry etching,0.15503875968992248
+plasma etching,isotropic etching,0.06976744186046512
+generality,feature (linguistics),0.08791208791208792
+magnetism,magnetic semiconductor,0.2396694214876033
+diffusion barrier,barrier layer,0.17307692307692307
+diffusion barrier,contact resistance,0.11538461538461539
+diffusion barrier,ohmic contact,0.1346153846153846
+quantum-confined stark effect,wide-bandgap semiconductor,0.1773049645390071
+quantum-confined stark effect,quantum efficiency,0.2127659574468085
+quantum-confined stark effect,blueshift,0.11347517730496454
+fuse (electrical),generative adversarial network,0.11458333333333333
+fuse (electrical),discriminator,0.09375
+fuse (electrical),discriminative model,0.09375
+resonant-tunneling diode,oscillation (cell signaling),0.08108108108108109
+resonant-tunneling diode,wide-bandgap semiconductor,0.08108108108108109
+resonant-tunneling diode,rectangular potential barrier,0.10810810810810811
+p–n junction,ultraviolet,0.078125
+p–n junction,photocurrent,0.078125
+noise-equivalent power,photocurrent,0.07142857142857142
+noise-equivalent power,biasing,0.07142857142857142
+noise-equivalent power,ultraviolet,0.09523809523809523
+partial pressure,photoconductivity,0.07692307692307693
+partial pressure,crystal (programming language),0.07692307692307693
+partial pressure,vapor phase,0.15384615384615385
+threading (protein sequence),crystal (programming language),0.07692307692307693
+dispersion relation,brillouin zone,0.09615384615384616
+complementarity (molecular biology),representation,0.06666666666666667
+complementarity (molecular biology),feature learning,0.06666666666666667
+complementarity (molecular biology),generative adversarial network,0.08888888888888889
+sentiment analysis,generative model,0.08955223880597014
+smoothing,regularization,0.07058823529411765
+smoothing,kernel (algebra),0.07058823529411765
+isotropic etching,dry etching,0.13533834586466165
+isotropic etching,plasma etching,0.06766917293233082
+orthorhombic crystal system,wurtzite crystal structure,0.140625
+orthorhombic crystal system,tetragonal crystal system,0.109375
+light intensity,intensity,0.09195402298850575
+light intensity,photocurrent,0.06896551724137931
+poisson's equation,electron mobility,0.14285714285714285
+poisson's equation,charge density,0.07142857142857142
+photoresist,gamut,0.06779661016949153
+photoresist,dry etching,0.1016949152542373
+small-signal model,signal (programming language),0.43037974683544306
+small-signal model,wide-bandgap semiconductor,0.08860759493670886
+small-signal model,large-signal model,0.11392405063291139
+molar absorptivity,ellipsometry,0.07317073170731707
+molar absorptivity,lattice constant,0.07317073170731707
+3d reconstruction,generative adversarial network,0.07407407407407407
+3d reconstruction,representation,0.1111111111111111
+passivation,wide-bandgap semiconductor,0.10416666666666667
+transfer of learning,feature (linguistics),0.09090909090909091
+modalities,modality (human–computer interaction),0.09340659340659341
+backlight,gamut,0.19402985074626866
+backlight,quantum yield,0.08955223880597014
+quantum yield,quantum efficiency,0.08522727272727272
+quantum yield,color rendering index,0.07954545454545454
+quantum yield,luminous efficacy,0.06818181818181818
+electron beam processing,penning trap,0.07017543859649122
+electron beam processing,electron beam-induced current,0.10526315789473684
+electron beam processing,wide-bandgap semiconductor,0.07017543859649122
+electron beam processing,electron mobility,0.07017543859649122
+electron beam processing,cathodoluminescence,0.08771929824561403
+gallium phosphide,phosphide,0.1282051282051282
+gallium phosphide,wide-bandgap semiconductor,0.10256410256410256
+gallium phosphide,indium phosphide,0.10256410256410256
+powder diffraction,rietveld refinement,0.14545454545454545
+powder diffraction,wurtzite crystal structure,0.09090909090909091
+hallucinating,similarity (geometry),0.07246376811594203
+hallucinating,face hallucination,0.07246376811594203
+hallucinating,rgb color model,0.07246376811594203
+hallucinating,inpainting,0.10144927536231885
+hallucinating,discriminative model,0.08695652173913043
+phosphide,indium phosphide,0.15384615384615385
+phosphide,wide-bandgap semiconductor,0.07692307692307693
+phosphide,photocurrent,0.07692307692307693
+phosphide,gallium phosphide,0.1282051282051282
+deep belief network,benchmark (surveying),0.1
+saturation velocity,saturation current,0.06976744186046512
+saturation velocity,electron mobility,0.1511627906976744
+saturation velocity,velocity saturation,0.18604651162790697
+saturation velocity,saturation (graph theory),0.13953488372093023
+saturation velocity,wide-bandgap semiconductor,0.13953488372093023
+convolution (computer science),discriminator,0.08139534883720931
+convolution (computer science),feature (linguistics),0.1124031007751938
+minimum bounding box,bounding overwatch,0.24242424242424243
+minimum bounding box,robustness,0.09090909090909091
+vapor phase,crystal (programming language),0.09016393442622951
+pseudopotential,magnetic semiconductor,0.1
+pseudopotential,wurtzite crystal structure,0.21666666666666667
+density of states,lattice constant,0.09230769230769231
+density of states,magnetic semiconductor,0.07692307692307693
+thermionic emission,wide-bandgap semiconductor,0.1111111111111111
+thermionic emission,metal–semiconductor junction,0.07407407407407407
+thermionic emission,ohmic contact,0.0787037037037037
+power mosfet,power module,0.07643312101910828
+power mosfet,gate driver,0.07006369426751592
+power mosfet,high voltage,0.07643312101910828
+photon upconversion,ultraviolet,0.06896551724137931
+photon upconversion,visible spectrum,0.06896551724137931
+photon upconversion,biexciton,0.06896551724137931
+photon upconversion,color rendering index,0.06896551724137931
+photon upconversion,power density,0.06896551724137931
+overshoot (microwave communication),gate driver,0.07462686567164178
+overshoot (microwave communication),transient (computer programming),0.07462686567164178
+pedestrian detection,feature (linguistics),0.07142857142857142
+pedestrian detection,training set,0.07142857142857142
+pedestrian detection,discriminative model,0.09523809523809523
+surface states,wide-bandgap semiconductor,0.10891089108910891
+surface states,band bending,0.0891089108910891
+resistive touchscreen,wide-bandgap semiconductor,0.06976744186046512
+electrical contacts,characterization,0.0975609756097561
+electrical contacts,ohmic contact,0.14634146341463414
+electrical contacts,contact resistance,0.1951219512195122
+dropout (neural networks),regularization,0.07142857142857142
+dropout (neural networks),generative adversarial network,0.07142857142857142
+feature vector,feature (linguistics),0.23661971830985915
+metal gate,wide-bandgap semiconductor,0.11363636363636363
+metal gate,leakage (economics),0.1590909090909091
+metal gate,high-κ dielectric,0.06818181818181818
+rate equation,wide-bandgap semiconductor,0.09090909090909091
+rate equation,quantum efficiency,0.12121212121212122
+quantum efficiency,ultraviolet,0.1036734693877551
+quantum efficiency,wide-bandgap semiconductor,0.12244897959183673
+indium phosphide,phosphide,0.10714285714285714
+indium phosphide,gallium phosphide,0.07142857142857142
+indium phosphide,heterojunction bipolar transistor,0.07142857142857142
+image translation,discriminator,0.08280254777070063
+face hallucination,feature (linguistics),0.11538461538461539
+face hallucination,discriminative model,0.09615384615384616
+face hallucination,generative adversarial network,0.09615384615384616
+face hallucination,hallucinating,0.09615384615384616
+midi,sequence (biology),0.09523809523809523
+midi,bar (unit),0.07142857142857142
+operating temperature,wide-bandgap semiconductor,0.1111111111111111
+avalanche breakdown,wide-bandgap semiconductor,0.09090909090909091
+avalanche breakdown,single-photon avalanche diode,0.08333333333333333
+avalanche breakdown,avalanche diode,0.17424242424242425
+avalanche breakdown,impact ionization,0.11363636363636363
+current crowding,indium tin oxide,0.078125
+current crowding,quantum efficiency,0.109375
+current crowding,wide-bandgap semiconductor,0.109375
+overlayer,photocurrent,0.06666666666666667
+overlayer,wurtzite crystal structure,0.1
+overlayer,cathodoluminescence,0.06666666666666667
+landmark,generative adversarial network,0.09259259259259259
+landmark,generative model,0.07407407407407407
+landmark,discriminator,0.1111111111111111
+technology cad,wide-bandgap semiconductor,0.08333333333333333
+technology cad,transconductance,0.08333333333333333
+ultraviolet photoelectron spectroscopy,band bending,0.12
+ultraviolet photoelectron spectroscopy,ultraviolet,0.2
+ultraviolet photoelectron spectroscopy,wide-bandgap semiconductor,0.08
+ultraviolet photoelectron spectroscopy,band offset,0.08
+ultraviolet photoelectron spectroscopy,band diagram,0.08
+bounding overwatch,minimum bounding box,0.1839080459770115
+bounding overwatch,robustness,0.06896551724137931
+parasitic element,parasitic capacitance,0.11320754716981132
+parasitic element,parasitic extraction,0.09433962264150944
+parasitic element,power module,0.0660377358490566
+indium nitride,indium gallium nitride,0.18902439024390244
+indium nitride,wide-bandgap semiconductor,0.10975609756097561
+saturation (graph theory),saturation current,0.13636363636363635
+photoelectrochemical cell,photoelectrochemistry,0.16304347826086957
+photoelectrochemical cell,oxygen evolution,0.06521739130434782
+photoelectrochemical cell,photocurrent,0.15217391304347827
+electron beam-induced current,electron beam processing,0.0821917808219178
+electron beam-induced current,wide-bandgap semiconductor,0.0958904109589041
+electron beam-induced current,cathodoluminescence,0.2328767123287671
+nanocrystalline material,wurtzite crystal structure,0.06896551724137931
+light emission,wide-bandgap semiconductor,0.08974358974358974
+homojunction,ultraviolet,0.0958904109589041
+auger electron spectroscopy,auger effect,0.15
+auger electron spectroscopy,light emission,0.075
+auger electron spectroscopy,contact resistance,0.075
+auger electron spectroscopy,ohmic contact,0.1
+subthreshold slope,subthreshold conduction,0.2857142857142857
+subthreshold slope,leakage (economics),0.08163265306122448
+subthreshold slope,wide-bandgap semiconductor,0.08163265306122448
+subthreshold slope,transconductance,0.08163265306122448
+subthreshold slope,hysteresis,0.08163265306122448
+pascal (unit),feature (linguistics),0.09803921568627451
+x-ray absorption spectroscopy,crystal (programming language),0.06896551724137931
+x-ray absorption spectroscopy,lattice constant,0.06896551724137931
+x-ray absorption spectroscopy,cathodoluminescence,0.06896551724137931
+x-ray absorption spectroscopy,europium,0.06896551724137931
+binary classification,generative adversarial network,0.13
+binary classification,discriminator,0.13
+binary classification,discriminative model,0.08
+linear amplifier,power-added efficiency,0.18685121107266436
+linear amplifier,power bandwidth,0.15570934256055363
+molybdenum disulfide,photocurrent,0.08163265306122448
+autoencoder,generative model,0.09735576923076923
+electron holography,characterization,0.10714285714285714
+electron holography,depletion region,0.10714285714285714
+electron holography,charge density,0.07142857142857142
+electron holography,biasing,0.07142857142857142
+electron holography,wide-bandgap semiconductor,0.10714285714285714
+electron holography,wurtzite crystal structure,0.07142857142857142
+electron holography,atom probe,0.07142857142857142
+photoconductivity,ultraviolet,0.11688311688311688
+photoconductivity,photocurrent,0.18181818181818182
+softmax function,discriminative model,0.06896551724137931
+softmax function,feature (linguistics),0.12643678160919541
+emission intensity,intensity,0.125
+emission intensity,quantum efficiency,0.075
+emission intensity,wide-bandgap semiconductor,0.0875
+wasserstein metric,kernel (algebra),0.06666666666666667
+wasserstein metric,discriminator,0.11666666666666667
+wasserstein metric,benchmark (surveying),0.06666666666666667
+nanorod,ultraviolet,0.06555090655509066
+wireless power transfer,rectifier (neural networks),0.18269230769230768
+gate voltage,electron mobility,0.1111111111111111
+gate voltage,drain-induced barrier lowering,0.08333333333333333
+gate voltage,leakage (economics),0.1111111111111111
+overfitting,discriminator,0.11382113821138211
+chromaticity,color temperature,0.15151515151515152
+chromaticity,color rendering index,0.10303030303030303
+image editing,inpainting,0.06521739130434782
+image editing,discriminator,0.08695652173913043
+wurtzite crystal structure,wide-bandgap semiconductor,0.10075839653304441
+hillock,ultraviolet,0.06521739130434782
+hillock,morphology,0.06521739130434782
+photosensitivity,ultraviolet,0.16326530612244897
+photosensitivity,visible spectrum,0.10204081632653061
+photosensitivity,photocurrent,0.14285714285714285
+photosensitivity,photoconductivity,0.08163265306122448
+pyramid (geometry),feature (linguistics),0.09923664122137404
+pyramid (geometry),discriminator,0.09923664122137404
+pin diode,wide-bandgap semiconductor,0.13513513513513514
+pin diode,photodiode,0.08108108108108109
+pin diode,leakage (economics),0.10810810810810811
+single-photon avalanche diode,avalanche diode,0.23376623376623376
+single-photon avalanche diode,avalanche breakdown,0.14285714285714285
+incandescent light bulb,led lamp,0.125
+incandescent light bulb,color rendering index,0.09375
+incandescent light bulb,color temperature,0.09375
+metal–semiconductor junction,wide-bandgap semiconductor,0.16279069767441862
+metal–semiconductor junction,reverse leakage current,0.07751937984496124
+metal–semiconductor junction,thermionic emission,0.12403100775193798
+complement,benchmark (surveying),0.0958904109589041
+mesfet,ohmic contact,0.07894736842105263
+mesfet,transconductance,0.07894736842105263
+mesfet,signal (programming language),0.07894736842105263
+mesfet,large-signal model,0.07894736842105263
+pulsed power,nanosecond,0.06976744186046512
+pulsed power,high voltage,0.06976744186046512
+bowing,wide-bandgap semiconductor,0.15294117647058825
+bowing,wurtzite crystal structure,0.07058823529411765
+bowing,lattice constant,0.08235294117647059
+indium gallium nitride,wide-bandgap semiconductor,0.1638418079096045
+indium gallium nitride,quantum efficiency,0.11864406779661017
+initialization,inpainting,0.08139534883720931
+transfer printing,microscale chemistry,0.0784313725490196
+atom probe,atomic units,0.0958904109589041
+atom probe,nanometre,0.0684931506849315
+atom probe,characterization,0.0821917808219178
+closed captioning,discriminator,0.09803921568627451
+closed captioning,benchmark (surveying),0.0784313725490196
+continuous wave,blue laser,0.06578947368421052
+continuous wave,vertical-cavity surface-emitting laser,0.13157894736842105
+continuous wave,cladding (metalworking),0.06578947368421052
+tandem,photocurrent,0.125
+tandem,photocathode,0.125
+time constant,transient (computer programming),0.15517241379310345
+time constant,trap (plumbing),0.10344827586206896
+deep-level transient spectroscopy,acceptor,0.07738095238095238
+deep-level transient spectroscopy,transient (computer programming),0.10714285714285714
+deep-level transient spectroscopy,wide-bandgap semiconductor,0.125
+response time,photodiode,0.08333333333333333
+response time,ultraviolet,0.125
+zigzag,passivation,0.08928571428571429
+zigzag,wide-bandgap semiconductor,0.08928571428571429
+aperture (computer memory),vertical-cavity surface-emitting laser,0.09574468085106383
+synthetic data,generative adversarial network,0.09364548494983277
+nanopillar,wide-bandgap semiconductor,0.12643678160919541
+picosecond,nanosecond,0.07608695652173914
+aerial image,image translation,0.07692307692307693
+aerial image,feature (linguistics),0.10256410256410256
+mode (computer interface),discriminator,0.12244897959183673
+photoelectrochemistry,photoelectrochemical cell,0.13513513513513514
+photoelectrochemistry,photocurrent,0.18018018018018017
+magnetic semiconductor,magnetism,0.1858974358974359
+magnetic semiconductor,wurtzite crystal structure,0.07051282051282051
+spin coating,nanorod,0.08571428571428572
+spin coating,wurtzite crystal structure,0.17142857142857143
+abstraction,generative model,0.17073170731707318
+abstraction,representation,0.14634146341463414
+abstraction,feature (linguistics),0.07317073170731707
+abstraction,benchmark (surveying),0.07317073170731707
+nanoclusters,quantum yield,0.07142857142857142
+benchmark (surveying),feature (linguistics),0.06592386258124419
+shallow donor,acceptor,0.21621621621621623
+shallow donor,wide-bandgap semiconductor,0.08108108108108109
+shallow donor,carbon fibers,0.08108108108108109
+modality (human–computer interaction),modalities,0.09714285714285714
+modality (human–computer interaction),generative adversarial network,0.06857142857142857
+signature (topology),feature (linguistics),0.10638297872340426
+carrier lifetime,charge carrier,0.08064516129032258
+carrier lifetime,wide-bandgap semiconductor,0.11693548387096774
+carrier lifetime,quantum efficiency,0.07258064516129033
+reverse bias,wide-bandgap semiconductor,0.078125
+reverse bias,leakage (economics),0.109375
+reverse bias,biasing,0.09375
+reverse bias,reverse leakage current,0.125
+diffusion capacitance,depletion region,0.07407407407407407
+diffusion capacitance,power mosfet,0.07407407407407407
+diffusion capacitance,wide-bandgap semiconductor,0.1111111111111111
+subthreshold swing,subthreshold conduction,0.22580645161290322
+subthreshold swing,leakage (economics),0.0967741935483871
+subthreshold swing,transconductance,0.12903225806451613
+vertical-cavity surface-emitting laser,aperture (computer memory),0.07563025210084033
+vertical-cavity surface-emitting laser,continuous wave,0.08403361344537816
+apds,photodiode,0.18
+apds,impact ionization,0.08
+apds,ultraviolet,0.12
+monocular,rgb color model,0.11711711711711711
+monocular,discriminator,0.07207207207207207
+non-blocking i/o,ultraviolet,0.08433734939759036
+non-blocking i/o,wide-bandgap semiconductor,0.07228915662650602
+feature learning,feature (linguistics),0.1370851370851371
+feature learning,representation,0.17604617604617603
+rectifier (neural networks),wireless power transfer,0.11801242236024845
+reflector (photography),ultraviolet,0.10588235294117647
+chemical bath deposition,wurtzite crystal structure,0.06896551724137931
+chemical bath deposition,deposition,0.10344827586206896
+chemical bath deposition,nanorod,0.1724137931034483
+lattice (music),lattice constant,0.11894273127753303
+amplified spontaneous emission,auger effect,0.08
+amplified spontaneous emission,ultraviolet,0.08
+trimethylgallium,carbon fibers,0.06896551724137931
+trimethylgallium,deposition,0.10344827586206896
+domain adaptation,feature (linguistics),0.11808118081180811
+domain adaptation,synthetic data,0.06642066420664207
+photodetection,photodiode,0.0718232044198895
+photodetection,ultraviolet,0.1712707182320442
+photodetection,quantum efficiency,0.07734806629834254
+photodetection,photocurrent,0.13259668508287292
+anomaly (physics),autoencoder,0.08284023668639054
+anomaly (physics),discriminator,0.07100591715976332
+tunnel junction,wide-bandgap semiconductor,0.1232876712328767
+tunnel junction,quantum efficiency,0.0958904109589041
+tunnel junction,ultraviolet,0.0821917808219178
+boosting,generative adversarial network,0.06944444444444445
+boosting,discriminator,0.06944444444444445
+color temperature,luminous efficacy,0.10191082802547771
+color temperature,color rendering index,0.22929936305732485
+color temperature,chromaticity,0.07961783439490445
+spectrogram,discriminator,0.08955223880597014
+ensemble learning,boosting,0.08
+chemical stability,wide-bandgap semiconductor,0.125
+haze,generative adversarial network,0.06818181818181818
+hydrothermal synthesis,nanomaterials,0.07142857142857142
+atmospheric temperature range,wide-bandgap semiconductor,0.08706467661691543
+localized surface plasmon,blueshift,0.09836065573770492
+localized surface plasmon,quantum efficiency,0.09836065573770492
+localized surface plasmon,ultraviolet,0.08196721311475409
+localized surface plasmon,nanorod,0.06557377049180328
+training set,generative adversarial network,0.11883408071748879
+training set,discriminator,0.08071748878923767
+wafer bonding,waveguide,0.06896551724137931
+ultraviolet light,visible spectrum,0.07526881720430108
+ultraviolet light,ultraviolet,0.34408602150537637
+disjoint sets,generative model,0.1111111111111111
+disjoint sets,regularization,0.08888888888888889
+disjoint sets,stochastic gradient descent,0.06666666666666667
+action recognition,representation,0.09523809523809523
+action recognition,discriminative model,0.09523809523809523
+sublimation,crystal (programming language),0.11320754716981132
+stochastic gradient descent,kernel (algebra),0.06896551724137931
+stochastic gradient descent,discriminator,0.08620689655172414
+temperature coefficient,atmospheric temperature range,0.125
+backpropagation,feature (linguistics),0.08620689655172414
+oversampling,generative adversarial network,0.07894736842105263
+oversampling,generative model,0.10526315789473684
+oversampling,autoencoder,0.07894736842105263
+upsampling,feature (linguistics),0.15384615384615385
+upsampling,convolution (computer science),0.07692307692307693
+upsampling,discriminator,0.07692307692307693
+slope efficiency,quantum efficiency,0.14285714285714285
+slope efficiency,vertical-cavity surface-emitting laser,0.07936507936507936
+biasing,wide-bandgap semiconductor,0.069164265129683
+transconductance,wide-bandgap semiconductor,0.06791569086651054
+transconductance,electron mobility,0.11007025761124122
+auger effect,indium gallium nitride,0.07142857142857142
+auger effect,quantum efficiency,0.21428571428571427
+auger effect,wide-bandgap semiconductor,0.10119047619047619
+auger effect,carrier lifetime,0.09523809523809523
+drude model,electron mobility,0.07407407407407407
+drude model,ellipsometry,0.1111111111111111
+equivalent series resistance,wide-bandgap semiconductor,0.11764705882352941
+degradation,wide-bandgap semiconductor,0.10628019323671498
+sensor fusion,modalities,0.12727272727272726
+fluorine,electron mobility,0.16129032258064516
+fluorine,transconductance,0.0967741935483871
+semantic feature,generative model,0.0821917808219178
+semantic feature,feature (linguistics),0.2191780821917808
+semantic feature,feature vector,0.136986301369863
+nanosheet,nanorod,0.07407407407407407
+brillouin zone,dispersion relation,0.0684931506849315
+viewpoints,representation,0.06557377049180328
+extractor,feature (linguistics),0.2127659574468085
+extractor,discriminative model,0.0851063829787234
+extractor,discriminator,0.1702127659574468
+nanoelectronics,nanomaterials,0.06521739130434782
+scandium,carbon fibers,0.0967741935483871
+scandium,wide-bandgap semiconductor,0.12903225806451613
+scandium,crystal (programming language),0.12903225806451613
+scandium,wurtzite crystal structure,0.12903225806451613
+basal plane,stacking fault,0.07894736842105263
+basal plane,wide-bandgap semiconductor,0.13157894736842105
+high voltage,wide-bandgap semiconductor,0.07109004739336493
+laser ablation,pulsed laser deposition,0.1568627450980392
+laser ablation,ultraviolet,0.11764705882352941
+hyperparameter,regularization,0.08653846153846154
+hyperparameter,code (set theory),0.0673076923076923
+hyperparameter,discriminator,0.07692307692307693
+sketch,generative adversarial network,0.06572769953051644
+undercut,dry etching,0.14814814814814814
+undercut,cladding (metalworking),0.07407407407407407
+undercut,quantum efficiency,0.07407407407407407
+undercut,aperture (computer memory),0.07407407407407407
+linearization,wideband,0.1032258064516129
+linearization,adjacent channel,0.09032258064516129
+linearization,linearity,0.0967741935483871
+saturation current,saturation (graph theory),0.16176470588235295
+saturation current,transconductance,0.10294117647058823
+blocking (statistics),wide-bandgap semiconductor,0.13253012048192772
+blocking (statistics),leakage (economics),0.07228915662650602
+subnetwork,discriminative model,0.06521739130434782
+subnetwork,generative adversarial network,0.06521739130434782
+subnetwork,representation,0.06521739130434782
+subnetwork,feature (linguistics),0.13043478260869565
+subnetwork,discriminator,0.06521739130434782
+cathodoluminescence,wide-bandgap semiconductor,0.0970873786407767
+charge-carrier density,electron mobility,0.13043478260869565
+charge-carrier density,wide-bandgap semiconductor,0.14492753623188406
+charge-carrier density,carrier lifetime,0.13043478260869565
+lattice constant,lattice (music),0.16167664670658682
+lattice constant,wurtzite crystal structure,0.09580838323353294
+photocathode,photocurrent,0.14130434782608695
+photocathode,quantum efficiency,0.14130434782608695
+photocathode,photoelectric effect,0.06521739130434782
+facet (psychology),cathodoluminescence,0.10843373493975904
+reverse leakage current,wide-bandgap semiconductor,0.15228426395939088
+reverse leakage current,leakage (economics),0.29441624365482233
+cross entropy,feature (linguistics),0.11363636363636363
+cross entropy,regularization,0.09090909090909091
+cross entropy,representation,0.09090909090909091
+cross entropy,discriminator,0.09090909090909091
+cutoff frequency,oscillation (cell signaling),0.10714285714285714
+cutoff frequency,electron mobility,0.07142857142857142
+cutoff frequency,transconductance,0.21428571428571427
+regularization,discriminator,0.0975609756097561
+stress relaxation,wide-bandgap semiconductor,0.16494845360824742
+stress relaxation,strain (injury),0.16494845360824742
+generative adversarial network,discriminator,0.09174311926605505
+polarity (international relations),wide-bandgap semiconductor,0.10434782608695652
+image synthesis,discriminator,0.12209302325581395
+ohmic contact,wide-bandgap semiconductor,0.10866141732283464
+ohmic contact,contact resistance,0.1763779527559055
+dangling bond,wide-bandgap semiconductor,0.09090909090909091
+dangling bond,passivation,0.11688311688311688
+motion blur,kernel (algebra),0.14
+motion blur,benchmark (surveying),0.08
+margin (machine learning),discriminator,0.07692307692307693
+margin (machine learning),feature (linguistics),0.07179487179487179
+power bandwidth,linear amplifier,0.14516129032258066
+power bandwidth,wideband,0.09032258064516129
+power bandwidth,power-added efficiency,0.17096774193548386
+tensile strain,wide-bandgap semiconductor,0.17142857142857143
+tensile strain,electron mobility,0.08571428571428572
+tensile strain,strain (injury),0.34285714285714286
+categorical variable,autoencoder,0.07317073170731707
+photoelectric effect,photocurrent,0.10144927536231885
+optical flow,generative model,0.06666666666666667
+optical flow,feature (linguistics),0.08333333333333333
+band bending,wide-bandgap semiconductor,0.14948453608247422
+contextual image classification,generative adversarial network,0.0695970695970696
+contextual image classification,discriminative model,0.07326007326007326
+supercell,wide-bandgap semiconductor,0.08333333333333333
+supercell,wurtzite crystal structure,0.08333333333333333
+rod,nanorod,0.171875
+hysteresis,wide-bandgap semiconductor,0.0975609756097561
+monoclinic crystal system,crystal (programming language),0.09482758620689655
+misfet,wide-bandgap semiconductor,0.09090909090909091
+misfet,high-κ dielectric,0.13636363636363635
+misfet,figure of merit,0.09090909090909091
+misfet,transconductance,0.13636363636363635
+parasitic extraction,parasitic element,0.09090909090909091
+purcell effect,localized surface plasmon,0.07407407407407407
+purcell effect,quantum efficiency,0.14814814814814814
+purcell effect,nanoimprint lithography,0.07407407407407407
+purcell effect,light emission,0.07407407407407407
+purcell effect,cathodoluminescence,0.1111111111111111
+purcell effect,nanophotonics,0.1111111111111111
+data set,generative adversarial network,0.06962025316455696
+data set,training set,0.07911392405063292
+vapor–liquid–solid method,deposition,0.08333333333333333
+vapor–liquid–solid method,wurtzite crystal structure,0.10416666666666667
+switching time,gate driver,0.10638297872340426
+nanopore,nanoporous,0.15384615384615385
+photodiode,ultraviolet,0.12295081967213115
+photodiode,photocurrent,0.07923497267759563
+gamut,luminous efficacy,0.08163265306122448
+gamut,backlight,0.1326530612244898
+caesium,quantum efficiency,0.08
+caesium,quantum yield,0.12
+characterization,wide-bandgap semiconductor,0.0900735294117647
+normalization,generative adversarial network,0.0881057268722467
+normalization,discriminator,0.09691629955947137
+varicap,dbc,0.0784313725490196
+varicap,wide-bandgap semiconductor,0.0784313725490196
+encode,representation,0.0896551724137931
+subthreshold conduction,leakage (economics),0.07758620689655173
+subthreshold conduction,subthreshold slope,0.1206896551724138
+subthreshold conduction,wide-bandgap semiconductor,0.08620689655172414
+parasitic capacitance,parasitic extraction,0.07526881720430108
+parasitic capacitance,parasitic element,0.12903225806451613
+power density,wide-bandgap semiconductor,0.07348242811501597
+blueshift,wide-bandgap semiconductor,0.09433962264150944
+blueshift,quantum-confined stark effect,0.07547169811320754
+multiple exciton generation,wide-bandgap semiconductor,0.21621621621621623
+multiple exciton generation,carrier lifetime,0.08108108108108109
+multiple exciton generation,photodiode,0.10810810810810811
+multiple exciton generation,quantum efficiency,0.08108108108108109
+profiling (computer programming),generative adversarial network,0.078125
+conditional probability distribution,generative model,0.09523809523809523
+conditional probability distribution,discriminator,0.07142857142857142
+oxygen evolution,photoelectrochemical cell,0.08108108108108109
+oxygen evolution,photoelectrochemistry,0.06756756756756757
+oxygen evolution,photocurrent,0.08108108108108109
+absorbance,ultraviolet,0.1
+absorbance,photodiode,0.08
+figure of merit,wide-bandgap semiconductor,0.1092896174863388
+contact resistance,wide-bandgap semiconductor,0.06907894736842106
+contact resistance,ohmic contact,0.3684210526315789
+dark field microscopy,characterization,0.08571428571428572
+hexagonal boron nitride,crystal (programming language),0.06557377049180328
+hexagonal boron nitride,wide-bandgap semiconductor,0.08196721311475409
+hexagonal boron nitride,wurtzite crystal structure,0.06557377049180328
+ray,visible spectrum,0.125
+narrowband,wideband,0.14893617021276595
+minification,divergence (linguistics),0.06542056074766354
+large-signal model,wide-bandgap semiconductor,0.09333333333333334
+large-signal model,signal (programming language),0.28
+large-signal model,small-signal model,0.12
+surface reconstruction,3d reconstruction,0.075
+surface reconstruction,generative adversarial network,0.075
+surface reconstruction,robustness,0.075
+surface reconstruction,monocular,0.1
+acceptor,wide-bandgap semiconductor,0.12063492063492064
+photoluminescence excitation,wide-bandgap semiconductor,0.10112359550561797
+photoluminescence excitation,quantum efficiency,0.10112359550561797
+polystyrene,indium tin oxide,0.07142857142857142
+representation,feature learning,0.0838487972508591
+representation,generative model,0.07491408934707904
+buffer (optical fiber),leakage (economics),0.09433962264150944
+buffer (optical fiber),wide-bandgap semiconductor,0.12735849056603774
+wearable technology,nanogenerator,0.06557377049180328
+spice,wide-bandgap semiconductor,0.07017543859649122
+dry etching,plasma etching,0.10309278350515463
+dry etching,isotropic etching,0.09278350515463918
+view synthesis,image synthesis,0.1
+view synthesis,generative adversarial network,0.1
+view synthesis,texture synthesis,0.1
+image warping,robustness,0.08771929824561403
