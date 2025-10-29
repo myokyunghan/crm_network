@@ -9,4 +9,6 @@ for ele in "${ele_list[@]}"; do
 	new_file_nm="TERGM_11ele_$ele.Rmd"
 	echo $new_file_nm
 	cp ./TERGM_11ele.Rmd $new_file_nm
+
+	sed -i '' "s/"ELEMENT_NAME_HERE"/${ele}/g" "$new_file_nm"
 done

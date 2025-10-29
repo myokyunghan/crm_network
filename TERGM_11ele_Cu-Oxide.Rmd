@@ -1,6 +1,8 @@
 ---
 title: "TERGM"
 output: html_document
+params: 
+  element: "Cu-Oxide"
 ---
 
 

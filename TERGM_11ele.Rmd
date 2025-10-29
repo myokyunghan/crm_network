@@ -1,6 +1,8 @@
 ---
 title: "TERGM"
 output: html_document
+params: 
+  element: "ELEMENT_NAME_HERE"
 ---
 
 
@@ -124,8 +126,7 @@ render.d3movie(sim)
 
 
 ```{r}
-
-filename <- paste0(element, "_network_plot_2015.png")  # => "network_plot_2050.png"
+filename <- paste0("img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 
 sim <- simulate(model, nsim = 1, time.slices = 3, nw.start="last")
@@ -151,7 +152,7 @@ dev.off()
 
 ```{r}
 
-filename <- paste0(element, "_network_plot_2020.png")  # => "network_plot_2050.png"
+filename <- paste0("img/", element, "_network_plot_2020.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 
 deg <- sna::degree(net2, gmode = "digraph", cmode="indegree")
@@ -176,7 +177,7 @@ dev.off()
 
 ```{r}
 # Simulated results
-filename <- paste0(element, "_network_plot_2025.png")  # => "network_plot_2050.png"
+filename <- paste0("img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 
 simp1 <- network.extract(sim, at=1)
@@ -202,7 +203,7 @@ dev.off()
 ```{r}
 # Simulated results
 
-filename <- paste0(element, "_network_plot_2030.png")  # => "network_plot_2050.png"
+filename <- paste0("img/", element, "_network_plot_2030.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 
 simp2 <- network.extract(sim, at=2)
