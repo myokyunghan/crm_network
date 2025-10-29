@@ -232,10 +232,9 @@ simp3 <- network.extract(sim, at=3)
 deg <- sna::degree(simp3, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=2, network.vertex.names(simp3), "")
 set.seed(515)
+
 # 1️⃣ 저장할 파일 열기
-
-
-filename <- paste0(element, "_network_plot_2035.png")  # => "network_plot_2050.png"
+filename <- paste0("img/", element, "_network_plot_2035.png")  # => "network_plot_2050.png"
 
 png(filename, width = 1200, height = 900, res = 150)
 plot.network(simp3,
