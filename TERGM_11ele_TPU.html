@@ -601,9 +601,9 @@ render.d3movie(sim)</code></pre>
 <pre><code>## caching 10 properties for slice 2</code></pre>
 <pre><code>## caching 10 properties for slice 3</code></pre>
 <pre><code>## caching 10 properties for slice 4</code></pre>
-<pre><code>## wrote animation HTML file to /var/folders/lk/t243gzpx379bzd9mvx8dcsmm0000gp/T//Rtmp9cpKZi/filed2e7141c409f.html</code></pre>
-<pre><code>## opening local URL file:///private/var/folders/lk/t243gzpx379bzd9mvx8dcsmm0000gp/T/Rtmp9cpKZi/filed2e7141c409f.html in web browser</code></pre>
-<pre class="r"><code>filename &lt;- paste0(element, &quot;_network_plot_2015.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
+<pre><code>## wrote animation HTML file to /var/folders/lk/t243gzpx379bzd9mvx8dcsmm0000gp/T//Rtmp9cpKZi/filed2e75d829fc6.html</code></pre>
+<pre><code>## opening local URL file:///private/var/folders/lk/t243gzpx379bzd9mvx8dcsmm0000gp/T/Rtmp9cpKZi/filed2e75d829fc6.html in web browser</code></pre>
+<pre class="r"><code>filename &lt;- paste0(&quot;img/&quot;, element, &quot;_network_plot_2015.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
 png(filename, width = 1200, height = 900, res = 150)
 
 sim &lt;- simulate(model, nsim = 1, time.slices = 3, nw.start=&quot;last&quot;)
@@ -625,7 +625,7 @@ plot.network(net1,
 dev.off()</code></pre>
 <pre><code>## quartz_off_screen 
 ##                 2</code></pre>
-<pre class="r"><code>filename &lt;- paste0(element, &quot;_network_plot_2020.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
+<pre class="r"><code>filename &lt;- paste0(&quot;img/&quot;, element, &quot;_network_plot_2020.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
 png(filename, width = 1200, height = 900, res = 150)
 
 deg &lt;- sna::degree(net2, gmode = &quot;digraph&quot;, cmode=&quot;indegree&quot;)
@@ -647,7 +647,7 @@ dev.off()</code></pre>
 <pre><code>## quartz_off_screen 
 ##                 2</code></pre>
 <pre class="r"><code># Simulated results
-filename &lt;- paste0(element, &quot;_network_plot_2025.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
+filename &lt;- paste0(&quot;img/&quot;, element, &quot;_network_plot_2025.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
 png(filename, width = 1200, height = 900, res = 150)
 
 simp1 &lt;- network.extract(sim, at=1)
@@ -672,7 +672,7 @@ dev.off()</code></pre>
 ##                 2</code></pre>
 <pre class="r"><code># Simulated results
 
-filename &lt;- paste0(element, &quot;_network_plot_2030.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
+filename &lt;- paste0(&quot;img/&quot;, element, &quot;_network_plot_2030.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
 png(filename, width = 1200, height = 900, res = 150)
 
 simp2 &lt;- network.extract(sim, at=2)
@@ -699,10 +699,9 @@ simp3 &lt;- network.extract(sim, at=3)
 deg &lt;- sna::degree(simp3, gmode = &quot;digraph&quot;, cmode=&quot;indegree&quot;)
 label &lt;- ifelse(deg&gt;=2, network.vertex.names(simp3), &quot;&quot;)
 set.seed(515)
+
 # 1️⃣ 저장할 파일 열기
-
-
-filename &lt;- paste0(element, &quot;_network_plot_2035.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
+filename &lt;- paste0(&quot;img/&quot;, element, &quot;_network_plot_2035.png&quot;)  # =&gt; &quot;network_plot_2050.png&quot;
 
 png(filename, width = 1200, height = 900, res = 150)
 plot.network(simp3,
