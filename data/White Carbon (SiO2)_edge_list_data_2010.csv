@@ -1,0 +1,33 @@
+from,to,weight
+thermal stability,thermogravimetric analysis,0.1590909090909091
+epdm rubber,ethylene propylene rubber,0.1935483870967742
+epdm rubber,thermal stability,0.16129032258064516
+breakage,styrene-butadiene,0.14285714285714285
+breakage,surface modification,0.14285714285714285
+breakage,elongation,0.14285714285714285
+breakage,hydrophobic silica,0.14285714285714285
+breakage,fumed silica,0.14285714285714285
+breakage,colloidal silica,0.14285714285714285
+breakage,amorphous silica,0.14285714285714285
+specific surface area,particle (ecology),0.21875
+vinyltriethoxysilane,silicone rubber,0.25
+polymer nanocomposite,nanometre,0.2
+silicone oil,fumed silica,0.15384615384615385
+ethylene propylene rubber,epdm rubber,0.21428571428571427
+mooney viscosity,filler (materials),0.25
+percolation (cognitive psychology),filler (materials),0.14285714285714285
+percolation (cognitive psychology),volume fraction,0.14285714285714285
+shore durometer,filler (materials),0.25
+compression set,tear resistance,0.15625
+styrene-butadiene,filler (materials),0.15873015873015872
+silanization,filler (materials),0.15384615384615385
+silsesquioxane,surface modification,0.15384615384615385
+silsesquioxane,thermogravimetric analysis,0.15384615384615385
+silsesquioxane,silanol,0.15384615384615385
+compounding,nitrile rubber,0.14285714285714285
+compounding,filler (materials),0.14285714285714285
+nanometre,filler (materials),0.15
+hydrophobic silica,fumed silica,0.16
+sulfenamide,filler (materials),0.16666666666666666
+sulfenamide,compression set,0.16666666666666666
+colloidal silica,fumed silica,0.16666666666666666

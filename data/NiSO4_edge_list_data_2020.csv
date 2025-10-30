@@ -1,32 +1,32 @@
 from,to,weight
+zincate,plating (geology),0.2857142857142857
 bet theory,non-blocking i/o,0.2857142857142857
 bet theory,specific surface area,0.2857142857142857
-zincate,plating (geology),0.2857142857142857
-hypophosphite,sodium hypophosphite,0.3125
-fluidics,energy-dispersive x-ray spectroscopy,0.3333333333333333
-fluidics,plating (geology),0.3333333333333333
-fluidics,deposition,0.3333333333333333
-electroless nickel plating,plating (geology),0.35294117647058826
-chemical bath deposition,deposition,0.3333333333333333
 malonic acid,boric acid,0.25
 malonic acid,deposition,0.25
 malonic acid,plating (geology),0.25
 malonic acid,morphology,0.25
-microfiber,carbon fibers,0.3333333333333333
-microfiber,nanomaterials,0.3333333333333333
-microfiber,non-blocking i/o,0.3333333333333333
-energy-dispersive x-ray spectroscopy,deposition,0.25
-dimethylglyoxime,hydrochloric acid,0.25
-dimethylglyoxime,sodium hydroxide,0.25
-dimethylglyoxime,plating (geology),0.25
-dimethylglyoxime,nickel oxide,0.25
-refractory metals,deposition,0.5
-refractory metals,plating (geology),0.5
+electroless nickel plating,plating (geology),0.35294117647058826
+overpotential,oxygen evolution,0.36363636363636365
 design of experiments,nanomaterials,0.25
 design of experiments,carbon steel,0.25
 design of experiments,plating (geology),0.25
 design of experiments,deposition,0.25
+fluidics,energy-dispersive x-ray spectroscopy,0.3333333333333333
+fluidics,plating (geology),0.3333333333333333
+fluidics,deposition,0.3333333333333333
+refractory metals,deposition,0.5
+refractory metals,plating (geology),0.5
+hypophosphite,sodium hypophosphite,0.3125
 textile,plating (geology),0.25
 textile,abrasion (mechanical),0.25
 textile,deposition,0.25
-overpotential,oxygen evolution,0.36363636363636365
+microfiber,carbon fibers,0.3333333333333333
+microfiber,nanomaterials,0.3333333333333333
+microfiber,non-blocking i/o,0.3333333333333333
+dimethylglyoxime,hydrochloric acid,0.25
+dimethylglyoxime,sodium hydroxide,0.25
+dimethylglyoxime,plating (geology),0.25
+dimethylglyoxime,nickel oxide,0.25
+chemical bath deposition,deposition,0.3333333333333333
+energy-dispersive x-ray spectroscopy,deposition,0.25
