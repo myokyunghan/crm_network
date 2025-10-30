@@ -2,7 +2,7 @@
 title: "TERGM"
 output: html_document
 params: 
-  element: "SiO2"
+  element: "White Carbon (SiO2)"
 ---
 
 

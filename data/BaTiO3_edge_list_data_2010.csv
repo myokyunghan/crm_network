@@ -1,106 +1,76 @@
 from,to,weight
-film capacitor,ceramic capacitor,0.20967741935483872
-film capacitor,barium titanate,0.14516129032258066
-dielectric loss,barium titanate,0.1783783783783784
-deposition,pulsed laser deposition,0.13636363636363635
-polyvinylidene fluoride,barium titanate,0.2191780821917808
-polyvinylidene fluoride,dielectric loss,0.1643835616438356
-alkoxide,barium titanate,0.2
-monoclinic crystal system,tetragonal crystal system,0.20689655172413793
-ionic radius,barium titanate,0.16666666666666666
-ionic radius,tetragonal crystal system,0.2222222222222222
-lattice constant,tetragonal crystal system,0.13414634146341464
-lattice constant,barium titanate,0.14634146341463414
-bismuth titanate,bismuth,0.25925925925925924
-bismuth titanate,barium titanate,0.16049382716049382
-orthorhombic crystal system,tetragonal crystal system,0.2743682310469314
-strontium titanate,barium titanate,0.2604166666666667
-thermistor,temperature coefficient,0.3076923076923077
-thermistor,barium titanate,0.17307692307692307
-diffractometer,barium titanate,0.13157894736842105
-rietveld refinement,tetragonal crystal system,0.23404255319148937
-bismuth ferrite,bismuth,0.23333333333333334
-bismuth ferrite,barium titanate,0.13333333333333333
-relaxor ferroelectric,ferroelectric ceramics,0.15789473684210525
-hexagonal phase,tetragonal crystal system,0.375
-poisson's ratio,poling,0.13157894736842105
-electrophoretic deposition,deposition,0.21875
-electrophoretic deposition,barium titanate,0.21875
-calcium titanate,barium titanate,0.16666666666666666
-particle (ecology),barium titanate,0.15789473684210525
-nanorod,barium titanate,0.13513513513513514
-domain wall (magnetism),piezoresponse force microscopy,0.13636363636363635
-electrospinning,barium titanate,0.2037037037037037
-cole–cole equation,barium titanate,0.2
-cole–cole equation,dielectric loss,0.2
-potassium niobate,barium titanate,0.2542372881355932
-barium carbonate,barium titanate,0.23333333333333334
-barium carbonate,barium,0.16666666666666666
-stoichiometry,barium titanate,0.140625
-rutile,barium titanate,0.15151515151515152
-lead titanate,lead zirconate titanate,0.14864864864864866
-morphology,barium titanate,0.16666666666666666
-volume fraction,barium titanate,0.21052631578947367
-coprecipitation,barium titanate,0.14285714285714285
-barium,barium titanate,0.33774834437086093
-barium chloride,barium,0.19047619047619047
-barium chloride,barium titanate,0.19047619047619047
-percolation (cognitive psychology),dielectric loss,0.32
-percolation (cognitive psychology),polyvinylidene fluoride,0.16
-ceramic capacitor,barium titanate,0.22110552763819097
-relative density,barium titanate,0.22580645161290322
-zirconate,lead zirconate titanate,0.2222222222222222
-lattice (music),tetragonal crystal system,0.13636363636363635
-photoconductivity,barium titanate,0.14814814814814814
-dielectric response,dielectric loss,0.13043478260869565
-temperature coefficient,thermistor,0.1415929203539823
-temperature coefficient,atmospheric temperature range,0.1415929203539823
-phase-field models,barium titanate,0.18181818181818182
-hydrothermal synthesis,barium titanate,0.24107142857142858
-soft modes,tetragonal crystal system,0.16
-soft modes,barium titanate,0.16
-scanning probe microscopy,piezoresponse force microscopy,0.2857142857142857
-bismuth,bismuth titanate,0.168
-dissipation factor,dielectric loss,0.24
-surface modification,barium titanate,0.22
-spark plasma sintering,barium titanate,0.1951219512195122
-magnetism,tetragonal crystal system,0.13333333333333333
-high-κ dielectric,barium titanate,0.19375
-high-κ dielectric,dielectric loss,0.225
-texture (cosmology),tetragonal crystal system,0.18
-field emission microscopy,barium titanate,0.21428571428571427
-field emission microscopy,hydrothermal synthesis,0.14285714285714285
-phase boundary,tetragonal crystal system,0.22413793103448276
-selected area diffraction,barium titanate,0.21212121212121213
-selected area diffraction,tetragonal crystal system,0.15151515151515152
-tetragonal crystal system,barium titanate,0.13709677419354838
-lanthanum,barium titanate,0.21666666666666667
-reducing atmosphere,temperature coefficient,0.2972972972972973
-reducing atmosphere,atmospheric temperature range,0.13513513513513514
-reducing atmosphere,barium titanate,0.1891891891891892
-barium hydroxide,barium titanate,0.2222222222222222
-trigonal crystal system,tetragonal crystal system,0.16216216216216217
-powder diffraction,tetragonal crystal system,0.16
-powder diffraction,rietveld refinement,0.18
-curie,hysteresis,0.14285714285714285
-ferromagnetic material properties,pulsed laser deposition,0.2
-barium ferrite,barium,0.13157894736842105
-barium ferrite,barium titanate,0.3157894736842105
-spin coating,barium titanate,0.23529411764705882
-europium,nanocrystalline material,0.14285714285714285
-europium,tetragonal crystal system,0.14285714285714285
-europium,barium titanate,0.21428571428571427
-nanocrystalline material,barium titanate,0.19444444444444445
-shear modulus,poisson's ratio,0.16666666666666666
-shear modulus,barium titanate,0.16666666666666666
-reflection loss,barium titanate,0.16981132075471697
-reflection loss,dielectric loss,0.1320754716981132
-aspect ratio (aeronautics),barium titanate,0.13333333333333333
-aspect ratio (aeronautics),volume fraction,0.13333333333333333
-electroceramics,barium titanate,0.21428571428571427
-ferroelasticity,crystal (programming language),0.13333333333333333
-ferroelasticity,domain wall (magnetism),0.13333333333333333
-ferroelasticity,piezoresponse force microscopy,0.13333333333333333
-polymer nanocomposite,barium titanate,0.19230769230769232
-solid-state reaction route,barium titanate,0.16666666666666666
-polystyrene,barium titanate,0.14583333333333334
+orthorhombic crystal system,tetragonal crystal system,0.3076923076923077
+bismuth titanate,bismuth,0.31343283582089554
+tetragonal crystal system,orthorhombic crystal system,0.1216
+ferroelasticity,crystal (programming language),0.14285714285714285
+ferroelasticity,domain wall (magnetism),0.14285714285714285
+ferroelasticity,piezoresponse force microscopy,0.14285714285714285
+electrostriction,tetragonal crystal system,0.10256410256410256
+electrostriction,hysteresis,0.10256410256410256
+poisson's ratio,poling,0.14285714285714285
+superparamagnetism,magnetism,0.125
+reflection loss,dielectric loss,0.16279069767441862
+hydrothermal synthesis,tetragonal crystal system,0.15584415584415584
+strontium titanate,dielectric loss,0.13636363636363635
+dielectric response,dielectric loss,0.14285714285714285
+thermistor,temperature coefficient,0.37209302325581395
+rietveld refinement,tetragonal crystal system,0.2682926829268293
+rietveld refinement,powder diffraction,0.10975609756097561
+lattice constant,lattice (music),0.1044776119402985
+lattice constant,tetragonal crystal system,0.16417910447761194
+domain wall (magnetism),piezoresponse force microscopy,0.13846153846153847
+barium ferrite,dielectric loss,0.19047619047619047
+barium ferrite,tetragonal crystal system,0.14285714285714285
+hamiltonian (control theory),tetragonal crystal system,0.13513513513513514
+barium carbonate,tetragonal crystal system,0.1111111111111111
+metastability,tetragonal crystal system,0.10344827586206896
+high-κ dielectric,dielectric loss,0.28125
+zirconate,lead zirconate titanate,0.2641509433962264
+powder diffraction,tetragonal crystal system,0.2
+powder diffraction,rietveld refinement,0.225
+powder diffraction,orthorhombic crystal system,0.1
+polyvinylidene fluoride,dielectric loss,0.21052631578947367
+relaxor ferroelectric,ferroelectric ceramics,0.16666666666666666
+crystal (programming language),tetragonal crystal system,0.11180124223602485
+selected area diffraction,tetragonal crystal system,0.19230769230769232
+thermogravimetric analysis,thermal stability,0.11940298507462686
+ferromagnetic material properties,pulsed laser deposition,0.21568627450980393
+spark plasma sintering,ceramic capacitor,0.12121212121212122
+lead titanate,lead zirconate titanate,0.16417910447761194
+solid-state reaction route,atmospheric temperature range,0.10526315789473684
+solid-state reaction route,dielectric loss,0.10526315789473684
+dc bias,dielectric loss,0.14285714285714285
+dc bias,electrostriction,0.14285714285714285
+texture (cosmology),ferroelectric ceramics,0.1111111111111111
+texture (cosmology),tetragonal crystal system,0.2
+phase boundary,tetragonal crystal system,0.2468354430379747
+bismuth,bismuth titanate,0.2
+magnetoelectric effect,lead zirconate titanate,0.09615384615384616
+temperature coefficient,thermistor,0.1568627450980392
+temperature coefficient,atmospheric temperature range,0.1568627450980392
+lanthanum,ferroelectric ceramics,0.11904761904761904
+magnetism,tetragonal crystal system,0.13953488372093023
+filler (materials),dielectric loss,0.13513513513513514
+spin coating,tetragonal crystal system,0.14285714285714285
+potassium niobate,phase boundary,0.11627906976744186
+potassium niobate,orthorhombic crystal system,0.11627906976744186
+ferroics,orthorhombic crystal system,0.13636363636363635
+ferroics,tetragonal crystal system,0.22727272727272727
+pulsed laser deposition,deposition,0.11363636363636363
+lead oxide,tetragonal crystal system,0.11764705882352941
+ceramic capacitor,dielectric loss,0.13245033112582782
+polystyrene,dielectric loss,0.1
+polymer nanocomposite,dielectric loss,0.14285714285714285
+electroceramics,ferroelectric ceramics,0.14285714285714285
+electroceramics,dielectric loss,0.14285714285714285
+electroceramics,ceramic capacitor,0.10714285714285714
+monoclinic crystal system,tetragonal crystal system,0.21686746987951808
+monoclinic crystal system,orthorhombic crystal system,0.12048192771084337
+dissipation factor,dielectric loss,0.2803738317757009
+antiferroelectricity,atmospheric temperature range,0.11627906976744186
+trigonal crystal system,domain wall (magnetism),0.1111111111111111
+trigonal crystal system,tetragonal crystal system,0.16666666666666666
+lattice (music),lattice constant,0.11864406779661017
+lattice (music),tetragonal crystal system,0.15254237288135594
+electrocaloric effect,atmospheric temperature range,0.13043478260869565
+deposition,pulsed laser deposition,0.15151515151515152

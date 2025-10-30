@@ -1,7 +1,8 @@
-#!/bin/bash
+# -al
+/bin/bash
 echo "file copy"
 declare -a ele_list
-ele_list=("TPU" "GaN" "Ni(OH)2" "SiO2" "BaTiO3" "Al2O3" "Co-Oxide" "Cu-Oxide" "NiSO4" "TiO2" "Li2CO3")
+ele_list=("TPU" "GaN" "Ni(OH)2" "White Carbon (SiO2)" "BaTiO3" "Al2O3" "Co-Oxide" "Cu-Oxide" "NiSO4" "TiO2" "Li2CO3")
                 
 for ele in "${ele_list[@]}"; do
 	echo $ele

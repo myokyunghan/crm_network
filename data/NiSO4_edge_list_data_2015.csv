@@ -1,15 +1,15 @@
 from,to,weight
-itching,patch test,0.36363636363636365
+paraben,patch test,0.2631578947368421
 cobalt chloride,patch test,0.2916666666666667
+contact allergy,patch test,0.2556818181818182
+itching,patch test,0.36363636363636365
+concomitant,patch test,0.2857142857142857
+thimerosal,patch test,0.2777777777777778
+patch testing,patch test,0.2962962962962963
+potassium dichromate,patch test,0.24545454545454545
 skin reaction,patch test,0.25
 skin reaction,patch testing,0.25
-thimerosal,patch test,0.2777777777777778
-potassium dichromate,patch test,0.24545454545454545
-patch testing,patch test,0.2962962962962963
-paraben,patch test,0.2631578947368421
-contact allergy,patch test,0.2556818181818182
+nickel allergy,patch test,0.21794871794871795
 atopy,patch test,0.23809523809523808
-concomitant,patch test,0.2857142857142857
 hair dyes,patch test,0.22727272727272727
 hair dyes,contact allergy,0.22727272727272727
-nickel allergy,patch test,0.21794871794871795

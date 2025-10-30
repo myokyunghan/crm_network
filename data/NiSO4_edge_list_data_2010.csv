@@ -1,20 +1,20 @@
 from,to,weight
-cobalt chloride,patch test,0.3050847457627119
-reactivity,patch test,0.2777777777777778
 thimerosal,patch test,0.32
-skin test,patch test,0.3333333333333333
-skin test,patch testing,0.23809523809523808
-potassium dichromate,patch test,0.265625
-contact allergy,patch test,0.24
-atopy,patch test,0.2857142857142857
 p-phenylenediamine,patch test,0.25925925925925924
+potassium dichromate,patch test,0.265625
+reactivity,patch test,0.2777777777777778
 baseline (sea),patch testing,0.23076923076923078
 baseline (sea),contact allergy,0.23076923076923078
 baseline (sea),patch test,0.23076923076923078
-foot (prosody),patch test,0.2727272727272727
-patch testing,patch test,0.3179916317991632
-hand eczema,patch test,0.24242424242424243
-allergic dermatitis,hand dermatitis,0.25
 chromate conversion coating,patch test,0.25
 chromate conversion coating,potassium dichromate,0.25
+atopy,patch test,0.2857142857142857
+allergic dermatitis,hand dermatitis,0.25
+hand eczema,patch test,0.24242424242424243
+contact allergy,patch test,0.24
 gold standard (test),contact allergy,0.25
+cobalt chloride,patch test,0.3050847457627119
+foot (prosody),patch test,0.2727272727272727
+skin test,patch test,0.3333333333333333
+skin test,patch testing,0.23809523809523808
+patch testing,patch test,0.3179916317991632
