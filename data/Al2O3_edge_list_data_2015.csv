@@ -1,0 +1,897 @@
+from,to,weight
+polypyrrole,carbon fibers,0.03642384105960265
+polypyrrole,amperometry,0.03642384105960265
+polypyrrole,electrochemical gas sensor,0.06291390728476821
+polypyrrole,differential pulse voltammetry,0.029801324503311258
+polypyrrole,glassy carbon,0.039735099337748346
+crucible (geodemography),crystal (programming language),0.034764826175869123
+crucible (geodemography),carbon fibers,0.026584867075664622
+crucible (geodemography),slag (welding),0.0408997955010225
+crucible (geodemography),stoichiometry,0.10020449897750511
+crucible (geodemography),corundum,0.04703476482617587
+repeatability,electrochemical gas sensor,0.026717557251908396
+repeatability,differential pulse voltammetry,0.026717557251908396
+dielectric loss,atmospheric temperature range,0.03624733475479744
+halloysite,thermal stability,0.05513784461152882
+halloysite,surface modification,0.02506265664160401
+halloysite,thermogravimetric analysis,0.040100250626566414
+aluminate,slag (welding),0.0391304347826087
+thermal treatment,carbon fibers,0.048484848484848485
+thermal treatment,specific surface area,0.030303030303030304
+thermal treatment,thermal stability,0.030303030303030304
+thermal treatment,bet theory,0.024242424242424242
+thermal treatment,degradation,0.024242424242424242
+thermal treatment,thermogravimetric analysis,0.04242424242424243
+hydrochloric acid,sodium hydroxide,0.050387596899224806
+hydrochloric acid,phosphoric acid,0.031007751937984496
+scrap,slag (welding),0.06363636363636363
+scrap,carbon fibers,0.03636363636363636
+photocurrent,charge carrier,0.03315881326352531
+photocurrent,passivation,0.0506108202443281
+photocurrent,nanorod,0.03664921465968586
+photocurrent,visible spectrum,0.04363001745200698
+fluid catalytic cracking,petrochemical,0.025145067698259187
+fluid catalytic cracking,zsm-5,0.04061895551257253
+deposition,particle (ecology),0.025817555938037865
+deposition,passivation,0.024096385542168676
+deposition,carbon fibers,0.03270223752151463
+pyrolytic carbon,glassy carbon,0.028455284552845527
+pyrolytic carbon,carbon fibers,0.1016260162601626
+pyrolytic carbon,thermogravimetric analysis,0.024390243902439025
+temperature-programmed reduction,thermogravimetric analysis,0.05448717948717949
+temperature-programmed reduction,carbon dioxide reforming,0.060897435897435896
+temperature-programmed reduction,incipient wetness impregnation,0.038461538461538464
+temperature-programmed reduction,non-blocking i/o,0.041666666666666664
+temperature-programmed reduction,chemisorption,0.057692307692307696
+temperature-programmed reduction,water-gas shift reaction,0.028846153846153848
+temperature-programmed reduction,atmospheric temperature range,0.02564102564102564
+temperature-programmed reduction,space velocity,0.03205128205128205
+temperature-programmed reduction,carbon fibers,0.041666666666666664
+temperature-programmed reduction,selective catalytic reduction,0.02564102564102564
+temperature-programmed reduction,bet theory,0.02564102564102564
+temperature-programmed reduction,bimetallic strip,0.02564102564102564
+temperature-programmed reduction,physisorption,0.028846153846153848
+polypropylene,thermal stability,0.05536912751677853
+polypropylene,filler (materials),0.028523489932885907
+polypropylene,thermogravimetric analysis,0.050335570469798654
+fluorine,carbon fibers,0.03861003861003861
+nitric acid,oxalic acid,0.0330188679245283
+nitric acid,langmuir adsorption model,0.02830188679245283
+partial pressure,thermogravimetric analysis,0.025477707006369428
+partial pressure,carbon fibers,0.025477707006369428
+partial pressure,slag (welding),0.028662420382165606
+partial pressure,stoichiometry,0.028662420382165606
+partial pressure,bar (unit),0.025477707006369428
+amperometry,electrochemical gas sensor,0.0905861456483126
+amperometry,carbon fibers,0.028419182948490232
+amperometry,chronoamperometry,0.02664298401420959
+amperometry,glassy carbon,0.07992895204262877
+amperometry,differential pulse voltammetry,0.03907637655417407
+agglomerate,particle (ecology),0.07913669064748201
+agglomerate,carbon fibers,0.023980815347721823
+biomolecule,nanomaterials,0.0345821325648415
+biomolecule,surface modification,0.09221902017291066
+biomolecule,biocompatibility,0.025936599423631124
+biomolecule,characterization,0.03170028818443804
+biomolecule,nanoporous,0.025936599423631124
+biomolecule,nanopore,0.043227665706051875
+alkene,alkyne,0.036585365853658534
+alkene,reactivity,0.036585365853658534
+asphaltene,fraction (chemistry),0.06896551724137931
+asphaltene,heteroatom,0.02681992337164751
+asphaltene,residue (chemistry),0.02681992337164751
+oxidizing agent,carbon fibers,0.0297029702970297
+magic angle spinning,zsm-5,0.029411764705882353
+brick,shrinkage,0.06091370558375635
+brick,husk,0.027918781725888325
+brick,slag (welding),0.04314720812182741
+brick,refractory (planetary science),0.0583756345177665
+electrochemical gas sensor,glassy carbon,0.09474768280123584
+electrochemical gas sensor,carbon fibers,0.04016477857878476
+electrochemical gas sensor,differential pulse voltammetry,0.101956745623069
+electrochemical gas sensor,amperometry,0.05252317198764161
+plating (geology),deposition,0.07346938775510205
+plating (geology),particle (ecology),0.02857142857142857
+polymer nanocomposite,surface modification,0.043478260869565216
+polymer nanocomposite,filler (materials),0.03557312252964427
+polymer nanocomposite,characterization,0.03557312252964427
+polymer nanocomposite,polystyrene,0.039525691699604744
+polymer nanocomposite,thermal stability,0.05138339920948617
+polymer nanocomposite,dielectric loss,0.023715415019762844
+polymer nanocomposite,volume fraction,0.02766798418972332
+overpotential,carbon fibers,0.061371841155234655
+overpotential,oxygen evolution,0.17148014440433212
+overpotential,glassy carbon,0.02707581227436823
+thermal shock,thermal stability,0.02456140350877193
+thermal shock,refractory (planetary science),0.03508771929824561
+thermal shock,mullite,0.08421052631578947
+thermal shock,cordierite,0.03859649122807018
+thermal shock,corundum,0.03508771929824561
+filler (materials),thermal stability,0.030612244897959183
+filler (materials),particle (ecology),0.026077097505668934
+ceramic matrix composite,matrix (chemical analysis),0.10725552050473186
+ceramic matrix composite,brittleness,0.028391167192429023
+ceramic matrix composite,hot pressing,0.025236593059936908
+ceramic matrix composite,mullite,0.025236593059936908
+ceramic matrix composite,spark plasma sintering,0.028391167192429023
+anhydrous,powder diffraction,0.02834008097165992
+biomaterial,titanium alloy,0.035483870967741936
+biomaterial,biocompatibility,0.14838709677419354
+biomaterial,simulated body fluid,0.03870967741935484
+biomaterial,surface modification,0.04516129032258064
+vinyl alcohol,thermal stability,0.05357142857142857
+vinyl alcohol,polyvinyl alcohol,0.05357142857142857
+vinyl alcohol,electrospinning,0.04017857142857143
+vinyl alcohol,thermogravimetric analysis,0.05803571428571429
+vinyl alcohol,surface modification,0.03125
+selective catalytic reduction,space velocity,0.03717472118959108
+selective catalytic reduction,temperature-programmed reduction,0.02973977695167286
+selective catalytic reduction,carbon fibers,0.026022304832713755
+selective catalytic reduction,nanomaterial-based catalyst,0.026022304832713755
+operating temperature,atmospheric temperature range,0.052980132450331126
+operating temperature,oxidizing agent,0.026490066225165563
+operating temperature,tin oxide,0.026490066225165563
+sonication,particle (ecology),0.05405405405405406
+sonication,zeta potential,0.04054054054054054
+hydrogenolysis,hydrodeoxygenation,0.07253886010362694
+hydrogenolysis,bimetallic strip,0.04404145077720207
+biocompatibility,biomaterial,0.04791666666666667
+biocompatibility,titanium alloy,0.035416666666666666
+biocompatibility,surface modification,0.06145833333333333
+biocompatibility,simulated body fluid,0.036458333333333336
+magnetism,orthorhombic crystal system,0.029166666666666667
+magnetism,tetragonal crystal system,0.0375
+catechol,moiety,0.023880597014925373
+catechol,surface modification,0.03283582089552239
+catechol,electrochemical gas sensor,0.050746268656716415
+catechol,glassy carbon,0.0626865671641791
+catechol,carbon fibers,0.03283582089552239
+catechol,differential pulse voltammetry,0.026865671641791045
+nickel oxide,non-blocking i/o,0.25806451612903225
+nickel oxide,carbon fibers,0.036290322580645164
+gravimetric analysis,carbon fibers,0.03201970443349754
+gravimetric analysis,thermal stability,0.05665024630541872
+gravimetric analysis,differential thermal analysis,0.024630541871921183
+gravimetric analysis,thermogravimetric analysis,0.15763546798029557
+isothermal process,thermogravimetric analysis,0.048903878583473864
+oxygen evolution,noble metal,0.025437201907790145
+oxygen evolution,carbon fibers,0.07631160572337042
+oxygen evolution,overpotential,0.151033386327504
+oxygen evolution,cobalt oxide,0.028616852146263912
+simulated body fluid,surface modification,0.07051282051282051
+simulated body fluid,biomaterial,0.038461538461538464
+simulated body fluid,biocompatibility,0.11217948717948718
+simulated body fluid,energy-dispersive x-ray spectroscopy,0.028846153846153848
+simulated body fluid,titanium alloy,0.035256410256410256
+simulated body fluid,calcium silicate,0.02564102564102564
+simulated body fluid,deposition,0.02564102564102564
+thermogravimetry,thermal stability,0.0580964153275649
+thermogravimetry,thermogravimetric analysis,0.0865265760197775
+thermogravimetry,differential thermal analysis,0.0754017305315204
+tribometer,abrasion (mechanical),0.03592814371257485
+tribometer,metal matrix composite,0.03592814371257485
+tribometer,titanium alloy,0.023952095808383235
+indium tin oxide,tin oxide,0.053691275167785234
+indium tin oxide,anodizing,0.026845637583892617
+indium tin oxide,nanoporous,0.030201342281879196
+phosphoric acid,oxalic acid,0.03382663847780127
+phosphoric acid,anodizing,0.07610993657505286
+powder metallurgy,particle (ecology),0.04582651391162029
+powder metallurgy,ductility (earth science),0.027823240589198037
+powder metallurgy,matrix (chemical analysis),0.03764320785597381
+powder metallurgy,metal matrix composite,0.05237315875613748
+powder metallurgy,relative density,0.03273322422258593
+powder metallurgy,spark plasma sintering,0.04746317512274959
+exfoliation joint,nanosheet,0.04573170731707317
+exfoliation joint,carbon fibers,0.03048780487804878
+exfoliation joint,nanomaterials,0.024390243902439025
+delamination,abrasion (mechanical),0.05714285714285714
+dispersity,raft,0.024875621890547265
+dispersity,polystyrene,0.03980099502487562
+dispersity,chain transfer,0.03980099502487562
+dispersity,atom-transfer radical-polymerization,0.05970149253731343
+inconel,isothermal process,0.028350515463917526
+bentonite,langmuir adsorption model,0.03577235772357724
+bentonite,thermogravimetric analysis,0.03739837398373984
+acetylene,carbon fibers,0.16831683168316833
+acetylene,deposition,0.0297029702970297
+acetylene,thermogravimetric analysis,0.024752475247524754
+acetylene,bimetallic strip,0.039603960396039604
+nanomaterial-based catalyst,bimetallic strip,0.07751937984496124
+nanomaterial-based catalyst,nanomaterials,0.03617571059431524
+nanomaterial-based catalyst,carbon fibers,0.05167958656330749
+microreactor,methanation,0.024489795918367346
+microreactor,exothermic reaction,0.024489795918367346
+microreactor,fischer–tropsch process,0.04081632653061224
+microreactor,space velocity,0.024489795918367346
+exothermic reaction,endothermic process,0.06642728904847396
+exothermic reaction,langmuir adsorption model,0.03590664272890485
+exothermic reaction,thermogravimetric analysis,0.026929982046678635
+mullite,thermal shock,0.03508771929824561
+mullite,corundum,0.059941520467836254
+mullite,cordierite,0.029239766081871343
+mullite,shrinkage,0.027777777777777776
+methanation,water-gas shift reaction,0.05251141552511415
+methanation,carbon fibers,0.09360730593607305
+methanation,bimetallic strip,0.02968036529680365
+methanation,chemisorption,0.02511415525114155
+methanation,non-blocking i/o,0.0365296803652968
+methanation,hydrotalcite,0.02511415525114155
+methanation,space velocity,0.0365296803652968
+chronoamperometry,amperometry,0.05928853754940711
+chronoamperometry,linear sweep voltammetry,0.04743083003952569
+chronoamperometry,glassy carbon,0.05533596837944664
+chronoamperometry,differential pulse voltammetry,0.05138339920948617
+chronoamperometry,electrochemical gas sensor,0.05533596837944664
+chronoamperometry,carbon fibers,0.03162055335968379
+glass-ceramic,borosilicate glass,0.030201342281879196
+glass-ceramic,differential thermal analysis,0.06040268456375839
+shrinkage,slag (welding),0.030577576443941108
+shrinkage,cementitious,0.03737259343148358
+shrinkage,brick,0.027180067950169876
+tin oxide,indium tin oxide,0.05776173285198556
+tin oxide,photocurrent,0.02888086642599278
+tin oxide,anodizing,0.02527075812274368
+thermogravimetric analysis,thermal stability,0.09662065683008092
+inert,inert gas,0.16459627329192547
+inert,particle (ecology),0.031055900621118012
+inert,carbon fibers,0.024844720496894408
+degradation,thermal stability,0.02498265093684941
+degradation,visible spectrum,0.040249826509368494
+degradation,passivation,0.024288688410825817
+degradation,photodegradation,0.0263705759888966
+degradation,thermogravimetric analysis,0.024288688410825817
+spin coating,deposition,0.035211267605633804
+spin coating,passivation,0.028169014084507043
+spin coating,wurtzite crystal structure,0.04929577464788732
+iron ore,slag (welding),0.050488599348534204
+iron ore,carbon fibers,0.04071661237785016
+iron ore,pellet,0.04234527687296417
+hardening (computing),vickers hardness test,0.027833001988071572
+rod,nanorod,0.046875
+rod,cladding (metalworking),0.026041666666666668
+refractory (planetary science),carbon fibers,0.03826530612244898
+refractory (planetary science),thermal shock,0.025510204081632654
+refractory (planetary science),shrinkage,0.025510204081632654
+refractory (planetary science),slag (welding),0.04846938775510204
+refractory (planetary science),brick,0.058673469387755105
+refractory (planetary science),mullite,0.03316326530612245
+refractory (planetary science),corundum,0.02806122448979592
+temperature cycling,thermal stability,0.03986710963455149
+temperature cycling,shear strength,0.026578073089700997
+permeance,propane,0.03816793893129771
+permeance,carbon fibers,0.03435114503816794
+nanometre,deposition,0.026970954356846474
+nanometre,micrometer,0.04149377593360996
+nanometre,characterization,0.029045643153526972
+cordierite,mullite,0.08196721311475409
+cordierite,thermal shock,0.045081967213114756
+cordierite,differential thermal analysis,0.03278688524590164
+cordierite,monolith,0.04918032786885246
+zeta potential,surface charge,0.043235704323570434
+zeta potential,particle (ecology),0.03765690376569038
+zeta potential,suspension,0.040446304044630406
+zeta potential,langmuir adsorption model,0.02510460251046025
+brittleness,ductility (earth science),0.02705749718151071
+atom-transfer radical-polymerization,dispersity,0.05027932960893855
+atom-transfer radical-polymerization,chain transfer,0.05446927374301676
+atom-transfer radical-polymerization,polystyrene,0.0670391061452514
+atom-transfer radical-polymerization,surface modification,0.029329608938547486
+atom-transfer radical-polymerization,thermogravimetric analysis,0.029329608938547486
+biopolymer,thermal stability,0.04736842105263158
+biopolymer,environmentally friendly,0.02631578947368421
+biopolymer,thermogravimetric analysis,0.031578947368421054
+microelectronics,deposition,0.049773755656108594
+microelectronics,characterization,0.03167420814479638
+filtration (mathematics),ceramic membrane,0.04774535809018567
+filtration (mathematics),particle (ecology),0.033156498673740056
+incipient wetness impregnation,temperature-programmed reduction,0.05454545454545454
+incipient wetness impregnation,carbon fibers,0.03636363636363636
+incipient wetness impregnation,chemisorption,0.031818181818181815
+incipient wetness impregnation,thermogravimetric analysis,0.02727272727272727
+incipient wetness impregnation,physisorption,0.02727272727272727
+incipient wetness impregnation,methanation,0.02727272727272727
+incipient wetness impregnation,hydrodeoxygenation,0.03636363636363636
+incipient wetness impregnation,bimetallic strip,0.05909090909090909
+calcium silicate,cementitious,0.023880597014925373
+calcium silicate,simulated body fluid,0.023880597014925373
+calcium silicate,slag (welding),0.04776119402985075
+calcium silicate,wollastonite,0.03283582089552239
+alkyne,alkene,0.02962962962962963
+alkyne,moiety,0.024691358024691357
+alkyne,surface modification,0.02962962962962963
+alkyne,reactivity,0.04691358024691358
+nanosheet,exfoliation joint,0.04043126684636118
+nanosheet,graphitic carbon nitride,0.04043126684636118
+nanosheet,carbon fibers,0.05390835579514825
+nanosheet,nanomaterials,0.029649595687331536
+nanosheet,oxygen evolution,0.03234501347708895
+aluminum oxide,deposition,0.03782894736842105
+aluminum oxide,aluminium oxides,0.07401315789473684
+aluminum oxide,anodizing,0.029605263157894735
+poly(n-isopropylacrylamide),thermal stability,0.06302521008403361
+poly(n-isopropylacrylamide),thermogravimetric analysis,0.046218487394957986
+poly(n-isopropylacrylamide),atom-transfer radical-polymerization,0.058823529411764705
+poly(n-isopropylacrylamide),surface modification,0.029411764705882353
+poly(n-isopropylacrylamide),dispersity,0.025210084033613446
+poly(n-isopropylacrylamide),polystyrene,0.029411764705882353
+cobalt oxide,fischer–tropsch process,0.0539568345323741
+cobalt oxide,oxygen evolution,0.06474820143884892
+cobalt oxide,carbon fibers,0.050359712230215826
+cobalt oxide,bimetallic strip,0.025179856115107913
+cobalt oxide,overpotential,0.03237410071942446
+ilmenite,rutile,0.07167235494880546
+ilmenite,corundum,0.04778156996587031
+thermocouple,atmospheric temperature range,0.045307443365695796
+thermocouple,slag (welding),0.025889967637540454
+aluminium oxides,aluminum oxide,0.11873350923482849
+aluminium oxides,deposition,0.029023746701846966
+aluminium oxides,anodizing,0.07651715039577836
+aluminium oxides,nanoporous,0.036939313984168866
+molding (decorative),filler (materials),0.02534562211981567
+molding (decorative),thermogravimetric analysis,0.027649769585253458
+molding (decorative),shrinkage,0.029953917050691243
+molding (decorative),polypropylene,0.027649769585253458
+fischer–tropsch process,carbon fibers,0.08923884514435695
+fischer–tropsch process,microreactor,0.026246719160104987
+fischer–tropsch process,water-gas shift reaction,0.031496062992125984
+fischer–tropsch process,particle (ecology),0.03412073490813648
+fischer–tropsch process,cobalt oxide,0.03937007874015748
+fischer–tropsch process,space velocity,0.03412073490813648
+oxidation state,x-ray absorption spectroscopy,0.052805280528052806
+oxidation state,reactivity,0.04950495049504951
+oxidation state,xanes,0.06930693069306931
+oxidation state,oxidizing agent,0.0297029702970297
+nanochemistry,nanomaterials,0.02459016393442623
+nanochemistry,carbon fibers,0.02459016393442623
+nanochemistry,deposition,0.03825136612021858
+hydrazine (antidepressant),carbon fibers,0.03879310344827586
+hydrazine (antidepressant),electrochemical gas sensor,0.04310344827586207
+hydrazine (antidepressant),amperometry,0.034482758620689655
+hydrazine (antidepressant),reducing agent,0.02586206896551724
+hydrazine (antidepressant),bimetallic strip,0.02586206896551724
+molar ratio,carbon fibers,0.0273972602739726
+molar ratio,morphology,0.023972602739726026
+molar ratio,space velocity,0.030821917808219176
+molar ratio,crucible (geodemography),0.030821917808219176
+molar ratio,stoichiometry,0.023972602739726026
+inert gas,inert,0.1799660441426146
+inert gas,carbon fibers,0.06112054329371817
+inert gas,thermogravimetric analysis,0.035653650254668934
+quartz crystal microbalance,deposition,0.05970149253731343
+quartz crystal microbalance,crystal (programming language),0.05472636815920398
+quartz crystal microbalance,nanoporous,0.029850746268656716
+template,nanomaterials,0.034653465346534656
+template,carbon fibers,0.028052805280528052
+template,nanoporous,0.0462046204620462
+template,nanopore,0.037953795379537955
+template,anodizing,0.07425742574257425
+template,deposition,0.028052805280528052
+template,polystyrene,0.033003300330033
+template,nanorod,0.026402640264026403
+cermet,carbon fibers,0.025906735751295335
+cermet,tungsten carbide,0.04145077720207254
+cermet,spark plasma sintering,0.025906735751295335
+cermet,powder metallurgy,0.03626943005181347
+cermet,relative density,0.025906735751295335
+glassy carbon,carbon fibers,0.13895993179880647
+glassy carbon,electrochemical gas sensor,0.0784313725490196
+glassy carbon,amperometry,0.03836317135549872
+glassy carbon,differential pulse voltammetry,0.057971014492753624
+surface layer,surface modification,0.049019607843137254
+surface layer,carbon fibers,0.024509803921568627
+surface layer,nanocrystalline material,0.024509803921568627
+surface layer,passivation,0.03431372549019608
+spark plasma sintering,powder metallurgy,0.04873949579831933
+spark plasma sintering,relative density,0.05042016806722689
+spark plasma sintering,vickers hardness test,0.03865546218487395
+monolith,cordierite,0.05106382978723404
+differential thermal analysis,thermogravimetric analysis,0.136431784107946
+differential thermal analysis,thermal stability,0.034482758620689655
+differential thermal analysis,thermogravimetry,0.09145427286356822
+differential thermal analysis,glass-ceramic,0.026986506746626688
+differential thermal analysis,atmospheric temperature range,0.0239880059970015
+endothermic process,exothermic reaction,0.07074569789674952
+endothermic process,langmuir adsorption model,0.1739961759082218
+endothermic process,thermogravimetric analysis,0.02676864244741874
+endothermic process,chemisorption,0.0248565965583174
+wollastonite,calcium silicate,0.041666666666666664
+wollastonite,slag (welding),0.045454545454545456
+rietveld refinement,powder diffraction,0.11472602739726027
+rietveld refinement,tetragonal crystal system,0.05136986301369863
+rietveld refinement,stoichiometry,0.025684931506849314
+rietveld refinement,orthorhombic crystal system,0.046232876712328765
+rietveld refinement,monoclinic crystal system,0.046232876712328765
+rietveld refinement,lattice constant,0.025684931506849314
+dimethyl ether,space velocity,0.05150214592274678
+dimethyl ether,zsm-5,0.030042918454935622
+wurtzite crystal structure,lattice constant,0.02631578947368421
+wurtzite crystal structure,morphology,0.043859649122807015
+wurtzite crystal structure,crystal (programming language),0.02631578947368421
+wurtzite crystal structure,deposition,0.02631578947368421
+wurtzite crystal structure,spin coating,0.03070175438596491
+wurtzite crystal structure,nanorod,0.039473684210526314
+coalescence (physics),particle (ecology),0.05555555555555555
+morphology,deposition,0.03314917127071823
+morphology,characterization,0.027624309392265192
+morphology,carbon fibers,0.02983425414364641
+morphology,particle (ecology),0.036464088397790057
+morphology,crystal (programming language),0.026519337016574586
+physical vapor deposition,deposition,0.22748815165876776
+non-blocking i/o,nickel oxide,0.08344198174706649
+non-blocking i/o,carbon fibers,0.03129074315514994
+anodizing,nanopore,0.049019607843137254
+anodizing,template,0.033936651583710405
+anodizing,phosphoric acid,0.027149321266968326
+anodizing,nanoporous,0.10558069381598793
+anodizing,oxalic acid,0.03996983408748114
+nanoclusters,nanomaterials,0.04477611940298507
+nanoclusters,overpotential,0.029850746268656716
+nanoclusters,carbon fibers,0.026119402985074626
+nanoclusters,deposition,0.026119402985074626
+nanoclusters,nanomaterial-based catalyst,0.026119402985074626
+carbothermic reaction,carbon fibers,0.19272727272727272
+carbothermic reaction,iron ore,0.025454545454545455
+chemical-looping combustion,reactivity,0.07028753993610223
+chemical-looping combustion,thermogravimetric analysis,0.054313099041533544
+chemical-looping combustion,carbon fibers,0.07028753993610223
+chemical-looping combustion,particle (ecology),0.03514376996805112
+chemical-looping combustion,methane reformer,0.02875399361022364
+red mud,slag (welding),0.04028436018957346
+corundum,mullite,0.05012224938875306
+corundum,crucible (geodemography),0.028117359413202935
+rutile,titanium dioxide,0.07366482504604052
+rutile,nanorod,0.02578268876611418
+rutile,titanium oxide,0.02394106813996317
+rutile,ilmenite,0.03867403314917127
+rutile,corundum,0.02578268876611418
+surface charge,surface modification,0.040865384615384616
+surface charge,particle (ecology),0.036057692307692304
+surface charge,zeta potential,0.07451923076923077
+petrochemical,fluid catalytic cracking,0.04887218045112782
+petrochemical,propane,0.03007518796992481
+chain transfer,raft,0.18757763975155278
+chain transfer,polystyrene,0.031055900621118012
+chain transfer,dispersity,0.02981366459627329
+chain transfer,atom-transfer radical-polymerization,0.0484472049689441
+abrasion (mechanical),particle (ecology),0.04689203925845147
+methane reformer,carbon fibers,0.0633245382585752
+methane reformer,carbon dioxide reforming,0.23218997361477572
+methane reformer,water-gas shift reaction,0.0316622691292876
+methane reformer,space velocity,0.0316622691292876
+methane reformer,chemical-looping combustion,0.023746701846965697
+hydrofluoric acid,phosphoric acid,0.03125
+hydrofluoric acid,abrasion (mechanical),0.03125
+hydrofluoric acid,shear strength,0.02734375
+lattice (music),lattice constant,0.11137440758293839
+lattice (music),tetragonal crystal system,0.030805687203791468
+copper oxide,aluminum oxide,0.02702702702702703
+saturation (graph theory),slag (welding),0.02771855010660981
+linear sweep voltammetry,chronoamperometry,0.05084745762711865
+linear sweep voltammetry,oxygen evolution,0.025423728813559324
+linear sweep voltammetry,electrochemical gas sensor,0.07627118644067797
+linear sweep voltammetry,glassy carbon,0.0635593220338983
+linear sweep voltammetry,differential pulse voltammetry,0.05508474576271186
+linear sweep voltammetry,overpotential,0.029661016949152543
+orthorhombic crystal system,rietveld refinement,0.04160246533127889
+orthorhombic crystal system,tetragonal crystal system,0.10015408320493066
+orthorhombic crystal system,monoclinic crystal system,0.08166409861325115
+orthorhombic crystal system,atmospheric temperature range,0.029275808936825885
+orthorhombic crystal system,powder diffraction,0.032357473035439135
+orthorhombic crystal system,crystal (programming language),0.03389830508474576
+relative density,powder metallurgy,0.06944444444444445
+relative density,tetragonal crystal system,0.027777777777777776
+relative density,spark plasma sintering,0.10416666666666667
+relative density,particle (ecology),0.04513888888888889
+relative density,shrinkage,0.027777777777777776
+relative density,molding (decorative),0.024305555555555556
+relative density,vickers hardness test,0.052083333333333336
+superparamagnetism,coprecipitation,0.024390243902439025
+superparamagnetism,nanomaterials,0.024390243902439025
+superparamagnetism,zeta potential,0.024390243902439025
+reaction rate,particle (ecology),0.02956989247311828
+reaction rate,isothermal process,0.03763440860215054
+reaction rate,thermogravimetric analysis,0.03763440860215054
+reaction rate,water-gas shift reaction,0.03225806451612903
+nanomaterials,carbon fibers,0.04189636163175303
+nanomaterials,surface modification,0.03252480705622933
+gibbsite,aluminate,0.02711864406779661
+gibbsite,boehmite,0.12542372881355932
+gibbsite,red mud,0.023728813559322035
+pellet,slag (welding),0.02710027100271003
+pellet,iron ore,0.07046070460704607
+pellet,carbon fibers,0.02710027100271003
+pellet,bentonite,0.03523035230352303
+elongation,volume fraction,0.028391167192429023
+elongation,particle (ecology),0.025236593059936908
+elongation,filler (materials),0.031545741324921134
+elongation,tensile testing,0.06309148264984227
+elongation,ductility (earth science),0.05362776025236593
+titanium alloy,surface modification,0.04566929133858268
+titanium alloy,biocompatibility,0.05354330708661417
+volume fraction,particle (ecology),0.04148660328435609
+autoclave,hydrodeoxygenation,0.03208556149732621
+small-angle x-ray scattering,dispersity,0.03409090909090909
+small-angle x-ray scattering,morphology,0.028409090909090908
+small-angle x-ray scattering,chain transfer,0.028409090909090908
+small-angle x-ray scattering,polystyrene,0.03409090909090909
+small-angle x-ray scattering,characterization,0.028409090909090908
+nanopore,nanoporous,0.16053921568627452
+nanopore,polystyrene,0.025735294117647058
+nanopore,anodizing,0.07965686274509803
+nanopore,template,0.028186274509803922
+polydimethylsiloxane,surface modification,0.02654867256637168
+polydimethylsiloxane,polystyrene,0.032448377581120944
+propane,carbon fibers,0.03777777777777778
+polyvinyl alcohol,thermogravimetric analysis,0.03536977491961415
+polyvinyl alcohol,thermal stability,0.02572347266881029
+polyvinyl alcohol,electrospinning,0.05466237942122187
+polyvinyl alcohol,vinyl alcohol,0.03858520900321544
+ultraviolet,visible spectrum,0.0420899854862119
+langmuir adsorption model,endothermic process,0.10044150110375276
+langmuir adsorption model,specific surface area,0.02759381898454746
+langmuir adsorption model,chemisorption,0.02759381898454746
+langmuir adsorption model,thermogravimetric analysis,0.04304635761589404
+langmuir adsorption model,bentonite,0.024282560706401765
+langmuir adsorption model,methylene blue,0.029801324503311258
+platinum nanoparticles,carbon fibers,0.07981220657276995
+platinum nanoparticles,particle (ecology),0.03286384976525822
+platinum nanoparticles,glassy carbon,0.03755868544600939
+energy-dispersive x-ray spectroscopy,deposition,0.025590551181102362
+energy-dispersive x-ray spectroscopy,characterization,0.027559055118110236
+water-gas shift reaction,reaction rate,0.03669724770642202
+water-gas shift reaction,carbon dioxide reforming,0.03058103975535168
+water-gas shift reaction,temperature-programmed reduction,0.027522935779816515
+water-gas shift reaction,methanation,0.07033639143730887
+water-gas shift reaction,space velocity,0.04281345565749235
+water-gas shift reaction,methane reformer,0.03669724770642202
+water-gas shift reaction,carbon fibers,0.03058103975535168
+water-gas shift reaction,fischer–tropsch process,0.03669724770642202
+xanes,x-ray absorption spectroscopy,0.1337386018237082
+xanes,oxidation state,0.06382978723404255
+xanes,corundum,0.030395136778115502
+hydrodeoxygenation,carbon fibers,0.030215827338129497
+hydrodeoxygenation,hydrogenolysis,0.04028776978417266
+chemical stability,thermal stability,0.11926605504587157
+chemical stability,chemical-looping combustion,0.03211009174311927
+noble metal,carbon fibers,0.03773584905660377
+noble metal,oxygen evolution,0.033542976939203356
+noble metal,hydrodeoxygenation,0.027253668763102725
+noble metal,bimetallic strip,0.04821802935010482
+suspension,particle (ecology),0.08553654743390357
+suspension,deposition,0.04665629860031104
+suspension,zeta potential,0.04510108864696734
+hysteresis,passivation,0.034274193548387094
+microscale chemistry,characterization,0.027548209366391185
+microscale chemistry,particle (ecology),0.03581267217630854
+differential pulse voltammetry,electrochemical gas sensor,0.14327062228654125
+differential pulse voltammetry,glassy carbon,0.09840810419681621
+differential pulse voltammetry,amperometry,0.03183791606367583
+differential pulse voltammetry,carbon fibers,0.027496382054992764
+physisorption,chemisorption,0.07407407407407407
+physisorption,carbon fibers,0.024691358024691357
+physisorption,thermogravimetric analysis,0.037037037037037035
+physisorption,specific surface area,0.024691358024691357
+vickers hardness test,indentation,0.06346749226006192
+vickers hardness test,spark plasma sintering,0.03560371517027864
+surface modification,carbon fibers,0.02502194907813872
+surface modification,biocompatibility,0.025899912203687446
+surface modification,nanomaterials,0.025899912203687446
+ductility (earth science),elongation,0.034
+ductility (earth science),volume fraction,0.032
+ductility (earth science),tensile testing,0.026
+ductility (earth science),metal matrix composite,0.026
+ductility (earth science),powder metallurgy,0.034
+ductility (earth science),brittleness,0.048
+ductility (earth science),particle (ecology),0.026
+photodegradation,visible spectrum,0.10778443113772455
+photodegradation,degradation,0.11377245508982035
+photodegradation,graphitic carbon nitride,0.029940119760479042
+photodegradation,methyl orange,0.038922155688622756
+photodegradation,rhodamine b,0.038922155688622756
+photodegradation,methylene blue,0.04790419161676647
+photodegradation,titanium dioxide,0.03592814371257485
+photodegradation,thermogravimetric analysis,0.02694610778443114
+reducing agent,selective catalytic reduction,0.02564102564102564
+reducing agent,hydrazine (antidepressant),0.02564102564102564
+reducing agent,carbon fibers,0.02564102564102564
+reducing agent,oxidizing agent,0.02564102564102564
+specific surface area,carbon fibers,0.08433734939759036
+specific surface area,bet theory,0.08089500860585198
+specific surface area,thermogravimetric analysis,0.028399311531841654
+refining (metallurgy),slag (welding),0.16780045351473924
+chemisorption,physisorption,0.06263048016701461
+chemisorption,temperature-programmed reduction,0.037578288100208766
+chemisorption,endothermic process,0.027139874739039668
+chemisorption,thermogravimetric analysis,0.025052192066805846
+chemisorption,langmuir adsorption model,0.05219206680584551
+europium,orthorhombic crystal system,0.03535353535353535
+europium,monoclinic crystal system,0.050505050505050504
+europium,tetragonal crystal system,0.025252525252525252
+powder diffraction,monoclinic crystal system,0.036535859269282815
+powder diffraction,tetragonal crystal system,0.02571041948579161
+powder diffraction,thermogravimetric analysis,0.037889039242219216
+powder diffraction,rietveld refinement,0.09066305818673884
+powder diffraction,orthorhombic crystal system,0.028416779431664412
+polystyrene,thermal stability,0.024026512013256007
+polystyrene,atom-transfer radical-polymerization,0.03976801988400994
+slag (welding),cementitious,0.024062933826931976
+slag (welding),carbon fibers,0.029153169828782972
+slag (welding),refining (metallurgy),0.03424340583063397
+microemulsion,particle (ecology),0.03125
+microemulsion,specific surface area,0.03125
+microemulsion,bimetallic strip,0.0390625
+microemulsion,nanomaterial-based catalyst,0.03125
+aqueous two-phase system,particle (ecology),0.027932960893854747
+aqueous two-phase system,asphaltene,0.0335195530726257
+power density,carbon fibers,0.057432432432432436
+fast ion conductor,tetragonal crystal system,0.03125
+polyacrylonitrile,electrospinning,0.16826923076923078
+polyacrylonitrile,carbon fibers,0.07692307692307693
+polyacrylonitrile,thermogravimetric analysis,0.02403846153846154
+polyacrylonitrile,polystyrene,0.028846153846153848
+passivation,deposition,0.050835148874364564
+passivation,degradation,0.025417574437182282
+texture (cosmology),deposition,0.02452316076294278
+monoclinic crystal system,tetragonal crystal system,0.10526315789473684
+monoclinic crystal system,crystal (programming language),0.041666666666666664
+monoclinic crystal system,rietveld refinement,0.029605263157894735
+monoclinic crystal system,orthorhombic crystal system,0.0581140350877193
+monoclinic crystal system,powder diffraction,0.029605263157894735
+husk,thermogravimetric analysis,0.026143790849673203
+husk,cementitious,0.0392156862745098
+husk,metakaolin,0.026143790849673203
+amide,reactivity,0.0273972602739726
+tetragonal crystal system,monoclinic crystal system,0.09090909090909091
+tetragonal crystal system,orthorhombic crystal system,0.061553030303030304
+tetragonal crystal system,rietveld refinement,0.028409090909090908
+silver nanoparticle,nanomaterials,0.03024193548387097
+silver nanoparticle,surface modification,0.02620967741935484
+shear strength,abrasion (mechanical),0.032397408207343416
+x-ray absorption spectroscopy,oxidation state,0.05714285714285714
+x-ray absorption spectroscopy,xanes,0.15714285714285714
+rhodamine b,degradation,0.08661417322834646
+rhodamine b,carbon fibers,0.028871391076115485
+rhodamine b,visible spectrum,0.07874015748031496
+rhodamine b,photodegradation,0.03412073490813648
+rhodamine b,graphitic carbon nitride,0.03412073490813648
+rhodamine b,langmuir adsorption model,0.026246719160104987
+cementitious,husk,0.02608695652173913
+cementitious,shrinkage,0.035869565217391305
+cementitious,slag (welding),0.05652173913043478
+cementitious,metakaolin,0.042391304347826085
+coprecipitation,layered double hydroxides,0.04857142857142857
+coprecipitation,hydrotalcite,0.03142857142857143
+hybrid material,carbon fibers,0.03571428571428571
+hybrid material,surface modification,0.02922077922077922
+hybrid material,thermal stability,0.04220779220779221
+hybrid material,thermogravimetric analysis,0.04220779220779221
+hybrid material,nanomaterials,0.025974025974025976
+molybdenum disulfide,exfoliation joint,0.025735294117647058
+molybdenum disulfide,carbon fibers,0.025735294117647058
+carbon nitride,graphitic carbon nitride,0.2607003891050584
+carbon nitride,carbon fibers,0.22568093385214008
+carbon nitride,visible spectrum,0.08171206225680934
+carbon nitride,degradation,0.0311284046692607
+titanium dioxide,visible spectrum,0.02564102564102564
+titanium dioxide,titanium oxide,0.04326923076923077
+titanium dioxide,deposition,0.02403846153846154
+titanium dioxide,rutile,0.0641025641025641
+fraction (chemistry),volume fraction,0.03333333333333333
+fraction (chemistry),carbon fibers,0.042222222222222223
+fraction (chemistry),mass fraction,0.06444444444444444
+fraction (chemistry),asphaltene,0.04
+ceramic membrane,filtration (mathematics),0.11650485436893204
+ceramic membrane,mullite,0.02912621359223301
+diffractometer,field emission microscopy,0.023809523809523808
+diffractometer,powder diffraction,0.02976190476190476
+methylene blue,visible spectrum,0.046218487394957986
+methylene blue,photodegradation,0.03361344537815126
+methylene blue,degradation,0.04411764705882353
+methylene blue,thermogravimetric analysis,0.025210084033613446
+methylene blue,specific surface area,0.03361344537815126
+methylene blue,cationic polymerization,0.04201680672268908
+methylene blue,langmuir adsorption model,0.05672268907563025
+methylene blue,carbon fibers,0.04201680672268908
+nanoporous,nanopore,0.08056580565805659
+nanoporous,carbon fibers,0.02706027060270603
+nanoporous,anodizing,0.08610086100861009
+titanium carbide,carbon fibers,0.055248618784530384
+titanium carbide,metal matrix composite,0.04419889502762431
+titanium carbide,ductility (earth science),0.027624309392265192
+titanium carbide,particle (ecology),0.027624309392265192
+oxalic acid,carbon fibers,0.027972027972027972
+oxalic acid,nitric acid,0.024475524475524476
+oxalic acid,phosphoric acid,0.055944055944055944
+oxalic acid,anodizing,0.1853146853146853
+oxalic acid,nanoporous,0.038461538461538464
+tube furnace,deposition,0.026455026455026454
+tube furnace,thermogravimetric analysis,0.0582010582010582
+tube furnace,carbon fibers,0.042328042328042326
+bet theory,specific surface area,0.21962616822429906
+bet theory,carbon fibers,0.053738317757009345
+bet theory,thermogravimetric analysis,0.04906542056074766
+bet theory,langmuir adsorption model,0.02570093457943925
+charge carrier,photocurrent,0.05
+charge carrier,visible spectrum,0.05263157894736842
+charge carrier,passivation,0.03684210526315789
+charge carrier,graphitic carbon nitride,0.031578947368421054
+silanol,zsm-5,0.034482758620689655
+silanol,surface modification,0.028735632183908046
+stoichiometry,crucible (geodemography),0.04499540863177227
+methyl orange,methylene blue,0.04672897196261682
+methyl orange,visible spectrum,0.08411214953271028
+methyl orange,photodegradation,0.06074766355140187
+methyl orange,langmuir adsorption model,0.06074766355140187
+methyl orange,degradation,0.056074766355140186
+methyl orange,rhodamine b,0.04205607476635514
+methyl orange,titanium dioxide,0.03271028037383177
+thermal stability,thermogravimetric analysis,0.11309192200557103
+raft,polystyrene,0.026690391459074734
+raft,chain transfer,0.26868327402135234
+raft,dispersity,0.026690391459074734
+heteroatom,carbon fibers,0.16352201257861634
+heteroatom,reactivity,0.025157232704402517
+hydrotalcite,thermogravimetric analysis,0.047058823529411764
+hydrotalcite,coprecipitation,0.043137254901960784
+hydrotalcite,methanation,0.043137254901960784
+hydrotalcite,layered double hydroxides,0.06274509803921569
+hydrotalcite,carbon dioxide reforming,0.054901960784313725
+hydrotalcite,non-blocking i/o,0.03529411764705882
+metal matrix composite,powder metallurgy,0.05271828665568369
+metal matrix composite,matrix (chemical analysis),0.17627677100494235
+metal matrix composite,volume fraction,0.03459637561779242
+metal matrix composite,particle (ecology),0.05930807248764415
+carbon dioxide reforming,carbon fibers,0.10816326530612246
+carbon dioxide reforming,methane reformer,0.17959183673469387
+carbon dioxide reforming,bimetallic strip,0.036734693877551024
+carbon dioxide reforming,non-blocking i/o,0.02857142857142857
+carbon dioxide reforming,temperature-programmed reduction,0.03877551020408163
+carbon dioxide reforming,space velocity,0.030612244897959183
+carbon dioxide reforming,hydrotalcite,0.02857142857142857
+sodium hydroxide,slag (welding),0.039097744360902256
+sodium hydroxide,metakaolin,0.042105263157894736
+layered double hydroxides,oxygen evolution,0.02601156069364162
+layered double hydroxides,hydrotalcite,0.046242774566473986
+layered double hydroxides,thermogravimetric analysis,0.03757225433526012
+layered double hydroxides,langmuir adsorption model,0.02601156069364162
+layered double hydroxides,coprecipitation,0.049132947976878616
+layered double hydroxides,thermal stability,0.031791907514450865
+indentation,vickers hardness test,0.09738717339667459
+indentation,brittleness,0.04513064133016627
+indentation,characterization,0.026128266033254157
+indentation,spark plasma sintering,0.028503562945368172
+mass fraction,fraction (chemistry),0.0705596107055961
+mass fraction,volume fraction,0.06326034063260341
+mass fraction,particle (ecology),0.0413625304136253
+mass fraction,slag (welding),0.024330900243309004
+metakaolin,sodium hydroxide,0.054474708171206226
+metakaolin,cementitious,0.07587548638132295
+metakaolin,shrinkage,0.029182879377431907
+metakaolin,husk,0.0311284046692607
+metakaolin,slag (welding),0.04669260700389105
+bimetallic strip,carbon fibers,0.047522750252780584
+bimetallic strip,nanomaterial-based catalyst,0.030333670374115267
+hydrothermal synthesis,crystal (programming language),0.02952755905511811
+hydrothermal synthesis,morphology,0.02952755905511811
+hydrothermal synthesis,characterization,0.03346456692913386
+hydrothermal synthesis,zsm-5,0.03346456692913386
+hydrothermal synthesis,nanorod,0.03543307086614173
+hydrothermal synthesis,boehmite,0.025590551181102362
+acrylic acid,zeta potential,0.023715415019762844
+acrylic acid,thermogravimetric analysis,0.023715415019762844
+acrylic acid,chain transfer,0.023715415019762844
+acrylic acid,raft,0.023715415019762844
+acrylic acid,polystyrene,0.03557312252964427
+acrylic acid,atom-transfer radical-polymerization,0.03162055335968379
+biofouling,surface modification,0.06713780918727916
+biofouling,filtration (mathematics),0.0353356890459364
+coupling reaction,reactivity,0.0335195530726257
+coupling reaction,alkyne,0.025139664804469275
+hot pressing,matrix (chemical analysis),0.023715415019762844
+hot pressing,powder metallurgy,0.039525691699604744
+hot pressing,ceramic matrix composite,0.03162055335968379
+hot pressing,vickers hardness test,0.023715415019762844
+hot pressing,carbon fibers,0.039525691699604744
+hot pressing,spark plasma sintering,0.043478260869565216
+zsm-5,fluid catalytic cracking,0.050119331742243436
+zsm-5,hydrothermal synthesis,0.0405727923627685
+zsm-5,space velocity,0.031026252983293555
+zsm-5,crystal (programming language),0.03341288782816229
+residue (chemistry),red mud,0.024242424242424242
+residue (chemistry),fraction (chemistry),0.024242424242424242
+polyvinylpyrrolidone,specific surface area,0.025477707006369428
+polyvinylpyrrolidone,thermal stability,0.03184713375796178
+polyvinylpyrrolidone,electrospinning,0.06369426751592357
+polyvinylpyrrolidone,thermogravimetric analysis,0.025477707006369428
+polyvinylpyrrolidone,silver nanoparticle,0.03821656050955414
+carbon steel,carbon fibers,0.19518716577540107
+pulsed laser deposition,deposition,0.1875
+pulsed laser deposition,crystal (programming language),0.03125
+catalytic combustion,noble metal,0.04054054054054054
+catalytic combustion,deposition,0.02702702702702703
+catalytic combustion,thermal stability,0.033783783783783786
+catalytic combustion,carbon fibers,0.033783783783783786
+catalytic combustion,isothermal process,0.02702702702702703
+catalytic combustion,methane reformer,0.02702702702702703
+tensile testing,elongation,0.05509641873278237
+tensile testing,vickers hardness test,0.027548209366391185
+tensile testing,ductility (earth science),0.03581267217630854
+tensile testing,brittleness,0.027548209366391185
+nanorod,nanomaterials,0.02964254577157803
+nanorod,deposition,0.02789886660854403
+field emission microscopy,carbon fibers,0.0364963503649635
+field emission microscopy,deposition,0.029197080291970802
+field emission microscopy,nanomaterials,0.029197080291970802
+field emission microscopy,thermogravimetric analysis,0.051094890510948905
+field emission microscopy,diffractometer,0.058394160583941604
+field emission microscopy,nanorod,0.0364963503649635
+visible spectrum,carbon nitride,0.04042348411934552
+visible spectrum,photodegradation,0.03464870067372473
+visible spectrum,degradation,0.05582290664100096
+visible spectrum,photocurrent,0.02406159769008662
+visible spectrum,carbon fibers,0.04523580365736285
+visible spectrum,graphitic carbon nitride,0.05582290664100096
+visible spectrum,ultraviolet,0.02791145332050048
+visible spectrum,rhodamine b,0.028873917228103944
+matrix (chemical analysis),metal matrix composite,0.08566853482786228
+matrix (chemical analysis),ceramic matrix composite,0.02722177742193755
+matrix (chemical analysis),particle (ecology),0.04083266613290633
+mixed oxide,cerium oxide,0.028901734104046242
+mixed oxide,cobalt oxide,0.03468208092485549
+mixed oxide,coprecipitation,0.03468208092485549
+space velocity,carbon fibers,0.040955631399317405
+space velocity,methanation,0.027303754266211604
+space velocity,carbon dioxide reforming,0.025597269624573378
+space velocity,water-gas shift reaction,0.023890784982935155
+boehmite,gibbsite,0.07740585774058577
+boehmite,hydrothermal synthesis,0.027196652719665274
+boehmite,thermal stability,0.02510460251046025
+boehmite,specific surface area,0.03138075313807531
+potassium hydroxide,sodium hydroxide,0.07653061224489796
+potassium hydroxide,carbon fibers,0.07142857142857142
+potassium hydroxide,specific surface area,0.025510204081632654
+borosilicate glass,glass-ceramic,0.024456521739130436
+titanium oxide,deposition,0.03017241379310345
+titanium oxide,titanium dioxide,0.11637931034482758
+titanium oxide,titanium alloy,0.03017241379310345
+titanium oxide,rutile,0.05603448275862069
+titanium oxide,anodizing,0.04310344827586207
+carbon fibers,glassy carbon,0.027394957983193278
+metastability,atmospheric temperature range,0.024336283185840708
+metastability,crystal (programming language),0.033185840707964605
+metastability,tetragonal crystal system,0.024336283185840708
+metastability,corundum,0.02654867256637168
+quantum yield,thermal stability,0.030534351145038167
+micrometer,nanometre,0.1092896174863388
+micrometer,particle (ecology),0.03825136612021858
+micrometer,nanoporous,0.0273224043715847
+graphitic carbon nitride,visible spectrum,0.0928
+graphitic carbon nitride,carbon nitride,0.2144
+graphitic carbon nitride,carbon fibers,0.1744
+graphitic carbon nitride,degradation,0.0368
+graphitic carbon nitride,nanosheet,0.024
+lattice constant,lattice (music),0.11809045226130653
+lattice constant,stoichiometry,0.02763819095477387
+lattice constant,powder diffraction,0.03015075376884422
+lattice constant,crystal (programming language),0.035175879396984924
+lattice constant,tetragonal crystal system,0.032663316582914576
+lattice constant,rietveld refinement,0.03768844221105527
+bar (unit),partial pressure,0.026936026936026935
+bar (unit),space velocity,0.030303030303030304
+electrospinning,polyvinyl alcohol,0.030035335689045935
+electrospinning,polyacrylonitrile,0.061837455830388695
+electrospinning,carbon fibers,0.0353356890459364
+electrospinning,thermal stability,0.03180212014134275
+electrospinning,thermogravimetric analysis,0.030035335689045935
+limiting,deposition,0.06043956043956044
+electrophoretic deposition,deposition,0.19576719576719576
+electrophoretic deposition,suspension,0.07936507936507936
+electrophoretic deposition,carbon fibers,0.031746031746031744
+electrophoretic deposition,surface modification,0.037037037037037035
+electrophoretic deposition,zeta potential,0.026455026455026454
+reducing atmosphere,carbon fibers,0.06878306878306878
+reducing atmosphere,oxidizing agent,0.06878306878306878
+reducing atmosphere,inert gas,0.026455026455026454
+reducing atmosphere,lanthanum,0.026455026455026454
+reducing atmosphere,iron ore,0.031746031746031744
