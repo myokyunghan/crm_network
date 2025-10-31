@@ -34,12 +34,6 @@ edges_t15 <- read.csv(ele_f_t15)
 edges_t20 <- read.csv(ele_f_t20)
 ```
 
-```{r}
-#edges_t10 <- read.csv("data/tpu_edge_list_data_2010.csv")
-edges_t15 <- read.csv("data/tpu_edge_list_data_2015.csv")
-edges_t20 <- read.csv("data/tpu_edge_list_data_2020.csv")
-```
-
 The `echo: false` option disables the printing of code (only output is displayed).
 
 ```{r}
@@ -87,7 +81,7 @@ X.list <- list(X1, X2)
 # === 7. TERGM (btergm) 모델 추정 ===
 set.seed(100)
 model <- tergm(net.list ~ edges 
-                + gwesp(0.1, fixed = TRUE) 
+                #+ gwesp(0.1, fixed = TRUE) 
                 #+ edgecov(X.list)
                 + mutual
                 + nodecov("indegree")
@@ -96,7 +90,10 @@ model <- tergm(net.list ~ edges
                 estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
+r_f_name <- paste0("result/", element, "_models.txt")  # => "network_plot_2050.png"
+sink(r_f_name, append = TRUE)
 summary(model)
+sink()
 ```
 
 ```{r}
@@ -108,8 +105,8 @@ sim <- simulate(model, nsim = 1, time.slices = 5, nw.start="first")
 class(sim)       # "list"
 length(sim)      # 예: 1
 class(sim[[1]])  # "network"
-
 ```
+
 ```{r}
 str(sim, max.level = 1)
 ```
@@ -121,7 +118,8 @@ label.cex=.8,
 label.col="blue",
 vertex.cex = 1)
 
-render.d3movie(sim)
+h_f_path <- paste0("html/", element, "_simulation_movie.html") 
+render.d3movie(sim, htmlfile = "simulation_movie.html")
 ```
 
 
@@ -182,7 +180,7 @@ png(filename, width = 1200, height = 900, res = 150)
 
 simp1 <- network.extract(sim, at=1)
 deg <- sna::degree(simp1, gmode = "digraph", cmode="indegree")
-label <- ifelse(deg>=2, network.vertex.names(simp1), "")
+label <- ifelse(deg>=3, network.vertex.names(simp1), "")
 set.seed(52113)
 plot.network(simp1,
              label=label,
@@ -230,7 +228,7 @@ dev.off()
 # Simulated results
 simp3 <- network.extract(sim, at=3)
 deg <- sna::degree(simp3, gmode = "digraph", cmode="indegree")
-label <- ifelse(deg>=2, network.vertex.names(simp3), "")
+label <- ifelse(deg>=3, network.vertex.names(simp3), "")
 set.seed(515)
 
 # 1️⃣ 저장할 파일 열기
