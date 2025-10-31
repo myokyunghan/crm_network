@@ -355,74 +355,13 @@ display: none;
 
 <pre class="r"><code>#install.packages(c(&quot;network&quot;, &quot;btergm&quot;, &quot;tergm&quot;, &quot;ggraph&quot;, &quot;intergraph&quot;))</code></pre>
 <pre class="r"><code>#install.packages(c(&quot;ggraph&quot;, &quot;intergraph&quot;))</code></pre>
-<pre class="r"><code>library(network)</code></pre>
-<pre><code>## 
-## &#39;network&#39; 1.19.0 (2024-12-08), part of the Statnet Project
-## * &#39;news(package=&quot;network&quot;)&#39; for changes since last version
-## * &#39;citation(&quot;network&quot;)&#39; for citation information
-## * &#39;https://statnet.org&#39; for help, support, and other information</code></pre>
-<pre class="r"><code>library(tergm)</code></pre>
-<pre><code>## 필요한 패키지를 로딩중입니다: ergm</code></pre>
-<pre><code>## 
-## &#39;ergm&#39; 4.10.1 (2025-08-26), part of the Statnet Project
-## * &#39;news(package=&quot;ergm&quot;)&#39; for changes since last version
-## * &#39;citation(&quot;ergm&quot;)&#39; for citation information
-## * &#39;https://statnet.org&#39; for help, support, and other information</code></pre>
-<pre><code>## &#39;ergm&#39; 4 is a major update that introduces some backwards-incompatible
-## changes. Please type &#39;news(package=&quot;ergm&quot;)&#39; for a list of major
-## changes.</code></pre>
-<pre><code>## 필요한 패키지를 로딩중입니다: networkDynamic</code></pre>
-<pre><code>## 
-## &#39;networkDynamic&#39; 0.11.5 (2024-11-21), part of the Statnet Project
-## * &#39;news(package=&quot;networkDynamic&quot;)&#39; for changes since last version
-## * &#39;citation(&quot;networkDynamic&quot;)&#39; for citation information
-## * &#39;https://statnet.org&#39; for help, support, and other information</code></pre>
-<pre><code>## 
-## &#39;tergm&#39; 4.2.2 (2025-06-15), part of the Statnet Project
-## * &#39;news(package=&quot;tergm&quot;)&#39; for changes since last version
-## * &#39;citation(&quot;tergm&quot;)&#39; for citation information
-## * &#39;https://statnet.org&#39; for help, support, and other information</code></pre>
-<pre class="r"><code>library(sna)</code></pre>
-<pre><code>## 필요한 패키지를 로딩중입니다: statnet.common</code></pre>
-<pre><code>## 
-## 다음의 패키지를 부착합니다: &#39;statnet.common&#39;</code></pre>
-<pre><code>## The following objects are masked from &#39;package:base&#39;:
-## 
-##     attr, order, replace</code></pre>
-<pre><code>## sna: Tools for Social Network Analysis
-## Version 2.8 created on 2024-09-07.
-## copyright (c) 2005, Carter T. Butts, University of California-Irvine
-##  For citation information, type citation(&quot;sna&quot;).
-##  Type help(package=&quot;sna&quot;) to get started.</code></pre>
-<pre class="r"><code>library(igraph)</code></pre>
-<pre><code>## 
-## 다음의 패키지를 부착합니다: &#39;igraph&#39;</code></pre>
-<pre><code>## The following objects are masked from &#39;package:sna&#39;:
-## 
-##     betweenness, bonpow, closeness, components, degree, dyad.census,
-##     evcent, hierarchy, is.connected, neighborhood, triad.census</code></pre>
-<pre><code>## The following objects are masked from &#39;package:network&#39;:
-## 
-##     %c%, %s%, add.edges, add.vertices, delete.edges, delete.vertices,
-##     get.edge.attribute, get.edges, get.vertex.attribute, is.bipartite,
-##     is.directed, list.edge.attributes, list.vertex.attributes,
-##     set.edge.attribute, set.vertex.attribute</code></pre>
-<pre><code>## The following objects are masked from &#39;package:stats&#39;:
-## 
-##     decompose, spectrum</code></pre>
-<pre><code>## The following object is masked from &#39;package:base&#39;:
-## 
-##     union</code></pre>
-<pre class="r"><code>library(ggraph)</code></pre>
-<pre><code>## 필요한 패키지를 로딩중입니다: ggplot2</code></pre>
-<pre class="r"><code>library(intergraph)
+<pre class="r"><code>library(network)
+library(tergm)
+library(sna)
+library(igraph)
+library(ggraph)
+library(intergraph)
 library(ndtv)</code></pre>
-<pre><code>## 필요한 패키지를 로딩중입니다: animation</code></pre>
-<pre><code>## 
-## &#39;ndtv&#39; 0.13.4 (2024-06-30), part of the Statnet Project
-## * &#39;news(package=&quot;ndtv&quot;)&#39; for changes since last version
-## * &#39;citation(&quot;ndtv&quot;)&#39; for citation information
-## * &#39;https://statnet.org&#39; for help, support, and other information</code></pre>
 <pre class="r"><code>element   &lt;- params$element
 ele_f_t15 &lt;- paste0(&quot;data/&quot;, element, &quot;_edge_list_data_2015.csv&quot;)
 ele_f_t20 &lt;- paste0(&quot;data/&quot;, element, &quot;_edge_list_data_2020.csv&quot;)
@@ -433,11 +372,11 @@ edges_t20 &lt;- read.csv(ele_f_t20)</code></pre>
 (only output is displayed).</p>
 <pre class="r"><code>#head(edges_t1)
 dim(edges_t15)  </code></pre>
-<pre><code>## [1] 1169    3</code></pre>
+<pre><code>## [1] 94  3</code></pre>
 <pre class="r"><code>nodes &lt;- unique(c(edges_t15$from, edges_t15$to, edges_t20$from, edges_t20$to))
 node_df &lt;- data.frame(name = nodes)</code></pre>
 <pre class="r"><code>length(nodes)</code></pre>
-<pre><code>## [1] 555</code></pre>
+<pre><code>## [1] 77</code></pre>
 <pre class="r"><code>net1 &lt;- network(edges_t15, 
                 directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
 net2 &lt;- network(edges_t20, directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
@@ -470,12 +409,6 @@ model &lt;- tergm(net.list ~ edges
                 + diff(attr=&quot;indegree&quot;, dir=&quot;t-h&quot;)
                 , 
                 estimate=&quot;CMLE&quot;, times=0:2)</code></pre>
-<pre><code>## NOTE: Possible C application binary interface (ABI) version mismatch in
-##   &#39;tergm&#39; detected (compiled against &#39;ergm&#39; 4.9, running against 4.10).
-##   If you experience mysterious crashes and errors, rebuilding &#39;tergm&#39;
-##   may help. You can silence this message by setting
-##   &#39;options(ergm.ABI.action = ...)&#39;. (See &#39;options?ergm&#39; for possible
-##   values.)</code></pre>
 <pre><code>## Starting maximum pseudolikelihood estimation (MPLE):</code></pre>
 <pre><code>## Obtaining the responsible dyads.</code></pre>
 <pre><code>## Evaluating the predictor and response matrix.</code></pre>
@@ -483,33 +416,109 @@ model &lt;- tergm(net.list ~ edges
 <pre><code>## Finished MPLE.</code></pre>
 <pre><code>## Starting Monte Carlo maximum likelihood estimation (MCMLE):</code></pre>
 <pre><code>## Iteration 1 of at most 60:</code></pre>
-<pre><code>## Warning: &#39;glpk&#39; selected as the solver, but package &#39;Rglpk&#39; is not available;
-## falling back to &#39;lpSolveAPI&#39;. This should be fine unless the sample size and/or
-## the number of parameters is very big.</code></pre>
-<pre><code>## 1</code></pre>
-<pre><code>## Optimizing with step length 0.1619.</code></pre>
-<pre><code>## The log-likelihood improved by 3.5019.</code></pre>
-<pre><code>## Estimating equations are not within tolerance region.</code></pre>
-<pre><code>## Iteration 2 of at most 60:</code></pre>
-<pre><code>## 1 Optimizing with step length 0.4023.
-## The log-likelihood improved by 3.2264.
+<pre><code>## 1 Optimizing with step length 0.0557.
+## The log-likelihood improved by 1.5417.
+## Estimating equations are not within tolerance region.
+## Iteration 2 of at most 60:
+## 1 Optimizing with step length 0.0408.
+## The log-likelihood improved by 1.8095.
 ## Estimating equations are not within tolerance region.
 ## Iteration 3 of at most 60:
-## 1 Optimizing with step length 0.7623.
-## The log-likelihood improved by 3.9352.
+## 1 Optimizing with step length 0.0495.
+## The log-likelihood improved by 4.4674.
 ## Estimating equations are not within tolerance region.
 ## Iteration 4 of at most 60:
-## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0945.
-## Convergence test p-value: 0.8319. Not converged with 99% confidence; increasing sample size.
+## 1 Optimizing with step length 0.0370.
+## The log-likelihood improved by 1.3849.
+## Estimating equations are not within tolerance region.
 ## Iteration 5 of at most 60:
-## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0111.
-## Convergence test p-value: 0.4656. Not converged with 99% confidence; increasing sample size.
+## 1 Optimizing with step length 0.0513.
+## The log-likelihood improved by 1.9215.
+## Estimating equations are not within tolerance region.
 ## Iteration 6 of at most 60:
+## 1 Optimizing with step length 0.0559.
+## The log-likelihood improved by 2.1960.
+## Estimating equations are not within tolerance region.
+## Iteration 7 of at most 60:
+## 1 Optimizing with step length 0.0706.
+## The log-likelihood improved by 2.1460.
+## Estimating equations are not within tolerance region.
+## Iteration 8 of at most 60:
+## 1 Optimizing with step length 0.0660.
+## The log-likelihood improved by 2.9105.
+## Estimating equations are not within tolerance region.
+## Iteration 9 of at most 60:
+## 1 Optimizing with step length 0.0845.
+## The log-likelihood improved by 1.9135.
+## Estimating equations are not within tolerance region.
+## Iteration 10 of at most 60:
+## 1 Optimizing with step length 0.0960.
+## The log-likelihood improved by 2.0613.
+## Estimating equations are not within tolerance region.
+## Iteration 11 of at most 60:
+## 1 Optimizing with step length 0.1121.
+## The log-likelihood improved by 2.3264.
+## Estimating equations are not within tolerance region.
+## Iteration 12 of at most 60:
+## 1 Optimizing with step length 0.0812.
+## The log-likelihood improved by 1.4423.
+## Estimating equations are not within tolerance region.
+## Iteration 13 of at most 60:
+## 1 Optimizing with step length 0.0627.
+## The log-likelihood improved by 1.2044.
+## Estimating equations are not within tolerance region.
+## Iteration 14 of at most 60:
+## 1 Optimizing with step length 0.1012.
+## The log-likelihood improved by 2.5968.
+## Estimating equations are not within tolerance region.
+## Iteration 15 of at most 60:
+## 1 Optimizing with step length 0.1868.
+## The log-likelihood improved by 1.4276.
+## Estimating equations are not within tolerance region.
+## Iteration 16 of at most 60:
+## 1 Optimizing with step length 0.0916.
+## The log-likelihood improved by 2.3450.
+## Estimating equations are not within tolerance region.
+## Iteration 17 of at most 60:
+## 1 Optimizing with step length 0.1976.
+## The log-likelihood improved by 2.3102.
+## Estimating equations are not within tolerance region.
+## Iteration 18 of at most 60:
+## 1 Optimizing with step length 0.2472.
+## The log-likelihood improved by 2.2505.
+## Estimating equations are not within tolerance region.
+## Iteration 19 of at most 60:
+## 1 Optimizing with step length 0.2900.
+## The log-likelihood improved by 2.4793.
+## Estimating equations are not within tolerance region.
+## Iteration 20 of at most 60:
+## 1 Optimizing with step length 0.4815.
+## The log-likelihood improved by 2.9590.
+## Estimating equations are not within tolerance region.
+## Iteration 21 of at most 60:
+## 1 Optimizing with step length 0.7938.
+## The log-likelihood improved by 3.1630.
+## Estimating equations are not within tolerance region.
+## Iteration 22 of at most 60:
+## 1 Optimizing with step length 0.9073.
+## The log-likelihood improved by 2.4728.
+## Estimating equations are not within tolerance region.
+## Iteration 23 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0211.
-## Convergence test p-value: 0.0046. Converged with 99% confidence.
+## The log-likelihood improved by 0.2982.
+## Estimating equations are not within tolerance region.
+## Iteration 24 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.4546.
+## Estimating equations are not within tolerance region.
+## Iteration 25 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0937.
+## Convergence test p-value: 0.3385. Not converged with 99% confidence; increasing sample size.
+## Iteration 26 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0236.
+## Convergence test p-value: 0.0057. Converged with 99% confidence.
 ## Finished MCMLE.
 ## Evaluating log-likelihood at the estimate. Fitting the dyad-independent submodel...
 ## Bridging between the dyad-independent submodel and the full model...
@@ -536,15 +545,15 @@ class(sim)       # &quot;list&quot;</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
 <pre class="r"><code>str(sim, max.level = 1)</code></pre>
 <pre><code>## List of 5
-##  $ mel:List of 4144
+##  $ mel:List of 372
 ##  $ gal:List of 8
-##  $ val:List of 555
-##  $ iel:List of 555
-##  $ oel:List of 555
+##  $ val:List of 77
+##  $ iel:List of 77
+##  $ oel:List of 77
 ##  - attr(*, &quot;class&quot;)= chr [1:2] &quot;networkDynamic&quot; &quot;network&quot;
-##  - attr(*, &quot;coef&quot;)= Named num [1:4] -6.3815 5.1806 0.0168 -0.0474
+##  - attr(*, &quot;coef&quot;)= Named num [1:4] -5.4 4.621 0.101 -0.187
 ##   ..- attr(*, &quot;names&quot;)= chr [1:4] &quot;edges&quot; &quot;mutual&quot; &quot;nodecov.indegree&quot; &quot;diff.t-h.indegree&quot;
-##  - attr(*, &quot;changes&quot;)= num [1:6620, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
+##  - attr(*, &quot;changes&quot;)= num [1:613, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
 ##   ..- attr(*, &quot;dimnames&quot;)=List of 2</code></pre>
 <pre class="r"><code>plot.par = list(edge.col=&quot;darkgray&quot;,
 displaylabels = T,

@@ -5,15 +5,15 @@ tergm(formula = net.list ~ edges + mutual + nodecov("indegree") +
 
 Monte Carlo Conditional Maximum Likelihood Results:
 
-                   Estimate Std. Error MCMC % z value Pr(>|z|)    
-edges             -6.795503   0.036040      0 -188.55   <1e-04 ***
-mutual             6.216811   0.095123      0   65.36   <1e-04 ***
-nodecov.indegree   0.018045   0.001501      0   12.02   <1e-04 ***
-diff.t-h.indegree -0.052319   0.001761      0  -29.71   <1e-04 ***
+                  Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges             -6.15997    0.16172      0 -38.091   <1e-04 ***
+mutual             6.15746    0.36436      0  16.899   <1e-04 ***
+nodecov.indegree   0.09204    0.01587      0   5.800   <1e-04 ***
+diff.t-h.indegree -0.21901    0.02392      0  -9.155   <1e-04 ***
 ---
 Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
-     Null Deviance: 937836  on 676506  degrees of freedom
- Residual Deviance:  19017  on 676502  degrees of freedom
+     Null Deviance: 24338  on 17556  degrees of freedom
+ Residual Deviance:  1199  on 17552  degrees of freedom
  
-AIC: 19025  BIC: 19071  (Smaller is better. MC Std. Err. = 4.693)
+AIC: 1207  BIC: 1238  (Smaller is better. MC Std. Err. = 1.032)
