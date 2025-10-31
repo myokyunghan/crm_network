@@ -1,47 +1,49 @@
 from,to,weight
-small-angle x-ray scattering,filler (materials),0.26666666666666666
-hybrid material,thermogravimetric analysis,0.1875
+rolling resistance,abrasion (mechanical),0.25
+inverse gas chromatography,surface modification,0.3333333333333333
+inverse gas chromatography,fumed silica,0.3333333333333333
+inverse gas chromatography,thermogravimetric analysis,0.3333333333333333
+polylactic acid,thermogravimetric analysis,0.25
+polylactic acid,husk,0.5
+polylactic acid,surface modification,0.25
+melt flow index,thermogravimetric analysis,0.3333333333333333
+melt flow index,thermal stability,0.3333333333333333
+limiting oxygen index,thermogravimetric analysis,0.2857142857142857
+butyl acrylate,thermal stability,0.25
+butyl acrylate,thermogravimetric analysis,0.25
+butyl acrylate,dispersity,0.25
+jatropha,elongation,0.25
+jatropha,compounding,0.25
+jatropha,filler (materials),0.25
+jatropha,abrasion (mechanical),0.25
+masterbatch,compounding,0.3333333333333333
+design–expert,tear resistance,0.25
+design–expert,filler (materials),0.25
 tearing,tear resistance,0.25
-ethylene-vinyl acetate,molding (decorative),0.16666666666666666
-ethylene-vinyl acetate,shore durometer,0.16666666666666666
-ethylene-vinyl acetate,tear resistance,0.16666666666666666
-ethylene-vinyl acetate,filler (materials),0.16666666666666666
-ethylene-vinyl acetate,abrasion (mechanical),0.16666666666666666
-elongation,filler (materials),0.19444444444444445
-polypropylene,silicone rubber,0.16666666666666666
-resilience,shore durometer,0.16666666666666666
-resilience,tear resistance,0.16666666666666666
-resilience,filler (materials),0.16666666666666666
-resilience,abrasion (mechanical),0.16666666666666666
-resilience,molding (decorative),0.16666666666666666
-plasticizer,filler (materials),0.1875
-vinyltriethoxysilane,fumed silica,0.16666666666666666
-vinyltriethoxysilane,surface modification,0.16666666666666666
-vinyltriethoxysilane,thermogravimetric analysis,0.16666666666666666
-vinyltriethoxysilane,silanization,0.16666666666666666
-vinyltriethoxysilane,compatibilization,0.16666666666666666
-silanes,filler (materials),0.21052631578947367
-mooney viscosity,filler (materials),0.23529411764705882
+fractional factorial design,filler (materials),0.25
+fractional factorial design,tear resistance,0.25
+design of experiments,tear resistance,0.25
+design of experiments,filler (materials),0.25
+small-angle x-ray scattering,filler (materials),0.26666666666666666
+cardanol,filler (materials),0.3333333333333333
+perlite,thermal stability,0.25
+perlite,cementitious,0.25
+perlite,fumed silica,0.25
+accelerated aging,elongation,0.25
+accelerated aging,thermal stability,0.25
+accelerated aging,degradation,0.25
+accelerated aging,thermogravimetric analysis,0.25
 dielectric strength,fumed silica,0.25
 dielectric strength,silicone rubber,0.25
 dielectric strength,tear resistance,0.25
 dielectric strength,thermal stability,0.25
-cenosphere,filler (materials),0.2
-cenosphere,thermal stability,0.2
-cenosphere,wollastonite,0.2
-cenosphere,silicone rubber,0.2
-rolling resistance,abrasion (mechanical),0.25
-shore durometer,tear resistance,0.16666666666666666
-shore durometer,filler (materials),0.16666666666666666
-compounding,filler (materials),0.20689655172413793
-hydrophobic silica,fumed silica,0.1794871794871795
-low-density polyethylene,husk,0.16666666666666666
-cardanol,filler (materials),0.3333333333333333
-cardanol,silanol,0.16666666666666666
-cardanol,thermal stability,0.16666666666666666
-combustibility,wollastonite,0.2
-silicon rubber,silicone rubber,0.2
-silicon rubber,filler (materials),0.2
-silicon rubber,thermal stability,0.2
-silicon rubber,wollastonite,0.2
-polyolefin,fumed silica,0.2
+black rice,husk,0.4
+black rice,carbon fibers,0.4
+glycidyl methacrylate,styrene-butadiene,0.4
+sorbic acid,tear resistance,0.3333333333333333
+sorbic acid,filler (materials),0.3333333333333333
+sorbic acid,ethylene propylene rubber,0.3333333333333333
+chloroprene,filler (materials),0.25
+chloroprene,fumed silica,0.25
+chloroprene,elongation,0.25
+chloroprene,compounding,0.25

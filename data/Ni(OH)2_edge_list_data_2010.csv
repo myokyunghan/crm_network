@@ -1,46 +1,46 @@
 from,to,weight
-degradation,non-blocking i/o,0.15151515151515152
-surface modification,nanomaterials,0.125
-indium tin oxide,nickel oxide,0.16666666666666666
-indium tin oxide,non-blocking i/o,0.16666666666666666
-energy transformation,electrochemical energy conversion,0.21739130434782608
-nanosheet,non-blocking i/o,0.2
-potassium hydroxide,passivation,0.18181818181818182
-nanometre,non-blocking i/o,0.18181818181818182
+specific surface area,non-blocking i/o,0.19767441860465115
+anodizing,non-blocking i/o,0.125
 thermogravimetry,nickel oxide,0.14285714285714285
 thermogravimetry,thermogravimetric analysis,0.14285714285714285
 pseudocapacitance,non-blocking i/o,0.14035087719298245
-power density,carbon fibers,0.15151515151515152
-ultraviolet,non-blocking i/o,0.19047619047619047
-non-blocking i/o,nickel oxide,0.17813765182186234
-cobalt oxide,nickel oxide,0.125
-bet theory,specific surface area,0.2
-bet theory,non-blocking i/o,0.13333333333333333
-nickel oxide,non-blocking i/o,0.31095406360424027
+hydrothermal synthesis,non-blocking i/o,0.18055555555555555
 overpotential,oxygen evolution,0.28846153846153844
-nanoflower,non-blocking i/o,0.2
-tin oxide,nickel oxide,0.16279069767441862
-tin oxide,non-blocking i/o,0.16279069767441862
 glassy carbon,carbon fibers,0.17391304347826086
 glassy carbon,chronoamperometry,0.17391304347826086
-passivation,non-blocking i/o,0.28
-coprecipitation,non-blocking i/o,0.16071428571428573
-nanocrystalline material,non-blocking i/o,0.17073170731707318
-nickel sulfide,nanorod,0.1875
-nickel sulfide,deposition,0.125
-nickel sulfide,visible spectrum,0.125
-electrochemical energy conversion,energy transformation,0.2
-hydrothermal synthesis,non-blocking i/o,0.18055555555555555
-electrochemical energy storage,nanomaterials,0.16666666666666666
-nanopore,non-blocking i/o,0.2727272727272727
-morphology,non-blocking i/o,0.14
-oxygen evolution,overpotential,0.1724137931034483
-photocurrent,non-blocking i/o,0.1875
-anodizing,non-blocking i/o,0.125
-specific surface area,non-blocking i/o,0.19767441860465115
-metal hydroxide,layered double hydroxides,0.1282051282051282
-thermogravimetric analysis,non-blocking i/o,0.21739130434782608
 rhodamine b,visible spectrum,0.125
 rhodamine b,non-blocking i/o,0.125
 rhodamine b,photodegradation,0.125
+bet theory,specific surface area,0.2
+bet theory,non-blocking i/o,0.13333333333333333
+electrochemical energy conversion,energy transformation,0.2
+surface modification,nanomaterials,0.125
+cobalt oxide,nickel oxide,0.125
+morphology,non-blocking i/o,0.14
+nanoflower,non-blocking i/o,0.2
+nickel oxide,non-blocking i/o,0.31095406360424027
+degradation,non-blocking i/o,0.15151515151515152
+non-blocking i/o,nickel oxide,0.17813765182186234
+photocurrent,non-blocking i/o,0.1875
+tin oxide,nickel oxide,0.16279069767441862
+tin oxide,non-blocking i/o,0.16279069767441862
+nanopore,non-blocking i/o,0.2727272727272727
+indium tin oxide,nickel oxide,0.16666666666666666
+indium tin oxide,non-blocking i/o,0.16666666666666666
+electrochemical energy storage,nanomaterials,0.16666666666666666
+nanocrystalline material,non-blocking i/o,0.17073170731707318
+coprecipitation,non-blocking i/o,0.16071428571428573
+thermogravimetric analysis,non-blocking i/o,0.21739130434782608
+ultraviolet,non-blocking i/o,0.19047619047619047
 photodegradation,non-blocking i/o,0.2222222222222222
+nanometre,non-blocking i/o,0.18181818181818182
+energy transformation,electrochemical energy conversion,0.21739130434782608
+potassium hydroxide,passivation,0.18181818181818182
+nickel sulfide,nanorod,0.1875
+nickel sulfide,deposition,0.125
+nickel sulfide,visible spectrum,0.125
+oxygen evolution,overpotential,0.1724137931034483
+metal hydroxide,layered double hydroxides,0.1282051282051282
+passivation,non-blocking i/o,0.28
+nanosheet,non-blocking i/o,0.2
+power density,carbon fibers,0.15151515151515152

@@ -9,7 +9,7 @@ for ele in "${ele_list[@]}"; do
 	echo "--------------------"
 	new_file_nm="TERGM_11ele_$ele.Rmd"
 	echo $new_file_nm
-	cp ./TERGM_11ele.Rmd $new_file_nm
+	cp ./TERGM_11ele.Rmd "$new_file_nm"
 
     	safe_ele=$(printf '%s\n' "$ele" | sed 's/[&/\]/\\&/g')
     	sed -i '' "s/ELEMENT_NAME_HERE/${safe_ele}/g" "$new_file_nm"

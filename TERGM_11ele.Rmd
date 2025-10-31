@@ -78,10 +78,16 @@ X1 <- matrix(runif(length(nodes)^2, 0, 1), nrow = length(nodes))
 X2 <- matrix(runif(length(nodes)^2, 0, 1), nrow = length(nodes))
 X.list <- list(X1, X2)
 
+r_f_name <- paste0("result/",element, "model_summary.txt")
+
 # === 7. TERGM (btergm) 모델 추정 ===
 set.seed(100)
 model <- tergm(net.list ~ edges 
+<<<<<<< HEAD
                 #+ gwesp(0.1, fixed = TRUE) 
+=======
+                #+ gwesp(0.5, fixed = TRUE) 
+>>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
                 #+ edgecov(X.list)
                 + mutual
                 + nodecov("indegree")
@@ -90,10 +96,17 @@ model <- tergm(net.list ~ edges
                 estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
+<<<<<<< HEAD
 r_f_name <- paste0("result/", element, "_models.txt")  # => "network_plot_2050.png"
 sink(r_f_name, append = TRUE)
 summary(model)
 sink()
+=======
+sink(r_f_name)  
+summary(model)  
+sink()          
+
+>>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 ```
 
 ```{r}
@@ -118,18 +131,37 @@ label.cex=.8,
 label.col="blue",
 vertex.cex = 1)
 
+<<<<<<< HEAD
 h_f_path <- paste0("html/", element, "_simulation_movie.html") 
 render.d3movie(sim, htmlfile = "simulation_movie.html")
+=======
+h_f_name <- paste0("html/", element, "_network_movie.html")
+
+# HTML로 저장
+render.d3movie(
+  sim,
+  plot.par = plot.par,
+  output.mode = "HTML",      # 출력 형식 지정
+  filename = h_f_name  # 저장할 파일 이름
+)
+
+>>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 ```
 
 
 ```{r}
-filename <- paste0("img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
-png(filename, width = 1200, height = 900, res = 150)
-
 sim <- simulate(model, nsim = 1, time.slices = 3, nw.start="last")
 deg <- sna::degree(net1, gmode = "digraph", cmode="indegree")
+<<<<<<< HEAD
 label <- ifelse(deg>=3, network.vertex.names(net1), "")
+=======
+label <- ifelse(deg>=2, network.vertex.names(net1), "")
+
+filename <- paste0("img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
+png(filename, width = 1200, height = 900, res = 150)
+imgname <- paste0(element, " Network : 2015 ~")
+
+>>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 set.seed(150)
 plot.network(net1,
              label=label,
@@ -140,7 +172,7 @@ plot.network(net1,
              edge.col = "grey60",
              label.cex = 0.6,
              edge.lwd = 0.1,
-             main = "TPU Network : 2015 ~",
+             main = imgname,
              displayisolates=FALSE,
              mode="fruchtermanreingold")
 dev.off()
@@ -152,6 +184,7 @@ dev.off()
 
 filename <- paste0("img/", element, "_network_plot_2020.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
+imgname <- paste0(element, " Network : 2020 ~")
 
 deg <- sna::degree(net2, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=3, network.vertex.names(net2), "")
@@ -165,7 +198,7 @@ plot.network(net2,
              edge.col = "grey60",
              label.cex = 0.6,
              edge.lwd = 0.1,
-             main = "TPU Network : 2020 ~",
+             main = imgname,
              displayisolates=FALSE,
              mode="fruchtermanreingold")
 dev.off()
@@ -175,13 +208,15 @@ dev.off()
 
 ```{r}
 # Simulated results
-filename <- paste0("img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"
-png(filename, width = 1200, height = 900, res = 150)
-
 simp1 <- network.extract(sim, at=1)
 deg <- sna::degree(simp1, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=3, network.vertex.names(simp1), "")
 set.seed(52113)
+
+filename <- paste0("img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"
+png(filename, width = 1200, height = 900, res = 150)
+imgname <- paste0(element, " Network : 2025 ~")
+
 plot.network(simp1,
              label=label,
              vertex.cex = sqrt(deg+1)*0.8,
@@ -191,7 +226,7 @@ plot.network(simp1,
              edge.col = "grey60",
              label.cex = 0.6,
              edge.lwd = 0.3,
-             main = "TPU Network : 2025 ~",
+             main = imgname,
              displayisolates=FALSE,
              mode="fruchtermanreingold"
              )
@@ -200,14 +235,15 @@ dev.off()
 
 ```{r}
 # Simulated results
+simp2 <- network.extract(sim, at=2)
+deg <- sna::degree(simp2, gmode = "digraph", cmode="indegree")
+label <- ifelse(deg>=2, network.vertex.names(simp2), "")
+set.seed(5156)
 
 filename <- paste0("img/", element, "_network_plot_2030.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
+imgname <- paste0(element, " Network : 2030 ~")
 
-simp2 <- network.extract(sim, at=2)
-deg <- sna::degree(simp2, gmode = "digraph", cmode="indegree")
-label <- ifelse(deg>=3, network.vertex.names(simp2), "")
-set.seed(5156)
 plot.network(simp2,
              label=label,
              vertex.cex = sqrt(deg+1)*0.8,
@@ -217,7 +253,7 @@ plot.network(simp2,
              edge.col = "grey60",
               label.cex = 0.6,
               edge.lwd = 0.3,
-             main = "TPU Network : 2030 ~",
+             main = imgname,
              displayisolates=FALSE,
              mode="fruchtermanreingold")
 dev.off()
@@ -233,8 +269,9 @@ set.seed(515)
 
 # 1️⃣ 저장할 파일 열기
 filename <- paste0("img/", element, "_network_plot_2035.png")  # => "network_plot_2050.png"
-
 png(filename, width = 1200, height = 900, res = 150)
+imgname <- paste0(element, " Network : 2035 ~")
+
 plot.network(simp3,
              label=label,
              vertex.cex = sqrt(deg+1)*0.8,
@@ -244,7 +281,7 @@ plot.network(simp3,
              edge.col = "grey60",
              label.cex = 0.6,
              edge.lwd = 0.1,
-             main = "TPU Network : 2035 ~",
+             main = imgname,
              displayisolates=FALSE,
              mode="fruchtermanreingold")
 dev.off()

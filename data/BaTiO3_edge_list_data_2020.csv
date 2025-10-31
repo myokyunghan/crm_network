@@ -1,78 +1,78 @@
 from,to,weight
-orthorhombic crystal system,tetragonal crystal system,0.3412698412698413
-bismuth titanate,bismuth,0.37037037037037035
-ferroelasticity,domain wall (magnetism),0.18181818181818182
-ferroelasticity,tetragonal crystal system,0.11363636363636363
-polydimethylsiloxane,nanogenerator,0.11363636363636363
-mesoscopic physics,tetragonal crystal system,0.14285714285714285
-mesoscopic physics,ferroelectric ceramics,0.14285714285714285
 atmospheric temperature range,tetragonal crystal system,0.13076923076923078
-hydrothermal synthesis,tetragonal crystal system,0.14285714285714285
-electric displacement field,poling,0.14285714285714285
+trigonal crystal system,domain wall (magnetism),0.1111111111111111
+strain engineering,hysteresis,0.19047619047619047
+strain engineering,bismuth ferrite,0.14285714285714285
 strain (injury),hysteresis,0.10526315789473684
-thermoplastic polyurethane,dielectric loss,0.17391304347826086
-volume fraction,dielectric loss,0.1891891891891892
-volume fraction,high-κ dielectric,0.10810810810810811
-tape casting,high-κ dielectric,0.11764705882352941
-tape casting,dielectric loss,0.17647058823529413
-rietveld refinement,tetragonal crystal system,0.30985915492957744
-lattice constant,tetragonal crystal system,0.24193548387096775
-dielectric elastomers,dielectric loss,0.14705882352941177
-dielectric elastomers,soft robotics,0.11764705882352941
-domain wall (magnetism),ferroelasticity,0.13559322033898305
-domain wall (magnetism),piezoresponse force microscopy,0.15254237288135594
-acceptor,potassium niobate,0.10526315789473684
-acceptor,thermal stability,0.10526315789473684
-bismuth ferrite,bismuth,0.12903225806451613
-high-κ dielectric,dielectric loss,0.24509803921568626
-rhodamine b,degradation,0.3448275862068966
 powder diffraction,rietveld refinement,0.22580645161290322
 powder diffraction,tetragonal crystal system,0.16129032258064516
-crystal (programming language),tetragonal crystal system,0.12162162162162163
-thermogravimetric analysis,thermal stability,0.1590909090909091
-electrospinning,polyvinylidene fluoride,0.1532258064516129
-electrospinning,nanogenerator,0.13709677419354838
-fluoropolymer,polymer nanocomposite,0.13333333333333333
-fluoropolymer,dielectric loss,0.13333333333333333
-lead titanate,lead zirconate titanate,0.18181818181818182
-nanogenerator,mechanical energy,0.11176470588235295
-nanogenerator,polyvinylidene fluoride,0.11176470588235295
-texture (cosmology),figure of merit,0.11538461538461539
-texture (cosmology),tetragonal crystal system,0.11538461538461539
-texture (cosmology),hysteresis,0.11538461538461539
-energy transformation,mechanical energy,0.18421052631578946
-phase boundary,tetragonal crystal system,0.1619047619047619
+mesoscopic physics,tetragonal crystal system,0.14285714285714285
+mesoscopic physics,ferroelectric ceramics,0.14285714285714285
+lanthanum,ferroelectric ceramics,0.14285714285714285
 bismuth,bismuth titanate,0.2631578947368421
 bismuth,bismuth ferrite,0.10526315789473684
 bismuth,phase boundary,0.11842105263157894
-thermal stability,dielectric loss,0.11818181818181818
-nanocrystalline material,tetragonal crystal system,0.20930232558139536
-magnetoelectric effect,magnetism,0.1111111111111111
-temperature coefficient,atmospheric temperature range,0.12698412698412698
-mechanical energy,nanogenerator,0.17757009345794392
-lanthanum,ferroelectric ceramics,0.14285714285714285
+bismuth titanate,bismuth,0.37037037037037035
 magnetism,magnetoelectric effect,0.16129032258064516
-filler (materials),dielectric loss,0.16666666666666666
+ferroelectric polymers,polymer nanocomposite,0.13333333333333333
+temperature coefficient,atmospheric temperature range,0.12698412698412698
+dissipation factor,dielectric loss,0.3181818181818182
+ferroelasticity,domain wall (magnetism),0.18181818181818182
+ferroelasticity,tetragonal crystal system,0.11363636363636363
 potassium niobate,phase boundary,0.1111111111111111
 potassium niobate,acceptor,0.1111111111111111
 potassium niobate,tetragonal crystal system,0.1111111111111111
-ferroelectric polymers,polymer nanocomposite,0.13333333333333333
-polyvinyl alcohol,dielectric loss,0.13793103448275862
-polypropylene,polymer nanocomposite,0.14814814814814814
-polypropylene,dielectric strength,0.1111111111111111
-aurivillius,orthorhombic crystal system,0.14285714285714285
-aurivillius,bismuth,0.14285714285714285
+dielectric strength,polymer nanocomposite,0.12121212121212122
+crystal (programming language),tetragonal crystal system,0.12162162162162163
+texture (cosmology),figure of merit,0.11538461538461539
+texture (cosmology),tetragonal crystal system,0.11538461538461539
+texture (cosmology),hysteresis,0.11538461538461539
+mechanical energy,nanogenerator,0.17757009345794392
 pulsed laser deposition,deposition,0.16326530612244897
 pulsed laser deposition,tetragonal crystal system,0.12244897959183673
+magnetoelectric effect,magnetism,0.1111111111111111
+volume fraction,dielectric loss,0.1891891891891892
+volume fraction,high-κ dielectric,0.10810810810810811
+nanogenerator,mechanical energy,0.11176470588235295
+nanogenerator,polyvinylidene fluoride,0.11176470588235295
+hydrothermal synthesis,tetragonal crystal system,0.14285714285714285
+phase boundary,tetragonal crystal system,0.1619047619047619
+bismuth ferrite,bismuth,0.12903225806451613
+energy transformation,mechanical energy,0.18421052631578946
+nanocrystalline material,tetragonal crystal system,0.20930232558139536
+electrospinning,polyvinylidene fluoride,0.1532258064516129
+electrospinning,nanogenerator,0.13709677419354838
+lattice constant,tetragonal crystal system,0.24193548387096775
+dielectric elastomers,dielectric loss,0.14705882352941177
+dielectric elastomers,soft robotics,0.11764705882352941
+deposition,pulsed laser deposition,0.12698412698412698
+fluoropolymer,polymer nanocomposite,0.13333333333333333
+fluoropolymer,dielectric loss,0.13333333333333333
+thermoplastic polyurethane,dielectric loss,0.17391304347826086
+aurivillius,orthorhombic crystal system,0.14285714285714285
+aurivillius,bismuth,0.14285714285714285
+filler (materials),dielectric loss,0.16666666666666666
+acceptor,potassium niobate,0.10526315789473684
+acceptor,thermal stability,0.10526315789473684
+polyvinyl alcohol,dielectric loss,0.13793103448275862
+rhodamine b,degradation,0.3448275862068966
 polymer nanocomposite,dielectric loss,0.14473684210526316
 polymer nanocomposite,high-κ dielectric,0.10526315789473684
-electroceramics,lead zirconate titanate,0.16129032258064516
+domain wall (magnetism),ferroelasticity,0.13559322033898305
+domain wall (magnetism),piezoresponse force microscopy,0.15254237288135594
+electric displacement field,poling,0.14285714285714285
 monoclinic crystal system,tetragonal crystal system,0.375
-dissipation factor,dielectric loss,0.3181818181818182
-dielectric strength,polymer nanocomposite,0.12121212121212122
-strain engineering,hysteresis,0.19047619047619047
-strain engineering,bismuth ferrite,0.14285714285714285
+high-κ dielectric,dielectric loss,0.24509803921568626
+rietveld refinement,tetragonal crystal system,0.30985915492957744
+thermogravimetric analysis,thermal stability,0.1590909090909091
+polydimethylsiloxane,nanogenerator,0.11363636363636363
+lead titanate,lead zirconate titanate,0.18181818181818182
+polypropylene,polymer nanocomposite,0.14814814814814814
+polypropylene,dielectric strength,0.1111111111111111
+thermal stability,dielectric loss,0.11818181818181818
 film capacitor,ceramic capacitor,0.12121212121212122
 film capacitor,power density,0.12121212121212122
-trigonal crystal system,domain wall (magnetism),0.1111111111111111
-deposition,pulsed laser deposition,0.12698412698412698
+orthorhombic crystal system,tetragonal crystal system,0.3412698412698413
+electroceramics,lead zirconate titanate,0.16129032258064516
+tape casting,high-κ dielectric,0.11764705882352941
+tape casting,dielectric loss,0.17647058823529413

@@ -1,473 +1,83 @@
 from,to,weight
-imidazolate,zeolitic imidazolate framework,0.32894736842105265
-imidazolate,carbon fibers,0.07894736842105263
-congo red,degradation,0.08928571428571429
-congo red,photodegradation,0.07142857142857142
-congo red,langmuir adsorption model,0.08928571428571429
-tap water,linear range,0.06666666666666667
-anodizing,nanopore,0.075
-crystal violet,cationic polymerization,0.07692307692307693
-crystal violet,methylene blue,0.09615384615384616
-crystal violet,langmuir adsorption model,0.09615384615384616
-crystal violet,photodegradation,0.07692307692307693
-barium,cobaltite,0.07142857142857142
-filtration (mathematics),ultrafiltration (renal),0.07142857142857142
-monolith,fischer–tropsch process,0.08823529411764706
-hydroquinone,differential pulse voltammetry,0.0967741935483871
-hydroquinone,electrochemical gas sensor,0.0967741935483871
-hydroquinone,deposition,0.06451612903225806
-hydroquinone,nanomaterials,0.06451612903225806
-hydroquinone,nanorod,0.0967741935483871
-indium tin oxide,tin oxide,0.08823529411764706
-triclinic crystal system,carboxylate,0.10344827586206896
-triclinic crystal system,crystal (programming language),0.22413793103448276
-power density,carbon fibers,0.1111111111111111
-orthorhombic crystal system,tetragonal crystal system,0.07462686567164178
-chemical stability,thermal stability,0.0641025641025641
-photothermal effect,nanomaterials,0.13043478260869565
-photothermal effect,biocompatibility,0.08695652173913043
-differential pulse voltammetry,electrochemical gas sensor,0.21951219512195122
-ammonia borane,sodium borohydride,0.08163265306122448
-ammonia borane,nanomaterial-based catalyst,0.10204081632653061
-ammonia borane,ammonia production,0.08163265306122448
-alcohol oxidation,oxidizing agent,0.06666666666666667
-alcohol oxidation,benzyl alcohol,0.13333333333333333
-alcohol oxidation,benzaldehyde,0.08888888888888889
-energy-dispersive x-ray spectroscopy,nanomaterials,0.08333333333333333
-rhodamine,rhodamine b,0.30985915492957744
-rhodamine,photodegradation,0.07042253521126761
-charge carrier,photocurrent,0.10256410256410256
-coordination complex,coordination polymer,0.09701492537313433
-electrochemical energy storage,electrochemical energy conversion,0.2549019607843137
-electrochemical energy storage,energy transformation,0.06862745098039216
-electrochemical energy storage,nanomaterials,0.0784313725490196
-electrochemical energy storage,energy density,0.06862745098039216
-tetrahedron,oxygen evolution,0.13043478260869565
-triethylamine,nanorod,0.08695652173913043
-triethylamine,specific surface area,0.08695652173913043
-iron oxide nanoparticles,nanomaterials,0.09090909090909091
-iron oxide nanoparticles,superparamagnetism,0.06818181818181818
-prussian blue,oxygen evolution,0.11864406779661017
-stripping (fiber),carbon fibers,0.06818181818181818
-photoelectrochemical cell,photoelectrochemistry,0.16666666666666666
-photoelectrochemical cell,oxygen evolution,0.0625
-photoelectrochemical cell,photocurrent,0.08333333333333333
-thermal stability,thermogravimetric analysis,0.09900990099009901
-nanoflower,nanorod,0.15151515151515152
-perchlorate,crystal (programming language),0.07142857142857142
-perchlorate,monoclinic crystal system,0.10714285714285714
-benzyl alcohol,benzaldehyde,0.2692307692307692
-benzyl alcohol,alcohol oxidation,0.11538461538461539
-superabsorbent polymer,polyvinyl alcohol,0.08
-superabsorbent polymer,swelling capacity,0.08
-superabsorbent polymer,thermogravimetric analysis,0.08
-superabsorbent polymer,acrylic acid,0.1
-thermal treatment,carbon fibers,0.09523809523809523
-methylene,methylene blue,0.17307692307692307
-electrochemical gas sensor,nanomaterials,0.0673076923076923
-electrochemical gas sensor,carbon fibers,0.0673076923076923
-electrochemical gas sensor,differential pulse voltammetry,0.17307692307692307
-rhodamine b,degradation,0.10752688172043011
-rhodamine b,rhodamine,0.07885304659498207
-rhodamine b,photodegradation,0.08960573476702509
-nanomaterial-based catalyst,carbon fibers,0.06470588235294118
-reversible hydrogen electrode,oxygen evolution,0.19101123595505617
-reversible hydrogen electrode,carbon fibers,0.07865168539325842
-reversible hydrogen electrode,photocurrent,0.07865168539325842
-reversible hydrogen electrode,overpotential,0.06741573033707865
-hexavalent chromium,endothermic process,0.07407407407407407
-hexavalent chromium,carbon fibers,0.1111111111111111
-hexavalent chromium,specific surface area,0.1111111111111111
-hexavalent chromium,langmuir adsorption model,0.07407407407407407
-maleic anhydride,surface modification,0.09090909090909091
-maleic anhydride,thermogravimetric analysis,0.09090909090909091
-lanthanum,cobaltite,0.06766917293233082
-polyoxometalate,oxygen evolution,0.08571428571428572
-oxygen evolution,electrolysis of water,0.0784313725490196
-oxygen evolution,overpotential,0.23137254901960785
-nanocages,oxygen evolution,0.13333333333333333
-nanocages,carbon fibers,0.15
-nanocages,overpotential,0.1
-space velocity,propane,0.06666666666666667
-space velocity,fischer–tropsch process,0.0761904761904762
-polyhedron,surface modification,0.1
-polyhedron,carbon fibers,0.06666666666666667
-polyhedron,crystal (programming language),0.06666666666666667
-polyhedron,cationic polymerization,0.06666666666666667
-biomolecule,nanomaterials,0.06666666666666667
-biomolecule,surface modification,0.06666666666666667
-nanocellulose,nanomaterials,0.07317073170731707
-sulfonic acid,thermal stability,0.06818181818181818
-sulfonic acid,thermogravimetric analysis,0.06818181818181818
-microscale chemistry,particle (ecology),0.08333333333333333
-microscale chemistry,nanomaterials,0.08333333333333333
-absorption edge,visible spectrum,0.06666666666666667
-absorption edge,crystal (programming language),0.06666666666666667
-absorption edge,xanes,0.08888888888888889
-absorption edge,x-ray absorption spectroscopy,0.06666666666666667
-physisorption,langmuir adsorption model,0.08771929824561403
-potassium hydroxide,cobalt hydroxide,0.0625
-potassium hydroxide,oxygen evolution,0.0625
-chemical bath deposition,deposition,0.23333333333333334
-chemical bath deposition,nanorod,0.1
-nickel oxide,non-blocking i/o,0.23728813559322035
-anhydrous,thermogravimetry,0.06521739130434782
-exothermic reaction,endothermic process,0.11363636363636363
-exothermic reaction,thermal runaway,0.09090909090909091
-titanium dioxide,rutile,0.06451612903225806
-uranyl,carboxylate,0.07142857142857142
-cobalt hydroxide,oxygen evolution,0.15
-cobalt hydroxide,nanomaterials,0.07
-cobalt hydroxide,overpotential,0.07
-photocurrent,charge carrier,0.06857142857142857
+powder diffraction,thermogravimetric analysis,0.10303030303030303
+polyacrylic acid,acrylic acid,0.08653846153846154
+coordination polymer,coordination complex,0.0718232044198895
+coordination polymer,carboxylate,0.08287292817679558
 photocurrent,oxygen evolution,0.09142857142857143
+physisorption,langmuir adsorption model,0.08771929824561403
+thermal stability,thermogravimetric analysis,0.09900990099009901
+methyl orange,degradation,0.07878787878787878
+methyl orange,methylene blue,0.07878787878787878
+fischer–tropsch process,carbon fibers,0.11290322580645161
+rational design,oxygen evolution,0.14084507042253522
 photodegradation,degradation,0.12416107382550336
 photodegradation,visible spectrum,0.1040268456375839
 photodegradation,methylene blue,0.07046979865771812
 photodegradation,rhodamine b,0.08389261744966443
-lithium battery,lithium metal,0.0784313725490196
-lithium battery,fast ion conductor,0.0784313725490196
-hydrothermal carbonization,carbon fibers,0.29310344827586204
-hydroxyl radical,degradation,0.2222222222222222
-hydroxyl radical,persulfate,0.06666666666666667
-differential thermal analysis,thermogravimetry,0.13953488372093023
-differential thermal analysis,thermogravimetric analysis,0.18604651162790697
-benzaldehyde,benzyl alcohol,0.25925925925925924
-benzaldehyde,catalytic oxidation,0.07407407407407407
-benzaldehyde,alcohol oxidation,0.07407407407407407
-sodium hydroxide,carboxymethyl cellulose,0.12307692307692308
-horizontal scan rate,hydrothermal synthesis,0.08333333333333333
-horizontal scan rate,power density,0.08333333333333333
-spin coating,wurtzite crystal structure,0.07547169811320754
-solar fuel,energy transformation,0.08571428571428572
-pseudocapacitance,power density,0.0851063829787234
-pseudocapacitance,carbon fibers,0.19148936170212766
-pseudocapacitance,oxygen evolution,0.06382978723404255
-thermal runaway,exothermic reaction,0.06956521739130435
-polyvinylpyrrolidone,electrospinning,0.07894736842105263
-bacterial cellulose,biopolymer,0.13333333333333333
-bacterial cellulose,biocompatibility,0.08888888888888889
-bacterial cellulose,carboxymethyl cellulose,0.08888888888888889
-bacterial cellulose,nanocellulose,0.06666666666666667
-electrochemical energy conversion,energy transformation,0.09740259740259741
-electrochemical energy conversion,electrochemical energy storage,0.16883116883116883
+oxidation state,x-ray absorption spectroscopy,0.06923076923076923
+oxidation state,oxygen evolution,0.08461538461538462
+bimetallic strip,oxygen evolution,0.07777777777777778
+congo red,degradation,0.08928571428571429
+congo red,photodegradation,0.07142857142857142
+congo red,langmuir adsorption model,0.08928571428571429
+charge carrier,photocurrent,0.10256410256410256
+x-ray absorption spectroscopy,oxygen evolution,0.14666666666666667
+x-ray absorption spectroscopy,xanes,0.11333333333333333
+noble metal,oxygen evolution,0.1660377358490566
+noble metal,overpotential,0.10943396226415095
+power density,carbon fibers,0.1111111111111111
+endothermic process,langmuir adsorption model,0.16774193548387098
+overpotential,oxygen evolution,0.3877327491785323
+nanosheet,oxygen evolution,0.15384615384615385
+nanosheet,overpotential,0.07264957264957266
+cobaltite,lanthanum,0.09278350515463918
+nickel oxide,non-blocking i/o,0.23728813559322035
+methylene blue,degradation,0.11081794195250659
+nanorod,oxygen evolution,0.06951871657754011
+isostructural,carboxylate,0.07228915662650602
+coordination complex,coordination polymer,0.09701492537313433
+heteroatom,overpotential,0.09740259740259741
+heteroatom,carbon fibers,0.2077922077922078
+heteroatom,oxygen evolution,0.1038961038961039
+cationic polymerization,methylene blue,0.07664233576642336
+imidazolate,zeolitic imidazolate framework,0.32894736842105265
+imidazolate,carbon fibers,0.07894736842105263
 electrochemical energy conversion,oxygen evolution,0.12987012987012986
+electrolysis of water,oxygen evolution,0.35398230088495575
+electrolysis of water,overpotential,0.16519174041297935
+hydrazine (antidepressant),oxygen evolution,0.09615384615384616
+pulsed laser deposition,deposition,0.17391304347826086
+rietveld refinement,powder diffraction,0.0945945945945946
+graphitic carbon nitride,carbon fibers,0.1258741258741259
+graphitic carbon nitride,carbon nitride,0.14685314685314685
+xanes,x-ray absorption spectroscopy,0.1619047619047619
+xanes,oxidation state,0.0761904761904762
+wurtzite crystal structure,photodegradation,0.07377049180327869
+visible spectrum,degradation,0.11420612813370473
+visible spectrum,photodegradation,0.08635097493036212
+carbon nitride,carbon fibers,0.22522522522522523
+carbon nitride,graphitic carbon nitride,0.1891891891891892
+langmuir adsorption model,endothermic process,0.07303370786516854
+oxygen evolution,electrolysis of water,0.0784313725490196
+oxygen evolution,overpotential,0.23137254901960785
+monoclinic crystal system,crystal (programming language),0.08947368421052632
+specific surface area,bet theory,0.1005586592178771
+layered double hydroxides,oxygen evolution,0.08888888888888889
+orthorhombic crystal system,tetragonal crystal system,0.07462686567164178
 bet theory,specific surface area,0.2748091603053435
 bet theory,langmuir adsorption model,0.07633587786259542
 bet theory,thermogravimetric analysis,0.07633587786259542
-linear sweep voltammetry,oxygen evolution,0.0875
-linear sweep voltammetry,overpotential,0.1125
-linear sweep voltammetry,chronoamperometry,0.1125
-microfiber,polylactic acid,0.1111111111111111
-solvothermal synthesis,thermal stability,0.0625
-solvothermal synthesis,carboxylate,0.0625
-polylactic acid,thermogravimetric analysis,0.08139534883720931
-polylactic acid,thermal stability,0.06976744186046512
-polylactic acid,electrospinning,0.06976744186046512
-glassy carbon,electrochemical gas sensor,0.07407407407407407
-glassy carbon,carbon fibers,0.09259259259259259
-glassy carbon,linear sweep voltammetry,0.07407407407407407
-glassy carbon,differential pulse voltammetry,0.07407407407407407
-oleylamine,dispersity,0.11764705882352941
-graphitic carbon nitride,carbon fibers,0.1258741258741259
-graphitic carbon nitride,oxygen evolution,0.06293706293706294
-graphitic carbon nitride,carbon nitride,0.14685314685314685
-isostructural,carboxylate,0.07228915662650602
-wurtzite crystal structure,photodegradation,0.07377049180327869
-overpotential,oxygen evolution,0.3877327491785323
-thermogravimetry,thermogravimetric analysis,0.06779661016949153
-diffractometer,thermogravimetric analysis,0.0625
-hydrazine (antidepressant),oxygen evolution,0.09615384615384616
-sulfidation,carbon fibers,0.14634146341463414
-sulfidation,oxygen evolution,0.07317073170731707
-water-gas shift reaction,fischer–tropsch process,0.0821917808219178
-water-gas shift reaction,methanation,0.0958904109589041
-graphite oxide,thermogravimetric analysis,0.06666666666666667
-graphite oxide,exfoliation joint,0.06666666666666667
-plasticizer,biopolymer,0.08974358974358974
-exchange current density,electrolysis of water,0.14035087719298245
-exchange current density,noble metal,0.07017543859649122
-exchange current density,oxygen evolution,0.21052631578947367
-exchange current density,overpotential,0.24561403508771928
-cationic polymerization,methylene blue,0.07664233576642336
-surface charge,surface modification,0.0684931506849315
-synergistic catalysis,hydrodeoxygenation,0.09375
-synergistic catalysis,bimetallic strip,0.125
-synergistic catalysis,nanomaterials,0.0625
-synergistic catalysis,carbon fibers,0.0625
-non-blocking i/o,nickel oxide,0.06698564593301436
-template,nanorod,0.075
-template,nanomaterials,0.075
-methylene blue,degradation,0.11081794195250659
-methylene blue,langmuir adsorption model,0.0633245382585752
-x-ray absorption spectroscopy,oxygen evolution,0.14666666666666667
-x-ray absorption spectroscopy,xanes,0.11333333333333333
-spin states,magnetism,0.078125
-spin states,cobaltite,0.0625
-spin states,oxygen evolution,0.109375
-phenanthroline,coordination complex,0.09523809523809523
-phenanthroline,carboxylate,0.09523809523809523
-halloysite,langmuir adsorption model,0.06666666666666667
-halloysite,thermal stability,0.06666666666666667
-polyvinyl alcohol,vinyl alcohol,0.07936507936507936
-boosting,oxygen evolution,0.07575757575757576
-energy transformation,electrochemical energy storage,0.07526881720430108
-energy transformation,electrochemical energy conversion,0.16129032258064516
-hemicellulose,pectin,0.08333333333333333
-hydrochloric acid,malachite green,0.06666666666666667
-nanometre,nanomaterials,0.16981132075471697
-lattice constant,lattice (music),0.08235294117647059
-dodecahedron,carbon fibers,0.10714285714285714
-dodecahedron,specific surface area,0.07142857142857142
-dodecahedron,nanocages,0.10714285714285714
-lithium metal,energy density,0.08108108108108109
-lithium metal,fast ion conductor,0.08108108108108109
-xanes,x-ray absorption spectroscopy,0.1619047619047619
-xanes,oxidation state,0.0761904761904762
-energy density,electrochemical energy storage,0.07291666666666667
-energy density,lithium metal,0.0625
-energy density,power density,0.08333333333333333
-cellulose fiber,carboxymethyl cellulose,0.08888888888888889
-cellulose fiber,cellulosic ethanol,0.06666666666666667
-cellulose fiber,nanocellulose,0.06666666666666667
-cellulose fiber,thermogravimetric analysis,0.08888888888888889
-phosphonate,overpotential,0.07692307692307693
-phosphonate,oxygen evolution,0.07692307692307693
-exfoliation joint,layered double hydroxides,0.07142857142857142
-bimetallic strip,oxygen evolution,0.07777777777777778
-bimetallic strip,carbon fibers,0.06296296296296296
-endothermic process,exothermic reaction,0.06451612903225806
-endothermic process,langmuir adsorption model,0.16774193548387098
-overlayer,passivation,0.15151515151515152
-overlayer,oxygen evolution,0.09090909090909091
-cobaltite,lanthanum,0.09278350515463918
-amide,carboxylate,0.0641025641025641
-cobalt sulfide,nickel sulfide,0.10344827586206896
-cobalt sulfide,overpotential,0.10344827586206896
-cobalt sulfide,oxygen evolution,0.1206896551724138
-nanorod,oxygen evolution,0.06951871657754011
-amperometry,nanoclusters,0.0625
-amperometry,chronoamperometry,0.0625
-amperometry,tap water,0.0625
-amperometry,electrochemical gas sensor,0.09375
-amperometry,nickel oxide,0.0625
-amperometry,non-blocking i/o,0.0625
-amperometry,nanomaterials,0.0625
 zeolitic imidazolate framework,imidazolate,0.3184713375796178
 zeolitic imidazolate framework,carbon fibers,0.08917197452229299
-cone calorimeter,thermal stability,0.13953488372093023
-cone calorimeter,thermogravimetric analysis,0.16279069767441862
-fast ion conductor,lithium metal,0.0821917808219178
-selected area diffraction,powder diffraction,0.0625
-selected area diffraction,nanosheet,0.125
-selected area diffraction,nanomaterials,0.0625
-selected area diffraction,surface modification,0.0625
-selected area diffraction,specific surface area,0.0625
-selected area diffraction,bimetallic strip,0.0625
-selected area diffraction,wurtzite crystal structure,0.125
-selected area diffraction,photodegradation,0.0625
-selected area diffraction,nanocrystalline material,0.0625
-selected area diffraction,pseudocapacitor,0.0625
-selected area diffraction,nanomaterial-based catalyst,0.0625
-selected area diffraction,thermogravimetric analysis,0.0625
-selected area diffraction,bet theory,0.0625
-hydrodeoxygenation,bimetallic strip,0.10126582278481013
-nanoclusters,oxygen evolution,0.06779661016949153
-fluorine,thermal stability,0.06666666666666667
-fluorine,characterization,0.06666666666666667
-fluorine,surface modification,0.06666666666666667
-glutaraldehyde,gelatin,0.1276595744680851
-glutaraldehyde,thermal stability,0.06382978723404255
-biodegradable polymer,polycaprolactone,0.07692307692307693
-biodegradable polymer,polylactic acid,0.10256410256410256
-chemisorption,langmuir adsorption model,0.1342281879194631
-tetracycline hydrochloride,degradation,0.14705882352941177
-sawdust,chemisorption,0.07894736842105263
-chronoamperometry,oxygen evolution,0.0945945945945946
-chronoamperometry,linear sweep voltammetry,0.12162162162162163
-chronoamperometry,electrochemical gas sensor,0.06756756756756757
-noble metal,electrolysis of water,0.06792452830188679
-noble metal,oxygen evolution,0.1660377358490566
-noble metal,overpotential,0.10943396226415095
-nanomaterials,carbon fibers,0.06259541984732825
-hysteresis,exchange bias,0.16129032258064516
-4-nitrophenol,selective catalytic reduction,0.14285714285714285
-4-nitrophenol,carbon fibers,0.07142857142857142
-operating temperature,thermal runaway,0.06451612903225806
-polysulfide,carbon fibers,0.1346153846153846
-inert gas,inert,0.17073170731707318
-potassium persulfate,distilled water,0.13157894736842105
-potassium persulfate,persulfate,0.10526315789473684
-potassium persulfate,acrylic acid,0.10526315789473684
+rhodamine b,degradation,0.10752688172043011
+rhodamine b,photodegradation,0.08960573476702509
 rutile,titanium dioxide,0.09836065573770492
-rutile,oxygen evolution,0.06557377049180328
-ultraviolet visible spectroscopy,ultraviolet,0.10526315789473684
-layered double hydroxides,oxygen evolution,0.08888888888888889
-coordination polymer,coordination complex,0.0718232044198895
-coordination polymer,carboxylate,0.08287292817679558
-vinyl alcohol,thermal stability,0.08333333333333333
-vinyl alcohol,polyvinyl alcohol,0.11904761904761904
-kirkendall effect,carbon fibers,0.07692307692307693
-kirkendall effect,nanomaterials,0.07692307692307693
-kirkendall effect,overpotential,0.07692307692307693
-sodium borohydride,ammonia borane,0.07272727272727272
-sodium borohydride,nanoclusters,0.07272727272727272
-nanoreactor,nanomaterial-based catalyst,0.08
-ionic radius,orthorhombic crystal system,0.06382978723404255
-oxidation state,x-ray absorption spectroscopy,0.06923076923076923
-oxidation state,oxygen evolution,0.08461538461538462
-molybdenum disulfide,noble metal,0.07692307692307693
-molybdenum disulfide,overpotential,0.11538461538461539
-photocatalytic water splitting,charge carrier,0.10256410256410256
-photocatalytic water splitting,visible spectrum,0.10256410256410256
-photocatalytic water splitting,quantum efficiency,0.07692307692307693
-heteroatom,overpotential,0.09740259740259741
-heteroatom,carbon fibers,0.2077922077922078
-heteroatom,nanomaterials,0.06493506493506493
-heteroatom,oxygen evolution,0.1038961038961039
-methanation,carbon fibers,0.08928571428571429
-methanation,fischer–tropsch process,0.10714285714285714
-methanation,water-gas shift reaction,0.0625
-dispersion stability,thermogravimetric analysis,0.08333333333333333
-dispersion stability,carbon fibers,0.08333333333333333
-dispersion stability,nanomaterials,0.08333333333333333
-dispersion stability,zeta potential,0.08333333333333333
-dispersion stability,surface modification,0.125
-nanopore,surface modification,0.08333333333333333
-nanopore,nanoporous,0.14583333333333334
-nanopore,anodizing,0.0625
-fischer–tropsch process,carbon fibers,0.11290322580645161
-fischer–tropsch process,methanation,0.06451612903225806
-bifunctional catalyst,oxygen evolution,0.25316455696202533
-bifunctional catalyst,carbon fibers,0.06329113924050633
-bifunctional catalyst,overpotential,0.12658227848101267
-microcrystalline,nanocellulose,0.09090909090909091
-microcrystalline,thermal stability,0.09090909090909091
-polyacrylic acid,acrylic acid,0.08653846153846154
-nickel sulfide,nickel oxide,0.08
-nickel sulfide,oxygen evolution,0.08
-nickel sulfide,cobalt sulfide,0.24
-nickel sulfide,overpotential,0.08
-nickel sulfide,bimetallic strip,0.08
-persulfate,degradation,0.18055555555555555
-cellulosic ethanol,cellulose fiber,0.13636363636363635
-cellulosic ethanol,nanocellulose,0.09090909090909091
-exchange bias,hysteresis,0.15
-current collector,carbon fibers,0.23333333333333334
-current collector,lithium cobalt oxide,0.06666666666666667
-current collector,oxygen evolution,0.06666666666666667
-pulsed laser deposition,deposition,0.17391304347826086
-temperature-programmed reduction,physisorption,0.07936507936507936
-temperature-programmed reduction,thermogravimetric analysis,0.06349206349206349
-temperature-programmed reduction,bimetallic strip,0.07936507936507936
-temperature-programmed reduction,non-blocking i/o,0.06349206349206349
-tandem,ammonia production,0.12195121951219512
-octahedral molecular geometry,coordination complex,0.0625
-octahedral molecular geometry,coordination polymer,0.0625
-ammonia production,tandem,0.07936507936507936
-ammonia production,selective catalytic reduction,0.07936507936507936
-ammonia production,ammonia borane,0.06349206349206349
-specific surface area,bet theory,0.1005586592178771
-reusability,noble metal,0.06818181818181818
-reusability,degradation,0.11363636363636363
-reusability,rhodamine b,0.06818181818181818
-electrolysis of water,alkaline water electrolysis,0.08849557522123894
-electrolysis of water,oxygen evolution,0.35398230088495575
-electrolysis of water,overpotential,0.16519174041297935
-swelling capacity,thermogravimetric analysis,0.09230769230769231
-swelling capacity,thermal stability,0.07692307692307693
-swelling capacity,acrylic acid,0.07692307692307693
-swelling capacity,distilled water,0.07692307692307693
-carbon dioxide reforming,carbon fibers,0.12162162162162163
-carbon dioxide reforming,thermogravimetric analysis,0.06756756756756757
-carbon dioxide reforming,bimetallic strip,0.16216216216216217
-inert,inert gas,0.18421052631578946
-isothermal process,thermogravimetric analysis,0.06306306306306306
-aqueous medium,coordination polymer,0.06666666666666667
-reducing agent,silver nanoparticle,0.06976744186046512
-reducing agent,absorbance,0.09302325581395349
-open-circuit voltage,passivation,0.06976744186046512
-polyvinylidene fluoride,electrospinning,0.10810810810810811
-polyvinylidene fluoride,lithium cobalt oxide,0.08108108108108109
-polymer nanocomposite,thermal stability,0.15789473684210525
-polypropylene,surface modification,0.075
-polypropylene,thermogravimetric analysis,0.0625
-thermogravimetric analysis,thermal stability,0.09803921568627451
-photoelectrochemistry,photoelectrochemical cell,0.11764705882352941
-photoelectrochemistry,oxygen evolution,0.10294117647058823
-photoelectrochemistry,photocurrent,0.14705882352941177
-bimetal,bimetallic strip,0.14285714285714285
-bimetal,oxygen evolution,0.07142857142857142
-langmuir adsorption model,methylene blue,0.06741573033707865
-langmuir adsorption model,endothermic process,0.07303370786516854
-benzoic acid,carboxylate,0.06756756756756757
-electronegativity,oxygen evolution,0.0975609756097561
-ultrafiltration (renal),filtration (mathematics),0.06557377049180328
-polyacrylonitrile,electrospinning,0.13043478260869565
-polyacrylonitrile,carbon fibers,0.10869565217391304
-coordination number,coordination complex,0.08695652173913043
-gravimetric analysis,carbon fibers,0.08333333333333333
-gravimetric analysis,thermogravimetric analysis,0.08333333333333333
 malachite green,rhodamine b,0.08333333333333333
-europium,thermal stability,0.07692307692307693
-agglomerate,carbon fibers,0.06896551724137931
-agglomerate,thermogravimetric analysis,0.10344827586206896
-methyl orange,degradation,0.07878787878787878
-methyl orange,methylene blue,0.07878787878787878
-methyl orange,photodegradation,0.06666666666666667
-visible spectrum,degradation,0.11420612813370473
-visible spectrum,photodegradation,0.08635097493036212
-distilled water,acrylic acid,0.06315789473684211
-rietveld refinement,powder diffraction,0.0945945945945946
-catalytic combustion,thermal stability,0.07042253521126761
-catalytic combustion,propane,0.11267605633802817
-phosphide,electrolysis of water,0.0967741935483871
-phosphide,oxygen evolution,0.1774193548387097
-phosphide,overpotential,0.0967741935483871
-alkaline water electrolysis,overpotential,0.13636363636363635
-alkaline water electrolysis,oxygen evolution,0.3
-alkaline water electrolysis,electrolysis of water,0.2727272727272727
-ammonium persulfate,acrylic acid,0.15789473684210525
-ammonium persulfate,swelling capacity,0.07017543859649122
-ammonium persulfate,thermogravimetric analysis,0.07017543859649122
-monoclinic crystal system,crystal (programming language),0.08947368421052632
-metal hydroxide,layered double hydroxides,0.15384615384615385
-metal hydroxide,oxygen evolution,0.07692307692307693
-propane,catalytic combustion,0.09302325581395349
+chemisorption,langmuir adsorption model,0.1342281879194631
+cobalt hydroxide,oxygen evolution,0.15
+cobalt hydroxide,nanomaterials,0.07
+cobalt hydroxide,overpotential,0.07
+space velocity,fischer–tropsch process,0.0761904761904762
 propane,space velocity,0.08139534883720931
-mxenes,nanomaterials,0.11320754716981132
-mxenes,oxygen evolution,0.07547169811320754
-nanosheet,oxygen evolution,0.15384615384615385
-nanosheet,overpotential,0.07264957264957266
-rational design,oxygen evolution,0.14084507042253522
-electrophoretic deposition,deposition,0.26666666666666666
-electrophoretic deposition,carbon fibers,0.06666666666666667
-electrophoretic deposition,oxygen evolution,0.06666666666666667
-separator (oil production),lithium cobalt oxide,0.10588235294117647
-imidazole,zeolitic imidazolate framework,0.08108108108108109
-imidazole,imidazolate,0.08108108108108109
-amorphous carbon,carbon fibers,0.4222222222222222
-dangling bond,rational design,0.0625
-dangling bond,passivation,0.0625
-dangling bond,quantum efficiency,0.0625
-dangling bond,nanocellulose,0.0625
-dangling bond,nanomaterials,0.0625
-dangling bond,degradation,0.0625
-dangling bond,surface modification,0.0625
-dangling bond,bimetallic strip,0.0625
-dangling bond,rhodamine b,0.0625
-dangling bond,photodegradation,0.0625
-dangling bond,visible spectrum,0.0625
-dangling bond,photocurrent,0.0625
-dangling bond,nanometre,0.0625
-powder diffraction,thermogravimetric analysis,0.10303030303030303
-selective catalytic reduction,4-nitrophenol,0.08571428571428572
-selective catalytic reduction,carbon fibers,0.07142857142857142
-selective catalytic reduction,ammonia production,0.07142857142857142
-quantum efficiency,passivation,0.10714285714285714
-quantum efficiency,quantum yield,0.08928571428571429
-ruthenium oxide,carbon fibers,0.11764705882352941
-ruthenium oxide,nanosheet,0.11764705882352941
-ruthenium oxide,oxygen evolution,0.17647058823529413
-carbon nitride,carbon fibers,0.22522522522522523
-carbon nitride,graphitic carbon nitride,0.1891891891891892
+nanocellulose,nanomaterials,0.07317073170731707
+thermogravimetric analysis,thermal stability,0.09803921568627451
