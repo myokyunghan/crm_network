@@ -43,7 +43,12 @@ node_df <- data.frame(name = nodes)
 length(nodes)
 ```
 
+
 ```{r}
+#library(network)
+#library(igraph)
+#library(intergraph)
+
 net1 <- network(edges_t1, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 net2 <- network(edges_t2, directed = TRUE, vertices = node_df, matrix.type = "edgelist")
 
@@ -95,7 +100,7 @@ class(net_pred)
 # [1] "network"
 
 # 시각화
-deg <- sna::degree(net_pred, gmode = "digraph")
+deg <- network::degree(net_pred, gmode = "digraph")
 
 #plot.network(net_pred,
 #             displaylabels = TRUE,
@@ -112,7 +117,7 @@ if (is.null(V(g)$name)) {
 }
 
 # 중심성 계산 (노드 크기용)
-deg <- degree(g, mode = "all")
+deg <- network::degree(g, mode = "all")
 
 # 시각화
 ggraph(g, layout = "fr") +  # "fr" = Fruchterman-Reingold layout
@@ -127,11 +132,341 @@ ggraph(g, layout = "fr") +  # "fr" = Fruchterman-Reingold layout
 
 ```
 ```{r}
-network.vertex.names(net_pred)
+library(network)
+library(igraph)
+library(ggraph)
+library(dplyr)
+
+# 이전 두 시점 네트워크
+net_prev1 <- net1
+net_prev2 <- net2
+
+# 예측된 네트워크
+net_pred <- sim
+
+# igraph 변환
+g_prev1 <- asIgraph(net_prev1)
+g_prev2 <- asIgraph(net_prev2)
+g_pred  <- asIgraph(net_pred)
+
+
+# 이름 누락 시 보완
+if (is.null(V(g_pred)$name)) {
+  V(g_pred)$name <- network.vertex.names(net_pred)
+}
+
+# 엣지 리스트 추출
+edges_prev1 <- as.data.frame(as_edgelist(g_prev1)) |> mutate_all(as.character)
+edges_prev2 <- as.data.frame(as_edgelist(g_prev2)) |> mutate_all(as.character)
+edges_pred  <- as.data.frame(as_edgelist(g_pred))  |> mutate_all(as.character)
+
+
+colnames(edges_prev1) <- colnames(edges_prev2) <- colnames(edges_pred) <- c("from", "to")
+
+# 두 이전 시점의 엣지를 합침 (중복 제거)
+edges_prev_all <- distinct(bind_rows(edges_prev1, edges_prev2))
+
+# 새로 생긴 엣지: 이전 두 시점 모두에 없던 엣지
+edges_new <- anti_join(edges_pred, edges_prev_all, by = c("from", "to"))
+
+# 플래그 추가
+E(g_pred)$new_edge <- apply(as.data.frame(get.edgelist(g_pred)), 1, function(x) {
+  any(x[1] == edges_new$from & x[2] == edges_new$to)
+})
+
+# 중심성 계산 (노드 크기용)
+deg <- degree(g_pred, mode = "all")
+
+# 시각화: 새 엣지 = 빨간색, 기존 엣지 = 회색
+ggraph(g_pred, layout = "fr") +
+  geom_edge_link(aes(color = new_edge), alpha = 0.8) +
+  scale_edge_color_manual(values = c("gray70", "red"),
+                          labels = c("Existing", "New"),
+                          name = "Edge Type") +
+  geom_node_point(aes(size = deg), colour = "skyblue") +
+  geom_node_text(aes(label = name), repel = TRUE, size = 3) +
+  theme_void() +
+  ggtitle("Predicted Network — New Edges in Red (Compared to Last Two Steps)") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 16))
+
+
+```
+```{r}
+library(network)
+library(igraph)
+library(ggraph)
+library(dplyr)
+
+# ---- 1️⃣ 데이터 준비 ----
+# net_prev1, net_prev2: 이전 두 시점 네트워크
+# net_pred: 예측된 네트워크 (TERGM 시뮬레이션 결과)
+net_prev1 <- net1
+net_prev2 <- net2
+net_pred  <- sim
+
+# ---- 2️⃣ igraph 변환 + 노드 이름 보정 ----
+fix_names <- function(g, net) {
+  if (is.null(V(g)$name)) {
+    V(g)$name <- network.vertex.names(net)
+  }
+  return(g)
+}
+
+g_prev1 <- fix_names(asIgraph(net_prev1), net_prev1)
+g_prev2 <- fix_names(asIgraph(net_prev2), net_prev2)
+g_pred  <- fix_names(asIgraph(net_pred),  net_pred)
+
+# 엣지 리스트 비교 (방향 유지)
+edges_prev1 <- as.data.frame(as_edgelist(g_prev1)) |> mutate_all(as.character)
+edges_prev2 <- as.data.frame(as_edgelist(g_prev2)) |> mutate_all(as.character)
+edges_pred  <- as.data.frame(as_edgelist(g_pred))  |> mutate_all(as.character)
+
+colnames(edges_prev1) <- colnames(edges_prev2) <- colnames(edges_pred) <- c("from", "to")
+
+# 두 이전 시점 엣지 합치기
+edges_prev_all <- distinct(bind_rows(edges_prev1, edges_prev2))
+
+# 새 엣지 판별 (방향 유지)
+edges_new <- anti_join(edges_pred, edges_prev_all, by = c("from", "to"))
+
+# 새 엣지 플래그
+E(g_pred)$new_edge <- apply(as.data.frame(as_edgelist(g_pred)), 1, function(x) {
+  any(x[1] == edges_new$from & x[2] == edges_new$to)
+})
+
+# 시각화
+ggraph(g_pred, layout = "fr") +
+  geom_edge_link(aes(color = new_edge), alpha = 0.8) +
+  scale_edge_color_manual(values = c("gray70", "red"),
+                          labels = c("Existing", "New"),
+                          name = "Edge Type") +
+  geom_node_point(aes(size = degree(g_pred, mode = "all")), colour = "skyblue") +
+  geom_node_text(aes(label = name), repel = TRUE, size = 3) +
+  theme_void() +
+  ggtitle("Predicted Network — New Directed Edges in Red") +
+  theme(plot.title = element_text(hjust = 0.5, face = "bold", size = 16))
+
 ```
 
+```{r}
+library(network)
+library(igraph)
+library(ggraph)
+library(dplyr)
+library(ggrepel)
+
+# ---- 1️⃣ 데이터 준비 ----
+net_prev1 <- net1
+net_prev2 <- net2
+net_pred  <- sim
+
+# ---- 2️⃣ igraph 변환 + 노드 이름 보정 ----
+fix_names <- function(g, net) {
+  if (is.null(V(g)$name)) {
+    V(g)$name <- network.vertex.names(net)
+  }
+  return(g)
+}
+
+g_prev1 <- fix_names(asIgraph(net_prev1), net_prev1)
+g_prev2 <- fix_names(asIgraph(net_prev2), net_prev2)
+g_pred  <- fix_names(asIgraph(net_pred),  net_pred)
+
+# ---- 3️⃣ 엣지 리스트 비교 (방향 유지) ----
+edges_prev1 <- as.data.frame(as_edgelist(g_prev1)) |> mutate_all(as.character)
+edges_prev2 <- as.data.frame(as_edgelist(g_prev2)) |> mutate_all(as.character)
+edges_pred  <- as.data.frame(as_edgelist(g_pred))  |> mutate_all(as.character)
+colnames(edges_prev1) <- colnames(edges_prev2) <- colnames(edges_pred) <- c("from", "to")
+
+# ---- 4️⃣ 이전 두 시점 엣지 합치기 ----
+edges_prev_all <- distinct(bind_rows(edges_prev1, edges_prev2))
+
+# ---- 5️⃣ 새 엣지 판별 (방향 유지) ----
+edges_new <- anti_join(edges_pred, edges_prev_all, by = c("from", "to"))
+
+# ---- 6️⃣ 새 엣지 플래그 추가 ----
+E(g_pred)$new_edge <- apply(as.data.frame(as_edgelist(g_pred)), 1, function(x) {
+  any(x[1] == edges_new$from & x[2] == edges_new$to)
+})
+
+# ---- 7️⃣ 새 엣지에 연결된 노드만 라벨 표시용 목록 생성 ----
+if (nrow(edges_new) > 0) {
+  new_edge_nodes <- unique(c(edges_new$from, edges_new$to))
+} else {
+  new_edge_nodes <- character(0)
+}
+
+# ---- 8️⃣ 시각화 ----
+ggraph(g_pred, layout = "stress") +   # ✅ "stress" 레이아웃으로 균형 잡기
+  geom_edge_link(
+    aes(color = new_edge),
+    alpha = 0.4,                      # ✅ 엣지 흐리게
+    width = 0.6,                      # ✅ 선 얇게
+    arrow = arrow(length = unit(2.5, "mm"), type = "closed"),  # 방향성 표시
+    end_cap = circle(2, 'mm'),
+    start_cap = circle(2, 'mm')
+  ) +
+  scale_edge_color_manual(
+    values = c("gray80", "tomato"),
+    labels = c("Existing", "New"),
+    name = "Edge Type"
+  ) +
+  geom_node_point(
+    aes(size = degree(g_pred, mode = "all"),
+        color = ifelse(name %in% new_edge_nodes, "New", "Normal")),
+    alpha = 0.9
+  ) +
+  scale_color_manual(values = c("New" = "tomato", "Normal" = "skyblue")) +
+  guides(color = "none") +
+  geom_node_text(
+    aes(label = ifelse(name %in% new_edge_nodes, name, "")),
+    repel = TRUE,
+    size = 2.5,                       # ✅ 라벨 작게
+    fontface = "plain",
+    segment.color = NA                # ✅ 라벨 연결선 제거로 깔끔하게
+  ) +
+  theme_void() +
+  ggtitle("Predicted Network — Only New Directed Edges Labeled") +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 15),
+    legend.position = "bottom",
+    legend.box = "horizontal"
+  )
 
 
+```
+
+```{r}
+ggraph(g_pred, layout = "stress") +   # 균형 잡힌 레이아웃
+  geom_edge_link(
+    aes(color = new_edge),
+    alpha = 0.4,
+    width = 0.7,
+    arrow = arrow(length = unit(2.5, "mm"), type = "closed"),
+    end_cap = circle(2, 'mm'),
+    start_cap = circle(2, 'mm')
+  ) +
+  scale_edge_color_manual(
+    values = c("gray80", "tomato"),
+    labels = c("Existing", "New"),
+    name = "Edge Type"
+  ) +
+  # ✅ 모든 노드는 동일한 색상
+  geom_node_point(
+    aes(size = degree(g_pred, mode = "all")),
+    color = "skyblue",
+    alpha = 0.9
+  ) +
+  # ✅ 새 엣지에 연결된 노드만 라벨
+  geom_node_text(
+    aes(label = ifelse(name %in% new_edge_nodes, name, "")),
+    repel = TRUE,
+    size = 2.6,
+    fontface = "plain",
+    color = "black",
+    segment.color = NA
+  ) +
+  theme_void() +
+  ggtitle("Predicted Network — New Directed Edges Highlighted") +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 15),
+    legend.position = "bottom",
+    legend.box = "horizontal",
+    plot.margin = margin(10, 10, 10, 10)
+  )
+
+  )
+```
+
+```{r}
+library(network)
+library(igraph)
+library(ggraph)
+library(dplyr)
+library(ggrepel)
+
+# ---- 1️⃣ 데이터 준비 ----
+net_prev1 <- net1
+net_prev2 <- net2
+net_pred  <- sim
+
+# ---- 2️⃣ igraph 변환 + 노드 이름 보정 ----
+fix_names <- function(g, net) {
+  if (is.null(V(g)$name)) {
+    V(g)$name <- network.vertex.names(net)
+  }
+  return(g)
+}
+
+g_prev1 <- fix_names(asIgraph(net_prev1), net_prev1)
+g_prev2 <- fix_names(asIgraph(net_prev2), net_prev2)
+g_pred  <- fix_names(asIgraph(net_pred),  net_pred)
+
+# ---- 3️⃣ 엣지 리스트 비교 (방향 유지) ----
+edges_prev1 <- as.data.frame(as_edgelist(g_prev1)) |> mutate_all(as.character)
+edges_prev2 <- as.data.frame(as_edgelist(g_prev2)) |> mutate_all(as.character)
+edges_pred  <- as.data.frame(as_edgelist(g_pred))  |> mutate_all(as.character)
+colnames(edges_prev1) <- colnames(edges_prev2) <- colnames(edges_pred) <- c("from", "to")
+
+# ---- 4️⃣ 이전 두 시점 엣지 합치기 ----
+edges_prev_all <- distinct(bind_rows(edges_prev1, edges_prev2))
+
+# ---- 5️⃣ 새 엣지 판별 (방향 유지) ----
+edges_new <- anti_join(edges_pred, edges_prev_all, by = c("from", "to"))
+
+# ---- 6️⃣ 새 엣지 플래그 추가 ----
+E(g_pred)$new_edge <- apply(as.data.frame(as_edgelist(g_pred)), 1, function(x) {
+  any(x[1] == edges_new$from & x[2] == edges_new$to)
+})
+
+# ---- 7️⃣ 새 엣지에 연결된 노드 목록 생성 ----
+if (nrow(edges_new) > 0) {
+  new_edge_nodes <- unique(c(edges_new$from, edges_new$to))
+} else {
+  new_edge_nodes <- character(0)
+}
+
+# ---- 8️⃣ 중심성 계산 ----
+deg_values <- degree(g_pred, mode = "all")
+
+# ---- 9️⃣ 시각화 ----
+ggraph(g_pred, layout = "stress") +   # ✅ 균형 잡힌 거리 기반 레이아웃
+  geom_edge_link(
+    aes(color = new_edge),
+    alpha = 0.4,                      # 엣지 투명도
+    width = 0.7,                      # 엣지 두께
+    arrow = arrow(length = unit(2.5, "mm"), type = "closed"),
+    end_cap = circle(2, 'mm'),
+    start_cap = circle(2, 'mm')
+  ) +
+  scale_edge_color_manual(
+    values = c("gray80", "tomato"),
+    labels = c("Existing", "New"),
+    name = "Edge Type"
+  ) +
+  geom_node_point(
+    aes(size = deg_values),
+    color = "skyblue",
+    alpha = 0.9
+  ) +
+  geom_node_text(
+    aes(label = ifelse(name %in% new_edge_nodes, name, "")),
+    repel = TRUE,
+    size = 2.6,
+    fontface = "plain",
+    color = "black",
+    segment.color = NA
+  ) +
+  theme_void() +
+  ggtitle("Predicted Network — New Directed Edges Highlighted") +
+  theme(
+    plot.title = element_text(hjust = 0.5, face = "bold", size = 15),
+    legend.position = "bottom",
+    legend.box = "horizontal",
+    plot.margin = margin(10, 10, 10, 10)
+  )
+
+```
 ```{r}
 plot.network(net2,
             #vertex.cex = (deg / max(deg)) * 3,

@@ -1,0 +1,82 @@
+from,to,weight
+chemical bath deposition,deposition,0.2391304347826087
+chemical bath deposition,nanosheet,0.10869565217391304
+chemical bath deposition,nickel oxide,0.10869565217391304
+chemical bath deposition,non-blocking i/o,0.13043478260869565
+anodizing,non-blocking i/o,0.21052631578947367
+noble metal,overpotential,0.1360544217687075
+noble metal,oxygen evolution,0.16326530612244897
+nanoporous,oxygen evolution,0.10752688172043011
+pseudocapacitance,pseudocapacitor,0.15789473684210525
+pseudocapacitance,non-blocking i/o,0.18421052631578946
+overpotential,oxygen evolution,0.3296875
+current collector,non-blocking i/o,0.2
+electrochemical energy conversion,electrochemical energy storage,0.23863636363636365
+electrochemical energy conversion,energy transformation,0.11363636363636363
+glassy carbon,carbon fibers,0.25
+glassy carbon,electrochemical gas sensor,0.1111111111111111
+bimetal,bimetallic strip,0.13513513513513514
+hexamethylenetetramine,hydrothermal synthesis,0.15
+hexamethylenetetramine,non-blocking i/o,0.15
+hexamethylenetetramine,nanosheet,0.15
+oxidation state,oxygen evolution,0.11538461538461539
+oxidizing agent,non-blocking i/o,0.1111111111111111
+cobalt oxide,oxygen evolution,0.11842105263157894
+cobalt oxide,nickel oxide,0.14473684210526316
+morphology,non-blocking i/o,0.175
+heteroatom,oxygen evolution,0.13157894736842105
+heteroatom,carbon fibers,0.13157894736842105
+photocatalytic water splitting,visible spectrum,0.16666666666666666
+photocatalytic water splitting,non-blocking i/o,0.16666666666666666
+photocatalytic water splitting,oxygen evolution,0.125
+hybrid material,layered double hydroxides,0.16666666666666666
+layered double hydroxides,oxygen evolution,0.16923076923076924
+nickel oxide,non-blocking i/o,0.2880886426592798
+bimetallic strip,oxygen evolution,0.12987012987012986
+non-blocking i/o,nickel oxide,0.1568627450980392
+photocurrent,oxygen evolution,0.13186813186813187
+nanoclusters,oxygen evolution,0.19444444444444445
+nanoclusters,overpotential,0.1388888888888889
+alkaline water electrolysis,electrolysis of water,0.24539877300613497
+alkaline water electrolysis,oxygen evolution,0.20245398773006135
+alkaline water electrolysis,overpotential,0.1165644171779141
+degradation,non-blocking i/o,0.12
+electrochemical energy storage,electrochemical energy conversion,0.2727272727272727
+nanocrystalline material,non-blocking i/o,0.12698412698412698
+energy density,power density,0.18181818181818182
+electrophoretic deposition,deposition,0.12195121951219512
+electrophoretic deposition,non-blocking i/o,0.14634146341463414
+stoichiometry,non-blocking i/o,0.16
+stoichiometry,nickel oxide,0.12
+selenide,overpotential,0.13513513513513514
+selenide,oxygen evolution,0.1891891891891892
+electrochromic devices,non-blocking i/o,0.16666666666666666
+nanomaterial-based catalyst,bimetallic strip,0.13725490196078433
+prussian blue,oxygen evolution,0.16666666666666666
+photoelectrochemistry,photocurrent,0.17647058823529413
+high temperature electrolysis,alkaline water electrolysis,0.12121212121212122
+high temperature electrolysis,electrolysis of water,0.12121212121212122
+electrolysis of water,alkaline water electrolysis,0.14388489208633093
+electrolysis of water,overpotential,0.15467625899280577
+electrolysis of water,oxygen evolution,0.2446043165467626
+bifunctional catalyst,oxygen evolution,0.3142857142857143
+bifunctional catalyst,overpotential,0.22857142857142856
+nanochemistry,non-blocking i/o,0.16666666666666666
+energy transformation,electrochemical energy conversion,0.2127659574468085
+potassium hydroxide,oxygen evolution,0.125
+potassium hydroxide,overpotential,0.15625
+nickel sulfide,oxygen evolution,0.14583333333333334
+nickel sulfide,overpotential,0.20833333333333334
+fluorine,overpotential,0.13333333333333333
+fluorine,oxygen evolution,0.13333333333333333
+oxygen evolution,overpotential,0.23549107142857142
+phosphide,oxygen evolution,0.17692307692307693
+phosphide,overpotential,0.15384615384615385
+metal hydroxide,layered double hydroxides,0.11224489795918367
+charge carrier,photocurrent,0.12
+amperometry,electrochemical gas sensor,0.13114754098360656
+rational design,oxygen evolution,0.14285714285714285
+electrochemical gas sensor,amperometry,0.14545454545454545
+nanocages,oxygen evolution,0.22857142857142856
+nanocages,overpotential,0.11428571428571428
+visible spectrum,non-blocking i/o,0.125

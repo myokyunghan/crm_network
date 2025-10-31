@@ -1,0 +1,24 @@
+from,to,weight
+propylene carbonate,dimethyl carbonate,0.20689655172413793
+glassy carbon,carbon fibers,0.3
+specific surface area,carbon fibers,0.2222222222222222
+inert,inert gas,0.3
+inert,carbon fibers,0.3
+dimethyl ether,propylene carbonate,0.25
+dimethyl ether,thermal stability,0.25
+sample preparation,matrix (chemical analysis),0.25
+carbothermic reaction,carbon fibers,0.3333333333333333
+antimony oxide,carbon fibers,0.25
+antimony oxide,atmospheric temperature range,0.25
+antimony oxide,molar ratio,0.25
+half-cell,reactivity,0.2
+half-cell,fast ion conductor,0.2
+half-cell,interphase,0.2
+half-cell,carbon fibers,0.2
+reaction rate,thermogravimetry,0.2222222222222222
+diethyl carbonate,dimethyl carbonate,0.25
+stibnite,carbon fibers,0.25
+stibnite,atmospheric temperature range,0.25
+stibnite,molar ratio,0.25
+metastability,isothermal process,0.2
+morphology,particle (ecology),0.2

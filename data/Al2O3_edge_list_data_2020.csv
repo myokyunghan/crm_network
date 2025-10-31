@@ -1,0 +1,139 @@
+from,to,weight
+nanopore,nanoporous,0.15813953488372093
+nanopore,anodizing,0.09767441860465116
+boehmite,gibbsite,0.07849829351535836
+carbon steel,carbon fibers,0.19745222929936307
+calcium silicate,cementitious,0.051075268817204304
+calcium silicate,slag (welding),0.04032258064516129
+calcium silicate,aluminate,0.03763440860215054
+chemisorption,langmuir adsorption model,0.10427807486631016
+chemisorption,physisorption,0.040106951871657755
+hydrotalcite,layered double hydroxides,0.08870967741935484
+hydrotalcite,thermogravimetric analysis,0.04032258064516129
+spark plasma sintering,vickers hardness test,0.052346570397111915
+metastability,crystal (programming language),0.0390625
+layered double hydroxides,hydrotalcite,0.10679611650485436
+layered double hydroxides,coprecipitation,0.04854368932038835
+residue (chemistry),red mud,0.050793650793650794
+roasting,slag (welding),0.04189944134078212
+roasting,iron ore,0.06424581005586592
+crucible (geodemography),slag (welding),0.1
+langmuir adsorption model,chemisorption,0.05084745762711865
+langmuir adsorption model,endothermic process,0.08083441981747067
+langmuir adsorption model,thermogravimetric analysis,0.041720990873533245
+langmuir adsorption model,methylene blue,0.054758800521512385
+thermal stability,thermogravimetric analysis,0.0986643688065489
+gangue,iron ore,0.08011049723756906
+gangue,beneficiation,0.052486187845303865
+noble metal,bimetallic strip,0.0626865671641791
+red mud,slag (welding),0.03782894736842105
+bimetallic strip,carbon fibers,0.0389768574908648
+nanomaterials,carbon fibers,0.039769082745349585
+elongation,ductility (earth science),0.04513888888888889
+elongation,thermal stability,0.03819444444444445
+thermal shock,refractory (planetary science),0.038314176245210725
+thermal shock,mullite,0.07279693486590039
+abrasion (mechanical),particle (ecology),0.041371158392434985
+specific surface area,bet theory,0.08559782608695653
+specific surface area,carbon fibers,0.06929347826086957
+hydrochloric acid,sodium hydroxide,0.046296296296296294
+beneficiation,iron ore,0.06818181818181818
+beneficiation,gangue,0.047979797979797977
+suspension,particle (ecology),0.07871720116618076
+suspension,zeta potential,0.04081632653061224
+biocompatibility,titanium alloy,0.03804347826086957
+biocompatibility,surface modification,0.059782608695652176
+nanorod,nanomaterials,0.05642633228840126
+anodizing,nanoporous,0.09785202863961814
+anodizing,nanopore,0.050119331742243436
+visible spectrum,degradation,0.058165548098434
+refining (metallurgy),slag (welding),0.21770334928229665
+cationic polymerization,methylene blue,0.03862660944206009
+exothermic reaction,endothermic process,0.09580838323353294
+scrap,slag (welding),0.1
+powder diffraction,crystal (programming language),0.061452513966480445
+powder diffraction,rietveld refinement,0.09217877094972067
+powder diffraction,monoclinic crystal system,0.04189944134078212
+halloysite,thermogravimetric analysis,0.04938271604938271
+titanium dioxide,nanomaterials,0.04849884526558892
+titanium dioxide,rutile,0.046189376443418015
+mass fraction,volume fraction,0.08270676691729323
+mass fraction,fraction (chemistry),0.08020050125313283
+endothermic process,langmuir adsorption model,0.15270935960591134
+endothermic process,exothermic reaction,0.07881773399014778
+endothermic process,thermogravimetric analysis,0.04433497536945813
+monoclinic crystal system,tetragonal crystal system,0.10590631364562118
+tetragonal crystal system,monoclinic crystal system,0.11899313501144165
+physisorption,langmuir adsorption model,0.045454545454545456
+silver nanoparticle,nanomaterials,0.039525691699604744
+silica fume,cementitious,0.14513981358189082
+silica fume,metakaolin,0.09587217043941411
+silica fume,slag (welding),0.05459387483355526
+gibbsite,boehmite,0.08712121212121213
+gibbsite,aluminate,0.03787878787878788
+gibbsite,red mud,0.03787878787878788
+thermogravimetric analysis,thermal stability,0.08468934911242604
+morphology,deposition,0.03783783783783784
+morphology,anodizing,0.043243243243243246
+slag (welding),cementitious,0.04614850798056905
+fraction (chemistry),mass fraction,0.08163265306122448
+fraction (chemistry),fluid catalytic cracking,0.04336734693877551
+metakaolin,cementitious,0.11269146608315099
+metakaolin,silica fume,0.0787746170678337
+metakaolin,slag (welding),0.04157549234135667
+metakaolin,sodium hydroxide,0.04266958424507659
+aluminate,slag (welding),0.056218057921635436
+ultraviolet,visible spectrum,0.040100250626566414
+coprecipitation,layered double hydroxides,0.043859649122807015
+coprecipitation,langmuir adsorption model,0.04824561403508772
+agglomerate,particle (ecology),0.09027777777777778
+titanium alloy,biocompatibility,0.059931506849315065
+titanium alloy,surface modification,0.04965753424657534
+sodium hydroxide,metakaolin,0.06467661691542288
+sodium hydroxide,slag (welding),0.03814262023217247
+aluminium oxides,anodizing,0.0707070707070707
+diffractometer,thermogravimetric analysis,0.04020100502512563
+phosphoric acid,anodizing,0.07665505226480836
+nanoporous,nanopore,0.08542713567839195
+nanoporous,anodizing,0.10301507537688442
+iron ore,roasting,0.03904923599320883
+iron ore,beneficiation,0.04584040747028863
+iron ore,slag (welding),0.06112054329371817
+iron ore,gangue,0.04923599320882852
+isothermal process,thermogravimetric analysis,0.043683589138134596
+brittleness,ductility (earth science),0.04854368932038835
+environmental pollution,environmentally friendly,0.06880733944954129
+environmental pollution,slag (welding),0.04357798165137615
+rietveld refinement,powder diffraction,0.11827956989247312
+rietveld refinement,tetragonal crystal system,0.05017921146953405
+thermogravimetry,thermal stability,0.0502092050209205
+thermogravimetry,differential thermal analysis,0.04811715481171548
+thermogravimetry,thermogravimetric analysis,0.07531380753138076
+powder metallurgy,matrix (chemical analysis),0.04103671706263499
+powder metallurgy,spark plasma sintering,0.04319654427645788
+volume fraction,mass fraction,0.03859649122807018
+nanomaterial-based catalyst,bimetallic strip,0.05536332179930796
+rutile,titanium dioxide,0.06389776357827476
+cementitious,slag (welding),0.07397107897664071
+cementitious,metakaolin,0.05728587319243604
+cementitious,silica fume,0.060622914349276975
+fluid catalytic cracking,fraction (chemistry),0.04381443298969072
+shrinkage,slag (welding),0.0470479704797048
+shrinkage,cementitious,0.0507380073800738
+refractory (planetary science),slag (welding),0.07446808510638298
+refractory (planetary science),brick,0.0425531914893617
+refractory (planetary science),mullite,0.047872340425531915
+bet theory,specific surface area,0.1974921630094044
+bet theory,langmuir adsorption model,0.05329153605015674
+bet theory,thermogravimetric analysis,0.05642633228840126
+differential thermal analysis,thermogravimetric analysis,0.09798994974874371
+differential thermal analysis,thermogravimetry,0.05778894472361809
+nanometre,nanomaterials,0.04081632653061224
+inert gas,inert,0.19186046511627908
+inert gas,carbon fibers,0.04941860465116279
+inert,inert gas,0.15034168564920272
+methylene blue,langmuir adsorption model,0.08383233532934131
+methylene blue,degradation,0.0658682634730539
+passivation,deposition,0.04420549581839905
+vickers hardness test,spark plasma sintering,0.05918367346938776
+ductility (earth science),brittleness,0.060514372163388806

@@ -1,0 +1,120 @@
+from,to,weight
+nanotoxicology,particle (ecology),0.14814814814814814
+nanotoxicology,nanomaterials,0.18518518518518517
+caprolactone,compounding,0.16666666666666666
+organoclay,thermal stability,0.16666666666666666
+thixotropy,fumed silica,0.2
+acrylonitrile butadiene styrene,zinc borate,0.18181818181818182
+acrylonitrile butadiene styrene,fumed silica,0.18181818181818182
+dielectric elastomers,polydimethylsiloxane,0.14285714285714285
+agglomerate,particle (ecology),0.12727272727272726
+compatibilization,fumed silica,0.13793103448275862
+butyl acrylate,emulsion polymerization,0.3333333333333333
+halloysite,thermal stability,0.14285714285714285
+tacticity,polypropylene,0.2727272727272727
+granulation,friability,0.13636363636363635
+high-density polyethylene,fumed silica,0.14285714285714285
+shrinkage,silica fume,0.16666666666666666
+hydrophobic silica,fumed silica,0.21052631578947367
+triethoxysilane,fumed silica,0.12903225806451613
+geometric standard deviation,particle (ecology),0.25
+brittleness,volume fraction,0.14285714285714285
+silicic acid,fumed silica,0.14285714285714285
+limiting oxygen index,thermogravimetric analysis,0.16923076923076924
+limiting oxygen index,intumescent,0.13846153846153847
+thermogravimetric analysis,thermal stability,0.13559322033898305
+abrasion (mechanical),silica fume,0.15789473684210525
+shear thinning,fumed silica,0.13953488372093023
+emulsion polymerization,butyl acrylate,0.25925925925925924
+zinc borate,cone calorimeter,0.125
+zinc borate,fumed silica,0.1875
+zinc borate,acrylonitrile butadiene styrene,0.125
+silicone oil,fumed silica,0.20454545454545456
+organosilicon,fumed silica,0.2
+hydrophobe,hydrophobic silica,0.2
+hydrophobe,surface modification,0.13333333333333333
+hydrophobe,fumed silica,0.2
+ammonium polyphosphate,intumescent,0.15789473684210525
+texture (cosmology),fumed silica,0.13636363636363635
+shore durometer,elongation,0.15789473684210525
+vinyl acetate,ethylene-vinyl acetate,0.18181818181818182
+micrometer,particle (ecology),0.2222222222222222
+aqueous two-phase system,pickering emulsion,0.2
+aqueous two-phase system,fumed silica,0.13333333333333333
+aqueous two-phase system,particle (ecology),0.13333333333333333
+in situ polymerization,thermal stability,0.16216216216216217
+in situ polymerization,thermogravimetric analysis,0.16216216216216217
+in situ polymerization,fumed silica,0.13513513513513514
+styrene-butadiene,filler (materials),0.17391304347826086
+fluorocarbon,fumed silica,0.16666666666666666
+mooney viscosity,compounding,0.125
+mooney viscosity,silicone rubber,0.125
+mooney viscosity,thermal stability,0.125
+mooney viscosity,fumed silica,0.125
+mooney viscosity,morphology,0.125
+mooney viscosity,precipitated silica,0.125
+isocyanate,isophorone diisocyanate,0.13793103448275862
+flexural modulus,filler (materials),0.1724137931034483
+polyacrylamide,fumed silica,0.2
+emulsified fuel,particle (ecology),0.2
+carbonyl iron,suspension,0.14285714285714285
+carbonyl iron,sedimentation,0.14285714285714285
+radiation resistance,filler (materials),0.2
+radiation resistance,fumed silica,0.2
+radiation resistance,silicone rubber,0.2
+radiation resistance,thermogravimetric analysis,0.2
+radiation resistance,thermal stability,0.2
+silanization,surface modification,0.14634146341463414
+cone calorimeter,thermogravimetric analysis,0.1346153846153846
+cone calorimeter,limiting oxygen index,0.15384615384615385
+silicone resin,silicone rubber,0.15
+dissipation factor,dielectric loss,0.18181818181818182
+microparticle,fumed silica,0.15384615384615385
+polyvinyl alcohol,fumed silica,0.14285714285714285
+fluoropolymer,superhydrophobic coating,0.17647058823529413
+chemical mechanical planarization,fumed silica,0.15873015873015872
+surface charge,zeta potential,0.21951219512195122
+sedimentation,suspension,0.13333333333333333
+sedimentation,particle (ecology),0.13333333333333333
+sedimentation,carbonyl iron,0.13333333333333333
+polypropylene glycol,polypropylene,0.16666666666666666
+cementitious,silica fume,0.24358974358974358
+dispersion stability,particle (ecology),0.13157894736842105
+polyacrylic acid,acrylic acid,0.26666666666666666
+polyacrylic acid,suspension,0.13333333333333333
+polyacrylic acid,fumed silica,0.13333333333333333
+acrylic acid,polyacrylic acid,0.16666666666666666
+calcium silicate hydrate,silica fume,0.12903225806451613
+atom-transfer radical-polymerization,fumed silica,0.16666666666666666
+precipitated silica,fumed silica,0.22033898305084745
+superhydrophobic coating,hydrophobic silica,0.13793103448275862
+superplasticizer,silica fume,0.21428571428571427
+zeta potential,surface charge,0.1267605633802817
+silicon dioxide,fumed silica,0.24193548387096775
+glycidyl methacrylate,thermal stability,0.2
+molar mass,fumed silica,0.16666666666666666
+diiodomethane,fumed silica,0.18181818181818182
+spherulite (polymer physics),polypropylene,0.13333333333333333
+spherulite (polymer physics),morphology,0.2
+bet theory,specific surface area,0.1724137931034483
+selective laser sintering,thermal stability,0.2222222222222222
+selective laser sintering,elongation,0.2222222222222222
+silicone rubber,fumed silica,0.12727272727272726
+oil droplet,pickering emulsion,0.15384615384615385
+inverse gas chromatography,fumed silica,0.16666666666666666
+polyvinylpyrrolidone,granulation,0.13333333333333333
+dielectric strength,characterization,0.13043478260869565
+dielectric strength,polymer nanocomposite,0.17391304347826086
+colloidal silica,fumed silica,0.175
+hydrosilylation,surface modification,0.125
+hydrosilylation,silsesquioxane,0.1875
+superhydrophilicity,hydrophobic silica,0.16666666666666666
+superhydrophilicity,superhydrophobic coating,0.125
+isophorone diisocyanate,isocyanate,0.14814814814814814
+intumescent,thermogravimetric analysis,0.12698412698412698
+intumescent,limiting oxygen index,0.14285714285714285
+electrospinning,thermogravimetric analysis,0.16666666666666666
+electrospinning,thermal stability,0.125
+electrospinning,fumed silica,0.125
+maleic anhydride,fumed silica,0.15625
+ethylene-vinyl acetate,vinyl acetate,0.13636363636363635
