@@ -2,7 +2,7 @@
 title: "TERGM"
 output: html_document
 params: 
-  element: "ELEMENT_NAME_HER"
+  element: "GaN"
 ---
 
 
