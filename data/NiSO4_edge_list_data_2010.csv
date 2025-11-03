@@ -1,20 +1,40 @@
 from,to,weight
-thimerosal,patch test,0.32
-p-phenylenediamine,patch test,0.25925925925925924
-potassium dichromate,patch test,0.265625
-reactivity,patch test,0.2777777777777778
-baseline (sea),patch testing,0.23076923076923078
-baseline (sea),contact allergy,0.23076923076923078
-baseline (sea),patch test,0.23076923076923078
-chromate conversion coating,patch test,0.25
-chromate conversion coating,potassium dichromate,0.25
-atopy,patch test,0.2857142857142857
-allergic dermatitis,hand dermatitis,0.25
-hand eczema,patch test,0.24242424242424243
-contact allergy,patch test,0.24
-gold standard (test),contact allergy,0.25
-cobalt chloride,patch test,0.3050847457627119
-foot (prosody),patch test,0.2727272727272727
+case series,patch test,0.5
+case series,patch testing,0.5
+lanolin,patch test,0.42857142857142855
+seborrhoeic dermatitis,patch test,0.5
+seborrhoeic dermatitis,patch testing,0.5
+danish,patch testing,0.3333333333333333
+danish,contact allergy,0.3333333333333333
+danish,patch test,0.3333333333333333
+statistical analysis,potassium dichromate,0.5
+statistical analysis,patch test,0.5
 skin test,patch test,0.3333333333333333
-skin test,patch testing,0.23809523809523808
-patch testing,patch test,0.3179916317991632
+loratadine,patch test,0.3333333333333333
+maculopapular rash,culprit,0.5
+maculopapular rash,patch test,0.5
+copper sulfate,patch test,0.3333333333333333
+matricaria chamomilla,contact allergy,0.3333333333333333
+matricaria chamomilla,patch test,0.3333333333333333
+interquartile range,patch test,0.5
+interquartile range,patch testing,0.5
+sodium metabisulfite,cobalt chloride,0.5
+sodium metabisulfite,patch test,0.5
+eschar,thiomersal,0.5
+eschar,patch test,0.5
+sesquiterpene lactone,patch test,0.3333333333333333
+sesquiterpene lactone,contact allergy,0.3333333333333333
+dimethyl fumarate,patch testing,0.3333333333333333
+dimethyl fumarate,patch test,0.3333333333333333
+systemic reaction,contact allergy,0.3333333333333333
+systemic reaction,hair dyes,0.3333333333333333
+systemic reaction,skin reaction,0.3333333333333333
+histology,patch testing,0.3333333333333333
+histology,patch test,0.3333333333333333
+histology,skin reaction,0.3333333333333333
+thiomersal,patch test,0.3333333333333333
+spectacle,potassium dichromate,0.5
+spectacle,patch test,0.5
+medical record,etiology,0.3333333333333333
+medical record,patch test,0.3333333333333333
+medical record,irritant contact dermatitis,0.3333333333333333

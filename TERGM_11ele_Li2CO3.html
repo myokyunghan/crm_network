@@ -372,11 +372,11 @@ edges_t20 &lt;- read.csv(ele_f_t20)</code></pre>
 (only output is displayed).</p>
 <pre class="r"><code>#head(edges_t1)
 dim(edges_t15)  </code></pre>
-<pre><code>## [1] 85  3</code></pre>
+<pre><code>## [1] 44  3</code></pre>
 <pre class="r"><code>nodes &lt;- unique(c(edges_t15$from, edges_t15$to, edges_t20$from, edges_t20$to))
 node_df &lt;- data.frame(name = nodes)</code></pre>
 <pre class="r"><code>length(nodes)</code></pre>
-<pre><code>## [1] 95</code></pre>
+<pre><code>## [1] 73</code></pre>
 <pre class="r"><code>net1 &lt;- network(edges_t15, 
                 directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
 net2 &lt;- network(edges_t20, directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
@@ -416,28 +416,44 @@ model &lt;- tergm(net.list ~ edges
 <pre><code>## Finished MPLE.</code></pre>
 <pre><code>## Starting Monte Carlo maximum likelihood estimation (MCMLE):</code></pre>
 <pre><code>## Iteration 1 of at most 60:</code></pre>
-<pre><code>## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 1.1614.
+<pre><code>## 1 Optimizing with step length 0.4369.
+## The log-likelihood improved by 2.5542.
 ## Estimating equations are not within tolerance region.
 ## Iteration 2 of at most 60:
-## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.3297.
+## 1 Optimizing with step length 0.8584.
+## The log-likelihood improved by 2.5198.
 ## Estimating equations are not within tolerance region.
 ## Iteration 3 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0712.
-## Convergence test p-value: 0.7779. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.4417.
+## Estimating equations are not within tolerance region.
 ## Iteration 4 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.2067.
+## The log-likelihood improved by 0.1187.
 ## Estimating equations are not within tolerance region.
 ## Iteration 5 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0330.
-## Convergence test p-value: 0.3011. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.1528.
+## Estimating equations are not within tolerance region.
 ## Iteration 6 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0175.
+## The log-likelihood improved by 0.0860.
+## Convergence test p-value: 0.7593. Not converged with 99% confidence; increasing sample size.
+## Iteration 7 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0344.
+## Convergence test p-value: 0.2447. Not converged with 99% confidence; increasing sample size.
+## Iteration 8 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0867.
+## Convergence test p-value: 0.1858. Not converged with 99% confidence; increasing sample size.
+## Iteration 9 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0799.
+## Convergence test p-value: 0.0236. Not converged with 99% confidence; increasing sample size.
+## Iteration 10 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0020.
 ## Convergence test p-value: &lt; 0.0001. Converged with 99% confidence.
 ## Finished MCMLE.
 ## Evaluating log-likelihood at the estimate. Fitting the dyad-independent submodel...
@@ -446,7 +462,8 @@ model &lt;- tergm(net.list ~ edges
 ## Using 16 bridges: 1 2 3 4 5 6 7 8 9 10 11 12 13 14 15 16 .
 ## Bridging finished.
 ## 
-## This model was fit using MCMC.  To examine model diagnostics and check for degeneracy, use the mcmc.diagnostics() function.</code></pre>
+## This model was fit using MCMC.  To examine model diagnostics and check
+## for degeneracy, use the mcmc.diagnostics() function.</code></pre>
 <pre class="r"><code># === 8. 결과 확인 ===
 sink(r_f_name)  
 summary(model)  
@@ -464,15 +481,15 @@ class(sim)       # &quot;list&quot;</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
 <pre class="r"><code>str(sim, max.level = 1)</code></pre>
 <pre><code>## List of 5
-##  $ mel:List of 325
+##  $ mel:List of 162
 ##  $ gal:List of 8
-##  $ val:List of 95
-##  $ iel:List of 95
-##  $ oel:List of 95
+##  $ val:List of 73
+##  $ iel:List of 73
+##  $ oel:List of 73
 ##  - attr(*, &quot;class&quot;)= chr [1:2] &quot;networkDynamic&quot; &quot;network&quot;
-##  - attr(*, &quot;coef&quot;)= Named num [1:4] -5.6169 4.4931 0.0651 -0.232
+##  - attr(*, &quot;coef&quot;)= Named num [1:4] -6.0325 5.5363 0.0361 -0.4317
 ##   ..- attr(*, &quot;names&quot;)= chr [1:4] &quot;edges&quot; &quot;mutual&quot; &quot;nodecov.indegree&quot; &quot;diff.t-h.indegree&quot;
-##  - attr(*, &quot;changes&quot;)= num [1:499, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
+##  - attr(*, &quot;changes&quot;)= num [1:265, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
 ##   ..- attr(*, &quot;dimnames&quot;)=List of 2</code></pre>
 <pre class="r"><code>plot.par = list(edge.col=&quot;darkgray&quot;,
 displaylabels = T,
@@ -506,8 +523,8 @@ render.d3movie(
 <pre><code>## caching 10 properties for slice 2</code></pre>
 <pre><code>## caching 10 properties for slice 3</code></pre>
 <pre><code>## caching 10 properties for slice 4</code></pre>
-<pre><code>## wrote animation HTML file to html/BaTiO3_network_movie.html</code></pre>
-<pre><code>## opening local URL file:///Users/boysbeanxious/github/crm_network/html/BaTiO3_network_movie.html in web browser</code></pre>
+<pre><code>## wrote animation HTML file to html/Li2CO3_network_movie.html</code></pre>
+<pre><code>## opening local URL file:///Users/cslab/github/crm_network/html/Li2CO3_network_movie.html in web browser</code></pre>
 <pre class="r"><code>sim &lt;- simulate(model, nsim = 1, time.slices = 3, nw.start=&quot;last&quot;)
 deg &lt;- sna::degree(net1, gmode = &quot;digraph&quot;, cmode=&quot;indegree&quot;)
 label &lt;- ifelse(deg&gt;=2, network.vertex.names(net1), &quot;&quot;)

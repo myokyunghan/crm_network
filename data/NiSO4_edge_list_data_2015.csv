@@ -1,15 +1,30 @@
 from,to,weight
-paraben,patch test,0.2631578947368421
-cobalt chloride,patch test,0.2916666666666667
-contact allergy,patch test,0.2556818181818182
-itching,patch test,0.36363636363636365
-concomitant,patch test,0.2857142857142857
-thimerosal,patch test,0.2777777777777778
+sunscreening agents,contact allergy,0.3333333333333333
+sunscreening agents,relevance,0.3333333333333333
+sunscreening agents,patch test,0.3333333333333333
+ear lobe,nickel allergy,0.3333333333333333
+ear lobe,contact allergy,0.3333333333333333
+ear lobe,patch testing,0.3333333333333333
 patch testing,patch test,0.2962962962962963
-potassium dichromate,patch test,0.24545454545454545
-skin reaction,patch test,0.25
-skin reaction,patch testing,0.25
-nickel allergy,patch test,0.21794871794871795
-atopy,patch test,0.23809523809523808
-hair dyes,patch test,0.22727272727272727
-hair dyes,contact allergy,0.22727272727272727
+relevance,patch test,0.3333333333333333
+relevance,sunscreening agents,0.3333333333333333
+relevance,contact allergy,0.3333333333333333
+skin test,patch testing,0.3333333333333333
+skin test,patch test,0.3333333333333333
+skin test,thin layers,0.3333333333333333
+table (database),patch test,0.5
+table (database),patch testing,0.5
+itching,patch test,0.36363636363636365
+broad spectrum,contact allergy,0.3333333333333333
+broad spectrum,patch testing,0.3333333333333333
+broad spectrum,patch test,0.3333333333333333
+clinical significance,patch test,0.5
+clinical significance,patch testing,0.5
+intertriginous,patch testing,0.5
+intertriginous,patch test,0.5
+cobalt chloride,patch test,0.2916666666666667
+bone cement,patch test,0.5
+bone cement,contact allergy,0.5
+ammonium persulfate,patch testing,0.5
+ammonium persulfate,patch test,0.5
+medical record,patch test,0.3333333333333333
