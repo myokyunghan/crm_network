@@ -12,7 +12,7 @@ mutual                5.90767    0.37224      0  15.871  < 1e-04 ***
 nodecov.indegree      0.04778    0.01537      0   3.108  0.00188 ** 
 diff.t-h.indegree    -0.23163    0.02233      0 -10.375  < 1e-04 ***
 ---
-Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
      Null Deviance: 24338  on 17556  degrees of freedom
  Residual Deviance:  1162  on 17551  degrees of freedom

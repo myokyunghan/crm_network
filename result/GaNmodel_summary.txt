@@ -1,19 +1,20 @@
 Call:
-tergm(formula = net.list ~ edges + mutual + nodecov("indegree") + 
-    diff(attr = "indegree", dir = "t-h"), estimate = "CMLE", 
-    times = 0:2)
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
 
 Monte Carlo Conditional Maximum Likelihood Results:
 
-                   Estimate Std. Error MCMC % z value Pr(>|z|)    
-edges             -6.292848   0.110966      0  -56.71   <1e-04 ***
-mutual             5.205656   0.349790      0   14.88   <1e-04 ***
-nodecov.indegree   0.027141   0.006571      0    4.13   <1e-04 ***
-diff.t-h.indegree -0.075015   0.007177      0  -10.45   <1e-04 ***
+                      Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -6.432162   0.116462      0 -55.230   <1e-04 ***
+gwesp.OTP.fixed.0.05  1.037973   0.165042      0   6.289   <1e-04 ***
+mutual                5.139738   0.329209      0  15.612   <1e-04 ***
+nodecov.indegree      0.009148   0.008713      0   1.050    0.294    
+diff.t-h.indegree    -0.085662   0.008751      0  -9.788   <1e-04 ***
 ---
 Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
 
      Null Deviance: 62012  on 44732  degrees of freedom
- Residual Deviance:  1826  on 44728  degrees of freedom
+ Residual Deviance:  1787  on 44727  degrees of freedom
  
-AIC: 1834  BIC: 1869  (Smaller is better. MC Std. Err. = 0.9408)
+AIC: 1797  BIC: 1840  (Smaller is better. MC Std. Err. = 0.6105)
