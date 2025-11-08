@@ -6,9 +6,9 @@ ele_list=("TPU" "GaN" "Ni(OH)2" "White Carbon (SiO2)" "BaTiO3" "Al2O3" "Co-Oxide
 for ele in "${ele_list[@]}"; do
 	echo $ele
 	echo "--------------------"
-	new_file_nm="O_TERGM_11ele_$ele.Rmd"
+	new_file_nm="acc_TERGM_11ele_$ele.Rmd"
 	echo $new_file_nm
-	cp ./TERGM_11ele.Rmd "$new_file_nm"
+	cp ./acc_TERGM_11ele.Rmd "$new_file_nm"
 
     	safe_ele=$(printf '%s\n' "$ele" | sed 's/[&/\]/\\&/g')
     	sed -i '' "s/ELEMENT_NAME_HERE/${safe_ele}/g" "$new_file_nm"

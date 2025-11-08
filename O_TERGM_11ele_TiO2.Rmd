@@ -86,7 +86,7 @@ r_f_name <- paste0("result/",element, "model_summary.txt")
 # === 7. TERGM (btergm) 모델 추정 ===
 set.seed(100)
 model <- tergm(net.list ~ edges 
-                + gwesp(0.05, fixed = TRUE) 
+                #+ gwesp(0.05, fixed = TRUE) 
                 #+ edgecov(X.list)
                 + mutual
                 + nodecov("indegree")
