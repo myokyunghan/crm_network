@@ -372,11 +372,11 @@ edges_t20 &lt;- read.csv(ele_f_t20)</code></pre>
 (only output is displayed).</p>
 <pre class="r"><code>#head(edges_t1)
 dim(edges_t15)  </code></pre>
-<pre><code>## [1] 526   3</code></pre>
+<pre><code>## [1] 141   3</code></pre>
 <pre class="r"><code>nodes &lt;- unique(c(edges_t15$from, edges_t15$to, edges_t20$from, edges_t20$to))
 node_df &lt;- data.frame(name = nodes)</code></pre>
 <pre class="r"><code>length(nodes)</code></pre>
-<pre><code>## [1] 354</code></pre>
+<pre><code>## [1] 111</code></pre>
 <pre class="r"><code>net1 &lt;- network(edges_t15, 
                 directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
 net2 &lt;- network(edges_t20, directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
@@ -416,46 +416,37 @@ model &lt;- tergm(net.list ~ edges
 <pre><code>## Finished MPLE.</code></pre>
 <pre><code>## Starting Monte Carlo maximum likelihood estimation (MCMLE):</code></pre>
 <pre><code>## Iteration 1 of at most 60:</code></pre>
-<pre><code>## 1 Optimizing with step length 0.1452.
-## The log-likelihood improved by 3.0346.
+<pre><code>## 1 Optimizing with step length 0.4437.
+## The log-likelihood improved by 5.3154.
 ## Estimating equations are not within tolerance region.
 ## Iteration 2 of at most 60:
-## 1 Optimizing with step length 0.1998.
-## The log-likelihood improved by 2.5343.
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 1.8171.
 ## Estimating equations are not within tolerance region.
 ## Iteration 3 of at most 60:
-## 1 Optimizing with step length 0.2849.
-## The log-likelihood improved by 3.2655.
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.1298.
 ## Estimating equations are not within tolerance region.
 ## Iteration 4 of at most 60:
-## 1 Optimizing with step length 0.3961.
-## The log-likelihood improved by 3.0130.
-## Estimating equations are not within tolerance region.
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0291.
+## Convergence test p-value: 0.4155. Not converged with 99% confidence; increasing sample size.
 ## Iteration 5 of at most 60:
-## 1 Optimizing with step length 0.8563.
-## The log-likelihood improved by 3.9386.
-## Estimating equations are not within tolerance region.
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0286.
+## Convergence test p-value: 0.2912. Not converged with 99% confidence; increasing sample size.
 ## Iteration 6 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 1.5150.
-## Estimating equations are not within tolerance region.
+## The log-likelihood improved by 0.0262.
+## Convergence test p-value: 0.0195. Not converged with 99% confidence; increasing sample size.
 ## Iteration 7 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0395.
-## Convergence test p-value: 0.8017. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.0029.
+## Convergence test p-value: 0.0155. Not converged with 99% confidence; increasing sample size.
 ## Iteration 8 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.2460.
-## Estimating equations are not within tolerance region.
-## Iteration 9 of at most 60:
-## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.2072.
-## Estimating equations are not within tolerance region.
-## Estimating equations did not move closer to tolerance region more than 1 time(s) in 4 steps; increasing sample size.
-## Iteration 10 of at most 60:
-## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0416.
-## Convergence test p-value: &lt; 0.0001. Converged with 99% confidence.
+## The log-likelihood improved by 0.0044.
+## Convergence test p-value: 0.0008. Converged with 99% confidence.
 ## Finished MCMLE.
 ## Evaluating log-likelihood at the estimate. Fitting the dyad-independent submodel...
 ## Bridging between the dyad-independent submodel and the full model...
@@ -482,15 +473,15 @@ class(sim)       # &quot;list&quot;</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
 <pre class="r"><code>str(sim, max.level = 1)</code></pre>
 <pre><code>## List of 5
-##  $ mel:List of 1875
+##  $ mel:List of 447
 ##  $ gal:List of 8
-##  $ val:List of 354
-##  $ iel:List of 354
-##  $ oel:List of 354
+##  $ val:List of 111
+##  $ iel:List of 111
+##  $ oel:List of 111
 ##  - attr(*, &quot;class&quot;)= chr [1:2] &quot;networkDynamic&quot; &quot;network&quot;
-##  - attr(*, &quot;coef&quot;)= Named num [1:4] -6.3887 5.4064 0.0352 -0.0979
+##  - attr(*, &quot;coef&quot;)= Named num [1:4] -5.8884 5.5622 0.0846 -0.2146
 ##   ..- attr(*, &quot;names&quot;)= chr [1:4] &quot;edges&quot; &quot;mutual&quot; &quot;nodecov.indegree&quot; &quot;diff.t-h.indegree&quot;
-##  - attr(*, &quot;changes&quot;)= num [1:2993, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
+##  - attr(*, &quot;changes&quot;)= num [1:718, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
 ##   ..- attr(*, &quot;dimnames&quot;)=List of 2</code></pre>
 <pre class="r"><code>plot.par = list(edge.col=&quot;darkgray&quot;,
 displaylabels = T,

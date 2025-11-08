@@ -372,11 +372,11 @@ edges_t20 &lt;- read.csv(ele_f_t20)</code></pre>
 (only output is displayed).</p>
 <pre class="r"><code>#head(edges_t1)
 dim(edges_t15)  </code></pre>
-<pre><code>## [1] 46  3</code></pre>
+<pre><code>## [1] 48  3</code></pre>
 <pre class="r"><code>nodes &lt;- unique(c(edges_t15$from, edges_t15$to, edges_t20$from, edges_t20$to))
 node_df &lt;- data.frame(name = nodes)</code></pre>
 <pre class="r"><code>length(nodes)</code></pre>
-<pre><code>## [1] 60</code></pre>
+<pre><code>## [1] 70</code></pre>
 <pre class="r"><code>net1 &lt;- network(edges_t15, 
                 directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
 net2 &lt;- network(edges_t20, directed = TRUE, vertices = node_df, matrix.type = &quot;edgelist&quot;)
@@ -418,24 +418,40 @@ model &lt;- tergm(net.list ~ edges
 <pre><code>## Starting Monte Carlo maximum likelihood estimation (MCMLE):</code></pre>
 <pre><code>## Iteration 1 of at most 60:</code></pre>
 <pre><code>## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.2754.
+## The log-likelihood improved by 0.6398.
 ## Estimating equations are not within tolerance region.
 ## Iteration 2 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0904.
-## Convergence test p-value: 0.7156. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.1564.
+## Estimating equations are not within tolerance region.
 ## Iteration 3 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0984.
-## Convergence test p-value: 0.7021. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.1083.
+## Estimating equations are not within tolerance region.
 ## Iteration 4 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0214.
-## Convergence test p-value: 0.1179. Not converged with 99% confidence; increasing sample size.
+## The log-likelihood improved by 0.1993.
+## Estimating equations are not within tolerance region.
 ## Iteration 5 of at most 60:
 ## 1 Optimizing with step length 1.0000.
-## The log-likelihood improved by 0.0012.
-## Convergence test p-value: &lt; 0.0001. Converged with 99% confidence.
+## The log-likelihood improved by 0.0071.
+## Convergence test p-value: 0.7599. Not converged with 99% confidence; increasing sample size.
+## Iteration 6 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0217.
+## Convergence test p-value: 0.2949. Not converged with 99% confidence; increasing sample size.
+## Iteration 7 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0054.
+## Convergence test p-value: 0.0615. Not converged with 99% confidence; increasing sample size.
+## Iteration 8 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0169.
+## Convergence test p-value: 0.0153. Not converged with 99% confidence; increasing sample size.
+## Iteration 9 of at most 60:
+## 1 Optimizing with step length 1.0000.
+## The log-likelihood improved by 0.0001.
+## Convergence test p-value: 0.0001. Converged with 99% confidence.
 ## Finished MCMLE.
 ## Evaluating log-likelihood at the estimate. Fitting the dyad-independent submodel...
 ## Bridging between the dyad-independent submodel and the full model...
@@ -462,15 +478,15 @@ class(sim)       # &quot;list&quot;</code></pre>
 <pre><code>## [1] &quot;list&quot;</code></pre>
 <pre class="r"><code>str(sim, max.level = 1)</code></pre>
 <pre><code>## List of 5
-##  $ mel:List of 151
+##  $ mel:List of 203
 ##  $ gal:List of 8
-##  $ val:List of 60
-##  $ iel:List of 60
-##  $ oel:List of 60
+##  $ val:List of 70
+##  $ iel:List of 70
+##  $ oel:List of 70
 ##  - attr(*, &quot;class&quot;)= chr [1:2] &quot;networkDynamic&quot; &quot;network&quot;
-##  - attr(*, &quot;coef&quot;)= Named num [1:4] -5.623 -Inf 0.131 -0.228
+##  - attr(*, &quot;coef&quot;)= Named num [1:4] -5.242 -Inf 0.046 -0.211
 ##   ..- attr(*, &quot;names&quot;)= chr [1:4] &quot;edges&quot; &quot;mutual&quot; &quot;nodecov.indegree&quot; &quot;diff.t-h.indegree&quot;
-##  - attr(*, &quot;changes&quot;)= num [1:252, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
+##  - attr(*, &quot;changes&quot;)= num [1:327, 1:4] 1 1 1 1 1 1 1 1 1 1 ...
 ##   ..- attr(*, &quot;dimnames&quot;)=List of 2</code></pre>
 <pre class="r"><code>plot.par = list(edge.col=&quot;darkgray&quot;,
 displaylabels = T,
