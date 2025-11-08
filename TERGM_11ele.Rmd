@@ -23,10 +23,13 @@ library(igraph)
 library(ggraph)
 library(intergraph)
 library(ndtv)
+library(parallel)
 ```
 
 ```{r}
 element   <- params$element
+ncores <- detectCores()-2
+
 ele_f_t15 <- paste0("data/", element, "_edge_list_data_2015.csv")
 ele_f_t20 <- paste0("data/", element, "_edge_list_data_2020.csv")
 
@@ -83,11 +86,7 @@ r_f_name <- paste0("result/",element, "model_summary.txt")
 # === 7. TERGM (btergm) 모델 추정 ===
 set.seed(100)
 model <- tergm(net.list ~ edges 
-<<<<<<< HEAD
-                #+ gwesp(0.1, fixed = TRUE) 
-=======
-                #+ gwesp(0.5, fixed = TRUE) 
->>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
+                + gwesp(0.05, fixed = TRUE) 
                 #+ edgecov(X.list)
                 + mutual
                 + nodecov("indegree")
@@ -96,17 +95,10 @@ model <- tergm(net.list ~ edges
                 estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
-<<<<<<< HEAD
 r_f_name <- paste0("result/", element, "_models.txt")  # => "network_plot_2050.png"
 sink(r_f_name, append = TRUE)
 summary(model)
 sink()
-=======
-sink(r_f_name)  
-summary(model)  
-sink()          
-
->>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 ```
 
 ```{r}
@@ -131,11 +123,7 @@ label.cex=.8,
 label.col="blue",
 vertex.cex = 1)
 
-<<<<<<< HEAD
 h_f_path <- paste0("html/", element, "_simulation_movie.html") 
-render.d3movie(sim, htmlfile = "simulation_movie.html")
-=======
-h_f_name <- paste0("html/", element, "_network_movie.html")
 
 # HTML로 저장
 render.d3movie(
@@ -145,23 +133,18 @@ render.d3movie(
   filename = h_f_name  # 저장할 파일 이름
 )
 
->>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 ```
 
 
 ```{r}
 sim <- simulate(model, nsim = 1, time.slices = 3, nw.start="last")
 deg <- sna::degree(net1, gmode = "digraph", cmode="indegree")
-<<<<<<< HEAD
-label <- ifelse(deg>=3, network.vertex.names(net1), "")
-=======
 label <- ifelse(deg>=2, network.vertex.names(net1), "")
 
 filename <- paste0("img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2015 ~")
 
->>>>>>> a3cc789968f1b4fbaf303584c048db505fbd3078
 set.seed(150)
 plot.network(net1,
              label=label,
