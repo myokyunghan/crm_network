@@ -1,0 +1,61 @@
+from,to,weight
+abrasion (mechanical),thermal stability,0.125
+gauge factor,piezoresistive effect,0.14864864864864866
+gauge factor,strain gauge,0.22972972972972974
+flexible electronics,stretchable electronics,0.17647058823529413
+acrylonitrile butadiene styrene,polylactic acid,0.14285714285714285
+acrylonitrile butadiene styrene,fused deposition modeling,0.11904761904761904
+biocompatibility,electrospinning,0.17647058823529413
+stretchable electronics,flexible electronics,0.16666666666666666
+ammonium polyphosphate,thermogravimetric analysis,0.15789473684210525
+ammonium polyphosphate,cone calorimeter,0.17543859649122806
+ammonium polyphosphate,thermal stability,0.12280701754385964
+ammonium polyphosphate,intumescent,0.12280701754385964
+intumescent,ammonium polyphosphate,0.12727272727272726
+intumescent,cone calorimeter,0.16363636363636364
+intumescent,thermogravimetric analysis,0.12727272727272726
+intumescent,limiting oxygen index,0.12727272727272726
+intumescent,thermal stability,0.10909090909090909
+microfiber,electrospinning,0.19047619047619047
+wood flour,thermal stability,0.16666666666666666
+in situ polymerization,polymer nanocomposite,0.11538461538461539
+in situ polymerization,nanomaterials,0.11538461538461539
+in situ polymerization,thermal stability,0.11538461538461539
+piezoresistive effect,gauge factor,0.1111111111111111
+exfoliation joint,thermal stability,0.17857142857142858
+ethylene-vinyl acetate,vinyl acetate,0.25
+polyolefin,thermoplastic elastomer,0.21052631578947367
+strain (injury),gauge factor,0.1509433962264151
+thermogravimetry,thermal stability,0.17777777777777778
+compression molding,molding (decorative),0.1780821917808219
+cone calorimeter,thermogravimetric analysis,0.19811320754716982
+cone calorimeter,thermal stability,0.14150943396226415
+cone calorimeter,limiting oxygen index,0.14150943396226415
+vinyl acetate,ethylene-vinyl acetate,0.3023255813953488
+vinyl acetate,thermal stability,0.11627906976744186
+prepolymer,isocyanate,0.12
+prepolymer,polycaprolactone,0.12
+maleic anhydride,polypropylene,0.16981132075471697
+printed electronics,flexible electronics,0.14285714285714285
+printed electronics,stretchable electronics,0.12698412698412698
+tacticity,polypropylene,0.2
+glycidyl methacrylate,miscibility,0.1111111111111111
+glycidyl methacrylate,maleic anhydride,0.1111111111111111
+glycidyl methacrylate,thermoplastic elastomer,0.1111111111111111
+thermogravimetric analysis,thermal stability,0.21115537848605578
+degradation,thermal stability,0.13636363636363635
+strain gauge,gauge factor,0.2698412698412698
+molding (decorative),compression molding,0.12037037037037036
+smart material,shape-memory polymer,0.175
+masterbatch,thermal stability,0.14285714285714285
+masterbatch,cone calorimeter,0.14285714285714285
+masterbatch,thermogravimetric analysis,0.14285714285714285
+polymer nanocomposite,filler (materials),0.11267605633802817
+limiting oxygen index,thermogravimetric analysis,0.19101123595505617
+limiting oxygen index,thermal stability,0.14606741573033707
+limiting oxygen index,cone calorimeter,0.16853932584269662
+thermal stability,thermogravimetric analysis,0.15229885057471265
+organoclay,thermal stability,0.2
+organoclay,thermogravimetric analysis,0.16666666666666666
+compression set,morphology,0.125
+compression set,thermal stability,0.125

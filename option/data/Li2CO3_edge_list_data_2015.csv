@@ -1,0 +1,45 @@
+from,to,weight
+cobalt oxide,lithium cobalt oxide,0.4
+oxygen evolution,overpotential,0.18181818181818182
+titanium dioxide,carbon fibers,0.3333333333333333
+titanium dioxide,sodium-ion battery,0.16666666666666666
+titanium dioxide,lithium titanate,0.16666666666666666
+titanium dioxide,stoichiometry,0.16666666666666666
+polysulfide,carbon fibers,0.1875
+soda lime,glass-ceramic,0.16666666666666666
+soda lime,carbon fibers,0.16666666666666666
+soda lime,crystal (programming language),0.16666666666666666
+soda lime,lithium hydroxide,0.16666666666666666
+palladium-hydrogen electrode,carbon fibers,0.25
+power density,energy density,0.35714285714285715
+nickel oxide,non-blocking i/o,0.2
+nanometre,interphase,0.1875
+propylene carbonate,dimethyl carbonate,0.1956521739130435
+pyrolytic carbon,carbon fibers,0.2
+glassy carbon,carbon fibers,0.21052631578947367
+capacity loss,fade,0.2222222222222222
+capacity loss,interphase,0.25925925925925924
+nanomaterials,energy density,0.2
+thermogravimetry,differential thermal analysis,0.16666666666666666
+monoclinic crystal system,rietveld refinement,0.1724137931034483
+monoclinic crystal system,lithium titanate,0.1724137931034483
+energy density,power density,0.18518518518518517
+noble metal,carbon fibers,0.2222222222222222
+charge cycle,degradation,0.16666666666666666
+charge cycle,lithium titanate,0.16666666666666666
+charge cycle,carbon fibers,0.16666666666666666
+charge cycle,capacity loss,0.16666666666666666
+gas diffusion electrode,carbon fibers,0.2857142857142857
+dimethyl carbonate,propylene carbonate,0.225
+powder diffraction,rietveld refinement,0.21621621621621623
+tetragonal crystal system,orthorhombic crystal system,0.3333333333333333
+sodium-ion battery,carbon fibers,0.2222222222222222
+chemical stability,thermal stability,0.16666666666666666
+morphology,crystal (programming language),0.2
+dendrite (mathematics),lithium metal,0.34782608695652173
+lithium–sulfur battery,passivation,0.16666666666666666
+lithium–sulfur battery,carbon fibers,0.16666666666666666
+lithium–sulfur battery,lithium titanate,0.16666666666666666
+lithium cobalt oxide,cobalt oxide,0.25
+fade,capacity loss,0.2222222222222222
+amorphous carbon,carbon fibers,0.5294117647058824

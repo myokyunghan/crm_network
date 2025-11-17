@@ -2,7 +2,7 @@
 title: "TERGM"
 output: html_document
 params: 
-  element: "ELEMENT_NAME_HERE"
+  element: "TiO2"
   option : "ver1_"
 ---
 
@@ -193,7 +193,7 @@ dev.off()
 # Simulated results
 simp1 <- network.extract(sim, at=1)
 deg <- sna::degree(simp1, gmode = "digraph", cmode="indegree")
-label <- ifelse(deg>=3, network.vertex.names(simp1), "")
+label <- ifelse(deg>=2, network.vertex.names(simp1), "")
 set.seed(52113)
 
 filename <- paste0(option, "img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"

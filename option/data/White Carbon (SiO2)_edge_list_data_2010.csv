@@ -1,0 +1,45 @@
+from,to,weight
+epdm rubber,ethylene propylene rubber,0.1935483870967742
+epdm rubber,thermal stability,0.16129032258064516
+metakaolin,silica fume,0.23076923076923078
+biocompatibility,simulated body fluid,0.2631578947368421
+ethylene propylene rubber,epdm rubber,0.21428571428571427
+macropore,dispersity,0.25
+hydrophobic silica,fumed silica,0.16
+silanization,filler (materials),0.15384615384615385
+colloidal silica,fumed silica,0.16666666666666666
+shore durometer,filler (materials),0.25
+hybrid material,fumed silica,0.16666666666666666
+hybrid material,characterization,0.16666666666666666
+organoclay,styrene-butadiene,0.2222222222222222
+halloysite,filler (materials),0.2857142857142857
+halloysite,elongation,0.2857142857142857
+halloysite,thermal stability,0.2857142857142857
+calcium silicate hydrate,calcium silicate,0.3157894736842105
+papermaking,filler (materials),0.23076923076923078
+degradation,particle (ecology),0.16666666666666666
+calcium silicate,calcium silicate hydrate,0.2
+palygorskite,thermogravimetric analysis,0.2
+silver nanoparticle,zeta potential,0.2222222222222222
+polymer nanocomposite,nanometre,0.2
+cementitious,silica fume,0.2222222222222222
+silicone oil,fumed silica,0.15384615384615385
+titanium dioxide,amorphous silica,0.2
+titanium dioxide,particle (ecology),0.2
+titanium dioxide,zeta potential,0.2
+titanium dioxide,layered double hydroxides,0.2
+titanium dioxide,filler (materials),0.2
+vinyltriethoxysilane,silicone rubber,0.25
+mooney viscosity,filler (materials),0.25
+compression set,tear resistance,0.15625
+styrene-butadiene,filler (materials),0.15873015873015872
+specific surface area,particle (ecology),0.21875
+thermal stability,thermogravimetric analysis,0.1590909090909091
+silsesquioxane,surface modification,0.15384615384615385
+silsesquioxane,thermogravimetric analysis,0.15384615384615385
+silsesquioxane,silanol,0.15384615384615385
+chloroprene,silanes,0.25
+chloroprene,filler (materials),0.25
+chloroprene,triethoxysilane,0.25
+sulfenamide,filler (materials),0.16666666666666666
+sulfenamide,compression set,0.16666666666666666

@@ -1,0 +1,200 @@
+from,to,weight
+adversarial machine learning,robustness,0.08695652173913043
+novelty detection,representation,0.06
+novelty detection,generative model,0.06
+morphing,vulnerability,0.07926829268292683
+morphing,landmark,0.06707317073170732
+rank (graph theory),representation,0.06217616580310881
+spectrogram,discriminator,0.07099391480730223
+spectrogram,feature (linguistics),0.060851926977687626
+spectrogram,signal (programming language),0.056795131845841784
+transferability,robustness,0.09448818897637795
+transferability,benchmark (surveying),0.09448818897637795
+transferability,generative adversarial network,0.07086614173228346
+oversampling,feature (linguistics),0.06229508196721312
+code (set theory),discriminator,0.05930967428293631
+data sharing,synthetic data,0.08
+data sharing,federated learning,0.07555555555555556
+discriminative model,feature (linguistics),0.11213146447559208
+discriminative model,feature learning,0.06041565973900435
+convolution (computer science),feature (linguistics),0.15019762845849802
+convolution (computer science),discriminator,0.06007905138339921
+modality (human–computer interaction),feature (linguistics),0.0827250608272506
+modality (human–computer interaction),modalities,0.15085158150851583
+federated learning,data sharing,0.07623318385650224
+expression (computer science),feature (linguistics),0.06237424547283702
+high fidelity,spectrogram,0.05740181268882175
+high fidelity,code (set theory),0.09667673716012085
+texture synthesis,texture (cosmology),0.15789473684210525
+texture synthesis,inpainting,0.09473684210526316
+feature vector,feature learning,0.05858987090367428
+feature vector,feature (linguistics),0.24627606752730885
+upsampling,feature (linguistics),0.14583333333333334
+upsampling,convolution (computer science),0.075
+labeled data,transfer of learning,0.06165703275529865
+labeled data,supervised learning,0.08863198458574181
+labeled data,training set,0.09441233140655106
+monocular,feature (linguistics),0.07207207207207207
+optical flow,feature (linguistics),0.09259259259259259
+feature engineering,feature (linguistics),0.2694610778443114
+categorical variable,generative model,0.0707070707070707
+categorical variable,synthetic data,0.05723905723905724
+categorical variable,discriminator,0.05723905723905724
+minimum bounding box,bounding overwatch,0.32413793103448274
+minimum bounding box,feature (linguistics),0.06206896551724138
+motion capture,generative model,0.08108108108108109
+sketch,feature (linguistics),0.08059701492537313
+sensor fusion,feature (linguistics),0.06637168141592921
+sensor fusion,fuse (electrical),0.06637168141592921
+economic shortage,pandemic,0.0625
+economic shortage,generative adversarial network,0.06875
+margin (machine learning),feature (linguistics),0.0650887573964497
+margin (machine learning),benchmark (surveying),0.05917159763313609
+discriminator,generative adversarial network,0.08014571948998178
+discriminator,feature (linguistics),0.06658571139445456
+initialization,discriminator,0.06229508196721312
+synthetic data,generative model,0.09
+synthetic data,generative adversarial network,0.06538461538461539
+pruning,discriminator,0.0935672514619883
+cross entropy,feature (linguistics),0.06086956521739131
+cross entropy,discriminator,0.06956521739130435
+image editing,generative model,0.09382151029748284
+image editing,code (set theory),0.08924485125858124
+multilayer perceptron,perceptron,0.25146198830409355
+overfitting,feature (linguistics),0.0616
+overfitting,discriminator,0.0752
+regularization,discriminator,0.07170923379174853
+training set,generative adversarial network,0.08514190317195326
+training set,data set,0.0709515859766277
+landmark,feature (linguistics),0.09146341463414634
+landmark,expression (computer science),0.06707317073170732
+landmark,morphing,0.06707317073170732
+data set,training set,0.09714285714285714
+data set,synthetic data,0.06514285714285714
+manifold (fluid mechanics),generative model,0.058823529411764705
+dropout (neural networks),overfitting,0.09782608695652174
+attack model,robustness,0.09923664122137404
+ensemble learning,ensemble forecasting,0.12111801242236025
+ensemble learning,boosting,0.062111801242236024
+representation,generative model,0.06507413509060955
+representation,feature (linguistics),0.0757825370675453
+representation,feature learning,0.07413509060955518
+generative design,generative model,0.2246376811594203
+fuse (electrical),feature (linguistics),0.1589958158995816
+encode,representation,0.08710801393728224
+normalization,feature (linguistics),0.06628571428571428
+normalization,generative adversarial network,0.07885714285714286
+normalization,discriminator,0.08914285714285715
+ensemble forecasting,ensemble learning,0.2635135135135135
+closed captioning,benchmark (surveying),0.08333333333333333
+closed captioning,feature (linguistics),0.06578947368421052
+granularity,feature (linguistics),0.095
+texture (cosmology),feature (linguistics),0.10526315789473684
+texture (cosmology),generative adversarial network,0.06842105263157895
+texture (cosmology),texture synthesis,0.07894736842105263
+view synthesis,representation,0.08888888888888889
+view synthesis,image synthesis,0.08333333333333333
+semantic feature,feature (linguistics),0.2956521739130435
+artifact (error),generative adversarial network,0.06944444444444445
+wearable technology,activity recognition,0.057692307692307696
+perceptron,multilayer perceptron,0.16226415094339622
+drone,feature (linguistics),0.0784313725490196
+kernel (algebra),feature (linguistics),0.0746031746031746
+kernel (algebra),convolution (computer science),0.06984126984126984
+mode (computer interface),generative adversarial network,0.06304347826086956
+mode (computer interface),discriminator,0.08043478260869565
+spoofing attack,feature (linguistics),0.05847953216374269
+spoofing attack,robustness,0.05847953216374269
+decision boundary,robustness,0.07058823529411765
+residual neural network,identification,0.07407407407407407
+image translation,feature (linguistics),0.06859592711682744
+image translation,discriminator,0.08252947481243302
+pyramid (geometry),feature (linguistics),0.22823984526112184
+pyramid (geometry),pooling,0.06963249516441006
+modalities,modality (human–computer interaction),0.1585677749360614
+imputation (statistics),generative adversarial network,0.1134020618556701
+imputation (statistics),autoencoder,0.061855670103092786
+imputation (statistics),discriminator,0.061855670103092786
+end-to-end principle,robustness,0.07246376811594203
+end-to-end principle,discriminator,0.07246376811594203
+image synthesis,generative model,0.06443914081145585
+image synthesis,discriminator,0.09069212410501193
+ground truth,discriminator,0.05970149253731343
+maximization,discriminator,0.11333333333333333
+divergence (linguistics),discriminator,0.12561576354679804
+image warping,discriminator,0.06578947368421052
+domain adaptation,transfer of learning,0.08751793400286945
+domain adaptation,feature (linguistics),0.08464849354375897
+hallucinating,inpainting,0.1134020618556701
+hallucinating,feature (linguistics),0.061855670103092786
+hallucinating,discriminator,0.07216494845360824
+benchmarking,benchmark (surveying),0.1503267973856209
+generative adversarial network,discriminator,0.08425531914893616
+autoencoder,generative model,0.06492027334851937
+autoencoder,feature (linguistics),0.06605922551252848
+unavailability,feature (linguistics),0.07142857142857142
+distortion (music),feature (linguistics),0.0990990990990991
+backpropagation,discriminator,0.06299212598425197
+rgb color model,feature (linguistics),0.06564245810055866
+extractor,transfer of learning,0.05847953216374269
+extractor,feature (linguistics),0.23976608187134502
+transfer of learning,feature (linguistics),0.07715311004784689
+jaccard index,sørensen–dice coefficient,0.08633093525179857
+jaccard index,similarity (geometry),0.09352517985611511
+jaccard index,feature (linguistics),0.07194244604316546
+activity recognition,benchmark (surveying),0.07042253521126761
+activity recognition,wearable technology,0.06338028169014084
+generative model,representation,0.06236842105263158
+aerial image,feature (linguistics),0.1099476439790576
+interpretability,feature (linguistics),0.0845442536327609
+anomaly (physics),benchmark (surveying),0.07489597780859916
+anomaly (physics),feature (linguistics),0.06657420249653259
+anomaly (physics),autoencoder,0.11234396671289876
+deep neural networks,robustness,0.12577639751552794
+merge (version control),generative adversarial network,0.10185185185185185
+similarity (geometry),feature (linguistics),0.08530805687203792
+similarity (geometry),generative adversarial network,0.05829383886255924
+deblurring,feature (linguistics),0.10309278350515463
+deblurring,kernel (algebra),0.07216494845360824
+generality,robustness,0.06164383561643835
+net (polyhedron),feature (linguistics),0.06334841628959276
+viewpoints,representation,0.06666666666666667
+bounding overwatch,minimum bounding box,0.3032258064516129
+differential privacy,synthetic data,0.057291666666666664
+differential privacy,generative model,0.078125
+benchmark (surveying),feature (linguistics),0.0644384221619994
+contextual image classification,feature (linguistics),0.08700564971751412
+adaptability,robustness,0.09183673469387756
+word error rate,robustness,0.07017543859649122
+external data representation,representation,0.24305555555555555
+supervised learning,labeled data,0.08695652173913043
+supervised learning,discriminator,0.06049149338374291
+mnist database,discriminator,0.08502024291497975
+f1 score,transfer of learning,0.0625
+visibility,haze,0.06722689075630252
+inpainting,feature (linguistics),0.09684684684684684
+inpainting,discriminator,0.05855855855855856
+pooling,pyramid (geometry),0.06728971962616823
+pooling,feature (linguistics),0.15700934579439252
+smoothing,feature (linguistics),0.08176100628930817
+softmax function,discriminator,0.07692307692307693
+softmax function,feature (linguistics),0.08424908424908426
+image registration,feature (linguistics),0.06140350877192982
+image registration,similarity (geometry),0.08771929824561403
+image registration,image translation,0.06578947368421052
+image registration,ground truth,0.05701754385964912
+sørensen–dice coefficient,similarity (geometry),0.10096153846153846
+sørensen–dice coefficient,ground truth,0.0673076923076923
+sørensen–dice coefficient,jaccard index,0.057692307692307696
+disjoint sets,generative model,0.07317073170731707
+disjoint sets,representation,0.07317073170731707
+disjoint sets,feature learning,0.07317073170731707
+disjoint sets,robustness,0.06097560975609756
+haze,feature (linguistics),0.07741935483870968
+haze,discriminator,0.07741935483870968
+haze,visibility,0.1032258064516129
+fundus (uterus),generative adversarial network,0.09565217391304348
+identification,feature (linguistics),0.08459214501510574
+feature learning,feature (linguistics),0.1570796460176991
+feature learning,representation,0.14933628318584072
+feature learning,discriminative model,0.06913716814159292
