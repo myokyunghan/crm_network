@@ -1,0 +1,47 @@
+from,to,weight
+ammonium polyphosphate,thermogravimetric analysis,0.16666666666666666
+ammonium polyphosphate,cone calorimeter,0.1875
+ammonium polyphosphate,thermal stability,0.125
+ammonium polyphosphate,intumescent,0.125
+thermogravimetry,thermal stability,0.2222222222222222
+limiting oxygen index,thermogravimetric analysis,0.18823529411764706
+limiting oxygen index,thermal stability,0.1411764705882353
+limiting oxygen index,cone calorimeter,0.16470588235294117
+ethylene-vinyl acetate,vinyl acetate,0.22727272727272727
+compression molding,molding (decorative),0.1746031746031746
+thermal stability,thermogravimetric analysis,0.16233766233766234
+exfoliation joint,thermal stability,0.17857142857142858
+tacticity,polypropylene,0.2
+degradation,thermal stability,0.13636363636363635
+cone calorimeter,thermogravimetric analysis,0.20833333333333334
+cone calorimeter,thermal stability,0.13541666666666666
+cone calorimeter,limiting oxygen index,0.14583333333333334
+thermogravimetric analysis,thermal stability,0.2109704641350211
+masterbatch,thermal stability,0.15
+masterbatch,cone calorimeter,0.15
+masterbatch,thermogravimetric analysis,0.15
+wood flour,thermal stability,0.16666666666666666
+strain gauge,gauge factor,0.2765957446808511
+vinyl acetate,ethylene-vinyl acetate,0.2857142857142857
+vinyl acetate,thermal stability,0.14285714285714285
+molding (decorative),compression molding,0.125
+in situ polymerization,thermal stability,0.13043478260869565
+piezoresistive effect,gauge factor,0.13513513513513514
+prepolymer,isocyanate,0.12
+prepolymer,polycaprolactone,0.12
+smart material,shape-memory polymer,0.1891891891891892
+intumescent,ammonium polyphosphate,0.13333333333333333
+intumescent,cone calorimeter,0.15555555555555556
+intumescent,thermogravimetric analysis,0.13333333333333333
+intumescent,limiting oxygen index,0.13333333333333333
+polyoxymethylene,thermal stability,0.15789473684210525
+polyolefin,thermoplastic elastomer,0.17647058823529413
+acrylonitrile butadiene styrene,polylactic acid,0.14285714285714285
+maleic anhydride,polypropylene,0.1956521739130435
+gauge factor,piezoresistive effect,0.15151515151515152
+gauge factor,strain gauge,0.19696969696969696
+gauge factor,strain (injury),0.12121212121212122
+organoclay,thermal stability,0.21428571428571427
+organoclay,thermogravimetric analysis,0.17857142857142858
+biocompatibility,electrospinning,0.16666666666666666
+strain (injury),gauge factor,0.17777777777777778

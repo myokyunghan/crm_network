@@ -95,7 +95,7 @@ model <- tergm(net.list ~ edges
                 estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
-r_f_name <- paste0(option, "result/",element, "model_summary.txt")
+r_f_name <- paste0(params$option, "result/",element, "model_summary.txt")
 sink(r_f_name, append = TRUE)
 summary(model)
 sink()
@@ -123,7 +123,7 @@ label.cex=.8,
 label.col="blue",
 vertex.cex = 1)
 
-h_f_path <- paste0(option, "html/", element, "_simulation_movie.html") 
+h_f_path <- paste0(params$option, "html/", element, "_simulation_movie.html") 
 
 # HTML로 저장
 render.d3movie(
@@ -141,7 +141,7 @@ sim <- simulate(model, nsim = 1, time.slices = 3, nw.start="last")
 deg <- sna::degree(net1, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=2, network.vertex.names(net1), "")
 
-filename <- paste0(option, "img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
+filename <- paste0(params$option, "img/", element, "_network_plot_2015.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2015 ~")
 
@@ -165,7 +165,7 @@ dev.off()
 
 ```{r}
 
-filename <- paste0(option, "img/", element, "_network_plot_2020.png")  # => "network_plot_2050.png"
+filename <- paste0(params$option, "img/", element, "_network_plot_2020.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2020 ~")
 
@@ -196,7 +196,7 @@ deg <- sna::degree(simp1, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=3, network.vertex.names(simp1), "")
 set.seed(52113)
 
-filename <- paste0(option, "img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"
+filename <- paste0(params$option, "img/", element, "_network_plot_2025.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2025 ~")
 
@@ -223,7 +223,7 @@ deg <- sna::degree(simp2, gmode = "digraph", cmode="indegree")
 label <- ifelse(deg>=2, network.vertex.names(simp2), "")
 set.seed(5156)
 
-filename <- paste0(option, "img/", element, "_network_plot_2030.png")  # => "network_plot_2050.png"
+filename <- paste0(params$option, "img/", element, "_network_plot_2030.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2030 ~")
 
@@ -251,7 +251,7 @@ label <- ifelse(deg>=2, network.vertex.names(simp3), "")
 set.seed(515)
 
 # 1️⃣ 저장할 파일 열기
-filename <- paste0(option, "img/", element, "_network_plot_2035.png")  # => "network_plot_2050.png"
+filename <- paste0(params$option, "img/", element, "_network_plot_2035.png")  # => "network_plot_2050.png"
 png(filename, width = 1200, height = 900, res = 150)
 imgname <- paste0(element, " Network : 2035 ~")
 

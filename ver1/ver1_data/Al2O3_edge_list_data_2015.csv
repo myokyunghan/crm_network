@@ -1,0 +1,139 @@
+from,to,weight
+pellet,bentonite,0.036619718309859155
+bimetallic strip,carbon fibers,0.0584045584045584
+dispersity,polystyrene,0.047752808988764044
+noble metal,carbon fibers,0.0471976401179941
+noble metal,bimetallic strip,0.0471976401179941
+thermogravimetric analysis,thermal stability,0.09606445615122405
+polypropylene,thermal stability,0.05714285714285714
+polypropylene,thermogravimetric analysis,0.05714285714285714
+stoichiometry,crucible (geodemography),0.0441527446300716
+specific surface area,carbon fibers,0.0864461045891142
+specific surface area,bet theory,0.08431163287086446
+tetragonal crystal system,monoclinic crystal system,0.08661417322834646
+tetragonal crystal system,orthorhombic crystal system,0.0686164229471316
+nanomaterial-based catalyst,bimetallic strip,0.0782312925170068
+nanomaterial-based catalyst,carbon fibers,0.05102040816326531
+sodium hydroxide,slag (welding),0.04482758620689655
+sodium hydroxide,metakaolin,0.04827586206896552
+carbon steel,carbon fibers,0.19484240687679083
+husk,cementitious,0.04967602591792657
+spark plasma sintering,powder metallurgy,0.05090909090909091
+spark plasma sintering,vickers hardness test,0.04
+passivation,deposition,0.05448717948717949
+reaction rate,isothermal process,0.04154302670623145
+reaction rate,thermogravimetric analysis,0.04154302670623145
+anodizing,nanopore,0.05172413793103448
+anodizing,template,0.03793103448275862
+anodizing,nanoporous,0.10948275862068965
+gravimetric analysis,thermal stability,0.04747774480712166
+gravimetric analysis,carbon fibers,0.03857566765578635
+gravimetric analysis,thermogravimetric analysis,0.1632047477744807
+surface modification,carbon fibers,0.03670546105640107
+titanium dioxide,rutile,0.07459207459207459
+monoclinic crystal system,tetragonal crystal system,0.10419485791610285
+monoclinic crystal system,crystal (programming language),0.03924221921515562
+monoclinic crystal system,orthorhombic crystal system,0.06495263870094722
+nanoporous,nanopore,0.08409785932721713
+nanoporous,anodizing,0.09709480122324159
+mullite,thermal shock,0.03908794788273615
+chemical stability,thermal stability,0.12209302325581395
+langmuir adsorption model,endothermic process,0.09865470852017937
+langmuir adsorption model,thermogravimetric analysis,0.04035874439461883
+reactivity,carbon fibers,0.04441453566621804
+volume fraction,particle (ecology),0.04323827046918123
+nanosheet,exfoliation joint,0.04195804195804196
+nanosheet,carbon fibers,0.05244755244755245
+cobalt oxide,oxygen evolution,0.06451612903225806
+cobalt oxide,carbon fibers,0.059907834101382486
+exothermic reaction,endothermic process,0.07142857142857142
+zeta potential,suspension,0.06569343065693431
+zeta potential,particle (ecology),0.058394160583941604
+degradation,visible spectrum,0.04766839378238342
+bentonite,thermogravimetric analysis,0.04081632653061224
+fraction (chemistry),volume fraction,0.042492917847025496
+fraction (chemistry),carbon fibers,0.053824362606232294
+fraction (chemistry),mass fraction,0.07365439093484419
+agglomerate,particle (ecology),0.07563025210084033
+hydrothermal synthesis,characterization,0.03855421686746988
+hydrothermal synthesis,nanorod,0.03855421686746988
+powder metallurgy,particle (ecology),0.050387596899224806
+powder metallurgy,matrix (chemical analysis),0.040697674418604654
+powder metallurgy,spark plasma sintering,0.05426356589147287
+ductility (earth science),brittleness,0.04576659038901602
+space velocity,carbon fibers,0.04618473895582329
+lattice constant,crystal (programming language),0.03674540682414698
+lattice constant,rietveld refinement,0.03937007874015748
+matrix (chemical analysis),particle (ecology),0.04864864864864865
+mass fraction,fraction (chemistry),0.06842105263157895
+mass fraction,volume fraction,0.06842105263157895
+mass fraction,particle (ecology),0.042105263157894736
+powder diffraction,rietveld refinement,0.09692307692307692
+abrasion (mechanical),particle (ecology),0.046753246753246755
+phosphoric acid,anodizing,0.10324483775811209
+nanochemistry,deposition,0.05166051660516605
+filtration (mathematics),particle (ecology),0.04288939051918736
+aluminate,slag (welding),0.044189852700491
+nanopore,nanoporous,0.16417910447761194
+nanopore,anodizing,0.08955223880597014
+thermal shock,mullite,0.08955223880597014
+physisorption,chemisorption,0.06810035842293907
+physisorption,thermogravimetric analysis,0.03942652329749104
+cementitious,slag (welding),0.058823529411764705
+cementitious,shrinkage,0.03662597114317425
+cementitious,metakaolin,0.041065482796892344
+chemisorption,physisorption,0.059375
+orthorhombic crystal system,rietveld refinement,0.0429553264604811
+orthorhombic crystal system,tetragonal crystal system,0.10481099656357389
+orthorhombic crystal system,monoclinic crystal system,0.08247422680412371
+morphology,particle (ecology),0.03994673768308921
+nanomaterials,carbon fibers,0.04175365344467641
+crucible (geodemography),slag (welding),0.0477326968973747
+crucible (geodemography),stoichiometry,0.0883054892601432
+oxygen evolution,carbon fibers,0.08239700374531835
+dielectric loss,atmospheric temperature range,0.03950617283950617
+metakaolin,sodium hydroxide,0.05588822355289421
+metakaolin,cementitious,0.07385229540918163
+metakaolin,slag (welding),0.04790419161676647
+thermal stability,thermogravimetric analysis,0.1090014064697609
+bet theory,specific surface area,0.2237960339943343
+bet theory,carbon fibers,0.056657223796033995
+bet theory,thermogravimetric analysis,0.0453257790368272
+electrospinning,carbon fibers,0.040372670807453416
+electrospinning,thermal stability,0.037267080745341616
+rutile,titanium dioxide,0.07655502392344497
+isothermal process,thermogravimetric analysis,0.050983899821109124
+metastability,crystal (programming language),0.038461538461538464
+endothermic process,exothermic reaction,0.10736196319018405
+endothermic process,langmuir adsorption model,0.13496932515337423
+inert,inert gas,0.17341040462427745
+indentation,vickers hardness test,0.09283819628647215
+indentation,brittleness,0.04509283819628647
+exfoliation joint,nanosheet,0.04938271604938271
+thermogravimetry,thermal stability,0.05726872246696035
+thermogravimetry,thermogravimetric analysis,0.08957415565345081
+thermogravimetry,differential thermal analysis,0.08076358296622614
+differential thermal analysis,thermogravimetric analysis,0.13311148086522462
+differential thermal analysis,thermogravimetry,0.09151414309484193
+visible spectrum,degradation,0.05555555555555555
+visible spectrum,carbon fibers,0.051932367149758456
+photocurrent,passivation,0.0497131931166348
+photocurrent,visible spectrum,0.04206500956022945
+template,nanoporous,0.05202312138728324
+template,nanopore,0.04238921001926782
+template,anodizing,0.08477842003853564
+suspension,particle (ecology),0.07649253731343283
+suspension,deposition,0.05037313432835821
+suspension,zeta potential,0.05037313432835821
+shrinkage,cementitious,0.04004854368932039
+vickers hardness test,indentation,0.06628787878787878
+vickers hardness test,spark plasma sintering,0.041666666666666664
+aluminium oxides,anodizing,0.07717041800643087
+ceramic matrix composite,matrix (chemical analysis),0.10921501706484642
+rietveld refinement,powder diffraction,0.12138728323699421
+rietveld refinement,tetragonal crystal system,0.05202312138728324
+rietveld refinement,orthorhombic crystal system,0.04816955684007707
+rietveld refinement,monoclinic crystal system,0.05009633911368015
+ultraviolet,visible spectrum,0.043243243243243246
+inert gas,carbon fibers,0.06772908366533864
+inert gas,inert,0.17928286852589642

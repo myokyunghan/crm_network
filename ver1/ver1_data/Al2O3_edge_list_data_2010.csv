@@ -1,0 +1,124 @@
+from,to,weight
+pellet,carbon fibers,0.05
+pellet,slag (welding),0.053125
+bimetallic strip,carbon fibers,0.04693140794223827
+dispersity,polystyrene,0.051926298157453935
+thermogravimetric analysis,thermal stability,0.08885362951209837
+polypropylene,thermal stability,0.05168986083499006
+polypropylene,thermogravimetric analysis,0.061630218687872766
+stoichiometry,crucible (geodemography),0.04987531172069826
+anodic aluminum oxide,aluminium oxides,0.042222222222222223
+anodic aluminum oxide,template,0.1
+anodic aluminum oxide,nanopore,0.05333333333333334
+anodic aluminum oxide,anodizing,0.14222222222222222
+anodic aluminum oxide,morphology,0.042222222222222223
+anodic aluminum oxide,nanoporous,0.042222222222222223
+specific surface area,carbon fibers,0.0836197021764032
+specific surface area,bet theory,0.0859106529209622
+tetragonal crystal system,orthorhombic crystal system,0.06802030456852792
+tetragonal crystal system,monoclinic crystal system,0.083248730964467
+nanorod,deposition,0.04113110539845758
+cordierite,monolith,0.04178272980501393
+cordierite,mullite,0.07242339832869081
+cordierite,thermal shock,0.04735376044568245
+rietveld refinement,powder diffraction,0.10650887573964497
+rietveld refinement,monoclinic crystal system,0.047337278106508875
+rietveld refinement,tetragonal crystal system,0.055226824457593686
+passivation,deposition,0.09725158562367865
+refractory (planetary science),slag (welding),0.06279069767441861
+refractory (planetary science),thermal shock,0.06744186046511629
+reaction rate,carbon fibers,0.041176470588235294
+hot pressing,vickers hardness test,0.04516129032258064
+anodizing,template,0.061124694376528114
+anodizing,nanopore,0.08618581907090464
+anodizing,nanoporous,0.097799511002445
+gravimetric analysis,carbon fibers,0.08333333333333333
+gravimetric analysis,thermogravimetric analysis,0.18115942028985507
+surface modification,carbon fibers,0.04020100502512563
+titanium dioxide,titanium oxide,0.04050632911392405
+titanium dioxide,rutile,0.0810126582278481
+indium tin oxide,tin oxide,0.05319148936170213
+nanoporous,nanopore,0.09408602150537634
+nanoporous,template,0.04435483870967742
+nanoporous,anodizing,0.10752688172043011
+monoclinic crystal system,tetragonal crystal system,0.1248097412480974
+monoclinic crystal system,orthorhombic crystal system,0.0563165905631659
+mullite,thermal shock,0.060836501901140684
+reactivity,thermogravimetric analysis,0.039160839160839164
+volume fraction,particle (ecology),0.08333333333333333
+glass-ceramic,differential thermal analysis,0.07880434782608696
+glass-ceramic,crystal (programming language),0.05434782608695652
+zeta potential,particle (ecology),0.07763975155279502
+zeta potential,suspension,0.062111801242236024
+fraction (chemistry),carbon fibers,0.051829268292682924
+fraction (chemistry),mass fraction,0.10060975609756098
+agglomerate,particle (ecology),0.10493827160493827
+hydrothermal synthesis,boehmite,0.046242774566473986
+hydrothermal synthesis,morphology,0.05973025048169557
+powder metallurgy,matrix (chemical analysis),0.05604719764011799
+powder metallurgy,particle (ecology),0.05604719764011799
+space velocity,carbon fibers,0.044186046511627906
+matrix (chemical analysis),particle (ecology),0.058333333333333334
+micrometer,particle (ecology),0.06372549019607843
+micrometer,nanometre,0.06862745098039216
+monolith,cordierite,0.06302521008403361
+mass fraction,slag (welding),0.039399624765478425
+mass fraction,volume fraction,0.07129455909943715
+mass fraction,fraction (chemistry),0.06191369606003752
+powder diffraction,rietveld refinement,0.07860262008733625
+nanometre,particle (ecology),0.041033434650455926
+abrasion (mechanical),particle (ecology),0.05
+phosphoric acid,anodizing,0.13350785340314136
+nanochemistry,anodizing,0.056022408963585436
+nanochemistry,nanoporous,0.05322128851540616
+pulsed laser deposition,deposition,0.258974358974359
+nanoclusters,bimetallic strip,0.06951871657754011
+nanopore,anodizing,0.15031982942430705
+nanopore,template,0.04371002132196162
+nanopore,nanoporous,0.14925373134328357
+thermal shock,mullite,0.09836065573770492
+thermal shock,refractory (planetary science),0.05942622950819672
+boehmite,hydrothermal synthesis,0.05042016806722689
+orthorhombic crystal system,tetragonal crystal system,0.10166919575113809
+orthorhombic crystal system,monoclinic crystal system,0.05614567526555387
+morphology,particle (ecology),0.04085257548845471
+nanomaterials,carbon fibers,0.04156479217603912
+tin oxide,indium tin oxide,0.05415162454873646
+tin oxide,nanorod,0.04332129963898917
+crucible (geodemography),slag (welding),0.039473684210526314
+crucible (geodemography),stoichiometry,0.07518796992481203
+dielectric loss,atmospheric temperature range,0.047505938242280284
+thermal stability,thermogravimetric analysis,0.10591016548463357
+bet theory,specific surface area,0.2032520325203252
+bet theory,carbon fibers,0.04065040650406504
+electrospinning,thermogravimetric analysis,0.043010752688172046
+rutile,titanium dioxide,0.06794055201698514
+inert,inert gas,0.17579908675799086
+thermogravimetry,thermogravimetric analysis,0.0565149136577708
+thermogravimetry,thermal stability,0.054945054945054944
+thermogravimetry,differential thermal analysis,0.06279434850863422
+differential thermal analysis,thermogravimetric analysis,0.08448753462603878
+differential thermal analysis,thermal stability,0.04016620498614958
+differential thermal analysis,thermogravimetry,0.055401662049861494
+differential thermal analysis,glass-ceramic,0.04016620498614958
+visible spectrum,degradation,0.04480651731160896
+visible spectrum,ultraviolet,0.04276985743380855
+template,anodizing,0.10070493454179255
+template,nanopore,0.041289023162134945
+template,nanoporous,0.06646525679758308
+template,anodic aluminum oxide,0.045317220543806644
+titanium oxide,deposition,0.04
+titanium oxide,titanium dioxide,0.09142857142857143
+titanium oxide,rutile,0.05142857142857143
+suspension,particle (ecology),0.10810810810810811
+wurtzite crystal structure,nanorod,0.08733624454148471
+vickers hardness test,spark plasma sintering,0.05864197530864197
+vickers hardness test,hot pressing,0.043209876543209874
+aluminium oxides,deposition,0.05747126436781609
+aluminium oxides,anodic aluminum oxide,0.04367816091954023
+aluminium oxides,anodizing,0.10804597701149425
+filler (materials),particle (ecology),0.05272407732864675
+spark plasma sintering,vickers hardness test,0.051630434782608696
+inert gas,carbon fibers,0.05301204819277108
+inert gas,inert,0.1855421686746988
+partial pressure,slag (welding),0.055415617128463476

@@ -1,0 +1,75 @@
+from,to,weight
+band diagram,wide-bandgap semiconductor,0.15966386554621848
+carrier lifetime,wide-bandgap semiconductor,0.11740890688259109
+indium nitride,indium gallium nitride,0.18902439024390244
+indium nitride,wide-bandgap semiconductor,0.10975609756097561
+photoconductivity,ultraviolet,0.11873350923482849
+photoconductivity,photocurrent,0.17941952506596306
+surface states,wide-bandgap semiconductor,0.1111111111111111
+surface states,band bending,0.09090909090909091
+photoelectric effect,photocurrent,0.11023622047244094
+band offset,wide-bandgap semiconductor,0.18421052631578946
+leakage (economics),reverse leakage current,0.0940032414910859
+leakage (economics),wide-bandgap semiconductor,0.12965964343598055
+active layer,wide-bandgap semiconductor,0.12844036697247707
+active layer,ultraviolet,0.10091743119266056
+active layer,quantum efficiency,0.10091743119266056
+thermionic emission,wide-bandgap semiconductor,0.1111111111111111
+degradation,wide-bandgap semiconductor,0.12290502793296089
+reverse leakage current,wide-bandgap semiconductor,0.15228426395939088
+reverse leakage current,leakage (economics),0.29441624365482233
+indium tin oxide,ohmic contact,0.09375
+nanopillar,wide-bandgap semiconductor,0.12643678160919541
+photodetection,ultraviolet,0.1712707182320442
+photodetection,photocurrent,0.13259668508287292
+equivalent series resistance,wide-bandgap semiconductor,0.12173913043478261
+polarity (international relations),wide-bandgap semiconductor,0.11214953271028037
+saturation (graph theory),saturation current,0.16097560975609757
+trap (plumbing),wide-bandgap semiconductor,0.11731843575418995
+green-light,quantum efficiency,0.136986301369863
+isotropic etching,dry etching,0.13740458015267176
+strain (injury),wide-bandgap semiconductor,0.1407035175879397
+barrier layer,wide-bandgap semiconductor,0.17204301075268819
+blueshift,wide-bandgap semiconductor,0.0966183574879227
+plasma etching,dry etching,0.15503875968992248
+lattice constant,lattice (music),0.15692307692307692
+lattice constant,wurtzite crystal structure,0.09230769230769231
+indium gallium nitride,wide-bandgap semiconductor,0.1638418079096045
+indium gallium nitride,quantum efficiency,0.11864406779661017
+auger effect,quantum efficiency,0.21428571428571427
+auger effect,wide-bandgap semiconductor,0.10119047619047619
+auger effect,carrier lifetime,0.09523809523809523
+quantum efficiency,ultraviolet,0.10322047894302229
+quantum efficiency,wide-bandgap semiconductor,0.12386457473162675
+optical power,waveguide,0.09868421052631579
+transconductance,electron mobility,0.11352657004830918
+contact resistance,ohmic contact,0.3684210526315789
+metal–semiconductor junction,wide-bandgap semiconductor,0.16279069767441862
+metal–semiconductor junction,thermionic emission,0.12403100775193798
+electron mobility,wide-bandgap semiconductor,0.17276166456494324
+lattice (music),lattice constant,0.12655086848635236
+template,wide-bandgap semiconductor,0.13793103448275862
+characterization,wide-bandgap semiconductor,0.09210526315789473
+dry etching,plasma etching,0.10309278350515463
+dry etching,isotropic etching,0.09278350515463918
+photodiode,ultraviolet,0.13005780346820808
+passivation,wide-bandgap semiconductor,0.10516252390057361
+ultraviolet,wide-bandgap semiconductor,0.09595959595959595
+ultraviolet,quantum efficiency,0.09018759018759019
+light emission,wide-bandgap semiconductor,0.09210526315789473
+cathodoluminescence,wide-bandgap semiconductor,0.09784735812133072
+figure of merit,wide-bandgap semiconductor,0.12578616352201258
+saturation current,saturation (graph theory),0.165
+saturation current,transconductance,0.105
+pulsed laser deposition,deposition,0.1875
+visible spectrum,ultraviolet,0.09768637532133675
+band bending,wide-bandgap semiconductor,0.14948453608247422
+deep-level transient spectroscopy,transient (computer programming),0.10843373493975904
+deep-level transient spectroscopy,wide-bandgap semiconductor,0.12650602409638553
+buffer (optical fiber),leakage (economics),0.09615384615384616
+buffer (optical fiber),wide-bandgap semiconductor,0.12980769230769232
+wurtzite crystal structure,wide-bandgap semiconductor,0.10299003322259136
+acceptor,wide-bandgap semiconductor,0.12140575079872204
+ohmic contact,wide-bandgap semiconductor,0.10969793322734499
+ohmic contact,contact resistance,0.178060413354531
+solid-state lighting,quantum efficiency,0.10559006211180125
