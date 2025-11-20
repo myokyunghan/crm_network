@@ -12,9 +12,11 @@ mutual                4.52247    0.63703      0   7.099  < 1e-04 ***
 nodecov.indegree      0.17000    0.04987      0   3.409 0.000653 ***
 diff.t-h.indegree    -0.41783    0.06762      0  -6.179  < 1e-04 ***
 ---
-Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
 
      Null Deviance: 8542.3  on 6162  degrees of freedom
  Residual Deviance:  526.4  on 6157  degrees of freedom
  
 AIC: 536.4  BIC: 570  (Smaller is better. MC Std. Err. = 0.3897)
+
+

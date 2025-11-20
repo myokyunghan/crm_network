@@ -17,3 +17,6 @@ Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’
  Residual Deviance:  684.8  on 5848  degrees of freedom
  
 AIC: 692.8  BIC: 719.5  (Smaller is better. MC Std. Err. = 0.5852)
+
+
+
