@@ -1,0 +1,136 @@
+from,to,weight
+tearing,tear resistance,0.13636363636363635
+tearing,silicone rubber,0.13636363636363635
+tearing,thermal stability,0.13636363636363635
+linear low-density polyethylene,fumed silica,0.15625
+nanotoxicology,nanomaterials,0.12121212121212122
+nanotoxicology,fumed silica,0.12121212121212122
+calcium silicate,calcium silicate hydrate,0.22413793103448276
+penetration (warfare),dilatant,0.1282051282051282
+silsesquioxane,thermal stability,0.16129032258064516
+dimethyl carbonate,fumed silica,0.18181818181818182
+low-density polyethylene,fumed silica,0.1388888888888889
+compatibilization,thermogravimetric analysis,0.16666666666666666
+percolation (cognitive psychology),particle (ecology),0.17647058823529413
+percolation (cognitive psychology),fumed silica,0.29411764705882354
+percolation (cognitive psychology),polystyrene,0.11764705882352941
+chemical modification,surface modification,0.2222222222222222
+granulation,friability,0.1326530612244898
+high-density polyethylene,fumed silica,0.16666666666666666
+high-density polyethylene,low-density polyethylene,0.16666666666666666
+shrinkage,silica fume,0.16470588235294117
+pozzolanic reaction,silica fume,0.16
+hydrophobic silica,fumed silica,0.21645021645021645
+rheometry,fumed silica,0.125
+brittleness,polypropylene,0.125
+melt flow index,molding (decorative),0.14285714285714285
+melt flow index,fumed silica,0.14285714285714285
+melt flow index,linear low-density polyethylene,0.14285714285714285
+limiting oxygen index,thermal stability,0.16363636363636364
+thermogravimetric analysis,thermal stability,0.14705882352941177
+apparent viscosity,fumed silica,0.23076923076923078
+apparent viscosity,dilatant,0.15384615384615385
+water repellent,lotus effect,0.1875
+water repellent,hysteresis,0.125
+atmospheric temperature range,fumed silica,0.13636363636363635
+shear thinning,fumed silica,0.13793103448275862
+shear thinning,dilatant,0.1206896551724138
+lotus effect,superhydrophobic coating,0.15384615384615385
+emulsion polymerization,pickering emulsion,0.125
+organosilicon,surface modification,0.2222222222222222
+coalescence (physics),pickering emulsion,0.12121212121212122
+hydrophobe,suspension,0.15384615384615385
+hydrophobe,fumed silica,0.15384615384615385
+hydrophobe,hydrophobic silica,0.15384615384615385
+ammonium polyphosphate,limiting oxygen index,0.15625
+ammonium polyphosphate,thermal stability,0.15625
+silanes,thermogravimetric analysis,0.16666666666666666
+silanes,silanization,0.16666666666666666
+silanes,surface modification,0.16666666666666666
+gravimetric analysis,thermogravimetric analysis,0.16
+shore durometer,silicone elastomers,0.125
+shore durometer,tear resistance,0.125
+shore durometer,agglomerate,0.125
+shore durometer,fumed silica,0.125
+vinyl acetate,ethylene-vinyl acetate,0.17647058823529413
+vinyl acetate,thermogravimetric analysis,0.11764705882352941
+vinyl acetate,thermal stability,0.11764705882352941
+polyolefin,fumed silica,0.2
+polyolefin,silanization,0.13333333333333333
+polyolefin,surface modification,0.13333333333333333
+depolymerization,fumed silica,0.17857142857142858
+interphase,filler (materials),0.16666666666666666
+compounding,dielectric strength,0.14285714285714285
+compounding,filler (materials),0.21428571428571427
+coffee ring effect,agglomerate,0.16666666666666666
+coffee ring effect,hydrophobic silica,0.16666666666666666
+coffee ring effect,colloidal silica,0.16666666666666666
+coffee ring effect,particle (ecology),0.16666666666666666
+coffee ring effect,suspension,0.16666666666666666
+coffee ring effect,fumed silica,0.16666666666666666
+phase inversion,pickering emulsion,0.16129032258064516
+styrene-butadiene,filler (materials),0.21052631578947367
+vinyl alcohol,fumed silica,0.18604651162790697
+mooney viscosity,thermal stability,0.14285714285714285
+mooney viscosity,precipitated silica,0.14285714285714285
+flexural modulus,fumed silica,0.16666666666666666
+coprecipitation,limiting oxygen index,0.14285714285714285
+coprecipitation,thermal stability,0.14285714285714285
+emulsified fuel,oil droplet,0.15384615384615385
+emulsified fuel,fumed silica,0.15384615384615385
+emulsified fuel,particle (ecology),0.15384615384615385
+silanization,surface modification,0.1346153846153846
+silanization,fumed silica,0.15384615384615385
+cone calorimeter,thermal stability,0.1951219512195122
+cone calorimeter,thermogravimetric analysis,0.14634146341463414
+silicone resin,silicone rubber,0.1891891891891892
+sulfonic acid,polystyrene,0.13333333333333333
+sulfonic acid,polypropylene,0.13333333333333333
+sulfonic acid,fumed silica,0.13333333333333333
+polylactic acid,thermal stability,0.2
+polylactic acid,thermogravimetric analysis,0.12
+stabilizer (aeronautics),thermal stability,0.16666666666666666
+chemical mechanical planarization,zeta potential,0.125
+chemical mechanical planarization,colloidal silica,0.1875
+surface charge,zeta potential,0.12903225806451613
+blowing agent,silicone rubber,0.12
+dielectric loss,fumed silica,0.21052631578947367
+cementitious,silica fume,0.22522522522522523
+calcium silicate hydrate,calcium silicate,0.18840579710144928
+precipitated silica,fumed silica,0.203125
+saturation (graph theory),fumed silica,0.16
+glycidyl methacrylate,fumed silica,0.125
+glycidyl methacrylate,thermal stability,0.125
+glycidyl methacrylate,halloysite,0.125
+glycidyl methacrylate,triethoxysilane,0.125
+glycidyl methacrylate,surface modification,0.125
+glycidyl methacrylate,polymer nanocomposite,0.125
+glycidyl methacrylate,thermogravimetric analysis,0.125
+ferrofluid,silicone oil,0.11764705882352941
+ferrofluid,sedimentation,0.17647058823529413
+ferrofluid,fumed silica,0.11764705882352941
+suspension,fumed silica,0.1391304347826087
+bet theory,specific surface area,0.14705882352941177
+oil droplet,pickering emulsion,0.25
+carbothermic reaction,fumed silica,0.15384615384615385
+janus particles,particle (ecology),0.15384615384615385
+janus particles,pickering emulsion,0.15384615384615385
+janus particles,polycarbonate,0.15384615384615385
+janus particles,dispersity,0.15384615384615385
+dielectric strength,silicone rubber,0.125
+polycarbonate,thermal stability,0.14285714285714285
+polycarbonate,dispersity,0.14285714285714285
+polycarbonate,janus particles,0.14285714285714285
+separator (oil production),thermogravimetric analysis,0.11764705882352941
+separator (oil production),thermal stability,0.11764705882352941
+metakaolin,silica fume,0.23076923076923078
+small-angle x-ray scattering,morphology,0.11764705882352941
+small-angle x-ray scattering,fumed silica,0.11764705882352941
+angle of repose,granulation,0.11940298507462686
+angle of repose,friability,0.208955223880597
+magic angle spinning,fumed silica,0.13043478260869565
+maleic anhydride,polypropylene,0.14285714285714285
+dilatant,fumed silica,0.15463917525773196
+shear strength,silica fume,0.13636363636363635
+ethylene-vinyl acetate,vinyl acetate,0.12
+ethylene-vinyl acetate,thermogravimetric analysis,0.12

@@ -1,0 +1,105 @@
+from,to,weight
+powder diffraction,thermogravimetric analysis,0.06806282722513089
+powder diffraction,rietveld refinement,0.06282722513089005
+powder diffraction,monoclinic crystal system,0.08376963350785341
+overpotential,oxygen evolution,0.06521739130434782
+chemisorption,physisorption,0.05673758865248227
+lattice constant,lattice (music),0.11464968152866242
+lattice constant,tetragonal crystal system,0.07643312101910828
+oxidizing agent,chemical-looping combustion,0.08021390374331551
+nanomaterial-based catalyst,bimetallic strip,0.08163265306122448
+xanes,x-ray absorption spectroscopy,0.1456953642384106
+xanes,absorption edge,0.059602649006622516
+partial pressure,atmospheric temperature range,0.06796116504854369
+partial pressure,chemical-looping combustion,0.05825242718446602
+photocathode,photocurrent,0.12745098039215685
+indium tin oxide,deposition,0.0851063829787234
+indium tin oxide,tin oxide,0.07446808510638298
+nanoporous,carbon fibers,0.05737704918032787
+nanosheet,hydrothermal synthesis,0.06756756756756757
+nanosheet,nanorod,0.06756756756756757
+space velocity,selective catalytic reduction,0.061946902654867256
+rutile,titanium dioxide,0.07407407407407407
+orthorhombic crystal system,tetragonal crystal system,0.1761006289308176
+noble metal,bimetallic strip,0.07692307692307693
+wurtzite crystal structure,nanorod,0.056179775280898875
+differential thermal analysis,thermogravimetric analysis,0.13829787234042554
+differential thermal analysis,thermogravimetry,0.09574468085106383
+ultraviolet,visible spectrum,0.06557377049180328
+oxygen evolution,carbon fibers,0.058823529411764705
+thermal desorption spectroscopy,temperature-programmed reduction,0.11666666666666667
+hysteresis,atmospheric temperature range,0.05952380952380952
+dispersity,nanorod,0.054945054945054944
+dispersity,bimetallic strip,0.054945054945054944
+lanthanum,orthorhombic crystal system,0.07352941176470588
+lanthanum,tetragonal crystal system,0.058823529411764705
+chemical-looping combustion,thermogravimetric analysis,0.10880829015544041
+chemical-looping combustion,reactivity,0.09067357512953368
+chemical-looping combustion,carbon fibers,0.054404145077720206
+visible spectrum,methyl orange,0.07058823529411765
+visible spectrum,degradation,0.05588235294117647
+visible spectrum,photodegradation,0.058823529411764705
+rietveld refinement,monoclinic crystal system,0.07086614173228346
+rietveld refinement,powder diffraction,0.09448818897637795
+rietveld refinement,tetragonal crystal system,0.07086614173228346
+rietveld refinement,orthorhombic crystal system,0.06299212598425197
+delafossite,non-blocking i/o,0.0625
+delafossite,atmospheric temperature range,0.078125
+photocurrent,photocathode,0.05439330543933055
+photocurrent,nanorod,0.058577405857740586
+titanium oxide,rutile,0.06896551724137931
+titanium oxide,visible spectrum,0.08620689655172414
+titanium oxide,titanium dioxide,0.10344827586206896
+galvanic cell,deposition,0.10619469026548672
+specific surface area,bet theory,0.08333333333333333
+photodegradation,visible spectrum,0.12269938650306748
+photodegradation,methyl orange,0.17791411042944785
+photodegradation,degradation,0.06748466257668712
+x-ray absorption spectroscopy,xanes,0.1456953642384106
+rhodamine b,visible spectrum,0.13821138211382114
+rhodamine b,degradation,0.10569105691056911
+rhodamine b,methyl orange,0.056910569105691054
+electrospinning,non-blocking i/o,0.06153846153846154
+absorption edge,xanes,0.09782608695652174
+absorption edge,visible spectrum,0.09782608695652174
+absorption edge,x-ray absorption spectroscopy,0.07608695652173914
+nanometre,nanomaterials,0.06015037593984962
+transition temperature,lattice (music),0.0594059405940594
+reactivity,thermogravimetric analysis,0.08387096774193549
+reactivity,chemical-looping combustion,0.11290322580645161
+pulsed laser deposition,deposition,0.24193548387096775
+tetragonal crystal system,orthorhombic crystal system,0.12993039443155452
+tin oxide,photocurrent,0.08270676691729323
+methyl orange,visible spectrum,0.13793103448275862
+methyl orange,degradation,0.08620689655172414
+methyl orange,photodegradation,0.16666666666666666
+non-blocking i/o,nickel oxide,0.06534090909090909
+morphology,crystal (programming language),0.075
+hydrothermal synthesis,nanorod,0.07894736842105263
+monoclinic crystal system,tetragonal crystal system,0.05571847507331378
+thermal stability,thermogravimetric analysis,0.108
+thermogravimetric analysis,chemical-looping combustion,0.07939508506616257
+anodizing,deposition,0.05555555555555555
+anodizing,photocurrent,0.05555555555555555
+anodizing,nanorod,0.05555555555555555
+amperometry,nanomaterials,0.056910569105691054
+titanium dioxide,rutile,0.078125
+thermogravimetry,thermal stability,0.06976744186046512
+thermogravimetry,differential thermal analysis,0.06976744186046512
+nickel oxide,non-blocking i/o,0.2839506172839506
+bet theory,specific surface area,0.2
+isostructural,orthorhombic crystal system,0.0594059405940594
+temperature-programmed reduction,thermogravimetric analysis,0.06382978723404255
+polystyrene,template,0.05714285714285714
+polystyrene,deposition,0.07142857142857142
+hydrazine (antidepressant),reducing agent,0.07865168539325842
+hydrazine (antidepressant),nanomaterials,0.056179775280898875
+inert gas,chemical-looping combustion,0.08928571428571429
+physisorption,chemisorption,0.11594202898550725
+physisorption,coprecipitation,0.057971014492753624
+physisorption,thermogravimetric analysis,0.057971014492753624
+degradation,visible spectrum,0.06859205776173286
+methylene blue,degradation,0.07792207792207792
+methylene blue,photodegradation,0.06493506493506493
+methylene blue,visible spectrum,0.07792207792207792
+mixed oxide,temperature-programmed reduction,0.07017543859649122

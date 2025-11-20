@@ -1,0 +1,124 @@
+from,to,weight
+powder diffraction,monoclinic crystal system,0.11926605504587157
+cationic polymerization,degradation,0.13333333333333333
+cationic polymerization,photodegradation,0.08333333333333333
+overpotential,oxygen evolution,0.21908127208480566
+chemisorption,langmuir adsorption model,0.0761904761904762
+layered double hydroxides,coprecipitation,0.07058823529411765
+nanomaterial-based catalyst,bimetallic strip,0.065
+electrochemical gas sensor,nanomaterials,0.07984790874524715
+electrochemical gas sensor,amperometry,0.06844106463878327
+photocathode,photoelectrochemical cell,0.09170305676855896
+photocathode,photoelectrochemistry,0.08733624454148471
+photocathode,photocurrent,0.1965065502183406
+indium tin oxide,tin oxide,0.1506849315068493
+polypyrrole,nanomaterials,0.07017543859649122
+graphitic carbon nitride,carbon nitride,0.20625
+graphitic carbon nitride,carbon fibers,0.125
+graphitic carbon nitride,degradation,0.08125
+carbon nitride,carbon fibers,0.18045112781954886
+carbon nitride,graphitic carbon nitride,0.24812030075187969
+nanosheet,overpotential,0.06716417910447761
+nanosheet,oxygen evolution,0.07462686567164178
+cerium oxide,nanomaterials,0.07317073170731707
+rutile,titanium dioxide,0.10344827586206896
+rutile,nanomaterials,0.06896551724137931
+orthorhombic crystal system,monoclinic crystal system,0.07079646017699115
+orthorhombic crystal system,tetragonal crystal system,0.17699115044247787
+4-nitrophenol,selective catalytic reduction,0.18823529411764706
+photoelectrochemical cell,photoelectrochemistry,0.12121212121212122
+photoelectrochemical cell,photocathode,0.1590909090909091
+photoelectrochemical cell,photocurrent,0.17424242424242425
+superparamagnetism,methyl orange,0.07017543859649122
+superparamagnetism,nanomaterials,0.08771929824561403
+laser ablation,nanomaterials,0.07017543859649122
+laser ablation,absorbance,0.07017543859649122
+noble metal,nanomaterials,0.06103286384976526
+noble metal,bimetallic strip,0.06103286384976526
+wurtzite crystal structure,photodegradation,0.08602150537634409
+wurtzite crystal structure,monoclinic crystal system,0.06451612903225806
+bimetal,bimetallic strip,0.1506849315068493
+ultraviolet,nanorod,0.06666666666666667
+ultraviolet,visible spectrum,0.09333333333333334
+oxygen evolution,overpotential,0.19935691318327975
+malachite green,methylene blue,0.06557377049180328
+malachite green,degradation,0.09016393442622951
+dispersity,zeta potential,0.07407407407407407
+dispersity,silver nanoparticle,0.09259259259259259
+chemical-looping combustion,carbon fibers,0.06198347107438017
+biopolymer,biocompatibility,0.08333333333333333
+charge carrier,photocurrent,0.10989010989010989
+linear range,electrochemical gas sensor,0.10434782608695652
+visible spectrum,photodegradation,0.08550724637681159
+visible spectrum,methylene blue,0.07536231884057971
+visible spectrum,degradation,0.12318840579710146
+rietveld refinement,orthorhombic crystal system,0.06666666666666667
+exothermic reaction,endothermic process,0.09352517985611511
+langmuir adsorption model,methylene blue,0.08875739644970414
+langmuir adsorption model,endothermic process,0.08875739644970414
+ammonia production,selective catalytic reduction,0.1111111111111111
+photocurrent,photocathode,0.1
+titanium oxide,titanium dioxide,0.1509433962264151
+portable water purification,nanomaterials,0.07936507936507936
+portable water purification,degradation,0.06349206349206349
+portable water purification,photodegradation,0.07936507936507936
+linear sweep voltammetry,oxygen evolution,0.08139534883720931
+specific surface area,bet theory,0.09292035398230089
+photodegradation,visible spectrum,0.116600790513834
+photodegradation,degradation,0.14624505928853754
+photodegradation,methylene blue,0.09090909090909091
+biocompatibility,nanomaterials,0.0881057268722467
+polyvinylpyrrolidone,electrospinning,0.09230769230769231
+x-ray absorption spectroscopy,oxidation state,0.09821428571428571
+rhodamine b,degradation,0.13671875
+rhodamine b,photodegradation,0.07421875
+selective catalytic reduction,4-nitrophenol,0.08247422680412371
+nanometre,nanomaterials,0.11428571428571428
+reactivity,chemical-looping combustion,0.06190476190476191
+tetragonal crystal system,orthorhombic crystal system,0.11363636363636363
+tetragonal crystal system,monoclinic crystal system,0.06818181818181818
+tin oxide,indium tin oxide,0.06832298136645963
+tin oxide,photocurrent,0.06832298136645963
+methyl orange,visible spectrum,0.07947019867549669
+methyl orange,degradation,0.1390728476821192
+methyl orange,photodegradation,0.0728476821192053
+methyl orange,methylene blue,0.06622516556291391
+surface modification,nanomaterials,0.08274231678486997
+oxidation state,x-ray absorption spectroscopy,0.09243697478991597
+non-blocking i/o,nickel oxide,0.08096280087527352
+environmental pollution,environmentally friendly,0.06707317073170732
+hydrothermal synthesis,monoclinic crystal system,0.0784313725490196
+endothermic process,langmuir adsorption model,0.14705882352941177
+endothermic process,exothermic reaction,0.12745098039215685
+thermal stability,thermogravimetric analysis,0.10704960835509138
+thermogravimetric analysis,thermal stability,0.08102766798418973
+anodizing,photocurrent,0.06896551724137931
+anodizing,nanoporous,0.06896551724137931
+characterization,nanomaterials,0.07692307692307693
+reusability,degradation,0.13157894736842105
+chemical bath deposition,deposition,0.08571428571428572
+chemical bath deposition,monoclinic crystal system,0.07142857142857142
+chemical bath deposition,nanorod,0.07142857142857142
+biomolecule,nanomaterials,0.1640625
+biomolecule,biocompatibility,0.078125
+biomolecule,surface modification,0.0703125
+amperometry,electrochemical gas sensor,0.16363636363636364
+amperometry,nanomaterials,0.06363636363636363
+amperometry,linear range,0.06363636363636363
+titanium dioxide,degradation,0.064
+nickel oxide,non-blocking i/o,0.3274336283185841
+bet theory,specific surface area,0.1794871794871795
+photoelectrochemistry,photoelectrochemical cell,0.10666666666666667
+photoelectrochemistry,photocurrent,0.17333333333333334
+photoelectrochemistry,photocathode,0.13333333333333333
+degradation,visible spectrum,0.08228460793804453
+degradation,photodegradation,0.07163601161665054
+degradation,methylene blue,0.08422071636011616
+energy transformation,nanomaterials,0.07766990291262135
+congo red,photodegradation,0.06593406593406594
+congo red,degradation,0.0989010989010989
+congo red,methylene blue,0.0989010989010989
+methylene blue,degradation,0.15289982425307558
+methylene blue,visible spectrum,0.0913884007029877
+methylene blue,photodegradation,0.08084358523725835
+hybrid material,nanomaterials,0.09433962264150944

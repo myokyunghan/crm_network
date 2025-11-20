@@ -1,0 +1,87 @@
+from,to,weight
+active packaging,nanomaterials,0.16666666666666666
+dental composite,filler (materials),0.18181818181818182
+carbon dioxide reforming,morphology,0.2
+thixotropy,fumed silica,0.20689655172413793
+low-density polyethylene,fluid catalytic cracking,0.16666666666666666
+low-density polyethylene,polylactic acid,0.16666666666666666
+low-density polyethylene,thermogravimetric analysis,0.16666666666666666
+hybrid material,filler (materials),0.16666666666666666
+hybrid material,surface modification,0.3333333333333333
+hybrid material,fumed silica,0.16666666666666666
+hybrid material,thermal stability,0.16666666666666666
+split hopkinson pressure bar,dilatant,0.18181818181818182
+pozzolanic reaction,silica fume,0.23529411764705882
+chemical modification,surface modification,0.375
+hydrophobic silica,fumed silica,0.28888888888888886
+chloroprene,thermogravimetric analysis,0.18181818181818182
+chloroprene,filler (materials),0.18181818181818182
+chloroprene,tear resistance,0.18181818181818182
+nanosheet,morphology,0.25
+grease,fumed silica,0.23076923076923078
+silicone oil,fumed silica,0.22727272727272727
+monolith,fumed silica,0.16666666666666666
+coalescence (physics),pickering emulsion,0.21428571428571427
+cladding (metalworking),fumed silica,0.2
+mcm-41,specific surface area,0.2727272727272727
+elongation,fumed silica,0.17647058823529413
+soft materials,soft robotics,0.23684210526315788
+shore durometer,thermal stability,0.19047619047619047
+plasticizer,superplasticizer,0.2
+phase inversion,fumed silica,0.2
+styrene-butadiene,thermogravimetric analysis,0.16666666666666666
+mooney viscosity,silicone rubber,0.2
+mooney viscosity,fumed silica,0.2
+mooney viscosity,polydimethylsiloxane,0.2
+mooney viscosity,precipitated silica,0.2
+mooney viscosity,hydrophobic silica,0.2
+mass fraction,particle (ecology),0.21052631578947367
+nanoporous,fumed silica,0.17391304347826086
+ammonium hydroxide,thermogravimetric analysis,0.2
+ammonium hydroxide,bimetallic strip,0.2
+ammonium hydroxide,physisorption,0.2
+ammonium hydroxide,particle (ecology),0.2
+ammonium hydroxide,fumed silica,0.2
+blowing agent,silicone rubber,0.16666666666666666
+sedimentation,fumed silica,0.17647058823529413
+cementitious,silica fume,0.20652173913043478
+pozzolanic activity,pozzolanic reaction,0.23076923076923078
+calcium silicate hydrate,calcium silicate,0.2222222222222222
+precipitated silica,fumed silica,0.1935483870967742
+sandpaper,abrasion (mechanical),0.17391304347826086
+sandpaper,fumed silica,0.17391304347826086
+superplasticizer,silica fume,0.20588235294117646
+kevlar,dilatant,0.23333333333333334
+sodium oxide,thermal shock,0.2
+sodium oxide,absorbance,0.2
+sodium oxide,fumed silica,0.2
+sodium oxide,hydrophobic silica,0.2
+sodium oxide,thermal stability,0.2
+sunflower oil,shear thinning,0.2
+sunflower oil,thixotropy,0.2
+sunflower oil,nanomaterials,0.2
+sunflower oil,fumed silica,0.2
+sunflower oil,hydrophobic silica,0.2
+polystyrene,fumed silica,0.18518518518518517
+alite,superplasticizer,0.16666666666666666
+alite,pozzolanic reaction,0.16666666666666666
+alite,silica fume,0.16666666666666666
+alite,fumed silica,0.16666666666666666
+alite,calcium silicate hydrate,0.16666666666666666
+alite,precipitated silica,0.16666666666666666
+thermal shock,absorbance,0.2
+thermal shock,fumed silica,0.2
+thermal shock,hydrophobic silica,0.2
+thermal shock,thermal stability,0.2
+thermal shock,sodium oxide,0.2
+supercritical drying,hydrophobic silica,0.25
+supercritical drying,thermal stability,0.25
+supercritical drying,nanoporous,0.25
+supercritical drying,fumed silica,0.25
+metakaolin,silica fume,0.19047619047619047
+polyacrylonitrile,fumed silica,0.2222222222222222
+angle of repose,friability,0.21052631578947367
+polypropylene,fumed silica,0.17105263157894737
+stearic acid,bimetallic strip,0.2
+tear resistance,fumed silica,0.21428571428571427
+hydrophobe,superhydrophobic coating,0.16666666666666666

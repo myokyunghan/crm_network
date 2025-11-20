@@ -1,0 +1,76 @@
+from,to,weight
+hydrothermal synthesis,nanorod,0.08761329305135952
+molar ratio,degradation,0.06528189910979229
+indium tin oxide,tin oxide,0.12092130518234165
+indium tin oxide,photocurrent,0.061420345489443376
+agglomerate,particle (ecology),0.10526315789473684
+photodegradation,methyl orange,0.08690280065897858
+photodegradation,visible spectrum,0.1198517298187809
+photodegradation,degradation,0.12644151565074135
+methyl orange,visible spectrum,0.1359883438562409
+methyl orange,degradation,0.1131617289946576
+methyl orange,photodegradation,0.1024769305488101
+titanium oxide,anodizing,0.0651862464183381
+photoelectric effect,photocurrent,0.11143695014662756
+photoelectric effect,nanorod,0.05865102639296188
+ultraviolet,visible spectrum,0.09409190371991247
+ultraviolet,ultraviolet light,0.08388037928519329
+tetragonal crystal system,monoclinic crystal system,0.07956104252400549
+nanoporous,anodizing,0.07060063224446786
+absorbance,visible spectrum,0.10785824345146379
+tin dioxide,tin oxide,0.2064516129032258
+degradation,visible spectrum,0.09532811234134486
+degradation,photodegradation,0.08290575209289765
+degradation,methylene blue,0.06265190386173373
+degradation,methyl orange,0.06292195517148258
+charge carrier,visible spectrum,0.0957983193277311
+charge carrier,photocurrent,0.08403361344537816
+pulsed laser deposition,deposition,0.21264367816091953
+noble metal,visible spectrum,0.10431654676258993
+tin oxide,tin dioxide,0.0600375234521576
+tin oxide,indium tin oxide,0.05909943714821764
+tin oxide,photocurrent,0.05909943714821764
+photoelectrochemistry,visible spectrum,0.08664259927797834
+photoelectrochemistry,photocurrent,0.22743682310469315
+photoelectrochemistry,anodizing,0.05956678700361011
+bismuth,visible spectrum,0.09415584415584416
+auxiliary electrode,carbon fibers,0.06486486486486487
+auxiliary electrode,tin oxide,0.06846846846846846
+auxiliary electrode,open-circuit voltage,0.07207207207207207
+auxiliary electrode,photocurrent,0.07747747747747748
+absorption edge,visible spectrum,0.23089171974522293
+absorption edge,methyl orange,0.05732484076433121
+thermal stability,thermogravimetric analysis,0.10046511627906977
+specific surface area,bet theory,0.10431372549019607
+specific surface area,visible spectrum,0.058823529411764705
+specific surface area,methyl orange,0.0596078431372549
+rhodamine b,visible spectrum,0.14961832061068703
+rhodamine b,degradation,0.10229007633587786
+rhodamine b,photodegradation,0.10381679389312977
+photocurrent,visible spectrum,0.05669481302774427
+biocompatibility,surface modification,0.10149253731343283
+ultraviolet light,ultraviolet,0.30183727034120733
+ultraviolet light,visible spectrum,0.12335958005249344
+monoclinic crystal system,tetragonal crystal system,0.11740890688259109
+zeta potential,particle (ecology),0.07253886010362694
+dip-coating,nanocrystalline material,0.059113300492610835
+dip-coating,methyl orange,0.06896551724137931
+passivation,photocurrent,0.05714285714285714
+methylene blue,degradation,0.1596696490020647
+methylene blue,visible spectrum,0.15416379903647626
+methylene blue,photodegradation,0.07708189951823813
+anodizing,titanium oxide,0.06666666666666667
+anodizing,photocurrent,0.05934065934065934
+open-circuit voltage,photocurrent,0.13043478260869565
+solvothermal synthesis,visible spectrum,0.06217616580310881
+solvothermal synthesis,specific surface area,0.06217616580310881
+solvothermal synthesis,methyl orange,0.06217616580310881
+suspension,particle (ecology),0.07050092764378478
+fluorine,tin oxide,0.07511737089201878
+bet theory,methylene blue,0.06187624750499002
+bet theory,specific surface area,0.2654690618762475
+bet theory,visible spectrum,0.07385229540918163
+thermogravimetric analysis,thermal stability,0.09926470588235294
+visible spectrum,methyl orange,0.06172839506172839
+visible spectrum,degradation,0.07782186948853616
+visible spectrum,photodegradation,0.06415343915343916

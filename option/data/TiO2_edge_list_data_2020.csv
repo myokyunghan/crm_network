@@ -1,0 +1,90 @@
+from,to,weight
+hydrothermal synthesis,visible spectrum,0.07427055702917772
+hydrothermal synthesis,nanorod,0.0636604774535809
+biofouling,filtration (mathematics),0.06339468302658487
+textile,degradation,0.06460674157303371
+surface modification,biocompatibility,0.06869479882237488
+indium tin oxide,tin oxide,0.09859154929577464
+sonication,zeta potential,0.05687203791469194
+sonication,degradation,0.05687203791469194
+agglomerate,particle (ecology),0.10429447852760736
+photodegradation,degradation,0.13752743233357717
+photodegradation,methylene blue,0.07022677395757132
+photodegradation,visible spectrum,0.11960497439648866
+methyl orange,degradation,0.11977186311787072
+methyl orange,photodegradation,0.11977186311787072
+methyl orange,methylene blue,0.058935361216730035
+methyl orange,visible spectrum,0.0979087452471483
+photoelectric effect,visible spectrum,0.056910569105691054
+photoelectric effect,charge carrier,0.056910569105691054
+photoelectric effect,photocurrent,0.1016260162601626
+ultraviolet,visible spectrum,0.08656716417910448
+ultraviolet,degradation,0.06467661691542288
+tetragonal crystal system,monoclinic crystal system,0.07804878048780488
+tetragonal crystal system,tin oxide,0.056910569105691054
+orthorhombic crystal system,monoclinic crystal system,0.09881422924901186
+orthorhombic crystal system,tetragonal crystal system,0.09881422924901186
+polydimethylsiloxane,biofouling,0.06451612903225806
+oxygen evolution,overpotential,0.15036496350364964
+nanoporous,anodizing,0.09424083769633508
+absorbance,visible spectrum,0.08159392789373814
+chemisorption,langmuir adsorption model,0.05803571428571429
+tin dioxide,tin oxide,0.1952662721893491
+tin dioxide,tetragonal crystal system,0.0650887573964497
+biopolymer,biocompatibility,0.06050955414012739
+mxenes,nanomaterials,0.09266409266409266
+degradation,visible spectrum,0.09395973154362416
+degradation,photodegradation,0.08701689423744503
+degradation,methylene blue,0.06225410784540616
+hybrid material,surface modification,0.057692307692307696
+charge carrier,visible spectrum,0.11015736766809728
+charge carrier,photocurrent,0.07296137339055794
+titanium alloy,biocompatibility,0.10378681626928471
+titanium alloy,anodizing,0.06591865357643759
+titanium alloy,surface modification,0.10799438990182328
+graphitic carbon nitride,carbon fibers,0.09502262443438914
+graphitic carbon nitride,visible spectrum,0.09276018099547512
+graphitic carbon nitride,degradation,0.06787330316742081
+nanometre,nanomaterials,0.061611374407582936
+photoelectrochemistry,photocurrent,0.19917864476386038
+bismuth,visible spectrum,0.08417508417508418
+nanorod,photocurrent,0.06294326241134751
+wurtzite crystal structure,visible spectrum,0.05714285714285714
+wurtzite crystal structure,photodegradation,0.09523809523809523
+coprecipitation,photodegradation,0.06976744186046512
+diffractometer,visible spectrum,0.0603448275862069
+absorption edge,visible spectrum,0.1511111111111111
+thermal stability,thermogravimetric analysis,0.09591642924976258
+specific surface area,bet theory,0.09738717339667459
+specific surface area,photodegradation,0.06769596199524941
+specific surface area,degradation,0.06769596199524941
+rhodamine b,degradation,0.15476190476190477
+rhodamine b,visible spectrum,0.10952380952380952
+rhodamine b,photodegradation,0.10317460317460317
+photocurrent,visible spectrum,0.06570713391739674
+photocurrent,photoelectrochemistry,0.0607008760951189
+monoclinic crystal system,tetragonal crystal system,0.10810810810810811
+biocompatibility,surface modification,0.09314703925482369
+nanomaterial-based catalyst,nanomaterials,0.06153846153846154
+langmuir adsorption model,methylene blue,0.07816711590296496
+oxidizing agent,degradation,0.08579088471849866
+filtration (mathematics),biofouling,0.05827067669172932
+methylene blue,degradation,0.14994425863991082
+methylene blue,visible spectrum,0.10758082497212931
+methylene blue,photodegradation,0.10702341137123746
+anodizing,titanium oxide,0.056962025316455694
+anodizing,surface modification,0.05949367088607595
+anodizing,titanium alloy,0.05949367088607595
+perovskite solar cell,open-circuit voltage,0.08447488584474885
+open-circuit voltage,perovskite solar cell,0.09711286089238845
+dispersity,particle (ecology),0.07575757575757576
+dispersity,zeta potential,0.07575757575757576
+spin coating,deposition,0.07272727272727272
+overpotential,oxygen evolution,0.2647814910025707
+cationic polymerization,methylene blue,0.08868501529051988
+suspension,particle (ecology),0.10480349344978165
+bet theory,specific surface area,0.27424749163879597
+bet theory,methylene blue,0.06688963210702341
+thermogravimetric analysis,thermal stability,0.08898678414096917
+visible spectrum,degradation,0.11527541169789893
+visible spectrum,photodegradation,0.09284497444633731
