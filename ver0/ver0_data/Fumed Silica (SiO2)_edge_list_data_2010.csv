@@ -1,0 +1,99 @@
+from,to,weight
+intumescent,thermogravimetric analysis,0.13114754098360656
+intumescent,limiting oxygen index,0.14754098360655737
+polarity (international relations),surface modification,0.125
+polarity (international relations),titanium dioxide,0.125
+polarity (international relations),filler (materials),0.25
+polarity (international relations),matrix (chemical analysis),0.125
+polarity (international relations),agglomerate,0.125
+polarity (international relations),particle (ecology),0.125
+polarity (international relations),micrometer,0.125
+shrinkage,silica fume,0.1794871794871795
+superplasticizer,silica fume,0.21428571428571427
+vinyl acetate,ethylene-vinyl acetate,0.1935483870967742
+glycidyl methacrylate,thermogravimetric analysis,0.1111111111111111
+glycidyl methacrylate,particle (ecology),0.1111111111111111
+glycidyl methacrylate,low-density polyethylene,0.1111111111111111
+glycidyl methacrylate,thermal stability,0.2222222222222222
+glycidyl methacrylate,high-density polyethylene,0.1111111111111111
+glycidyl methacrylate,shrinkage,0.1111111111111111
+hydrosilylation,surface modification,0.13333333333333333
+hydrosilylation,silsesquioxane,0.2
+sedimentation,suspension,0.13333333333333333
+sedimentation,particle (ecology),0.13333333333333333
+sedimentation,carbonyl iron,0.13333333333333333
+isophorone diisocyanate,thermal stability,0.1111111111111111
+mesoporous organosilica,specific surface area,0.12903225806451613
+mesoporous organosilica,mcm-41,0.16129032258064516
+polysulfone,thermal stability,0.125
+polysulfone,phase inversion,0.125
+pozzolanic reaction,pozzolanic activity,0.17647058823529413
+pozzolanic reaction,silica fume,0.23529411764705882
+pozzolanic activity,pozzolanic reaction,0.23076923076923078
+pozzolanic activity,silica fume,0.19230769230769232
+spherulite (polymer physics),polypropylene,0.14285714285714285
+spherulite (polymer physics),morphology,0.21428571428571427
+calcium silicate hydrate,silica fume,0.13793103448275862
+agglomerate,particle (ecology),0.13861386138613863
+zeta potential,surface charge,0.14285714285714285
+cone calorimeter,thermogravimetric analysis,0.14
+cone calorimeter,limiting oxygen index,0.16
+cone calorimeter,intumescent,0.12
+graphite oxide,agglomerate,0.14285714285714285
+graphite oxide,volume fraction,0.14285714285714285
+graphite oxide,percolation (cognitive psychology),0.14285714285714285
+graphite oxide,particle (ecology),0.14285714285714285
+graphite oxide,surface modification,0.14285714285714285
+graphite oxide,filler (materials),0.14285714285714285
+polypropylene glycol,thermal stability,0.125
+polypropylene glycol,polypropylene,0.1875
+cementitious,silica fume,0.24358974358974358
+silanization,surface modification,0.15384615384615385
+autoclave,thermal stability,0.15384615384615385
+halloysite,thermal stability,0.15
+electrical treeing,filler (materials),0.2
+silicone oil,suspension,0.11428571428571428
+ethylene-vinyl acetate,vinyl acetate,0.14285714285714285
+ethylene-vinyl acetate,thermogravimetric analysis,0.11904761904761904
+limiting oxygen index,thermogravimetric analysis,0.1774193548387097
+limiting oxygen index,cone calorimeter,0.12903225806451613
+limiting oxygen index,intumescent,0.14516129032258066
+thermogravimetric analysis,thermal stability,0.14705882352941177
+tacticity,polypropylene,0.2727272727272727
+thermal stability,thermogravimetric analysis,0.13377926421404682
+silicone rubber,filler (materials),0.125
+thixotropy,shear thinning,0.15
+abrasion (mechanical),silica fume,0.16666666666666666
+blowing agent,polypropylene,0.1111111111111111
+styrene-butadiene,filler (materials),0.18181818181818182
+emulsion polymerization,butyl acrylate,0.25925925925925924
+metakaolin,silica fume,0.125
+maleic anhydride,hydrophobic silica,0.1111111111111111
+oil droplet,pickering emulsion,0.16666666666666666
+silanes,silanol,0.11764705882352941
+micrometer,particle (ecology),0.2222222222222222
+micrometer,titanium dioxide,0.1111111111111111
+dispersion stability,particle (ecology),0.14285714285714285
+interphase,thermogravimetric analysis,0.14285714285714285
+interphase,filler (materials),0.14285714285714285
+suspension,particle (ecology),0.13186813186813187
+compatibilization,morphology,0.12
+mcm-41,mesoporous organosilica,0.1111111111111111
+superhydrophobic coating,hydrophobic silica,0.15384615384615385
+linear low-density polyethylene,low-density polyethylene,0.11764705882352941
+wollastonite,thermogravimetric analysis,0.16666666666666666
+surface charge,zeta potential,0.23684210526315788
+carbonyl iron,suspension,0.14814814814814814
+carbonyl iron,sedimentation,0.14814814814814814
+carbonyl iron,dispersion stability,0.1111111111111111
+silicone resin,silicone rubber,0.15789473684210525
+flexural modulus,filler (materials),0.17857142857142858
+slag (welding),silica fume,0.2558139534883721
+butyl acrylate,emulsion polymerization,0.3333333333333333
+electrospinning,thermogravimetric analysis,0.19047619047619047
+electrospinning,thermal stability,0.14285714285714285
+compression molding,filler (materials),0.2
+compression molding,polypropylene,0.13333333333333333
+in situ polymerization,thermal stability,0.1875
+in situ polymerization,thermogravimetric analysis,0.1875
+precipitated silica,hydrophobic silica,0.14130434782608695

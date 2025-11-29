@@ -1,0 +1,70 @@
+from,to,weight
+xanes,x-ray absorption spectroscopy,0.13127413127413126
+zigzag,ribbon,0.10752688172043011
+lattice constant,lattice (music),0.17204301075268819
+nanorod,nanomaterials,0.11392405063291139
+oxindole,michael reaction,0.06363636363636363
+oxindole,stereocenter,0.08181818181818182
+diels–alder reaction,diene,0.05970149253731343
+diamond anvil cell,hydrostatic pressure,0.07407407407407407
+nanosheet,nanomaterials,0.09395973154362416
+nanosheet,exfoliation joint,0.087248322147651
+oxidative addition,reactivity,0.07936507936507936
+cascade reaction,domino,0.09580838323353294
+cascade reaction,tandem,0.08982035928143713
+hydrostatic pressure,diamond anvil cell,0.11320754716981132
+tetragonal crystal system,orthorhombic crystal system,0.07428571428571429
+rietveld refinement,powder diffraction,0.1595744680851064
+orthorhombic crystal system,tetragonal crystal system,0.06914893617021277
+orthorhombic crystal system,monoclinic crystal system,0.06914893617021277
+atom economy,cascade reaction,0.058823529411764705
+atom economy,organic synthesis,0.09803921568627451
+atom economy,coupling reaction,0.058823529411764705
+nanochemistry,carbon fibers,0.06896551724137931
+wurtzite crystal structure,wide-bandgap semiconductor,0.08270676691729323
+volume fraction,particle (ecology),0.09467455621301775
+tandem,cascade reaction,0.08064516129032258
+diastereomer,stereocenter,0.06944444444444445
+powder diffraction,rietveld refinement,0.13157894736842105
+powder diffraction,diamond anvil cell,0.06140350877192982
+thermal stability,thermogravimetric analysis,0.058823529411764705
+bond cleavage,cleavage (geology),0.22429906542056074
+electron mobility,charge carrier,0.06
+vickers hardness test,hot pressing,0.07462686567164178
+vickers hardness test,orthorhombic crystal system,0.06716417910447761
+homo/lumo,zigzag,0.06976744186046512
+boron carbide,carbon fibers,0.06787330316742081
+boranes,ammonia borane,0.16818181818181818
+heteroatom,carbon fibers,0.08771929824561403
+ambient pressure,diamond anvil cell,0.06818181818181818
+substitution reaction,substitution (logic),0.12987012987012986
+borazine,boranes,0.10909090909090909
+borazine,ammonia borane,0.10909090909090909
+spark plasma sintering,boron carbide,0.0661764705882353
+filler (materials),particle (ecology),0.07563025210084033
+reaction conditions,cascade reaction,0.06956521739130435
+oxazoline,cationic polymerization,0.060240963855421686
+ribbon,zigzag,0.30303030303030304
+trifluoromethanesulfonate,reactivity,0.06315789473684211
+x-ray absorption spectroscopy,xanes,0.20118343195266272
+domino,cascade reaction,0.10256410256410256
+density of states,bilayer graphene,0.072
+thermogravimetric analysis,thermal stability,0.08928571428571429
+cleavage (geology),bond cleavage,0.13186813186813187
+nanometre,characterization,0.0660377358490566
+michael reaction,stereocenter,0.06944444444444445
+chemoselectivity,reactivity,0.12162162162162163
+kinetic resolution,stereocenter,0.08163265306122448
+chemical stability,reactivity,0.07692307692307693
+chirality,zigzag,0.09523809523809523
+exfoliation joint,nanosheet,0.06532663316582915
+charge carrier,electron mobility,0.10256410256410256
+magnetism,zigzag,0.08982035928143713
+hydroamination,cationic polymerization,0.06349206349206349
+hydroamination,alkyne,0.06349206349206349
+monoclinic crystal system,tetragonal crystal system,0.07092198581560284
+monoclinic crystal system,orthorhombic crystal system,0.09219858156028368
+hot pressing,vickers hardness test,0.06289308176100629
+ammonia borane,boranes,0.23417721518987342
+ammonia borane,borazine,0.0759493670886076
+substitution (logic),substitution reaction,0.0970873786407767

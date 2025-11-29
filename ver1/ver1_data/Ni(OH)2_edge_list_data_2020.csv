@@ -1,0 +1,105 @@
+from,to,weight
+chemical bath deposition,deposition,0.17391304347826086
+redistribution,carbon fibers,0.2
+redistribution,non-blocking i/o,0.2
+redistribution,overpotential,0.2
+redistribution,nanosheet,0.2
+rational design,oxygen evolution,0.3076923076923077
+exchange current density,overpotential,0.23809523809523808
+tin oxide,electrochromic devices,0.16129032258064516
+tin oxide,deposition,0.16129032258064516
+eggshell membrane,nickel oxide,0.2857142857142857
+eggshell membrane,non-blocking i/o,0.2857142857142857
+hydrotalcite,layered double hydroxides,0.21428571428571427
+field emission microscopy,overpotential,0.2
+field emission microscopy,chronoamperometry,0.2
+field emission microscopy,non-blocking i/o,0.2
+field emission microscopy,nickel oxide,0.2
+field emission microscopy,nanorod,0.2
+cobalt sulfide,nickel sulfide,0.3333333333333333
+molybdenum disulfide,nanosheet,0.15384615384615385
+molybdenum disulfide,oxygen evolution,0.15384615384615385
+photocathode,reversible hydrogen electrode,0.18181818181818182
+photocathode,non-blocking i/o,0.18181818181818182
+stripping (fiber),carbon fibers,0.1875
+self-ionization of water,overpotential,0.2
+self-ionization of water,nanosheet,0.2
+energy density,power density,0.21428571428571427
+mixed oxide,non-blocking i/o,0.15384615384615385
+mixed oxide,layered double hydroxides,0.15384615384615385
+alkaline water electrolysis,electrolysis of water,0.22905027932960895
+alkaline water electrolysis,oxygen evolution,0.24022346368715083
+membrane electrode assembly,oxygen evolution,0.15384615384615385
+high temperature electrolysis,electrolysis of water,0.18181818181818182
+non-blocking i/o,nickel oxide,0.15657620041753653
+prussian blue,oxygen evolution,0.23529411764705882
+xanes,x-ray absorption spectroscopy,0.16666666666666666
+sustainable energy,electrochemical energy storage,0.15789473684210525
+heteroatom,carbon fibers,0.20454545454545456
+heteroatom,oxygen evolution,0.18181818181818182
+bet theory,specific surface area,0.2
+electrospinning,carbon fibers,0.23529411764705882
+layered double hydroxides,oxygen evolution,0.18604651162790697
+polypyrrole,non-blocking i/o,0.15789473684210525
+bifunctional catalyst,oxygen evolution,0.2
+oxidation state,oxygen evolution,0.17857142857142858
+photoelectrochemistry,photocurrent,0.18181818181818182
+electrochemical energy storage,electrochemical energy conversion,0.18571428571428572
+temperature-programmed reduction,non-blocking i/o,0.16666666666666666
+x-ray absorption spectroscopy,oxygen evolution,0.2054794520547945
+carbon nitride,carbon fibers,0.18518518518518517
+carbon nitride,graphitic carbon nitride,0.25925925925925924
+pseudocapacitor,carbon fibers,0.15789473684210525
+overlayer,oxygen evolution,0.18181818181818182
+overlayer,photocurrent,0.18181818181818182
+indium tin oxide,nickel oxide,0.3
+ammonia production,electrolysis of water,0.25
+nickel oxide,non-blocking i/o,0.2788104089219331
+nanocages,power density,0.15384615384615385
+energy transformation,electrochemical energy conversion,0.22727272727272727
+oxygen evolution,overpotential,0.19002375296912113
+copper oxide,nanomaterials,0.16666666666666666
+copper oxide,nickel oxide,0.16666666666666666
+differential pulse voltammetry,electrochemical gas sensor,0.15384615384615385
+polysulfide,non-blocking i/o,0.1875
+electrolysis of water,oxygen evolution,0.28125
+nanocrystalline material,non-blocking i/o,0.20689655172413793
+zeolitic imidazolate framework,imidazolate,0.3
+overpotential,oxygen evolution,0.32989690721649484
+charge carrier,visible spectrum,0.1724137931034483
+synergistic catalysis,layered double hydroxides,0.16666666666666666
+synergistic catalysis,oxygen evolution,0.25
+agglomerate,particle (ecology),0.25
+linear range,electrochemical gas sensor,0.2
+bulk electrolysis,oxygen evolution,0.2
+high-pressure electrolysis,electrolysis of water,0.32142857142857145
+high-pressure electrolysis,oxygen evolution,0.17857142857142858
+template method pattern,specific surface area,0.2
+bimetal,oxygen evolution,0.19047619047619047
+noble metal,electrolysis of water,0.16521739130434782
+noble metal,oxygen evolution,0.16521739130434782
+nanometre,oxygen evolution,0.15384615384615385
+electrophoretic deposition,deposition,0.3333333333333333
+imidazolate,zeolitic imidazolate framework,0.2608695652173913
+photocatalytic water splitting,visible spectrum,0.17647058823529413
+photocatalytic water splitting,noble metal,0.17647058823529413
+electrolytic cell,electrolysis of water,0.2608695652173913
+electrolytic cell,alkaline water electrolysis,0.17391304347826086
+nanoclusters,oxygen evolution,0.18181818181818182
+microscale chemistry,particle (ecology),0.16666666666666666
+microscale chemistry,nanomaterials,0.16666666666666666
+microscale chemistry,oxygen evolution,0.16666666666666666
+microscale chemistry,electrolysis of water,0.16666666666666666
+microscale chemistry,alkaline water electrolysis,0.16666666666666666
+microscale chemistry,electrochemical energy conversion,0.16666666666666666
+cationic polymerization,oxygen evolution,0.15384615384615385
+electrochemical energy conversion,electrochemical energy storage,0.19696969696969696
+power-to-gas,electrolysis of water,0.20689655172413793
+electrochromic devices,tin oxide,0.19230769230769232
+electrochromic devices,non-blocking i/o,0.15384615384615385
+carbon dioxide reforming,non-blocking i/o,0.15789473684210525
+graphitic carbon nitride,carbon nitride,0.20588235294117646
+methylene blue,degradation,0.16666666666666666
+glucose oxidase,amperometry,0.16666666666666666
+glucose oxidase,nanomaterials,0.16666666666666666
+lithium–sulfur battery,polysulfide,0.2

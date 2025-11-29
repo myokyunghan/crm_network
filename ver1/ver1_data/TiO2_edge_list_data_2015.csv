@@ -1,0 +1,95 @@
+from,to,weight
+graphitic carbon nitride,carbon fibers,0.1410488245931284
+graphitic carbon nitride,visible spectrum,0.11573236889692586
+spin coating,deposition,0.0691588785046729
+spin coating,perovskite solar cell,0.05046728971962617
+visible spectrum,degradation,0.08491710473109583
+visible spectrum,photodegradation,0.05883542256368783
+orthorhombic crystal system,monoclinic crystal system,0.07216494845360824
+orthorhombic crystal system,tetragonal crystal system,0.08762886597938144
+ultraviolet light,visible spectrum,0.12433862433862433
+ultraviolet light,ultraviolet,0.2566137566137566
+degradation,photodegradation,0.06806930693069307
+degradation,methylene blue,0.06188118811881188
+degradation,visible spectrum,0.10396039603960396
+quantum efficiency,visible spectrum,0.050314465408805034
+quantum efficiency,charge carrier,0.050314465408805034
+quantum efficiency,photocurrent,0.08490566037735849
+cationic polymerization,degradation,0.050761421319796954
+cationic polymerization,methylene blue,0.08629441624365482
+biocompatibility,surface modification,0.09433962264150944
+methyl orange,degradation,0.10234375
+methyl orange,visible spectrum,0.1359375
+methyl orange,photodegradation,0.11171875
+rhodamine b,degradation,0.1282225237449118
+rhodamine b,photodegradation,0.09362279511533243
+rhodamine b,visible spectrum,0.1560379918588874
+wurtzite crystal structure,nanorod,0.08076923076923077
+hybrid material,nanomaterials,0.06325301204819277
+passivation,photocurrent,0.07357357357357357
+methylene blue,degradation,0.15051173991571343
+methylene blue,visible spectrum,0.12462372065021071
+methylene blue,photodegradation,0.08729680915111379
+perovskite solar cell,open-circuit voltage,0.05919395465994962
+perovskite solar cell,photocurrent,0.05667506297229219
+perovskite solar cell,hysteresis,0.05793450881612091
+charge carrier,photocurrent,0.07786116322701689
+charge carrier,visible spectrum,0.08724202626641651
+nanoclusters,visible spectrum,0.06361323155216285
+copper oxide,titanium oxide,0.08176100628930817
+hydrothermal synthesis,visible spectrum,0.05939226519337017
+hydrothermal synthesis,nanorod,0.062154696132596686
+nanoporous,anodizing,0.06758620689655172
+noble metal,oxygen evolution,0.05253940455341506
+noble metal,visible spectrum,0.08756567425569177
+bet theory,specific surface area,0.23809523809523808
+bet theory,visible spectrum,0.05668934240362812
+photoelectrochemistry,photoelectrochemical cell,0.13885350318471337
+photoelectrochemistry,visible spectrum,0.05987261146496815
+photoelectrochemistry,photocurrent,0.19745222929936307
+photoelectrochemical cell,photoelectrochemistry,0.18166666666666667
+photoelectrochemical cell,photocurrent,0.145
+suspension,particle (ecology),0.08728179551122195
+suspension,zeta potential,0.05486284289276808
+quantum yield,visible spectrum,0.1111111111111111
+auxiliary electrode,tin oxide,0.08695652173913043
+auxiliary electrode,carbon fibers,0.08902691511387163
+auxiliary electrode,open-circuit voltage,0.06625258799171843
+photocurrent,visible spectrum,0.06984603830266617
+photocurrent,photoelectrochemistry,0.05820503191888847
+thermogravimetric analysis,thermal stability,0.1060931899641577
+anodizing,titanium oxide,0.052226027397260275
+anodizing,photocurrent,0.05736301369863014
+nanosheet,visible spectrum,0.05870020964360587
+polyvinylpyrrolidone,electrospinning,0.125
+absorption edge,visible spectrum,0.18421052631578946
+tin dioxide,tin oxide,0.2114695340501792
+tin dioxide,nanorod,0.06093189964157706
+tin oxide,tin dioxide,0.05427782888684453
+tin oxide,nanorod,0.05519779208831647
+tin oxide,photocurrent,0.05795768169273229
+monoclinic crystal system,tetragonal crystal system,0.11350574712643678
+ultraviolet,ultraviolet light,0.07039187227866474
+ultraviolet,visible spectrum,0.09361393323657474
+ultraviolet,degradation,0.05152394775036284
+photodegradation,visible spectrum,0.12155388471177944
+photodegradation,methylene blue,0.060568086883876354
+photodegradation,rhodamine b,0.05764411027568922
+photodegradation,degradation,0.1148705096073517
+photodegradation,methyl orange,0.05973266499582289
+absorbance,visible spectrum,0.06838709677419355
+polyvinyl alcohol,electrospinning,0.06228373702422145
+hysteresis,perovskite solar cell,0.1038374717832957
+open-circuit voltage,perovskite solar cell,0.06135770234986945
+open-circuit voltage,photocurrent,0.07441253263707572
+nanorod,visible spectrum,0.07046332046332046
+nanorod,photocurrent,0.05888030888030888
+specific surface area,bet theory,0.10355029585798817
+specific surface area,degradation,0.05029585798816568
+specific surface area,visible spectrum,0.0601577909270217
+thermal stability,thermogravimetric analysis,0.11178247734138973
+tetragonal crystal system,monoclinic crystal system,0.09111880046136102
+indium tin oxide,tin oxide,0.12362637362637363
+photoelectric effect,visible spectrum,0.06
+photoelectric effect,photocurrent,0.084
+bismuth,visible spectrum,0.09195402298850575

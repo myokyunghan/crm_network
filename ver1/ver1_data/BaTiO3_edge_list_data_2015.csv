@@ -1,0 +1,86 @@
+from,to,weight
+phase boundary,tetragonal crystal system,0.23529411764705882
+lanthanum,dielectric loss,0.11764705882352941
+atmospheric temperature range,tetragonal crystal system,0.12135922330097088
+high-κ dielectric,dielectric loss,0.3305084745762712
+monoclinic crystal system,orthorhombic crystal system,0.140625
+monoclinic crystal system,tetragonal crystal system,0.171875
+texture (cosmology),ferroelectric ceramics,0.11538461538461539
+texture (cosmology),tetragonal crystal system,0.11538461538461539
+volume fraction,dielectric loss,0.10256410256410256
+relative density,tetragonal crystal system,0.12121212121212122
+relative density,spark plasma sintering,0.12121212121212122
+power density,nanogenerator,0.1509433962264151
+bismuth,bismuth titanate,0.14583333333333334
+isothermal process,electrocaloric effect,0.13793103448275862
+electroceramics,characterization,0.125
+spark plasma sintering,ferroelectric ceramics,0.19444444444444445
+spark plasma sintering,relative density,0.1111111111111111
+scherrer equation,tetragonal crystal system,0.2727272727272727
+scherrer equation,nanocrystalline material,0.13636363636363635
+trigonal crystal system,tetragonal crystal system,0.2631578947368421
+magnetism,ferrimagnetism,0.09615384615384616
+ferroelectric polymers,polymer nanocomposite,0.14705882352941177
+calcium titanate,ferroelectric ceramics,0.1111111111111111
+calcium titanate,lead titanate,0.1111111111111111
+thermogravimetric analysis,thermal stability,0.1509433962264151
+template,nanorod,0.10714285714285714
+template,morphology,0.10714285714285714
+hamiltonian (control theory),tetragonal crystal system,0.16666666666666666
+bismuth ferrite,bismuth,0.14634146341463414
+polydimethylsiloxane,nanogenerator,0.1568627450980392
+electric potential energy,mechanical energy,0.2553191489361702
+lattice constant,tetragonal crystal system,0.16923076923076924
+ferrimagnetism,magnetoelectric effect,0.09615384615384616
+ferrimagnetism,magnetism,0.09615384615384616
+nanocrystalline material,tetragonal crystal system,0.15492957746478872
+diffractometer,lattice constant,0.09523809523809523
+diffractometer,tetragonal crystal system,0.14285714285714285
+diffractometer,dielectric loss,0.09523809523809523
+bismuth titanate,bismuth,0.3111111111111111
+polymer nanocomposite,dielectric loss,0.13392857142857142
+zirconate,lead zirconate titanate,0.3333333333333333
+potassium niobate,natural bond orbital,0.13157894736842105
+lead zirconate titanate,zirconate,0.10227272727272728
+dissipation factor,dielectric loss,0.29292929292929293
+deposition,pulsed laser deposition,0.17391304347826086
+lattice (music),lattice constant,0.13793103448275862
+lattice (music),tetragonal crystal system,0.11494252873563218
+curie,transition temperature,0.125
+dielectric strength,ceramic capacitor,0.11764705882352941
+temperature coefficient,atmospheric temperature range,0.175
+temperature coefficient,tetragonal crystal system,0.15
+figure of merit,electromechanical coupling coefficient,0.12244897959183673
+crystal (programming language),tetragonal crystal system,0.11009174311926606
+saturation (graph theory),tetragonal crystal system,0.125
+hydrothermal synthesis,tetragonal crystal system,0.125
+solid-state reaction route,dielectric loss,0.11764705882352941
+solid-state reaction route,tetragonal crystal system,0.23529411764705882
+solid-state reaction route,rietveld refinement,0.11764705882352941
+dielectric loss,high-κ dielectric,0.11337209302325581
+mechanical energy,electric potential energy,0.15
+mechanical energy,nanogenerator,0.1625
+electrospinning,polyvinylidene fluoride,0.1111111111111111
+electrospinning,nanogenerator,0.12698412698412698
+film capacitor,ceramic capacitor,0.11320754716981132
+rietveld refinement,tetragonal crystal system,0.2805755395683453
+tantalate,bismuth,0.09523809523809523
+tantalate,potassium niobate,0.09523809523809523
+tantalate,crystal (programming language),0.09523809523809523
+tantalate,electret,0.09523809523809523
+electrocaloric effect,ferroelectric ceramics,0.1
+electrocaloric effect,atmospheric temperature range,0.1
+natural bond orbital,potassium niobate,0.20833333333333334
+orthorhombic crystal system,tetragonal crystal system,0.2857142857142857
+ferromagnetic material properties,hysteresis,0.12121212121212122
+ionic radius,lattice constant,0.13793103448275862
+ionic radius,rietveld refinement,0.13793103448275862
+ionic radius,tetragonal crystal system,0.10344827586206896
+electrostriction,ferroelectric ceramics,0.10256410256410256
+electrostriction,tetragonal crystal system,0.1282051282051282
+powder diffraction,tetragonal crystal system,0.2692307692307692
+powder diffraction,rietveld refinement,0.15384615384615385
+transition temperature,tetragonal crystal system,0.21875
+electromechanical coupling coefficient,figure of merit,0.11320754716981132
+dielectric response,tetragonal crystal system,0.17647058823529413
+pulsed laser deposition,deposition,0.12

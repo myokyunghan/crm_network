@@ -1,0 +1,49 @@
+from,to,weight
+base (topology),surface modification,0.2727272727272727
+chemical stability,fast ion conductor,0.3125
+propylene carbonate,dimethyl carbonate,0.26666666666666666
+surface layer,surface modification,0.2222222222222222
+oxygen evolution,carbon fibers,0.23076923076923078
+polymer electrolytes,fast ion conductor,0.36363636363636365
+lithium titanate,carbon fibers,0.2222222222222222
+cobalt oxide,lithium cobalt oxide,0.3333333333333333
+hydroxymethyl,resorcinol,0.25
+hydroxymethyl,heteroatom,0.25
+hydroxymethyl,carbon fibers,0.25
+hydroxymethyl,surface modification,0.25
+resorcinol,heteroatom,0.25
+resorcinol,carbon fibers,0.25
+resorcinol,surface modification,0.25
+resorcinol,hydroxymethyl,0.25
+inert gas,inert,0.2631578947368421
+electrochemical window,fast ion conductor,0.23529411764705882
+nanocrystalline material,carbon fibers,0.2857142857142857
+double salt,isothermal process,0.3333333333333333
+inert,inert gas,0.23809523809523808
+sodium sulfate,sodium hydroxide,0.25
+sodium sulfate,sodium carbonate,0.25
+sodium sulfate,lithium hydroxide,0.25
+sodium sulfate,lithium sulfate,0.25
+quasi-solid,lithium metal,0.25
+quasi-solid,electrochemical window,0.25
+quasi-solid,crystal (programming language),0.25
+quasi-solid,fast ion conductor,0.25
+carbon footprint,carbon fibers,0.2777777777777778
+heteroatom,carbon fibers,0.2857142857142857
+salt lake,brine,0.45454545454545453
+lithium iron phosphate,iron phosphate,0.2903225806451613
+environmental pollution,environmentally friendly,0.2222222222222222
+polyvinylidene fluoride,fast ion conductor,0.2222222222222222
+lithium cobalt oxide,cobalt oxide,0.35
+vaporization,carbon fibers,0.3333333333333333
+organic radical battery,overpotential,0.2631578947368421
+carbon neutrality,carbon fibers,0.2857142857142857
+carbon-neutral fuel,carbon fibers,0.2857142857142857
+tungsten carbide,lithium metal,0.3333333333333333
+tungsten carbide,lithium hydroxide,0.3333333333333333
+tungsten carbide,carbon fibers,0.3333333333333333
+nanomaterials,carbon fibers,0.3333333333333333
+thiophosphate,carbon fibers,0.3333333333333333
+thiophosphate,fast ion conductor,0.3333333333333333
+thiophosphate,cycling,0.3333333333333333
+iron phosphate,lithium iron phosphate,0.3333333333333333

@@ -1,0 +1,132 @@
+from,to,weight
+quinoline,moiety,0.08823529411764706
+fluorine,characterization,0.09523809523809523
+fluorine,reactivity,0.09523809523809523
+carbonylation,derivative (finance),0.125
+tsuji–trost reaction,chemoselectivity,0.08333333333333333
+tsuji–trost reaction,diastereomer,0.16666666666666666
+tsuji–trost reaction,protecting group,0.08333333333333333
+tsuji–trost reaction,ring-closing metathesis,0.08333333333333333
+tsuji–trost reaction,moiety,0.08333333333333333
+tsuji–trost reaction,stereocenter,0.16666666666666666
+tsuji–trost reaction,vicinal,0.08333333333333333
+tsuji–trost reaction,dihydroxylation,0.08333333333333333
+tsuji–trost reaction,enantiopure drug,0.08333333333333333
+sn2 reaction,reactivity,0.13636363636363635
+hydrazine (antidepressant),pyrazole,0.1
+ic50,structure–activity relationship,0.11904761904761904
+chiral auxiliary,derivative (finance),0.11764705882352941
+chiral auxiliary,diastereomer,0.11764705882352941
+chiral auxiliary,imine,0.11764705882352941
+alkene,alkyne,0.08450704225352113
+tetrahydropyran,aldol reaction,0.14285714285714285
+lactam,moiety,0.08108108108108109
+salt metathesis reaction,ring-closing metathesis,0.2804878048780488
+racemization,amide,0.07407407407407407
+thioamide,moiety,0.08333333333333333
+thioamide,amide,0.08333333333333333
+thioamide,oligopeptide,0.08333333333333333
+thioamide,natural product,0.08333333333333333
+thioamide,depsipeptide,0.08333333333333333
+thioamide,solid-phase synthesis,0.08333333333333333
+thioamide,derivative (finance),0.08333333333333333
+thioamide,tetrapeptide,0.08333333333333333
+antiparallel (mathematics),g-quadruplex,0.13333333333333333
+depsipeptide,natural product,0.16129032258064516
+depsipeptide,moiety,0.12903225806451613
+condensation reaction,organic synthesis,0.07407407407407407
+condensation reaction,aldol condensation,0.1111111111111111
+absolute configuration,natural product,0.10144927536231885
+cleavage (geology),bond cleavage,0.12280701754385964
+quaternary carbon,moiety,0.09090909090909091
+quaternary carbon,formal synthesis,0.09090909090909091
+peptide synthesis,solid-phase synthesis,0.1016949152542373
+residue (chemistry),moiety,0.07692307692307693
+stille reaction,aldol reaction,0.075
+stille reaction,amide,0.075
+stille reaction,coupling reaction,0.075
+ring-closing metathesis,salt metathesis reaction,0.19658119658119658
+domino,cascade reaction,0.11764705882352941
+domino,sequence (biology),0.0784313725490196
+lipophilicity,moiety,0.07692307692307693
+helix (gastropod),side chain,0.09090909090909091
+molecular model,structure–activity relationship,0.14545454545454545
+suzuki reaction,coupling reaction,0.12121212121212122
+turn (biochemistry),residue (chemistry),0.10714285714285714
+carboxamide,structure–activity relationship,0.07407407407407407
+carboxamide,amide,0.09259259259259259
+butenolide,aldol reaction,0.1
+oligomer,amide,0.10344827586206896
+trifluoroacetic acid,amide,0.08571428571428572
+peptide bond,amide,0.1951219512195122
+oxazoline,conjugate,0.09090909090909091
+phosphonate,carboxylate,0.1111111111111111
+conformational isomerism,turn (biochemistry),0.11764705882352941
+conformational isomerism,residue (chemistry),0.11764705882352941
+oxazole,natural product,0.11627906976744186
+aldol condensation,aldol reaction,0.2
+bond cleavage,cleavage (geology),0.21875
+solid-phase synthesis,peptide synthesis,0.1111111111111111
+oxindole,lactam,0.07407407407407407
+triazole,moiety,0.09523809523809523
+thiazoline,natural product,0.1875
+olefin metathesis,salt metathesis reaction,0.14705882352941177
+olefin metathesis,ring-closing metathesis,0.14705882352941177
+olefin metathesis,aldol reaction,0.08823529411764706
+olefin metathesis,stereocenter,0.08823529411764706
+metalation,coupling reaction,0.125
+metalation,negishi coupling,0.125
+disaccharide,protecting group,0.08695652173913043
+claisen condensation,pyrazole,0.08695652173913043
+vicinal,moiety,0.08
+vicinal,stereocenter,0.08
+formal synthesis,aldol reaction,0.09803921568627451
+piperidine,amide,0.08333333333333333
+tetrapeptide,tripeptide,0.08333333333333333
+enyne,alkyne,0.08695652173913043
+hela,docking (animal),0.08333333333333333
+intramolecular reaction,diels–alder reaction,0.10526315789473684
+kinetic resolution,ring-closing metathesis,0.08695652173913043
+kinetic resolution,stereocenter,0.08695652173913043
+cascade reaction,tandem,0.09259259259259259
+cascade reaction,domino,0.1111111111111111
+cascade reaction,michael reaction,0.09259259259259259
+diels–alder reaction,diene,0.07692307692307693
+diels–alder reaction,enyne,0.07692307692307693
+diels–alder reaction,intramolecular reaction,0.07692307692307693
+negishi coupling,metalation,0.1
+oligopeptide,moiety,0.07894736842105263
+oligopeptide,conjugate,0.07894736842105263
+cycloisomerization,aldol reaction,0.10344827586206896
+tandem,cascade reaction,0.07462686567164178
+tandem,michael reaction,0.07462686567164178
+tandem,sequence (biology),0.07462686567164178
+hydroxymethyl,derivative (finance),0.0967741935483871
+imine,diastereomer,0.1111111111111111
+imine,chiral auxiliary,0.07407407407407407
+imine,moiety,0.07407407407407407
+imine,derivative (finance),0.07407407407407407
+imine,enantiopure drug,0.07407407407407407
+enantiomeric excess,asymmetric hydrogenation,0.08
+enantiomeric excess,enantiopure drug,0.08
+lead compound,structure–activity relationship,0.12962962962962962
+lead compound,ic50,0.09259259259259259
+rational design,molecular model,0.09375
+rational design,structure–activity relationship,0.09375
+rational design,moiety,0.09375
+sonogashira coupling,coupling reaction,0.07894736842105263
+retrosynthetic analysis,aldol reaction,0.09090909090909091
+retrosynthetic analysis,synthon,0.09090909090909091
+retrosynthetic analysis,alkene,0.09090909090909091
+retrosynthetic analysis,cycloisomerization,0.09090909090909091
+retrosynthetic analysis,alkyne,0.09090909090909091
+retrosynthetic analysis,desymmetrization,0.09090909090909091
+retrosynthetic analysis,cascade reaction,0.09090909090909091
+retrosynthetic analysis,fragment (logic),0.09090909090909091
+retrosynthetic analysis,dihydropyran,0.09090909090909091
+retrosynthetic analysis,tripeptide,0.09090909090909091
+retrosynthetic analysis,sequence (biology),0.09090909090909091
+epimer,diastereomer,0.0945945945945946
+thiazole,structure–activity relationship,0.0967741935483871
+dihydropyran,aldol reaction,0.08823529411764706
+dihydropyran,moiety,0.11764705882352941

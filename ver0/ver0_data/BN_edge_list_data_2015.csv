@@ -1,0 +1,102 @@
+from,to,weight
+zigzag,phosphorene,0.10975609756097561
+zigzag,ribbon,0.05749128919860627
+xanes,x-ray absorption spectroscopy,0.16494845360824742
+fermi energy,bilayer graphene,0.10303030303030303
+fermi energy,density of states,0.06666666666666667
+fermi energy,zigzag,0.07272727272727272
+phosphorene,black phosphorus,0.11092985318107668
+phosphorene,zigzag,0.10277324632952692
+lattice constant,lattice (music),0.2154696132596685
+morphology,crystal (programming language),0.08130081300813008
+nanopore,nanoporous,0.08
+graphitic carbon nitride,visible spectrum,0.056179775280898875
+graphitic carbon nitride,carbon nitride,0.20786516853932585
+graphitic carbon nitride,carbon fibers,0.19662921348314608
+representation,feature (linguistics),0.06439393939393939
+nanoelectronics,phosphorene,0.08092485549132948
+cascade reaction,tandem,0.10852713178294573
+nanosheet,exfoliation joint,0.0847457627118644
+degradation,black phosphorus,0.0743801652892562
+degradation,visible spectrum,0.0743801652892562
+mxenes,exfoliation joint,0.05511811023622047
+mxenes,nanomaterials,0.06299212598425197
+mxenes,phosphorene,0.05511811023622047
+tetragonal crystal system,orthorhombic crystal system,0.07109004739336493
+tetragonal crystal system,monoclinic crystal system,0.05687203791469194
+orthorhombic crystal system,monoclinic crystal system,0.07960199004975124
+orthorhombic crystal system,tetragonal crystal system,0.07462686567164178
+nanoporous,nanopore,0.11023622047244094
+nanochemistry,exfoliation joint,0.06493506493506493
+ambipolar diffusion,electron mobility,0.15037593984962405
+ambipolar diffusion,black phosphorus,0.08270676691729323
+similarity (geometry),feature (linguistics),0.062111801242236024
+wurtzite crystal structure,wide-bandgap semiconductor,0.08064516129032258
+wurtzite crystal structure,crystal (programming language),0.056451612903225805
+isostructural,monoclinic crystal system,0.05952380952380952
+tandem,cascade reaction,0.12844036697247707
+atomic units,molybdenum disulfide,0.07017543859649122
+atomic units,characterization,0.06140350877192982
+discriminative model,feature (linguistics),0.12183908045977011
+distortion (music),harmonic,0.06857142857142857
+strain (injury),strain engineering,0.09146341463414634
+thermal stability,thermogravimetric analysis,0.07258064516129033
+black phosphorus,phosphorene,0.14945054945054945
+black phosphorus,electron mobility,0.05714285714285714
+brillouin zone,lattice (music),0.06493506493506493
+bond cleavage,reactivity,0.060109289617486336
+bond cleavage,cleavage (geology),0.1912568306010929
+electron mobility,charge carrier,0.06313645621181263
+hybrid material,nanomaterials,0.06153846153846154
+hybrid material,carbon fibers,0.06153846153846154
+wide-bandgap semiconductor,ultraviolet,0.06607929515418502
+wide-bandgap semiconductor,quantum efficiency,0.07488986784140969
+chemisorption,carbon fibers,0.0625
+bismuth,topological insulator,0.06870229007633588
+homo/lumo,acceptor,0.059322033898305086
+visible spectrum,degradation,0.06593406593406594
+boranes,ammonia borane,0.15709969788519637
+heteroatom,carbon fibers,0.1717171717171717
+tungsten disulfide,molybdenum disulfide,0.22085889570552147
+tungsten disulfide,exfoliation joint,0.06748466257668712
+convolution (computer science),feature (linguistics),0.09935897435897435
+polystyrene,particle (ecology),0.06422018348623854
+topological insulator,lattice (music),0.06986899563318777
+ultraviolet,quantum efficiency,0.06545454545454546
+spark plasma sintering,boron carbide,0.0582010582010582
+strain engineering,strain (injury),0.2459016393442623
+strain engineering,phosphorene,0.05737704918032787
+filler (materials),polymer nanocomposite,0.05752212389380531
+benchmark (surveying),feature (linguistics),0.08291873963515754
+reaction conditions,cascade reaction,0.055248618784530384
+ribbon,zigzag,0.25190839694656486
+x-ray absorption spectroscopy,xanes,0.1641025641025641
+density of states,fermi energy,0.07586206896551724
+carbon nitride,visible spectrum,0.05853658536585366
+carbon nitride,carbon fibers,0.3170731707317073
+carbon nitride,graphitic carbon nitride,0.18048780487804877
+thermogravimetric analysis,thermal stability,0.15789473684210525
+cleavage (geology),bond cleavage,0.1650943396226415
+passivation,black phosphorus,0.08888888888888889
+passivation,electron mobility,0.06222222222222222
+photocurrent,charge carrier,0.05527638190954774
+molybdenum disulfide,tungsten disulfide,0.07741935483870968
+molybdenum disulfide,exfoliation joint,0.05806451612903226
+nanometre,characterization,0.06179775280898876
+michael reaction,stereocenter,0.0593607305936073
+chemical stability,thermal stability,0.1
+chemical stability,surface modification,0.05555555555555555
+tungsten carbide,boron carbide,0.05813953488372093
+polymer nanocomposite,filler (materials),0.07784431137724551
+charge carrier,electron mobility,0.1111111111111111
+magnetism,zigzag,0.0639269406392694
+monoclinic crystal system,tetragonal crystal system,0.06282722513089005
+monoclinic crystal system,orthorhombic crystal system,0.08376963350785341
+functional group,reaction conditions,0.05660377358490566
+ammonia borane,boranes,0.3132530120481928
+borophene,strain (injury),0.05714285714285714
+borophene,zigzag,0.07142857142857142
+borophene,phosphorene,0.05714285714285714
+quantum efficiency,ultraviolet,0.08035714285714286
+quantum efficiency,wide-bandgap semiconductor,0.07589285714285714
+dangling bond,zigzag,0.07446808510638298

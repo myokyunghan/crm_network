@@ -1,0 +1,53 @@
+from,to,weight
+nanorod,nanomaterials,0.0776255707762557
+lattice constant,fluorite,0.07216494845360824
+tetragonal crystal system,monoclinic crystal system,0.11728395061728394
+oxygen storage,thermal stability,0.08547008547008547
+inert gas,inert,0.15584415584415584
+reducing atmosphere,oxidizing agent,0.08196721311475409
+selective catalytic reduction,space velocity,0.07453416149068323
+x-ray absorption spectroscopy,xanes,0.15517241379310345
+rietveld refinement,powder diffraction,0.1839080459770115
+rutile,fluorite,0.07692307692307693
+differential thermal analysis,thermogravimetric analysis,0.0821917808219178
+differential thermal analysis,thermogravimetry,0.1643835616438356
+space velocity,selective catalytic reduction,0.09375
+deposition,pulsed laser deposition,0.08396946564885496
+monoclinic crystal system,tetragonal crystal system,0.2638888888888889
+nanoclusters,reactivity,0.09615384615384616
+hydrothermal synthesis,nanorod,0.11607142857142858
+praseodymium,lanthanum,0.08928571428571429
+powder diffraction,rietveld refinement,0.13333333333333333
+thermal desorption spectroscopy,temperature-programmed reduction,0.14285714285714285
+visible spectrum,degradation,0.06993006993006994
+ostwald ripening,hydrothermal synthesis,0.10416666666666667
+degradation,visible spectrum,0.06993006993006994
+carbon dioxide reforming,carbon fibers,0.09782608695652174
+carbon dioxide reforming,methane reformer,0.22826086956521738
+chemisorption,temperature-programmed reduction,0.08695652173913043
+thermogravimetry,differential thermal analysis,0.14285714285714285
+thermogravimetry,thermal stability,0.08333333333333333
+mixed oxide,selective catalytic reduction,0.1
+cermet,non-blocking i/o,0.1619047619047619
+cermet,carbon fibers,0.13333333333333333
+methane reformer,carbon dioxide reforming,0.17647058823529413
+methane reformer,partial oxidation,0.08403361344537816
+partial pressure,atmospheric temperature range,0.07042253521126761
+gravimetric analysis,thermogravimetric analysis,0.15789473684210525
+inert,inert gas,0.1518987341772152
+methyl orange,degradation,0.07792207792207792
+methyl orange,visible spectrum,0.11688311688311688
+partial oxidation,methane reformer,0.08695652173913043
+agglomerate,particle (ecology),0.09859154929577464
+chemical stability,thermal stability,0.10294117647058823
+pulsed laser deposition,deposition,0.18181818181818182
+incipient wetness impregnation,space velocity,0.09803921568627451
+incipient wetness impregnation,temperature-programmed reduction,0.09803921568627451
+xanes,x-ray absorption spectroscopy,0.10344827586206896
+bet theory,specific surface area,0.1958041958041958
+bet theory,temperature-programmed reduction,0.07692307692307693
+specific surface area,bet theory,0.10810810810810811
+physisorption,coprecipitation,0.07142857142857142
+physisorption,temperature-programmed reduction,0.07142857142857142
+solvothermal synthesis,degradation,0.0851063829787234
+solvothermal synthesis,molar ratio,0.0851063829787234

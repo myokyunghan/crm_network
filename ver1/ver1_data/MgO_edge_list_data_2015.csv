@@ -1,0 +1,127 @@
+from,to,weight
+ultramafic rock,peridotite,0.09196891191709844
+ultramafic rock,chromite,0.05699481865284974
+pellet,iron ore,0.06274509803921569
+cordierite,mullite,0.07024793388429752
+ettringite,slag (welding),0.07718120805369127
+ettringite,portlandite,0.10738255033557047
+ettringite,calcium silicate hydrate,0.0738255033557047
+ettringite,cementitious,0.08389261744966443
+lattice constant,lattice (music),0.16
+lattice constant,tetragonal crystal system,0.06153846153846154
+metasomatism,peridotite,0.07401315789473684
+fineness,slag (welding),0.06
+fineness,cementitious,0.06
+coprecipitation,hydrotalcite,0.08333333333333333
+coprecipitation,layered double hydroxides,0.07777777777777778
+iron ore,slag (welding),0.058695652173913045
+pulsed laser deposition,deposition,0.18681318681318682
+wüstite,slag (welding),0.1342281879194631
+wollastonite,diopside,0.0708955223880597
+layered double hydroxides,hydrotalcite,0.09302325581395349
+shrinkage,slag (welding),0.05673758865248227
+shrinkage,cementitious,0.05673758865248227
+corundum,mullite,0.06046511627906977
+powder diffraction,rietveld refinement,0.07692307692307693
+calcium silicate hydrate,cementitious,0.07241379310344828
+calcium silicate hydrate,calcium silicate,0.09310344827586207
+calcium silicate hydrate,slag (welding),0.07586206896551724
+calcium silicate hydrate,ettringite,0.07586206896551724
+sodium hydroxide,slag (welding),0.07038123167155426
+thermogravimetric analysis,thermal stability,0.06666666666666667
+crucible (geodemography),slag (welding),0.13440860215053763
+orthorhombic crystal system,monoclinic crystal system,0.08361204013377926
+orthorhombic crystal system,tetragonal crystal system,0.06354515050167224
+alkalinity,slag (welding),0.06857142857142857
+refractory (planetary science),slag (welding),0.07777777777777778
+differential thermal analysis,thermogravimetric analysis,0.10526315789473684
+differential thermal analysis,thermogravimetry,0.08552631578947369
+gehlenite,slag (welding),0.10119047619047619
+gehlenite,wollastonite,0.07142857142857142
+gehlenite,diopside,0.05952380952380952
+gehlenite,melilite,0.07142857142857142
+gehlenite,anorthite,0.10714285714285714
+mass fraction,slag (welding),0.062146892655367235
+red mud,slag (welding),0.05813953488372093
+liquidus,slag (welding),0.12083333333333333
+superplasticizer,silica fume,0.0892018779342723
+superplasticizer,cementitious,0.08450704225352113
+petrogenesis,fractional crystallization (geology),0.10123239436619719
+petrogenesis,geochronology,0.0818661971830986
+mullite,cordierite,0.06692913385826772
+endothermic process,exothermic reaction,0.07103825136612021
+endothermic process,langmuir adsorption model,0.22404371584699453
+deposition,pulsed laser deposition,0.09152086137281291
+ductility (earth science),brittleness,0.06735751295336788
+gangue,iron ore,0.07920792079207921
+melt inclusions,phenocryst,0.07084468664850137
+melt inclusions,fractional crystallization (geology),0.0653950953678474
+mineral redox buffer,fractional crystallization (geology),0.07232704402515723
+aluminate,slag (welding),0.07407407407407407
+monoclinic crystal system,tetragonal crystal system,0.15721649484536082
+monoclinic crystal system,orthorhombic crystal system,0.06443298969072164
+silica fume,cementitious,0.1044776119402985
+silica fume,metakaolin,0.05721393034825871
+chemisorption,physisorption,0.09183673469387756
+chemisorption,langmuir adsorption model,0.09183673469387756
+hornblende,amphibole,0.08504398826979472
+brick,shrinkage,0.059800664451827246
+geochronology,petrogenesis,0.11272727272727273
+felsic,fractional crystallization (geology),0.06352941176470588
+bet theory,specific surface area,0.23118279569892472
+ilmenite,rutile,0.06340057636887608
+tetragonal crystal system,monoclinic crystal system,0.10873440285204991
+physisorption,chemisorption,0.10714285714285714
+hardening (computing),shrinkage,0.05829596412556054
+portlandite,calcium silicate hydrate,0.06329113924050633
+portlandite,slag (welding),0.05907172995780591
+portlandite,ettringite,0.1350210970464135
+portlandite,cementitious,0.08016877637130802
+diopside,wollastonite,0.05828220858895705
+carbonatite,metasomatism,0.06647398843930635
+specific surface area,carbon fibers,0.11286681715575621
+specific surface area,bet theory,0.09706546275395034
+lattice (music),lattice constant,0.143646408839779
+silicic,fractional crystallization (geology),0.07888040712468193
+chromite,ultramafic rock,0.08014571948998178
+langmuir adsorption model,endothermic process,0.10073710073710074
+fraction (chemistry),carbon fibers,0.05952380952380952
+fraction (chemistry),mass fraction,0.05952380952380952
+melilite,slag (welding),0.11170212765957446
+melilite,anorthite,0.09574468085106383
+melilite,gehlenite,0.06382978723404255
+cementitious,slag (welding),0.07529411764705882
+metakaolin,cementitious,0.06645569620253164
+metakaolin,silica fume,0.07278481012658228
+xenolith,peridotite,0.1242603550295858
+xenolith,metasomatism,0.07988165680473373
+enstatite,forsterite,0.08426966292134831
+fractional crystallization (geology),petrogenesis,0.0942622950819672
+rietveld refinement,powder diffraction,0.06986899563318777
+rietveld refinement,tetragonal crystal system,0.06550218340611354
+thermal stability,thermogravimetric analysis,0.09014675052410902
+hydrotalcite,layered double hydroxides,0.06030150753768844
+nanorod,deposition,0.06698564593301436
+anorthite,gehlenite,0.06382978723404255
+anorthite,diopside,0.06382978723404255
+anorthite,melilite,0.06382978723404255
+pozzolanic reaction,metakaolin,0.06995884773662552
+pozzolanic reaction,silica fume,0.06584362139917696
+pozzolanic reaction,cementitious,0.11522633744855967
+calcium silicate,slag (welding),0.0842911877394636
+calcium silicate,calcium silicate hydrate,0.10344827586206896
+nanomaterials,carbon fibers,0.060784313725490195
+ferroalloy,slag (welding),0.17777777777777778
+rare-earth element,trace element,0.13333333333333333
+electric arc furnace,slag (welding),0.25496688741721857
+phlogopite,carbonatite,0.061946902654867256
+phlogopite,amphibole,0.07079646017699115
+phlogopite,metasomatism,0.07079646017699115
+phlogopite,peridotite,0.07079646017699115
+pegmatite,muscovite,0.05723905723905724
+peridotite,ultramafic rock,0.08482676224611709
+exothermic reaction,langmuir adsorption model,0.06310679611650485
+exothermic reaction,endothermic process,0.06310679611650485
+rutile,ilmenite,0.08239700374531835
+thermogravimetry,differential thermal analysis,0.10038610038610038
+thermogravimetry,thermogravimetric analysis,0.06177606177606178

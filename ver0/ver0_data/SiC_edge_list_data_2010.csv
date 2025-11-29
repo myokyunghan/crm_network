@@ -1,0 +1,50 @@
+from,to,weight
+ohmic contact,contact resistance,0.21683673469387754
+pyrolytic carbon,carbon fibers,0.13513513513513514
+pyrolytic carbon,chemical vapor infiltration,0.07567567567567568
+ceramic matrix composite,matrix (chemical analysis),0.10734463276836158
+ceramic matrix composite,chemical vapor infiltration,0.07909604519774012
+filler (materials),brazing,0.07744107744107744
+contact resistance,ohmic contact,0.2901023890784983
+electrical discharge machining,metal matrix composite,0.07819905213270142
+powder metallurgy,particle (ecology),0.08757637474541752
+shear strength,brazing,0.13259668508287292
+titanium carbide,carbon fibers,0.0759493670886076
+brazing,filler (materials),0.09583333333333334
+brazing,shear strength,0.2
+simulated body fluid,biocompatibility,0.09407665505226481
+simulated body fluid,titanium alloy,0.07317073170731707
+simulated body fluid,surface modification,0.07317073170731707
+relative density,hot pressing,0.08679245283018867
+relative density,spark plasma sintering,0.09433962264150944
+mullite,thermal shock,0.09777777777777778
+metal matrix composite,volume fraction,0.0754226267880364
+metal matrix composite,matrix (chemical analysis),0.18205461638491546
+metal matrix composite,particle (ecology),0.08452535760728218
+plating (geology),deposition,0.10810810810810811
+thermogravimetric analysis,thermal stability,0.10843373493975904
+nanomaterials,carbon fibers,0.10263929618768329
+inert,inert gas,0.22277227722772278
+carbothermic reaction,carbon fibers,0.22968197879858657
+infiltration (hvac),chemical vapor infiltration,0.20652173913043478
+crucible (geodemography),crystal (programming language),0.08421052631578947
+electron mobility,wide-bandgap semiconductor,0.145
+inert gas,inert,0.2132701421800948
+mass fraction,particle (ecology),0.08379888268156424
+mass fraction,volume fraction,0.16201117318435754
+biocompatibility,surface modification,0.08557457212713937
+nanoporous,anodizing,0.09251101321585903
+wurtzite crystal structure,wide-bandgap semiconductor,0.11481481481481481
+chemical vapor infiltration,infiltration (hvac),0.15767634854771784
+chemical vapor infiltration,ceramic matrix composite,0.17427385892116182
+leakage (economics),wide-bandgap semiconductor,0.075
+indentation,vickers hardness test,0.075
+carbon steel,carbon fibers,0.1592920353982301
+amorphous carbon,carbon fibers,0.33067729083665337
+machinability,metal matrix composite,0.09881422924901186
+volume fraction,particle (ecology),0.12020725388601036
+buffer (optical fiber),wide-bandgap semiconductor,0.09090909090909091
+microcrystalline,nanocrystalline material,0.14634146341463414
+agglomerate,particle (ecology),0.078125
+matrix (chemical analysis),metal matrix composite,0.11475409836065574
+matrix (chemical analysis),particle (ecology),0.07459016393442623

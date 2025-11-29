@@ -1,0 +1,69 @@
+from,to,weight
+monoclinic crystal system,tetragonal crystal system,0.31446540880503143
+ytterbium,photon upconversion,0.09259259259259259
+thermal shock,temperature cycling,0.10588235294117647
+suspension,deposition,0.16
+mullite,thermal shock,0.1
+surface layer,surface modification,0.11538461538461539
+morphology,particle (ecology),0.08620689655172414
+inert gas,inert,0.25
+rietveld refinement,tetragonal crystal system,0.11607142857142858
+electrophoretic deposition,deposition,0.2553191489361702
+electrophoretic deposition,zeta potential,0.0851063829787234
+electrophoretic deposition,suspension,0.1276595744680851
+ductility (earth science),brittleness,0.09803921568627451
+delamination,brittleness,0.09302325581395349
+delamination,temperature cycling,0.11627906976744186
+differential thermal analysis,atmospheric temperature range,0.10344827586206896
+differential thermal analysis,thermogravimetric analysis,0.13793103448275862
+tape casting,cermet,0.08695652173913043
+lattice constant,lattice (music),0.10843373493975904
+lattice constant,tetragonal crystal system,0.0963855421686747
+indentation,vickers hardness test,0.225
+indentation,tetragonal crystal system,0.0875
+hot isostatic pressing,hot pressing,0.12280701754385964
+hot isostatic pressing,transparent ceramics,0.08771929824561403
+cermet,carbon fibers,0.0896551724137931
+cermet,non-blocking i/o,0.11724137931034483
+thermogravimetry,powder diffraction,0.08823529411764706
+thermogravimetry,thermogravimetric analysis,0.11764705882352941
+cavity magnetron,deposition,0.1111111111111111
+relative density,vickers hardness test,0.08490566037735849
+relative density,spark plasma sintering,0.14150943396226415
+pulsed laser deposition,deposition,0.2158273381294964
+emission intensity,photon upconversion,0.14705882352941177
+emission intensity,atmospheric temperature range,0.08823529411764706
+emission intensity,monoclinic crystal system,0.08823529411764706
+vickers hardness test,tetragonal crystal system,0.0875
+vickers hardness test,indentation,0.1125
+vickers hardness test,spark plasma sintering,0.0875
+dental porcelain,dental ceramics,0.11290322580645161
+zeta potential,suspension,0.09090909090909091
+zeta potential,electrophoretic deposition,0.09090909090909091
+specific surface area,particle (ecology),0.10869565217391304
+transparent ceramics,spark plasma sintering,0.09090909090909091
+tetragonal crystal system,monoclinic crystal system,0.22026431718061673
+abrasion (mechanical),particle (ecology),0.14864864864864866
+agglomerate,suspension,0.12
+agglomerate,particle (ecology),0.12
+inert,inert gas,0.2
+praseodymium,cerium oxide,0.10344827586206896
+praseodymium,partial pressure,0.10344827586206896
+dysprosium,atmospheric temperature range,0.0967741935483871
+ceramic matrix composite,matrix (chemical analysis),0.11363636363636363
+ceramic matrix composite,spark plasma sintering,0.09090909090909091
+lattice (music),lattice constant,0.09574468085106383
+dental ceramics,dental porcelain,0.14893617021276595
+lanthanum manganite,lanthanum,0.3018867924528302
+matrix (chemical analysis),ceramic matrix composite,0.09615384615384616
+deposition,pulsed laser deposition,0.08746355685131195
+physical vapor deposition,deposition,0.2727272727272727
+lanthanum,lanthanum manganite,0.09090909090909091
+hot pressing,hot isostatic pressing,0.11666666666666667
+non-blocking i/o,cermet,0.10429447852760736
+chromaticity,photon upconversion,0.09090909090909091
+chromaticity,powder diffraction,0.12121212121212122
+biomaterial,biocompatibility,0.17647058823529413
+biomaterial,surface modification,0.11764705882352941
+power density,carbon fibers,0.0963855421686747
+orthorhombic crystal system,monoclinic crystal system,0.13157894736842105

@@ -1,0 +1,53 @@
+from,to,weight
+aloe vera,toothpaste,0.3
+rolling resistance,abrasion (mechanical),0.3333333333333333
+rolling resistance,styrene-butadiene,0.3333333333333333
+tooth wear,toothpaste,0.3076923076923077
+dentinal tubule,dentifrice,0.2777777777777778
+colorimeter,tooth whitening,0.25
+colorimeter,tooth brushing,0.25
+colorimeter,distilled water,0.25
+colorimeter,toothpaste,0.25
+agglomerate,filler (materials),0.25
+tooth discoloration,tooth whitening,0.25
+carbamide peroxide,tooth whitening,0.30303030303030304
+acrylic resin,gloss (optics),0.25
+acrylic resin,toothpaste,0.25
+chewing gum,toothpaste,0.3333333333333333
+chewing gum,dentin hypersensitivity,0.3333333333333333
+chewing gum,tooth whitening,0.3333333333333333
+karyorrhexis,toothpaste,0.25
+tryptic soy broth,toothpaste,0.25
+tryptic soy broth,dentifrice,0.25
+tryptic soy broth,distilled water,0.25
+tryptic soy broth,dental plaque,0.25
+dentifrice,toothpaste,0.27184466019417475
+sodium fluoride,dentifrice,0.2727272727272727
+sodium fluoride,toothpaste,0.2727272727272727
+shore durometer,filler (materials),0.2857142857142857
+styrene-butadiene,filler (materials),0.275
+glass ionomer cement,abrasion (mechanical),0.25
+glass ionomer cement,sodium fluoride,0.25
+glass ionomer cement,toothpaste,0.25
+tear resistance,filler (materials),0.2608695652173913
+dental plaque,toothpaste,0.375
+stain,dentifrice,0.3333333333333333
+buccal swab,toothpaste,0.25
+universal testing machine,toothpaste,0.3333333333333333
+universal testing machine,dentifrice,0.3333333333333333
+universal testing machine,abrasion (mechanical),0.3333333333333333
+fluoride varnish,distilled water,0.25
+fluoride varnish,dentin hypersensitivity,0.25
+fluoride varnish,toothpaste,0.25
+fluoride varnish,dentinal tubule,0.25
+tooth enamel,toothpaste,0.25
+agar diffusion test,toothpaste,0.3333333333333333
+agar diffusion test,dentifrice,0.3333333333333333
+agar diffusion test,sodium fluoride,0.3333333333333333
+fluorapatite,toothpaste,0.25
+fluorapatite,bioactive glass,0.25
+polyacrylic acid,toothpaste,0.25
+polyacrylic acid,dentifrice,0.25
+polyacrylic acid,distilled water,0.25
+polyacrylic acid,tooth enamel,0.25
+tooth remineralization,dentifrice,0.3333333333333333

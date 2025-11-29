@@ -1,0 +1,109 @@
+from,to,weight
+ferrimagnetism,exchange bias,0.09036144578313253
+amide,carboxylate,0.056074766355140186
+deposition,chemical bath deposition,0.06896551724137931
+hexagonal phase,nanorod,0.06818181818181818
+hexagonal phase,wurtzite crystal structure,0.10227272727272728
+langmuir adsorption model,methylene blue,0.06060606060606061
+langmuir adsorption model,acrylic acid,0.05627705627705628
+titanium dioxide,rutile,0.061224489795918366
+physisorption,chemisorption,0.09090909090909091
+isostructural,powder diffraction,0.07116104868913857
+passivation,photocurrent,0.06870229007633588
+lanthanum,cobaltite,0.06521739130434782
+thermogravimetry,differential thermal analysis,0.09047619047619047
+thermogravimetry,thermal stability,0.0761904761904762
+thermogravimetry,thermogravimetric analysis,0.06190476190476191
+imidazole,carboxylate,0.09230769230769231
+polyvinyl alcohol,thermogravimetric analysis,0.0673076923076923
+polyvinyl alcohol,electrospinning,0.08653846153846154
+bipyridine,carboxylate,0.08333333333333333
+rutile,visible spectrum,0.06976744186046512
+nickel oxide,non-blocking i/o,0.2727272727272727
+tetragonal crystal system,monoclinic crystal system,0.061046511627906974
+tetragonal crystal system,orthorhombic crystal system,0.05813953488372093
+xanes,x-ray absorption spectroscopy,0.12195121951219512
+biocompatibility,surface modification,0.06989247311827956
+oxidation state,x-ray absorption spectroscopy,0.057692307692307696
+oxidation state,xanes,0.0641025641025641
+photodegradation,degradation,0.07407407407407407
+photodegradation,visible spectrum,0.10185185185185185
+photodegradation,methyl orange,0.09722222222222222
+photodegradation,rhodamine b,0.06944444444444445
+fischer–tropsch process,carbon fibers,0.09883720930232558
+fischer–tropsch process,particle (ecology),0.05813953488372093
+cadmium sulfide,chemical bath deposition,0.06542056074766354
+hysteresis,exchange bias,0.18928571428571428
+powder diffraction,thermogravimetric analysis,0.10434782608695652
+oxygen evolution,overpotential,0.125
+oxygen evolution,carbon fibers,0.061046511627906974
+polyoxometalate,thermogravimetric analysis,0.08148148148148149
+ultraviolet,nanorod,0.07421875
+x-ray absorption spectroscopy,xanes,0.15384615384615385
+benzoic acid,carboxylate,0.07853403141361257
+magnetism,exchange bias,0.06840390879478828
+thermogravimetric analysis,thermal stability,0.07149321266968325
+wurtzite crystal structure,nanorod,0.12290502793296089
+differential thermal analysis,thermogravimetric analysis,0.1437908496732026
+differential thermal analysis,crystal (programming language),0.058823529411764705
+differential thermal analysis,thermal stability,0.06535947712418301
+differential thermal analysis,thermogravimetry,0.12418300653594772
+coordination complex,coordination polymer,0.07239819004524888
+pulsed laser deposition,deposition,0.13793103448275862
+overpotential,oxygen evolution,0.24293785310734464
+overpotential,carbon fibers,0.05649717514124294
+electrospinning,carbon fibers,0.06930693069306931
+coordination polymer,thermogravimetric analysis,0.06578947368421052
+coordination polymer,hydrothermal synthesis,0.06315789473684211
+coordination polymer,carboxylate,0.07105263157894737
+nanomaterial-based catalyst,bimetallic strip,0.08035714285714286
+orthorhombic crystal system,tetragonal crystal system,0.05714285714285714
+orthorhombic crystal system,monoclinic crystal system,0.08
+cadmium acetate,cadmium sulfide,0.056179775280898875
+morphology,nanorod,0.058165548098434
+power density,carbon fibers,0.07344632768361582
+superparamagnetism,exchange bias,0.0707070707070707
+superparamagnetism,magnetism,0.0707070707070707
+cobaltite,lanthanum,0.07692307692307693
+rhodamine b,visible spectrum,0.08383233532934131
+rhodamine b,photodegradation,0.08982035928143713
+chemisorption,physisorption,0.072
+hydrothermal synthesis,nanorod,0.06976744186046512
+selected area diffraction,powder diffraction,0.06504065040650407
+selected area diffraction,wurtzite crystal structure,0.06504065040650407
+selected area diffraction,nanorod,0.056910569105691054
+specific surface area,bet theory,0.07951070336391437
+specific surface area,carbon fibers,0.06116207951070336
+exchange bias,magnetism,0.059154929577464786
+exchange bias,hysteresis,0.14929577464788732
+nanosheet,carbon fibers,0.06432748538011696
+bet theory,specific surface area,0.2184873949579832
+reducing agent,silver nanoparticle,0.07913669064748201
+spin coating,wurtzite crystal structure,0.0755813953488372
+lattice constant,lattice (music),0.06
+lattice constant,rietveld refinement,0.08
+lattice constant,stoichiometry,0.06
+methylene blue,langmuir adsorption model,0.0625
+methylene blue,degradation,0.05803571428571429
+chemical bath deposition,nanorod,0.09012875536480687
+chemical bath deposition,deposition,0.19742489270386265
+methyl orange,visible spectrum,0.0797872340425532
+methyl orange,degradation,0.11170212765957446
+methyl orange,photodegradation,0.11170212765957446
+rietveld refinement,powder diffraction,0.09137055837563451
+rietveld refinement,lattice constant,0.06091370558375635
+silver nanoparticle,reducing agent,0.09322033898305085
+photocurrent,visible spectrum,0.056451612903225805
+photocurrent,nanorod,0.06720430107526881
+triclinic crystal system,monoclinic crystal system,0.12598425196850394
+triclinic crystal system,crystal (programming language),0.07086614173228346
+absorption edge,ultraviolet,0.05785123966942149
+absorption edge,visible spectrum,0.06611570247933884
+absorption edge,wurtzite crystal structure,0.06611570247933884
+oleylamine,dispersity,0.0684931506849315
+monoclinic crystal system,orthorhombic crystal system,0.0625
+open-circuit voltage,photocurrent,0.07236842105263158
+layered double hydroxides,thermogravimetric analysis,0.07518796992481203
+non-blocking i/o,nickel oxide,0.0673469387755102
+cobalt hydroxide,nanorod,0.07272727272727272
+thermal stability,thermogravimetric analysis,0.09316037735849056

@@ -1,0 +1,87 @@
+from,to,weight
+carbon nitride,carbon fibers,0.30158730158730157
+carbon nitride,graphitic carbon nitride,0.25396825396825395
+surface modification,nanomaterials,0.09774436090225563
+auxiliary electrode,carbon fibers,0.07692307692307693
+auxiliary electrode,electrochromic devices,0.07692307692307693
+orthorhombic crystal system,monoclinic crystal system,0.17757009345794392
+chemical bath deposition,deposition,0.16279069767441862
+chemical bath deposition,nanorod,0.09302325581395349
+chemical bath deposition,photocurrent,0.13953488372093023
+tungstate,sodium tungstate,0.09649122807017543
+overlayer,photocurrent,0.21212121212121213
+absorption edge,visible spectrum,0.14634146341463414
+absorption edge,methyl orange,0.0975609756097561
+photocathode,photocurrent,0.1388888888888889
+photocathode,photoelectrochemistry,0.09722222222222222
+photocathode,photoelectrochemical cell,0.16666666666666666
+non-blocking i/o,electrochromic devices,0.0847457627118644
+non-blocking i/o,nickel oxide,0.13559322033898305
+tungsten carbide,carbon fibers,0.09134615384615384
+noble metal,oxygen evolution,0.07766990291262135
+ultraviolet,visible spectrum,0.11392405063291139
+ultraviolet,photocurrent,0.10126582278481013
+molybdenum trioxide,electrochromic devices,0.09259259259259259
+cobalt oxide,non-blocking i/o,0.09523809523809523
+cobalt oxide,oxygen evolution,0.14285714285714285
+charge carrier,photoelectrochemistry,0.07954545454545454
+charge carrier,photocurrent,0.11363636363636363
+photoelectrochemical cell,photoelectrochemistry,0.2411764705882353
+photoelectrochemical cell,photocurrent,0.13529411764705881
+pulsed laser deposition,deposition,0.2982456140350877
+graphitic carbon nitride,carbon nitride,0.2222222222222222
+graphitic carbon nitride,carbon fibers,0.16666666666666666
+graphitic carbon nitride,visible spectrum,0.08333333333333333
+rhodamine b,photodegradation,0.10144927536231885
+rhodamine b,degradation,0.12318840579710146
+rhodamine b,visible spectrum,0.15217391304347827
+methyl orange,visible spectrum,0.12643678160919541
+methyl orange,degradation,0.10344827586206896
+hydrothermal synthesis,tungstate,0.10526315789473684
+hydrothermal synthesis,nanorod,0.14035087719298245
+spin coating,photocurrent,0.1111111111111111
+photodegradation,rhodamine b,0.08536585365853659
+photodegradation,degradation,0.0975609756097561
+photodegradation,visible spectrum,0.12195121951219512
+photodegradation,methylene blue,0.07926829268292683
+indium tin oxide,electrochromic devices,0.14285714285714285
+tin oxide,photocurrent,0.0875
+solar fuel,oxygen evolution,0.1111111111111111
+bismuth vanadate,bismuth,0.12371134020618557
+bismuth vanadate,photocurrent,0.12371134020618557
+overpotential,oxygen evolution,0.2222222222222222
+reversible hydrogen electrode,photoelectrochemistry,0.10344827586206896
+reversible hydrogen electrode,photoelectrochemical cell,0.09195402298850575
+reversible hydrogen electrode,oxygen evolution,0.10344827586206896
+reversible hydrogen electrode,nanorod,0.08045977011494253
+reversible hydrogen electrode,photocurrent,0.2413793103448276
+oxygen evolution,overpotential,0.09
+oxygen evolution,photocurrent,0.14
+oxalic acid,hydrothermal synthesis,0.09090909090909091
+absorbance,visible spectrum,0.19444444444444445
+absorbance,degradation,0.1111111111111111
+nanochemistry,tin oxide,0.08333333333333333
+monoclinic crystal system,orthorhombic crystal system,0.08085106382978724
+degradation,visible spectrum,0.13011152416356878
+photocurrent,photoelectrochemistry,0.08295964125560538
+sodium tungstate,tungstate,0.2894736842105263
+photoelectrochemistry,photoelectrochemical cell,0.17672413793103448
+photoelectrochemistry,photocurrent,0.15948275862068967
+solvothermal synthesis,photocurrent,0.08333333333333333
+solvothermal synthesis,nanomaterials,0.08333333333333333
+solvothermal synthesis,nanorod,0.16666666666666666
+passivation,photocurrent,0.1076923076923077
+rutile,visible spectrum,0.11363636363636363
+homojunction,photoelectrochemistry,0.1
+homojunction,photocurrent,0.13333333333333333
+homojunction,nanorod,0.1
+methylene blue,degradation,0.13157894736842105
+methylene blue,visible spectrum,0.1513157894736842
+methylene blue,photodegradation,0.08552631578947369
+bismuth,tungstate,0.08695652173913043
+bismuth,bismuth vanadate,0.10434782608695652
+tetragonal crystal system,monoclinic crystal system,0.12359550561797752
+nickel oxide,non-blocking i/o,0.2807017543859649
+morphology,hydrothermal synthesis,0.09722222222222222
+electrolysis of water,oxygen evolution,0.18181818181818182
+electrolysis of water,photoelectrochemical cell,0.13636363636363635

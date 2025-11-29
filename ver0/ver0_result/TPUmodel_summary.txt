@@ -1,0 +1,59 @@
+Call:
+tergm(formula = net.list ~ edges + mutual + nodecov("indegree") + 
+    diff(attr = "indegree", dir = "t-h"), estimate = "CMLE", 
+    times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                  Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges             -6.14447    0.25044      0 -24.534   <1e-04 ***
+mutual             4.74833    0.59659      0   7.959   <1e-04 ***
+nodecov.indegree   0.29286    0.04672      0   6.269   <1e-04 ***
+diff.t-h.indegree -0.40370    0.06917      0  -5.837   <1e-04 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+     Null Deviance: 8542.3  on 6162  degrees of freedom
+ Residual Deviance:  543.7  on 6158  degrees of freedom
+ 
+AIC: 551.7  BIC: 578.6  (Smaller is better. MC Std. Err. = 0.3151)
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -5.98324    0.24195      0 -24.729  < 1e-04 ***
+gwesp.OTP.fixed.0.05  0.98233    0.22581      0   4.350  < 1e-04 ***
+mutual                4.52247    0.63703      0   7.099  < 1e-04 ***
+nodecov.indegree      0.17000    0.04987      0   3.409 0.000653 ***
+diff.t-h.indegree    -0.41783    0.06762      0  -6.179  < 1e-04 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 8542.3  on 6162  degrees of freedom
+ Residual Deviance:  526.4  on 6157  degrees of freedom
+ 
+AIC: 536.4  BIC: 570  (Smaller is better. MC Std. Err. = 0.3897)
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -5.98710    0.24285      0 -24.653  < 1e-04 ***
+gwesp.OTP.fixed.0.05  0.99159    0.22823      0   4.345  < 1e-04 ***
+mutual                4.50997    0.66512      0   6.781  < 1e-04 ***
+nodecov.indegree      0.17315    0.05026      0   3.445  0.00057 ***
+diff.t-h.indegree    -0.41574    0.07234      0  -5.747  < 1e-04 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+     Null Deviance: 8542.3  on 6162  degrees of freedom
+ Residual Deviance:  524.6  on 6157  degrees of freedom
+ 
+AIC: 534.6  BIC: 568.3  (Smaller is better. MC Std. Err. = 0.193)

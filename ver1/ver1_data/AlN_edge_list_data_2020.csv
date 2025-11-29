@@ -1,0 +1,73 @@
+from,to,weight
+saturation current,saturation (graph theory),0.12244897959183673
+saturation current,transconductance,0.14285714285714285
+band bending,wide-bandgap semiconductor,0.14285714285714285
+lattice constant,wurtzite crystal structure,0.13580246913580246
+lattice constant,lattice (music),0.18518518518518517
+linearity,transconductance,0.125
+ultraviolet light,ultraviolet,0.5277777777777778
+atomic units,wurtzite crystal structure,0.16129032258064516
+hexagonal boron nitride,ultraviolet,0.25
+ellipsometry,wurtzite crystal structure,0.13333333333333333
+morphology,crystal (programming language),0.125
+hillock,template,0.13333333333333333
+filler (materials),thermal stability,0.1232876712328767
+band diagram,wide-bandgap semiconductor,0.18181818181818182
+band diagram,quantum efficiency,0.13636363636363635
+dry etching,plasma etching,0.1891891891891892
+strain engineering,strain (injury),0.17647058823529413
+strain engineering,wide-bandgap semiconductor,0.17647058823529413
+light emission,wide-bandgap semiconductor,0.2727272727272727
+template,ultraviolet,0.125
+indium nitride,indium gallium nitride,0.1346153846153846
+barrier layer,wide-bandgap semiconductor,0.20588235294117646
+non-blocking i/o,wide-bandgap semiconductor,0.16666666666666666
+photodetection,ultraviolet,0.19672131147540983
+plasma etching,dry etching,0.20588235294117646
+ohmic contact,wide-bandgap semiconductor,0.1357142857142857
+ohmic contact,contact resistance,0.15714285714285714
+stacking fault,wurtzite crystal structure,0.16666666666666666
+cavity magnetron,deposition,0.21875
+photoelectric effect,ultraviolet,0.1724137931034483
+blueshift,cathodoluminescence,0.17647058823529413
+thermionic emission,leakage (economics),0.17857142857142858
+quantum efficiency,ultraviolet,0.241635687732342
+dangling bond,passivation,0.16
+deep-level transient spectroscopy,wide-bandgap semiconductor,0.125
+deep-level transient spectroscopy,acceptor,0.125
+leakage (economics),wide-bandgap semiconductor,0.17532467532467533
+contact resistance,ohmic contact,0.3235294117647059
+thermogravimetric analysis,thermal stability,0.1896551724137931
+phonon scattering,wide-bandgap semiconductor,0.13559322033898305
+phonon scattering,electron mobility,0.23728813559322035
+visible spectrum,ultraviolet,0.14634146341463414
+pulsed laser deposition,deposition,0.275
+nanophotonics,ultraviolet,0.13793103448275862
+vapor phase,template,0.14285714285714285
+lattice (music),lattice constant,0.12195121951219512
+quantum-confined stark effect,ultraviolet,0.20833333333333334
+quantum-confined stark effect,quantum efficiency,0.25
+quantum-confined stark effect,wide-bandgap semiconductor,0.16666666666666666
+carrier lifetime,quantum efficiency,0.13043478260869565
+carrier lifetime,passivation,0.13043478260869565
+ultraviolet,quantum efficiency,0.13131313131313133
+physical vapor deposition,deposition,0.17777777777777778
+indium gallium nitride,quantum efficiency,0.2033898305084746
+indium gallium nitride,wide-bandgap semiconductor,0.15254237288135594
+acceptor,wide-bandgap semiconductor,0.12087912087912088
+spinodal decomposition,wurtzite crystal structure,0.13157894736842105
+buffer (optical fiber),wide-bandgap semiconductor,0.12087912087912088
+monoclinic crystal system,orthorhombic crystal system,0.13043478260869565
+electron mobility,wide-bandgap semiconductor,0.21794871794871795
+metastability,wurtzite crystal structure,0.1875
+scandium,wurtzite crystal structure,0.23728813559322035
+photodiode,ultraviolet,0.2
+photoconductivity,ultraviolet,0.14583333333333334
+photoconductivity,photocurrent,0.1875
+nanopillar,ultraviolet,0.15151515151515152
+cutoff frequency,figure of merit,0.15151515151515152
+cutoff frequency,transconductance,0.24242424242424243
+equivalent series resistance,cladding (metalworking),0.125
+equivalent series resistance,ohmic contact,0.125
+vickers hardness test,spark plasma sintering,0.1346153846153846
+orthorhombic crystal system,monoclinic crystal system,0.125

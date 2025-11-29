@@ -1,0 +1,68 @@
+from,to,weight
+harmonic,waveguide,0.12222222222222222
+surface-enhanced raman spectroscopy,waveguide,0.16981132075471697
+optical power,waveguide,0.18055555555555555
+surface charge,nanopore,0.09375
+micrometer,nanometre,0.14492753623188406
+electron mobility,wide-bandgap semiconductor,0.12121212121212122
+aperture (computer memory),numerical aperture,0.10309278350515463
+hydrofluoric acid,buffered oxide etch,0.13513513513513514
+atomic units,deposition,0.09433962264150944
+atomic units,characterization,0.11320754716981132
+thermogravimetric analysis,thermal stability,0.16521739130434782
+passivation,carrier lifetime,0.11465892597968069
+plasma etching,dry etching,0.18253968253968253
+thermal stability,thermogravimetric analysis,0.1
+degradation,carrier lifetime,0.10891089108910891
+degradation,passivation,0.13366336633663367
+indium tin oxide,passivation,0.10638297872340426
+optical cavity,optomechanics,0.20408163265306123
+nanomechanics,force spectroscopy,0.10144927536231885
+acceptor,open-circuit voltage,0.10869565217391304
+anti-reflective coating,reflection,0.0945945945945946
+anti-reflective coating,passivation,0.0945945945945946
+wide-bandgap semiconductor,electron mobility,0.1016949152542373
+biomolecule,nanopore,0.16908212560386474
+silanization,surface modification,0.1282051282051282
+open-circuit voltage,passivation,0.19480519480519481
+ceramic matrix composite,matrix (chemical analysis),0.12048192771084337
+nanosphere lithography,nanopillar,0.14634146341463414
+signal (programming language),waveguide,0.0954356846473029
+extinction ratio,waveguide,0.21621621621621623
+modulation (music),waveguide,0.1282051282051282
+optomechanics,optical cavity,0.11627906976744186
+physical vapor deposition,deposition,0.19607843137254902
+quantum efficiency,passivation,0.14685314685314685
+figure of merit,waveguide,0.1267605633802817
+saturation (graph theory),passivation,0.14545454545454545
+nanocrystalline silicon,passivation,0.13924050632911392
+numerical aperture,aperture (computer memory),0.15873015873015872
+biomaterial,biocompatibility,0.13793103448275862
+biomaterial,surface modification,0.10344827586206896
+nanophotonics,waveguide,0.1638418079096045
+lab-on-a-chip,fluidics,0.18518518518518517
+ultraviolet,extreme ultraviolet,0.12650602409638553
+extreme ultraviolet lithography,extreme ultraviolet,0.2645739910313901
+photoresist,extreme ultraviolet lithography,0.10526315789473684
+locos,hybrid silicon laser,0.16279069767441862
+locos,silicon oxide,0.11627906976744186
+cladding (metalworking),waveguide,0.24074074074074073
+thermal oxidation,passivation,0.17647058823529413
+leakage (economics),passivation,0.10526315789473684
+nanoporous,nanopore,0.17592592592592593
+hybrid silicon laser,waveguide,0.2302158273381295
+contact resistance,electrical contacts,0.12857142857142856
+contact resistance,ohmic contact,0.1
+electrical contacts,contact resistance,0.1875
+ohmic contact,passivation,0.125
+nanofluidics,nanopore,0.19696969696969696
+carrier lifetime,passivation,0.2936802973977695
+buffered oxide etch,dry etching,0.1044776119402985
+buffered oxide etch,plasma etching,0.1044776119402985
+isotropic etching,dry etching,0.1326530612244898
+extreme ultraviolet,extreme ultraviolet lithography,0.23983739837398374
+fluidics,lab-on-a-chip,0.10989010989010989
+optical force,optomechanics,0.140625
+optical force,waveguide,0.109375
+dangling bond,passivation,0.2222222222222222
+dry etching,plasma etching,0.152317880794702

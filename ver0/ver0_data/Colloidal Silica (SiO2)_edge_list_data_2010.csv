@@ -1,0 +1,80 @@
+from,to,weight
+rhodamine b,rhodamine,0.23255813953488372
+miniemulsion,pickering emulsion,0.13157894736842105
+miniemulsion,particle (ecology),0.10526315789473684
+miniemulsion,emulsion polymerization,0.15789473684210525
+protein adsorption,bovine serum albumin,0.14285714285714285
+vinyl alcohol,electrospinning,0.13513513513513514
+nanometre,chemical mechanical planarization,0.12048192771084337
+hexane,hydrophobic silica,0.10344827586206896
+sedimentation,particle (ecology),0.13333333333333333
+sedimentation,suspension,0.13333333333333333
+superhydrophobic coating,hydrophobic silica,0.10714285714285714
+bovine serum albumin,biomolecule,0.11538461538461539
+bovine serum albumin,protein adsorption,0.19230769230769232
+filtration (mathematics),membrane fouling,0.0963855421686747
+atom-transfer radical-polymerization,surface modification,0.11538461538461539
+atom-transfer radical-polymerization,polystyrene,0.15384615384615385
+microscale chemistry,characterization,0.11538461538461539
+thermogravimetric analysis,thermal stability,0.13612565445026178
+carbothermic reaction,carbon fibers,0.28205128205128205
+crystal (programming language),colloidal crystal,0.08982035928143713
+polystyrene,particle (ecology),0.11055276381909548
+silsesquioxane,thermal stability,0.1
+biomolecule,surface modification,0.15217391304347827
+molecular imprinting,molecularly imprinted polymer,0.2571428571428571
+colloidal particle,particle (ecology),0.16129032258064516
+colloidal particle,colloidal crystal,0.11827956989247312
+polyacrylamide,cationic polymerization,0.10416666666666667
+small-angle x-ray scattering,particle (ecology),0.15
+template method pattern,template,0.22580645161290322
+template method pattern,specific surface area,0.0967741935483871
+template method pattern,carbon fibers,0.16129032258064516
+template method pattern,dispersity,0.12903225806451613
+mesoporous organosilica,surface modification,0.0975609756097561
+in situ polymerization,thermogravimetric analysis,0.09090909090909091
+in situ polymerization,thermal stability,0.09090909090909091
+rhodamine,rhodamine b,0.25
+morphology,particle (ecology),0.125
+triethoxysilane,hybrid material,0.11538461538461539
+triethoxysilane,surface modification,0.11538461538461539
+polydimethylsiloxane,thermal stability,0.0975609756097561
+polydimethylsiloxane,siloxane,0.12195121951219512
+siloxane,polydimethylsiloxane,0.09433962264150944
+dispersity,particle (ecology),0.10267857142857142
+polymer nanocomposite,particle (ecology),0.09523809523809523
+polymer nanocomposite,polystyrene,0.11904761904761904
+pickering emulsion,emulsion polymerization,0.13131313131313133
+pickering emulsion,particle (ecology),0.12121212121212122
+mass fraction,silicon dioxide,0.1
+membrane fouling,filtration (mathematics),0.1702127659574468
+supercritical drying,specific surface area,0.15384615384615385
+passivation,chemical mechanical planarization,0.18181818181818182
+rod,particle (ecology),0.12
+rod,colloidal crystal,0.2
+rod,morphology,0.12
+suspension,particle (ecology),0.10303030303030303
+monolith,carbon fibers,0.08955223880597014
+silanes,surface modification,0.12
+dispersion polymerization,emulsion polymerization,0.1111111111111111
+dispersion polymerization,polystyrene,0.1111111111111111
+specific surface area,carbon fibers,0.09285714285714286
+comonomer,polystyrene,0.15789473684210525
+comonomer,thermogravimetric analysis,0.10526315789473684
+comonomer,emulsion polymerization,0.10526315789473684
+comonomer,cationic polymerization,0.10526315789473684
+comonomer,dispersity,0.10526315789473684
+microparticle,cationic polymerization,0.10344827586206896
+microparticle,zeta potential,0.1724137931034483
+molecularly imprinted polymer,molecular imprinting,0.21951219512195122
+agglomerate,particle (ecology),0.15789473684210525
+titanium dioxide,rutile,0.140625
+hard spheres,particle (ecology),0.10526315789473684
+emulsion polymerization,pickering emulsion,0.10483870967741936
+rutile,titanium dioxide,0.16981132075471697
+thermal stability,thermogravimetric analysis,0.10655737704918032
+nanopore,nanoporous,0.25
+surface charge,particle (ecology),0.1
+macropore,carbon fibers,0.15217391304347827
+precipitated silica,hydrophobic silica,0.125
+precipitated silica,fumed silica,0.175

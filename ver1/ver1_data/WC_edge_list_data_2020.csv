@@ -1,0 +1,99 @@
+from,to,weight
+rake,cutting tool,0.17058823529411765
+rake,rake angle,0.14705882352941177
+sedentary lifestyle,cross-sectional study,0.140625
+red meat,cross-sectional study,0.18032786885245902
+clinical nutrition,cross-sectional study,0.1646090534979424
+clinical nutrition,lipidology,0.1646090534979424
+prediabetes,impaired fasting glucose,0.12992125984251968
+cryogenic treatment,cutting tool,0.125
+intra-abdominal fat,abdominal obesity,0.1125
+dyslipidemia,cross-sectional study,0.11710526315789474
+association (psychology),cross-sectional study,0.17671517671517672
+end mill,cutting tool,0.1076923076923077
+severe plastic deformation,friction stir processing,0.14893617021276595
+stellite,cladding (metalworking),0.125
+biostatistics,cross-sectional study,0.22346368715083798
+impaired fasting glucose,prediabetes,0.28448275862068967
+lipidology,clinical nutrition,0.40816326530612246
+subgroup analysis,cross-sectional study,0.10588235294117647
+youden's j statistic,waist-to-height ratio,0.16
+bioelectrical impedance analysis,body fat percentage,0.1414141414141414
+depression,cross-sectional study,0.13274336283185842
+high-density lipoprotein,lipid profile,0.13440860215053763
+sarcopenic obesity,cross-sectional study,0.11235955056179775
+sarcopenic obesity,bioelectrical impedance analysis,0.1348314606741573
+waist-to-height ratio,waist–hip ratio,0.16040688575899845
+waist-to-height ratio,circumference,0.15101721439749607
+waist-to-height ratio,abdominal obesity,0.10954616588419405
+marital status,cross-sectional study,0.18840579710144928
+marital status,abdominal obesity,0.13043478260869565
+hardened steel,cutting tool,0.18032786885245902
+titanium carbide,titanium alloy,0.1044776119402985
+circumference,waist-to-height ratio,0.14891975308641975
+mendelian randomization,genome-wide association study,0.21524663677130046
+spark (programming language),electrical discharge machining,0.11538461538461539
+spark (programming language),spark plasma sintering,0.20192307692307693
+prehypertension,cross-sectional study,0.17567567567567569
+prehypertension,waist-to-height ratio,0.12162162162162163
+relative density,vickers hardness test,0.12096774193548387
+relative density,spark plasma sintering,0.1935483870967742
+body shape index,waist-to-height ratio,0.2335958005249344
+body shape index,body adiposity index,0.11023622047244094
+lipid profile,dyslipidemia,0.11811023622047244
+steatohepatitis,steatosis,0.25773195876288657
+cutting fluid,cutting tool,0.10869565217391304
+blood sugar,cross-sectional study,0.11764705882352941
+blood sugar,lipid profile,0.16176470588235295
+genetic association,genome-wide association study,0.2987012987012987
+food group,cross-sectional study,0.12359550561797752
+flank,cutting tool,0.15217391304347827
+design of experiments,orthogonal array,0.14814814814814814
+mediterranean diet,cross-sectional study,0.16753926701570682
+chinese population,association (psychology),0.1076923076923077
+chinese population,cross-sectional study,0.12307692307692308
+machine tool,cutting tool,0.18333333333333332
+metal matrix composite,matrix (chemical analysis),0.125
+hyperlipidemia,dyslipidemia,0.17647058823529413
+abdominal fat,abdominal obesity,0.23529411764705882
+abdominal fat,circumference,0.10588235294117647
+body adiposity index,waist–hip ratio,0.11515151515151516
+body adiposity index,body fat percentage,0.13636363636363635
+body adiposity index,body shape index,0.12727272727272726
+body adiposity index,waist-to-height ratio,0.17272727272727273
+body adiposity index,circumference,0.12121212121212122
+diamond-like carbon,carbon fibers,0.22807017543859648
+waist–hip ratio,waist-to-height ratio,0.2047952047952048
+waist–hip ratio,circumference,0.11988011988011989
+steatosis,liver disease,0.10588235294117647
+steatosis,steatohepatitis,0.14705882352941177
+diamond tool,cutting tool,0.14754098360655737
+intima-media thickness,subclinical infection,0.10714285714285714
+intima-media thickness,cross-sectional study,0.10714285714285714
+mass index,circumference,0.10526315789473684
+liver disease,steatosis,0.21052631578947367
+screen time,cross-sectional study,0.13157894736842105
+screen time,sedentary lifestyle,0.10526315789473684
+insert (composites),cutting tool,0.19130434782608696
+abdominal obesity,waist-to-height ratio,0.10727969348659004
+abdominal obesity,cross-sectional study,0.11877394636015326
+quartile,cross-sectional study,0.1858108108108108
+sleep,cross-sectional study,0.17557251908396945
+sleep,association (psychology),0.10687022900763359
+underweight,cross-sectional study,0.14534883720930233
+underweight,abdominal obesity,0.13372093023255813
+work hardening,hardening (computing),0.13333333333333333
+physical vapor deposition,deposition,0.13846153846153847
+odds,cross-sectional study,0.19665271966527198
+cumulative incidence,quartile,0.19230769230769232
+carbon steel,carbon fibers,0.16346153846153846
+carbon steel,cladding (metalworking),0.10576923076923077
+body volume index,waist-to-height ratio,0.23
+body volume index,circumference,0.21333333333333335
+body fat percentage,circumference,0.1095890410958904
+genome-wide association study,genetic association,0.1994219653179191
+genome-wide association study,mendelian randomization,0.13872832369942195
+rake angle,rake,0.22522522522522523
+cut-off,waist-to-height ratio,0.136
+cut-off,circumference,0.16
+albuminuria,cross-sectional study,0.1388888888888889

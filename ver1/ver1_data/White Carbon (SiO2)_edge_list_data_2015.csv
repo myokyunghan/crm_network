@@ -1,0 +1,49 @@
+from,to,weight
+accelerated aging,elongation,0.25
+accelerated aging,thermal stability,0.25
+accelerated aging,degradation,0.25
+accelerated aging,thermogravimetric analysis,0.25
+rolling resistance,abrasion (mechanical),0.25
+masterbatch,compounding,0.3333333333333333
+glycidyl methacrylate,styrene-butadiene,0.4
+cardanol,filler (materials),0.3333333333333333
+melt flow index,thermogravimetric analysis,0.3333333333333333
+melt flow index,thermal stability,0.3333333333333333
+design–expert,tear resistance,0.25
+design–expert,filler (materials),0.25
+sorbic acid,tear resistance,0.3333333333333333
+sorbic acid,filler (materials),0.3333333333333333
+sorbic acid,ethylene propylene rubber,0.3333333333333333
+design of experiments,tear resistance,0.25
+design of experiments,filler (materials),0.25
+inverse gas chromatography,surface modification,0.3333333333333333
+inverse gas chromatography,fumed silica,0.3333333333333333
+inverse gas chromatography,thermogravimetric analysis,0.3333333333333333
+chloroprene,filler (materials),0.25
+chloroprene,fumed silica,0.25
+chloroprene,elongation,0.25
+chloroprene,compounding,0.25
+black rice,husk,0.4
+black rice,carbon fibers,0.4
+polylactic acid,thermogravimetric analysis,0.25
+polylactic acid,husk,0.5
+polylactic acid,surface modification,0.25
+small-angle x-ray scattering,filler (materials),0.26666666666666666
+jatropha,elongation,0.25
+jatropha,compounding,0.25
+jatropha,filler (materials),0.25
+jatropha,abrasion (mechanical),0.25
+dielectric strength,fumed silica,0.25
+dielectric strength,silicone rubber,0.25
+dielectric strength,tear resistance,0.25
+dielectric strength,thermal stability,0.25
+fractional factorial design,filler (materials),0.25
+fractional factorial design,tear resistance,0.25
+butyl acrylate,thermal stability,0.25
+butyl acrylate,thermogravimetric analysis,0.25
+butyl acrylate,dispersity,0.25
+tearing,tear resistance,0.25
+perlite,thermal stability,0.25
+perlite,cementitious,0.25
+perlite,fumed silica,0.25
+limiting oxygen index,thermogravimetric analysis,0.2857142857142857

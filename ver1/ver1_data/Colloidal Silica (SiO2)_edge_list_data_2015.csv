@@ -1,0 +1,97 @@
+from,to,weight
+rhodamine b,degradation,0.1111111111111111
+rhodamine b,particle (ecology),0.1111111111111111
+recrystallization (geology),dynamic recrystallization,0.17346938775510204
+carbon steel,carbon fibers,0.13157894736842105
+lotus effect,superhydrophobic coating,0.13793103448275862
+lotus effect,nanometre,0.10344827586206896
+atom probe,hardening (computing),0.09090909090909091
+atom probe,volume fraction,0.09090909090909091
+colloidal crystal,colloidal particle,0.09433962264150944
+laves phase,deposition,0.11764705882352941
+laves phase,volume fraction,0.11764705882352941
+laves phase,inconel,0.11764705882352941
+vinyl alcohol,thermogravimetric analysis,0.10714285714285714
+work hardening,strain hardening exponent,0.10752688172043011
+work hardening,hardening (computing),0.16129032258064516
+precipitation hardening,hardening (computing),0.15217391304347827
+inconel,ductility (earth science),0.09375
+nanometre,particle (ecology),0.08695652173913043
+superhydrophobic coating,hydrophobic silica,0.1111111111111111
+superhydrophobic coating,lotus effect,0.08888888888888889
+atom-transfer radical-polymerization,surface modification,0.08695652173913043
+atom-transfer radical-polymerization,hybrid material,0.08695652173913043
+atom-transfer radical-polymerization,polystyrene,0.08695652173913043
+atom-transfer radical-polymerization,dispersity,0.13043478260869565
+atom-transfer radical-polymerization,thermal stability,0.08695652173913043
+fumed silica,particle (ecology),0.0963855421686747
+fumed silica,hydrophobic silica,0.0963855421686747
+hardening (computing),strain hardening exponent,0.09826589595375723
+thermogravimetric analysis,thermal stability,0.13829787234042554
+scratch,chemical mechanical planarization,0.0975609756097561
+percolation (cognitive psychology),volume fraction,0.14285714285714285
+elongation,tensile testing,0.09302325581395349
+silanization,surface modification,0.14285714285714285
+silanization,triethoxysilane,0.10714285714285714
+polystyrene,particle (ecology),0.08928571428571429
+visible spectrum,carbon fibers,0.10714285714285714
+nickel titanium,titanium alloy,0.11904761904761904
+colloidal particle,particle (ecology),0.1791044776119403
+colloidal particle,colloidal crystal,0.14925373134328357
+tempering,hardening (computing),0.10526315789473684
+small-angle x-ray scattering,particle (ecology),0.11475409836065574
+bioactive glass,simulated body fluid,0.1935483870967742
+oil droplet,particle (ecology),0.13157894736842105
+oil droplet,pickering emulsion,0.15789473684210525
+biomaterial,surface modification,0.13513513513513514
+biomaterial,biocompatibility,0.13513513513513514
+mesoporous organosilica,specific surface area,0.15789473684210525
+mesoporous organosilica,morphology,0.10526315789473684
+biofouling,surface modification,0.11538461538461539
+morphology,particle (ecology),0.09401709401709402
+attenuated total reflection,surface charge,0.08695652173913043
+attenuated total reflection,silanol,0.08695652173913043
+attenuated total reflection,chemical mechanical planarization,0.08695652173913043
+chemical mechanical planarization,particle (ecology),0.09917355371900827
+thermogravimetry,thermal stability,0.14285714285714285
+polydimethylsiloxane,hydrophobic silica,0.09090909090909091
+polydimethylsiloxane,surface modification,0.09090909090909091
+dispersity,particle (ecology),0.0896551724137931
+pickering emulsion,particle (ecology),0.14942528735632185
+siloxane,surface modification,0.09090909090909091
+polymer nanocomposite,polystyrene,0.1
+polymer nanocomposite,small-angle x-ray scattering,0.1
+supercritical drying,specific surface area,0.1111111111111111
+friction stir processing,texture (cosmology),0.08823529411764706
+friction stir processing,friction stir welding,0.14705882352941177
+suspension,particle (ecology),0.1322314049586777
+strain hardening exponent,hardening (computing),0.22972972972972974
+strain hardening exponent,work hardening,0.13513513513513514
+bet theory,specific surface area,0.25806451612903225
+bet theory,nanoporous,0.0967741935483871
+superplasticity,elongation,0.11320754716981132
+fatigue limit,hardening (computing),0.09803921568627451
+specific surface area,carbon fibers,0.1032258064516129
+powder metallurgy,titanium alloy,0.09090909090909091
+dynamic recrystallization,recrystallization (geology),0.2857142857142857
+grain boundary strengthening,misorientation,0.1111111111111111
+surface layer,severe plastic deformation,0.08888888888888889
+structural coloration,colloidal crystal,0.17777777777777778
+dip-coating,anti-reflective coating,0.10526315789473684
+ostwald ripening,particle (ecology),0.12
+misorientation,recrystallization (geology),0.10144927536231885
+emulsion polymerization,pickering emulsion,0.10204081632653061
+simulated body fluid,surface modification,0.13333333333333333
+simulated body fluid,bioactive glass,0.13333333333333333
+simulated body fluid,titanium alloy,0.08888888888888889
+simulated body fluid,biocompatibility,0.08888888888888889
+supersaturation,silicic acid,0.0975609756097561
+thermal stability,thermogravimetric analysis,0.11158798283261803
+hot isostatic pressing,recrystallization (geology),0.1
+hot isostatic pressing,austenitic stainless steel,0.1
+coalescence (physics),pickering emulsion,0.09302325581395349
+nanopore,nanoporous,0.18421052631578946
+surface charge,zeta potential,0.1506849315068493
+charpy impact test,texture (cosmology),0.09090909090909091
+charpy impact test,brittleness,0.09090909090909091
+diffusionless transformation,volume fraction,0.11538461538461539

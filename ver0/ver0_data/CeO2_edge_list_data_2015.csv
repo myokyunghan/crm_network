@@ -1,0 +1,69 @@
+from,to,weight
+non-blocking i/o,nickel oxide,0.07854984894259819
+exothermic reaction,endothermic process,0.13924050632911392
+fischer–tropsch process,carbon fibers,0.19047619047619047
+fischer–tropsch process,water-gas shift reaction,0.07142857142857142
+fischer–tropsch process,carbon dioxide reforming,0.09523809523809523
+reducing atmosphere,carbon fibers,0.1
+reducing atmosphere,oxidizing agent,0.0875
+reducing atmosphere,cermet,0.1
+tetragonal crystal system,monoclinic crystal system,0.12371134020618557
+x-ray absorption spectroscopy,oxidation state,0.1134020618556701
+x-ray absorption spectroscopy,xanes,0.1134020618556701
+biocompatibility,nanomaterials,0.0916030534351145
+rhodamine b,degradation,0.14018691588785046
+rhodamine b,visible spectrum,0.102803738317757
+rhodamine b,photodegradation,0.07476635514018691
+rietveld refinement,powder diffraction,0.11023622047244094
+rietveld refinement,tetragonal crystal system,0.07874015748031496
+photodegradation,visible spectrum,0.1171875
+photodegradation,degradation,0.0703125
+nickel oxide,non-blocking i/o,0.25742574257425743
+space velocity,selective catalytic reduction,0.0707070707070707
+deposition,carbon fibers,0.0794979079497908
+monoclinic crystal system,tetragonal crystal system,0.21238938053097345
+methylene blue,photodegradation,0.08695652173913043
+methylene blue,degradation,0.16304347826086957
+praseodymium,partial pressure,0.08695652173913043
+praseodymium,non-blocking i/o,0.07246376811594203
+powder diffraction,rietveld refinement,0.12612612612612611
+thermal desorption spectroscopy,temperature-programmed reduction,0.14457831325301204
+thermal desorption spectroscopy,selective catalytic reduction,0.07228915662650602
+visible spectrum,photodegradation,0.08064516129032258
+visible spectrum,degradation,0.10215053763440861
+endothermic process,exothermic reaction,0.14473684210526316
+endothermic process,methane reformer,0.09210526315789473
+morphology,nanorod,0.10569105691056911
+ionic radius,fluorite,0.07936507936507936
+ionic radius,stoichiometry,0.07936507936507936
+carbon dioxide reforming,carbon fibers,0.1346938775510204
+carbon dioxide reforming,methane reformer,0.15918367346938775
+cermet,carbon fibers,0.125
+cermet,non-blocking i/o,0.11805555555555555
+methane reformer,carbon dioxide reforming,0.22807017543859648
+methane reformer,partial oxidation,0.09941520467836257
+methyl orange,visible spectrum,0.125
+methyl orange,photodegradation,0.1111111111111111
+methanation,carbon fibers,0.08620689655172414
+partial oxidation,methane reformer,0.09659090909090909
+nanometre,characterization,0.08695652173913043
+chemical stability,reactivity,0.0847457627118644
+chemical stability,chemical-looping combustion,0.0847457627118644
+electrospinning,nanomaterials,0.07407407407407407
+agglomerate,particle (ecology),0.1016949152542373
+overpotential,oxygen evolution,0.22784810126582278
+characterization,nanomaterials,0.07333333333333333
+copper oxide,mixed oxide,0.07936507936507936
+xanes,oxidation state,0.09259259259259259
+xanes,x-ray absorption spectroscopy,0.10185185185185185
+bet theory,specific surface area,0.19047619047619047
+bet theory,temperature-programmed reduction,0.07142857142857142
+specific surface area,bet theory,0.08290155440414508
+prox,chemisorption,0.08
+prox,oxidation state,0.08
+oxygen evolution,overpotential,0.15789473684210525
+physisorption,temperature-programmed reduction,0.1111111111111111
+reaction rate,water-gas shift reaction,0.11475409836065574
+chemical-looping combustion,oxygen storage,0.07228915662650602
+chemical-looping combustion,partial oxidation,0.08433734939759036
+chemical-looping combustion,reactivity,0.0963855421686747

@@ -1,0 +1,41 @@
+from,to,weight
+nanoimprint lithography,waveguide,0.14285714285714285
+demultiplexer,waveguide,0.2391304347826087
+slow light,waveguide,0.21739130434782608
+optical power,waveguide,0.24615384615384617
+coupling loss,waveguide,0.4024390243902439
+extinction ratio,waveguide,0.20958083832335328
+coupled mode theory,waveguide,0.21153846153846154
+phased-array optics,beam steering,0.3157894736842105
+footprint,waveguide,0.15625
+fano resonance,nanophotonics,0.16279069767441862
+brillouin zone,waveguide,0.2619047619047619
+nanoelectromechanical systems,optomechanics,0.17105263157894737
+fiber bragg grating,waveguide,0.25862068965517243
+optical parametric amplifier,waveguide,0.2
+figure of merit,waveguide,0.19444444444444445
+light emission,waveguide,0.15
+four-wave mixing,waveguide,0.3188405797101449
+splitter,waveguide,0.171875
+splitter,beam splitter,0.234375
+arrayed waveguide grating,waveguide,0.3333333333333333
+slab,waveguide,0.21739130434782608
+transfer printing,waveguide,0.225
+cladding (metalworking),waveguide,0.20812182741116753
+beam steering,phased-array optics,0.27692307692307694
+hybrid silicon laser,waveguide,0.2835820895522388
+integrated optics,waveguide,0.30952380952380953
+optical cavity,optomechanics,0.2391304347826087
+wideband,waveguide,0.2619047619047619
+beam splitter,splitter,0.16666666666666666
+beam splitter,waveguide,0.15555555555555556
+channel spacing,waveguide,0.15
+channel spacing,arrayed waveguide grating,0.2
+diffraction efficiency,waveguide,0.17647058823529413
+beam propagation method,waveguide,0.2549019607843137
+supercontinuum,waveguide,0.27358490566037735
+crosstalk,waveguide,0.2222222222222222
+polarizer,extinction ratio,0.24390243902439024
+bend radius,waveguide,0.38235294117647056
+biomolecule,nanopore,0.1937984496124031
+dry etching,plasma etching,0.18867924528301888

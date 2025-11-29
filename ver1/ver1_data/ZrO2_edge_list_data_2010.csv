@@ -1,0 +1,82 @@
+from,to,weight
+indentation,vickers hardness test,0.09722222222222222
+mullite,thermal shock,0.07333333333333333
+non-blocking i/o,cermet,0.0735930735930736
+oxidation state,xanes,0.08536585365853659
+hydrothermal synthesis,monoclinic crystal system,0.0872093023255814
+hydrothermal synthesis,tetragonal crystal system,0.11046511627906977
+texture (cosmology),deposition,0.09482758620689655
+simulated body fluid,biocompatibility,0.16
+relative density,tetragonal crystal system,0.07142857142857142
+reducing atmosphere,oxidizing agent,0.09523809523809523
+rutile,titanium dioxide,0.08888888888888889
+partial oxidation,non-blocking i/o,0.07
+bet theory,specific surface area,0.2235294117647059
+thermogravimetry,differential thermal analysis,0.10625
+inert,inert gas,0.1358695652173913
+zirconate,barium,0.0916030534351145
+zirconate,lead zirconate titanate,0.09923664122137404
+orthorhombic crystal system,tetragonal crystal system,0.15987460815047022
+orthorhombic crystal system,monoclinic crystal system,0.07210031347962383
+barium titanate,dielectric loss,0.08484848484848485
+barium titanate,barium,0.10303030303030303
+barium titanate,tetragonal crystal system,0.06666666666666667
+powder diffraction,rietveld refinement,0.1103202846975089
+deposition,pulsed laser deposition,0.08873239436619719
+cermet,carbon fibers,0.092
+cermet,non-blocking i/o,0.136
+hysteresis,tetragonal crystal system,0.112
+zirconium diboride,carbon fibers,0.06818181818181818
+ceramic matrix composite,matrix (chemical analysis),0.09243697478991597
+inert gas,inert,0.20491803278688525
+lead zirconate titanate,zirconate,0.087248322147651
+lead zirconate titanate,tetragonal crystal system,0.08053691275167785
+lead zirconate titanate,barium titanate,0.06711409395973154
+partial pressure,atmospheric temperature range,0.08741258741258741
+rietveld refinement,powder diffraction,0.12449799196787148
+rietveld refinement,tetragonal crystal system,0.11244979919678715
+rietveld refinement,monoclinic crystal system,0.08433734939759036
+monoclinic crystal system,tetragonal crystal system,0.29244249726177435
+power density,non-blocking i/o,0.07772020725388601
+differential thermal analysis,thermogravimetry,0.11258278145695365
+differential thermal analysis,thermogravimetric analysis,0.10596026490066225
+agglomerate,particle (ecology),0.06896551724137931
+tape casting,non-blocking i/o,0.10429447852760736
+tetragonal crystal system,monoclinic crystal system,0.18439226519337015
+zeta potential,suspension,0.08759124087591241
+zeta potential,particle (ecology),0.072992700729927
+zeta potential,electrophoretic deposition,0.06569343065693431
+lattice (music),lattice constant,0.10526315789473684
+oxygen storage,specific surface area,0.07058823529411765
+oxygen storage,thermogravimetric analysis,0.07058823529411765
+oxygen storage,thermal stability,0.09411764705882353
+coprecipitation,tetragonal crystal system,0.08333333333333333
+superacid,molar ratio,0.07344632768361582
+strontium titanate,lanthanum,0.08695652173913043
+strontium titanate,reducing atmosphere,0.07246376811594203
+nanorod,nanomaterials,0.08333333333333333
+chemical stability,thermal stability,0.10236220472440945
+barium,zirconate,0.07792207792207792
+barium,barium titanate,0.11038961038961038
+phase boundary,orthorhombic crystal system,0.0658682634730539
+phase boundary,tetragonal crystal system,0.23952095808383234
+vickers hardness test,tetragonal crystal system,0.07441860465116279
+molar ratio,superacid,0.06770833333333333
+suspension,particle (ecology),0.1050228310502283
+titanium dioxide,rutile,0.10909090909090909
+pulsed laser deposition,deposition,0.23507462686567165
+natural bond orbital,orthorhombic crystal system,0.07608695652173914
+biocompatibility,simulated body fluid,0.06818181818181818
+nanocrystalline material,tetragonal crystal system,0.09161793372319688
+specific surface area,bet theory,0.12140575079872204
+metastability,tetragonal crystal system,0.11724137931034483
+electrophoretic deposition,zeta potential,0.07377049180327869
+electrophoretic deposition,deposition,0.22950819672131148
+electrophoretic deposition,suspension,0.09836065573770492
+lattice constant,lattice (music),0.07692307692307693
+ionic radius,tetragonal crystal system,0.07407407407407407
+ionic radius,lattice constant,0.07407407407407407
+thermal stability,thermogravimetric analysis,0.06537102473498234
+dispersity,particle (ecology),0.08181818181818182
+chemical-looping combustion,reactivity,0.1111111111111111
+chemical-looping combustion,thermogravimetric analysis,0.11805555555555555

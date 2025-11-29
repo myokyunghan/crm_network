@@ -1,0 +1,85 @@
+from,to,weight
+indentation,vickers hardness test,0.13178294573643412
+indentation,spark plasma sintering,0.08527131782945736
+flexural modulus,universal testing machine,0.10101010101010101
+hydrothermal synthesis,tetragonal crystal system,0.08823529411764706
+hydrothermal synthesis,monoclinic crystal system,0.11764705882352941
+zirconium oxide,dental ceramics,0.08045977011494253
+simulated body fluid,bioactive glass,0.08235294117647059
+simulated body fluid,biocompatibility,0.11764705882352941
+stereo microscope,universal testing machine,0.1837837837837838
+relative density,spark plasma sintering,0.13855421686746988
+relative density,vickers hardness test,0.09036144578313253
+glass-ceramic,lithium disilicate,0.17318435754189945
+glass ionomer cement,universal testing machine,0.12427745664739884
+hot pressing,vickers hardness test,0.09411764705882353
+temperature cycling,thermal shock,0.07894736842105263
+temperature cycling,universal testing machine,0.07368421052631578
+visible spectrum,degradation,0.08235294117647059
+bet theory,specific surface area,0.19607843137254902
+dental bonding,universal testing machine,0.14901960784313725
+physisorption,carbon dioxide reforming,0.10948905109489052
+inert,inert gas,0.17054263565891473
+bioceramic,biocompatibility,0.08994708994708994
+diffractometer,monoclinic crystal system,0.09722222222222222
+dental porcelain,dental ceramics,0.07530647985989491
+dental porcelain,universal testing machine,0.07530647985989491
+dental porcelain,lithium disilicate,0.1646234676007005
+zirconate,temperature cycling,0.08433734939759036
+orthorhombic crystal system,tetragonal crystal system,0.21052631578947367
+orthorhombic crystal system,monoclinic crystal system,0.16194331983805668
+dental prosthesis,abutment,0.1919191919191919
+tukey's range test,universal testing machine,0.1232876712328767
+powder diffraction,tetragonal crystal system,0.1
+powder diffraction,rietveld refinement,0.1
+powder diffraction,monoclinic crystal system,0.09
+abutment,dental prosthesis,0.0824295010845987
+abutment,universal testing machine,0.08134490238611713
+methanation,carbon fibers,0.08808290155440414
+cermet,non-blocking i/o,0.07971014492753623
+ceramic matrix composite,matrix (chemical analysis),0.07692307692307693
+inert gas,inert,0.21568627450980393
+dental ceramics,dental porcelain,0.15357142857142858
+dental ceramics,lithium disilicate,0.11071428571428571
+spark plasma sintering,relative density,0.07348242811501597
+spark plasma sintering,vickers hardness test,0.07348242811501597
+rietveld refinement,tetragonal crystal system,0.125
+rietveld refinement,monoclinic crystal system,0.11875
+bar (unit),partial pressure,0.07462686567164178
+monoclinic crystal system,tetragonal crystal system,0.2757255936675462
+tetragonal crystal system,monoclinic crystal system,0.21770833333333334
+color difference,lithium disilicate,0.0954356846473029
+lattice (music),tetragonal crystal system,0.07920792079207921
+abrasion (mechanical),particle (ecology),0.0748502994011976
+hydrofluoric acid,universal testing machine,0.152317880794702
+chemical stability,thermal stability,0.11578947368421053
+base (topology),abutment,0.08088235294117647
+high temperature electrolysis,degradation,0.07981220657276995
+carbon dioxide reforming,carbon fibers,0.1390728476821192
+premolar,abutment,0.1569767441860465
+premolar,universal testing machine,0.09011627906976744
+lithium disilicate,dental porcelain,0.1525974025974026
+weibull modulus,universal testing machine,0.144
+weibull modulus,dental porcelain,0.08
+pulsed laser deposition,deposition,0.1774193548387097
+physical vapor deposition,deposition,0.23333333333333334
+bioactive glass,biocompatibility,0.07633587786259542
+bioactive glass,simulated body fluid,0.10687022900763359
+thermal shock,temperature cycling,0.0949367088607595
+primer (cosmetics),dental bonding,0.12408759124087591
+primer (cosmetics),universal testing machine,0.12408759124087591
+cementation (geology),universal testing machine,0.10426540284360189
+biocompatible material,biocompatibility,0.1393939393939394
+nanocrystalline material,tetragonal crystal system,0.07746478873239436
+specific surface area,bet theory,0.10256410256410256
+metastability,monoclinic crystal system,0.07777777777777778
+metastability,orthorhombic crystal system,0.08888888888888889
+inlay,universal testing machine,0.0898876404494382
+biomaterial,biocompatibility,0.18686868686868688
+biomaterial,surface modification,0.09090909090909091
+acrylic resin,universal testing machine,0.14
+distilled water,universal testing machine,0.10559006211180125
+chemical-looping combustion,thermogravimetric analysis,0.08955223880597014
+chemical-looping combustion,reactivity,0.08208955223880597
+shear strength,universal testing machine,0.1708542713567839
+shear strength,dental bonding,0.07537688442211055

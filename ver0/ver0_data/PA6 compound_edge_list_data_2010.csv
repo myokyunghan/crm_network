@@ -1,0 +1,82 @@
+from,to,weight
+ethylene-vinyl acetate,vinyl acetate,0.20588235294117646
+ethylene-vinyl acetate,thermal stability,0.11764705882352941
+talc,polypropylene,0.11538461538461539
+talc,filler (materials),0.11538461538461539
+maleic anhydride,polypropylene,0.1757188498402556
+injection moulding,molding (decorative),0.10638297872340426
+flexural modulus,polypropylene,0.10483870967741936
+compatibilization,polypropylene,0.0989010989010989
+compatibilization,maleic anhydride,0.12637362637362637
+coalescence (physics),polypropylene,0.125
+coalescence (physics),maleic anhydride,0.09375
+coalescence (physics),organoclay,0.09375
+compression molding,molding (decorative),0.16470588235294117
+mass fraction,polypropylene,0.09302325581395349
+polyoxymethylene,thermal stability,0.13513513513513514
+oxygen permeability,exfoliation joint,0.1111111111111111
+oxygen permeability,organoclay,0.14814814814814814
+particle (ecology),polymer nanocomposite,0.09375
+halloysite,thermal stability,0.11290322580645161
+miscibility,morphology,0.09836065573770492
+miscibility,organoclay,0.09836065573770492
+sepiolite,thermal stability,0.20689655172413793
+tacticity,polypropylene,0.3333333333333333
+in situ polymerization,thermal stability,0.11711711711711711
+in situ polymerization,thermogravimetric analysis,0.10810810810810811
+degradation,thermal stability,0.09523809523809523
+poly(n-isopropylacrylamide),thermal stability,0.19047619047619047
+poly(n-isopropylacrylamide),thermogravimetric analysis,0.09523809523809523
+nanometre,electrospinning,0.1
+nylon 66,thermal stability,0.1111111111111111
+polyolefin,polypropylene,0.14285714285714285
+thermogravimetry,limiting oxygen index,0.09302325581395349
+thermogravimetry,thermal stability,0.09302325581395349
+organoclay,thermal stability,0.09895833333333333
+vinyl acetate,ethylene-vinyl acetate,0.16279069767441862
+vinyl acetate,thermal stability,0.16279069767441862
+vinyl acetate,thermogravimetric analysis,0.09302325581395349
+thermoplastic polyurethane,morphology,0.09375
+exfoliation joint,organoclay,0.14201183431952663
+cone calorimeter,limiting oxygen index,0.1148936170212766
+cone calorimeter,thermal stability,0.09787234042553192
+cone calorimeter,thermogravimetric analysis,0.14042553191489363
+cone calorimeter,intumescent,0.08936170212765958
+polyacrylonitrile,electrospinning,0.16279069767441862
+limiting oxygen index,cone calorimeter,0.135
+limiting oxygen index,thermogravimetric analysis,0.14
+limiting oxygen index,ammonium polyphosphate,0.105
+limiting oxygen index,intumescent,0.12
+thermoplastic elastomer,morphology,0.09090909090909091
+thermoplastic elastomer,compatibilization,0.09090909090909091
+polymer clay,polymer nanocomposite,0.140625
+polymer clay,organoclay,0.109375
+polymer clay,thermal stability,0.09375
+polymer clay,exfoliation joint,0.109375
+masterbatch,polypropylene,0.15217391304347827
+masterbatch,organoclay,0.15217391304347827
+thermogravimetric analysis,thermal stability,0.16295025728987994
+compounding,organoclay,0.10476190476190476
+ductility (earth science),thermal stability,0.08888888888888889
+heat deflection temperature,thermal stability,0.09900990099009901
+heat deflection temperature,thermogravimetric analysis,0.10891089108910891
+bentonite,organoclay,0.2
+bentonite,thermal stability,0.08888888888888889
+intumescent,ammonium polyphosphate,0.14102564102564102
+intumescent,cone calorimeter,0.1346153846153846
+intumescent,limiting oxygen index,0.15384615384615385
+intumescent,thermogravimetric analysis,0.09615384615384616
+melt flow index,polypropylene,0.12195121951219512
+melt flow index,maleic anhydride,0.0975609756097561
+spherulite (polymer physics),isothermal process,0.1
+spherulite (polymer physics),morphology,0.1
+spherulite (polymer physics),polypropylene,0.1
+rheometry,organoclay,0.11475409836065574
+rheometry,compatibilization,0.09836065573770492
+rheometry,compounding,0.09836065573770492
+nanomaterials,electrospinning,0.0958904109589041
+thermal stability,thermogravimetric analysis,0.14393939393939395
+ammonium polyphosphate,intumescent,0.1506849315068493
+ammonium polyphosphate,cone calorimeter,0.10273972602739725
+ammonium polyphosphate,limiting oxygen index,0.14383561643835616
+ammonium polyphosphate,thermogravimetric analysis,0.10273972602739725

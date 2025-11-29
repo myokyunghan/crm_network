@@ -1,0 +1,79 @@
+from,to,weight
+bet theory,specific surface area,0.21212121212121213
+bet theory,selective catalytic reduction,0.12121212121212122
+titanium dioxide,titanium oxide,0.11538461538461539
+hydrothermal reaction,hydrothermal synthesis,0.3548387096774194
+hydrothermal reaction,autoclave,0.16129032258064516
+bismuth,bismuth vanadate,0.16279069767441862
+bismuth,vanadate,0.11627906976744186
+diffractometer,electrochromic devices,0.13636363636363635
+diffractometer,cavity magnetron,0.13636363636363635
+non-blocking i/o,nickel oxide,0.18604651162790697
+vanadium carbide,carbon fibers,0.13636363636363635
+space velocity,selective catalytic reduction,0.3333333333333333
+transition temperature,hysteresis,0.13043478260869565
+transition temperature,metal–insulator transition,0.17391304347826086
+cerium oxide,visible spectrum,0.15
+caesium,vanadate,0.3
+selective catalytic reduction,space velocity,0.11570247933884298
+polyvinyl alcohol,hydrothermal synthesis,0.14285714285714285
+polyvinyl alcohol,vanadate,0.14285714285714285
+polyvinyl alcohol,orthorhombic crystal system,0.14285714285714285
+polyvinyl alcohol,monoclinic crystal system,0.14285714285714285
+polyvinyl alcohol,tetragonal crystal system,0.14285714285714285
+tungstate,ammonium metavanadate,0.11764705882352941
+bismuth vanadate,bismuth,0.19444444444444445
+bismuth vanadate,vanadate,0.1388888888888889
+isostructural,monoclinic crystal system,0.15
+differential thermal analysis,thermal stability,0.15789473684210525
+selected area diffraction,hydrothermal synthesis,0.1111111111111111
+selected area diffraction,powder diffraction,0.1111111111111111
+selected area diffraction,orthorhombic crystal system,0.16666666666666666
+selected area diffraction,nanomaterials,0.1111111111111111
+ostwald ripening,nanosheet,0.2222222222222222
+ostwald ripening,specific surface area,0.1111111111111111
+ostwald ripening,monoclinic crystal system,0.1111111111111111
+ostwald ripening,nanomaterials,0.1111111111111111
+ostwald ripening,nanorod,0.1111111111111111
+ostwald ripening,hydrothermal synthesis,0.1111111111111111
+ostwald ripening,template,0.1111111111111111
+x-ray absorption spectroscopy,xanes,0.24390243902439024
+nanosheet,specific surface area,0.1111111111111111
+nanosheet,nanorod,0.1111111111111111
+nanosheet,ostwald ripening,0.1111111111111111
+titanium oxide,titanium dioxide,0.11320754716981132
+template,hydrothermal synthesis,0.1111111111111111
+gravimetric analysis,thermogravimetric analysis,0.13333333333333333
+dip-coating,vanadium dioxide,0.1111111111111111
+dip-coating,vanadate,0.1111111111111111
+dip-coating,visible spectrum,0.1111111111111111
+dip-coating,particle (ecology),0.1111111111111111
+dip-coating,diffractometer,0.1111111111111111
+dip-coating,orthorhombic crystal system,0.1111111111111111
+dip-coating,ellipsometry,0.1111111111111111
+space group,powder diffraction,0.125
+space group,monoclinic crystal system,0.16666666666666666
+photodegradation,visible spectrum,0.28125
+magnetic structure,ferrimagnetism,0.16666666666666666
+magnetic structure,vanadate,0.16666666666666666
+monoclinic crystal system,tetragonal crystal system,0.13194444444444445
+pulsed laser deposition,deposition,0.13043478260869565
+vanadium nitride,carbon fibers,0.17391304347826086
+scheelite,tetragonal crystal system,0.1875
+scheelite,monoclinic crystal system,0.1875
+scheelite,visible spectrum,0.125
+scheelite,bismuth vanadate,0.125
+cavity magnetron,temperature coefficient,0.13793103448275862
+nickel oxide,non-blocking i/o,0.27586206896551724
+methyl orange,vanadate,0.15789473684210525
+vanadium dioxide,metal–insulator transition,0.14893617021276595
+vanadium dioxide,thermochromism,0.1276595744680851
+methylene blue,visible spectrum,0.17647058823529413
+triclinic crystal system,monoclinic crystal system,0.15
+molar ratio,selective catalytic reduction,0.14285714285714285
+tetragonal crystal system,monoclinic crystal system,0.2345679012345679
+photoconductivity,photocurrent,0.2727272727272727
+xanes,x-ray absorption spectroscopy,0.2777777777777778
+autoclave,hydrothermal synthesis,0.13043478260869565
+field emission microscopy,electrochromic devices,0.14285714285714285
+tin oxide,electrochromic devices,0.125

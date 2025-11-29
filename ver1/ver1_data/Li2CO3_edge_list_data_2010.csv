@@ -1,0 +1,46 @@
+from,to,weight
+isothermal transformation diagram,isothermal process,0.3333333333333333
+isothermal transformation diagram,carbon fibers,0.3333333333333333
+acetylene,carbon fibers,0.5
+acetylene,gravimetric analysis,0.25
+dimethyl ether,propylene carbonate,0.25
+dimethyl ether,thermal stability,0.25
+carbothermic reaction,carbon fibers,0.3333333333333333
+thermocouple,isothermal process,0.3333333333333333
+thermocouple,carbon fibers,0.3333333333333333
+solid fuel,carbon fibers,0.2857142857142857
+bet theory,specific surface area,0.5
+bet theory,crystal (programming language),0.25
+bet theory,carbon fibers,0.25
+antimony oxide,carbon fibers,0.25
+antimony oxide,atmospheric temperature range,0.25
+antimony oxide,molar ratio,0.25
+silicon monoxide,degradation,0.25
+silicon monoxide,carbon fibers,0.25
+silicon monoxide,gravimetric analysis,0.25
+amorphous carbon,carbon fibers,0.4
+clean coal,carbon-neutral fuel,0.25
+clean coal,carbon fibers,0.25
+sample preparation,matrix (chemical analysis),0.25
+inert,inert gas,0.3
+inert,carbon fibers,0.3
+diethyl carbonate,dimethyl carbonate,0.25
+microscale chemistry,nanoporous,0.25
+microscale chemistry,carbon fibers,0.25
+microscale chemistry,inert gas,0.25
+microscale chemistry,inert,0.25
+rotating ring-disk electrode,carbon fibers,0.25
+rotating ring-disk electrode,glassy carbon,0.25
+stibnite,carbon fibers,0.25
+stibnite,atmospheric temperature range,0.25
+stibnite,molar ratio,0.25
+rotating disk electrode,carbon fibers,0.25
+rotating disk electrode,glassy carbon,0.25
+alginic acid,stoichiometry,0.5
+alginic acid,carbon fibers,0.5
+sodium tungstate,carbon fibers,0.25
+sodium tungstate,particle (ecology),0.25
+sodium tungstate,tungstate,0.5
+carboxylate,reactivity,0.2857142857142857
+carbon-neutral fuel,carbon fibers,0.2857142857142857
+glassy carbon,carbon fibers,0.3

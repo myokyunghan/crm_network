@@ -1,0 +1,40 @@
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                      Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -6.432162   0.116462      0 -55.230   <1e-04 ***
+gwesp.OTP.fixed.0.05  1.037973   0.165042      0   6.289   <1e-04 ***
+mutual                5.139738   0.329209      0  15.612   <1e-04 ***
+nodecov.indegree      0.009148   0.008713      0   1.050    0.294    
+diff.t-h.indegree    -0.085662   0.008751      0  -9.788   <1e-04 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+     Null Deviance: 62012  on 44732  degrees of freedom
+ Residual Deviance:  1787  on 44727  degrees of freedom
+ 
+AIC: 1797  BIC: 1840  (Smaller is better. MC Std. Err. = 0.6105)
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -6.11731    0.19641      0 -31.146   <1e-04 ***
+gwesp.OTP.fixed.0.05  0.98667    0.24927      0   3.958   <1e-04 ***
+mutual                4.96985    0.53484      0   9.292   <1e-04 ***
+nodecov.indegree      0.02591    0.01399      0   1.852    0.064 .  
+diff.t-h.indegree    -0.12296    0.01465      0  -8.394   <1e-04 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+     Null Deviance: 14850.0  on 10712  degrees of freedom
+ Residual Deviance:   655.4  on 10707  degrees of freedom
+ 
+AIC: 665.4  BIC: 701.8  (Smaller is better. MC Std. Err. = 0.5658)

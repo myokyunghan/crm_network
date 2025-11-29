@@ -1,0 +1,79 @@
+from,to,weight
+bet theory,specific surface area,0.14285714285714285
+stripping (fiber),dendrite (mathematics),0.14583333333333334
+ammonium metavanadate,vanadate,0.23809523809523808
+thermochromism,monoclinic crystal system,0.12121212121212122
+photocurrent,oxygen evolution,0.13333333333333333
+oxygen pressure,oxygen evolution,0.14285714285714285
+oxygen pressure,bismuth vanadate,0.14285714285714285
+oxygen pressure,bismuth,0.14285714285714285
+oxygen pressure,morphology,0.14285714285714285
+oxygen pressure,deposition,0.14285714285714285
+oxygen pressure,vanadate,0.14285714285714285
+oxygen pressure,pulsed laser deposition,0.14285714285714285
+alkane,propane,0.15151515151515152
+oxygen evolution,photocurrent,0.1282051282051282
+oxygen evolution,overpotential,0.14102564102564102
+diffuse reflection,methylene blue,0.13333333333333333
+diffuse reflection,hydrothermal synthesis,0.13333333333333333
+diffuse reflection,orthorhombic crystal system,0.13333333333333333
+bismuth,bismuth vanadate,0.20408163265306123
+titanium alloy,anodizing,0.14
+heteroatom,carbon fibers,0.23076923076923078
+mixed oxide,coprecipitation,0.13333333333333333
+nanometre,nanomaterials,0.21428571428571427
+diffractometer,oxygen evolution,0.13333333333333333
+electrochemical energy storage,electrochemical energy conversion,0.15517241379310345
+electrochemical energy storage,nanomaterials,0.1206896551724138
+graphitic carbon nitride,carbon fibers,0.125
+graphitic carbon nitride,vanadium nitride,0.1875
+graphitic carbon nitride,nanosheet,0.125
+vanadium carbide,carbon fibers,0.14285714285714285
+photoelectrochemistry,photocurrent,0.2222222222222222
+transition temperature,monoclinic crystal system,0.15384615384615385
+transition temperature,metal–insulator transition,0.15384615384615385
+resistive touchscreen,metal–insulator transition,0.125
+propene,propane,0.42857142857142855
+hysteresis,metal–insulator transition,0.1388888888888889
+bismuth vanadate,bismuth,0.14925373134328357
+dendrite (mathematics),galvanic anode,0.2558139534883721
+dendrite (mathematics),stripping (fiber),0.16279069767441862
+differential thermal analysis,thermogravimetric analysis,0.14285714285714285
+x-ray absorption spectroscopy,xanes,0.1891891891891892
+passivation,galvanic anode,0.15151515151515152
+atmospheric temperature range,selective catalytic reduction,0.1276595744680851
+biocompatibility,titanium alloy,0.15625
+brookite,rutile,0.16666666666666666
+nanoporous,carbon fibers,0.16666666666666666
+galvanic anode,dendrite (mathematics),0.24444444444444444
+roasting,vanadate,0.16279069767441862
+roasting,slag (welding),0.13953488372093023
+photodegradation,methylene blue,0.1267605633802817
+propane,propene,0.2033898305084746
+pulsed laser deposition,deposition,0.14285714285714285
+environmental pollution,environmentally friendly,0.12903225806451613
+lattice (music),metal–insulator transition,0.12903225806451613
+overpotential,oxygen evolution,0.14864864864864866
+pellet,roasting,0.15384615384615385
+terbium,visible spectrum,0.125
+terbium,degradation,0.125
+terbium,monoclinic crystal system,0.125
+terbium,tetragonal crystal system,0.125
+terbium,bismuth,0.125
+terbium,bismuth vanadate,0.125
+terbium,methylene blue,0.125
+anodizing,titanium alloy,0.17073170731707318
+nickel oxide,non-blocking i/o,0.2608695652173913
+methylene blue,degradation,0.17333333333333334
+vanadium dioxide,metal–insulator transition,0.13157894736842105
+vanadium dioxide,thermochromism,0.13157894736842105
+methyl orange,photodegradation,0.16666666666666666
+carbothermic reaction,vanadium carbide,0.14285714285714285
+tetragonal crystal system,monoclinic crystal system,0.17857142857142858
+horizontal scan rate,carbon fibers,0.2
+polypyrrole,nanorod,0.15789473684210525
+electrochemical energy conversion,nanomaterials,0.15151515151515152
+electrochemical energy conversion,electrochemical energy storage,0.2727272727272727
+xanes,x-ray absorption spectroscopy,0.2
+xanes,oxidation state,0.17142857142857143
+rhodamine b,visible spectrum,0.13333333333333333

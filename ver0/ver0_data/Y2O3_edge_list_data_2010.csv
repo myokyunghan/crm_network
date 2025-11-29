@@ -1,0 +1,68 @@
+from,to,weight
+monoclinic crystal system,tetragonal crystal system,0.3006134969325153
+ytterbium,photon upconversion,0.10714285714285714
+suspension,particle (ecology),0.1282051282051282
+morphology,particle (ecology),0.09090909090909091
+morphology,hydrothermal synthesis,0.13636363636363635
+laser ablation,pulsed laser deposition,0.14285714285714285
+open-circuit voltage,power density,0.12244897959183673
+inert gas,inert,0.25
+inert gas,atmospheric temperature range,0.09375
+rietveld refinement,powder diffraction,0.11702127659574468
+rietveld refinement,tetragonal crystal system,0.11702127659574468
+electrophoretic deposition,deposition,0.2328767123287671
+nanomaterials,photon upconversion,0.08974358974358974
+triple phase boundary,cermet,0.09210526315789473
+tape casting,non-blocking i/o,0.10666666666666667
+texture (cosmology),deposition,0.1206896551724138
+shrinkage,relative density,0.10714285714285714
+ultraviolet,emission intensity,0.10909090909090909
+cermet,carbon fibers,0.11029411764705882
+cermet,non-blocking i/o,0.13970588235294118
+pulsed laser deposition,deposition,0.18274111675126903
+oxygen transport,partial pressure,0.15384615384615385
+cathodoluminescence,nanocrystalline material,0.10869565217391304
+powder diffraction,rietveld refinement,0.09649122807017543
+agglomerate,particle (ecology),0.09615384615384616
+dwell time,temperature cycling,0.10526315789473684
+dwell time,atmospheric temperature range,0.10526315789473684
+phase boundary,tetragonal crystal system,0.19047619047619047
+lattice (music),lattice constant,0.12087912087912088
+lanthanum oxide,lanthanum,0.3617021276595745
+non-blocking i/o,cermet,0.09090909090909091
+orthorhombic crystal system,tetragonal crystal system,0.09722222222222222
+pellet,relative density,0.08823529411764706
+ionic radius,monoclinic crystal system,0.09230769230769231
+ohmic contact,overpotential,0.1111111111111111
+differential thermal analysis,thermogravimetric analysis,0.11666666666666667
+differential thermal analysis,thermogravimetry,0.11666666666666667
+oxidizing agent,non-blocking i/o,0.1
+chemical stability,thermal stability,0.09302325581395349
+lattice constant,lattice (music),0.09734513274336283
+lattice constant,tetragonal crystal system,0.08849557522123894
+intensity,emission intensity,0.22580645161290322
+partial pressure,atmospheric temperature range,0.0970873786407767
+indentation,vickers hardness test,0.14285714285714285
+hot isostatic pressing,hot pressing,0.12962962962962962
+thermogravimetry,differential thermal analysis,0.22580645161290322
+thermogravimetry,coprecipitation,0.0967741935483871
+relative density,vickers hardness test,0.1044776119402985
+nickel oxide,non-blocking i/o,0.3
+vickers hardness test,tetragonal crystal system,0.11475409836065574
+vickers hardness test,relative density,0.11475409836065574
+emission intensity,intensity,0.10294117647058823
+emission intensity,ultraviolet,0.08823529411764706
+emission intensity,photon upconversion,0.1323529411764706
+specific surface area,tetragonal crystal system,0.1111111111111111
+tetragonal crystal system,monoclinic crystal system,0.1932938856015779
+abrasion (mechanical),particle (ecology),0.10714285714285714
+inert,inert gas,0.12698412698412698
+lanthanum manganite,lanthanum,0.2
+deposition,pulsed laser deposition,0.11650485436893204
+hydrothermal synthesis,tetragonal crystal system,0.09333333333333334
+lanthanum,lanthanum oxide,0.09392265193370165
+hot pressing,relative density,0.1
+hot pressing,hot isostatic pressing,0.1
+aluminate,dysprosium,0.09090909090909091
+aluminate,lanthanum,0.09090909090909091
+power density,non-blocking i/o,0.09278350515463918

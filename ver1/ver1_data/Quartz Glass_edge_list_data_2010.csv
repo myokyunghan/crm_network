@@ -1,0 +1,29 @@
+from,to,weight
+titanium dioxide,photodegradation,0.072
+titanium dioxide,degradation,0.096
+titanium dioxide,rutile,0.072
+picosecond,nanosecond,0.07575757575757576
+ultraviolet light,visible spectrum,0.10416666666666667
+ultraviolet light,ultraviolet,0.23958333333333334
+pulsed laser deposition,deposition,0.16279069767441862
+wurtzite crystal structure,pulsed laser deposition,0.07352941176470588
+wurtzite crystal structure,ultraviolet,0.08823529411764706
+wurtzite crystal structure,absorption edge,0.07352941176470588
+charge carrier,photocurrent,0.09090909090909091
+orthorhombic crystal system,monoclinic crystal system,0.10975609756097561
+thermogravimetric analysis,thermal stability,0.13761467889908258
+monoclinic crystal system,orthorhombic crystal system,0.08653846153846154
+visible spectrum,ultraviolet,0.07547169811320754
+rutile,titanium dioxide,0.10714285714285714
+extreme ultraviolet,ultraviolet,0.10091743119266056
+absorption edge,wurtzite crystal structure,0.07936507936507936
+thermal stability,thermogravimetric analysis,0.07936507936507936
+laser ablation,nanosecond,0.07407407407407407
+amorphous carbon,carbon fibers,0.2558139534883721
+anti-reflective coating,reflection,0.08
+photodegradation,degradation,0.11267605633802817
+photodegradation,visible spectrum,0.11267605633802817
+rhodamine b,visible spectrum,0.09090909090909091
+rhodamine b,photodegradation,0.10606060606060606
+photoconductivity,photocurrent,0.15
+photoconductivity,ultraviolet,0.1125

@@ -1,0 +1,98 @@
+from,to,weight
+polyvinyl alcohol,electrospinning,0.17073170731707318
+talc,filler (materials),0.09375
+talc,polypropylene,0.21875
+flexural modulus,molding (decorative),0.09580838323353294
+compatibilization,maleic anhydride,0.12179487179487179
+compatibilization,polypropylene,0.09615384615384616
+coalescence (physics),polypropylene,0.1
+particle (ecology),filler (materials),0.1
+fused deposition modeling,deposition,0.14705882352941177
+tacticity,polypropylene,0.2545454545454545
+tacticity,morphology,0.09090909090909091
+in situ polymerization,thermal stability,0.16666666666666666
+in situ polymerization,thermogravimetric analysis,0.12037037037037036
+high-density polyethylene,maleic anhydride,0.09696969696969697
+tensile testing,molding (decorative),0.09722222222222222
+filtration (mathematics),electrospinning,0.21100917431192662
+fused filament fabrication,fused deposition modeling,0.17391304347826086
+fused filament fabrication,acrylonitrile butadiene styrene,0.13043478260869565
+polybutylene terephthalate,polycarbonate,0.0967741935483871
+succinic anhydride,tacticity,0.09523809523809523
+succinic anhydride,polypropylene,0.23809523809523808
+filler (materials),polymer nanocomposite,0.09558823529411764
+antistatic agent,polypropylene,0.1388888888888889
+antistatic agent,thermogravimetric analysis,0.1388888888888889
+thermogravimetry,thermogravimetric analysis,0.11428571428571428
+percolation (cognitive psychology),polypropylene,0.12307692307692308
+polycarbonate,thermal stability,0.09876543209876543
+polycarbonate,thermogravimetric analysis,0.09876543209876543
+exfoliation joint,organoclay,0.09411764705882353
+exfoliation joint,polypropylene,0.10588235294117647
+cone calorimeter,thermogravimetric analysis,0.16080402010050251
+cone calorimeter,thermal stability,0.09045226130653267
+cone calorimeter,limiting oxygen index,0.1306532663316583
+masterbatch,compounding,0.12195121951219512
+thermal stability,thermogravimetric analysis,0.1600609756097561
+ductility (earth science),brittleness,0.14814814814814814
+molding (decorative),compression molding,0.11014492753623188
+polymer nanocomposite,filler (materials),0.09774436090225563
+vinyl alcohol,electrospinning,0.14516129032258066
+intumescent,thermogravimetric analysis,0.1111111111111111
+intumescent,limiting oxygen index,0.12222222222222222
+intumescent,cone calorimeter,0.14444444444444443
+titanium dioxide,polypropylene,0.13043478260869565
+melt flow index,maleic anhydride,0.0963855421686747
+melt flow index,polypropylene,0.0963855421686747
+nanomaterials,electrospinning,0.09565217391304348
+degradation,thermal stability,0.12359550561797752
+ammonium polyphosphate,thermogravimetric analysis,0.15294117647058825
+ammonium polyphosphate,intumescent,0.09411764705882353
+ammonium polyphosphate,cone calorimeter,0.12941176470588237
+ammonium polyphosphate,thermal stability,0.10588235294117647
+ethylene-vinyl acetate,vinyl acetate,0.1643835616438356
+maleic anhydride,polypropylene,0.11935483870967742
+injection moulding,polypropylene,0.10588235294117647
+injection moulding,molding (decorative),0.09411764705882353
+compression molding,molding (decorative),0.2360248447204969
+halloysite,thermal stability,0.1206896551724138
+sepiolite,thermal stability,0.1
+sepiolite,maleic anhydride,0.13333333333333333
+miscibility,thermal stability,0.10909090909090909
+transfer molding,molding (decorative),0.3125
+transfer molding,compression molding,0.125
+low-density polyethylene,high-density polyethylene,0.10869565217391304
+poly(n-isopropylacrylamide),thermogravimetric analysis,0.11764705882352941
+poly(n-isopropylacrylamide),thermal stability,0.14705882352941177
+nylon 66,thermogravimetric analysis,0.08928571428571429
+glycidyl methacrylate,compatibilization,0.14893617021276595
+polylactic acid,thermal stability,0.09259259259259259
+polyolefin,compatibilization,0.14814814814814814
+polyolefin,polypropylene,0.1111111111111111
+polyolefin,high-density polyethylene,0.1111111111111111
+deposition,fused deposition modeling,0.18181818181818182
+vinyl acetate,ethylene-vinyl acetate,0.2222222222222222
+styrene-butadiene,thermal stability,0.14285714285714285
+styrene-butadiene,acrylonitrile butadiene styrene,0.14285714285714285
+styrene-butadiene,polystyrene,0.09523809523809523
+styrene-butadiene,thermogravimetric analysis,0.09523809523809523
+styrene-butadiene,maleic anhydride,0.14285714285714285
+limiting oxygen index,thermogravimetric analysis,0.17486338797814208
+limiting oxygen index,thermal stability,0.12021857923497267
+limiting oxygen index,cone calorimeter,0.14207650273224043
+charring,thermogravimetric analysis,0.11864406779661017
+charring,intumescent,0.13559322033898305
+charring,cone calorimeter,0.13559322033898305
+charring,thermal stability,0.13559322033898305
+morphology,polypropylene,0.1322314049586777
+basalt fiber,polypropylene,0.16666666666666666
+basalt fiber,molding (decorative),0.125
+heat deflection temperature,flexural modulus,0.15517241379310345
+charpy impact test,compression molding,0.09090909090909091
+charpy impact test,brittleness,0.09090909090909091
+charpy impact test,molding (decorative),0.09090909090909091
+melt spinning,textile,0.12121212121212122
+melt spinning,synthetic fiber,0.09090909090909091
+melt spinning,polypropylene,0.09090909090909091
+rheometry,polypropylene,0.0975609756097561
+thermogravimetric analysis,thermal stability,0.17558528428093645

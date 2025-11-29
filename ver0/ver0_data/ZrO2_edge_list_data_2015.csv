@@ -1,0 +1,100 @@
+from,to,weight
+indentation,vickers hardness test,0.12751677852348994
+non-blocking i/o,nickel oxide,0.08609271523178808
+non-blocking i/o,cermet,0.0684326710816777
+oxidation state,x-ray absorption spectroscopy,0.07462686567164178
+oxidation state,oxidizing agent,0.05970149253731343
+delamination,brittleness,0.06451612903225806
+relative density,tetragonal crystal system,0.06030150753768844
+relative density,vickers hardness test,0.06532663316582915
+relative density,spark plasma sintering,0.08040201005025126
+glass-ceramic,dental porcelain,0.07926829268292683
+reducing atmosphere,oxidizing agent,0.13043478260869565
+reducing atmosphere,cermet,0.08695652173913043
+bimetallic strip,carbon fibers,0.07075471698113207
+cladding (metalworking),zirconium alloy,0.16666666666666666
+lanthanum manganite,lanthanum,0.2875
+temperature cycling,thermal shock,0.0625
+temperature cycling,universal testing machine,0.08854166666666667
+partial oxidation,carbon dioxide reforming,0.07079646017699115
+partial oxidation,partial pressure,0.07964601769911504
+lanthanum,lanthanum manganite,0.07666666666666666
+bet theory,specific surface area,0.211864406779661
+xanes,x-ray absorption spectroscopy,0.0963855421686747
+thermogravimetry,thermogravimetric analysis,0.06451612903225806
+thermogravimetry,differential thermal analysis,0.08602150537634409
+bioceramic,biocompatibility,0.11377245508982035
+inert,inert gas,0.17258883248730963
+oxidizing agent,reducing atmosphere,0.06349206349206349
+dental porcelain,dental ceramics,0.059957173447537475
+dental porcelain,universal testing machine,0.07494646680942184
+orthorhombic crystal system,tetragonal crystal system,0.12468193384223919
+orthorhombic crystal system,monoclinic crystal system,0.11195928753180662
+infiltration (hvac),triple phase boundary,0.06578947368421052
+triple phase boundary,cermet,0.06818181818181818
+triple phase boundary,non-blocking i/o,0.06060606060606061
+powder diffraction,rietveld refinement,0.12749003984063745
+thermogravimetric analysis,thermal stability,0.08346709470304976
+cermet,carbon fibers,0.0975609756097561
+cermet,non-blocking i/o,0.10801393728222997
+methanation,carbon fibers,0.08333333333333333
+ceramic matrix composite,matrix (chemical analysis),0.07547169811320754
+ceramic matrix composite,spark plasma sintering,0.08490566037735849
+inert gas,inert,0.2361111111111111
+dental ceramics,dental porcelain,0.13526570048309178
+rietveld refinement,monoclinic crystal system,0.06865671641791045
+rietveld refinement,powder diffraction,0.0955223880597015
+rietveld refinement,orthorhombic crystal system,0.0626865671641791
+rietveld refinement,tetragonal crystal system,0.11641791044776119
+polyvinyl alcohol,electrospinning,0.07142857142857142
+monoclinic crystal system,tetragonal crystal system,0.27450980392156865
+temperature-programmed reduction,chemisorption,0.06015037593984962
+temperature-programmed reduction,thermogravimetric analysis,0.08270676691729323
+temperature-programmed reduction,carbon dioxide reforming,0.06766917293233082
+power density,carbon fibers,0.06060606060606061
+differential thermal analysis,thermogravimetric analysis,0.14285714285714285
+differential thermal analysis,thermogravimetry,0.08163265306122448
+agglomerate,particle (ecology),0.11428571428571428
+tetragonal crystal system,monoclinic crystal system,0.18888888888888888
+zeta potential,suspension,0.07179487179487179
+lattice (music),lattice constant,0.12571428571428572
+lattice (music),tetragonal crystal system,0.08
+abrasion (mechanical),particle (ecology),0.0695970695970696
+abrasion (mechanical),universal testing machine,0.08058608058608059
+coprecipitation,tetragonal crystal system,0.07518796992481203
+nickel oxide,cermet,0.072
+nickel oxide,non-blocking i/o,0.312
+phase boundary,tetragonal crystal system,0.16428571428571428
+morphology,particle (ecology),0.08196721311475409
+gravimetric analysis,thermogravimetric analysis,0.125
+carbon dioxide reforming,carbon fibers,0.11428571428571428
+phosphoric acid,universal testing machine,0.10526315789473684
+anodizing,nanoporous,0.0594059405940594
+anodizing,tetragonal crystal system,0.0594059405940594
+titanium dioxide,rutile,0.061068702290076333
+suspension,particle (ecology),0.08260869565217391
+suspension,deposition,0.10869565217391304
+suspension,zeta potential,0.06086956521739131
+pulsed laser deposition,orthorhombic crystal system,0.06217616580310881
+pulsed laser deposition,deposition,0.18652849740932642
+physical vapor deposition,deposition,0.28
+zirconium alloy,cladding (metalworking),0.26811594202898553
+thermal shock,temperature cycling,0.07228915662650602
+biocompatibility,biomaterial,0.07045009784735812
+titanium alloy,biocompatibility,0.06220095693779904
+dielectric loss,atmospheric temperature range,0.07106598984771574
+specific surface area,bet theory,0.09803921568627451
+metastability,tetragonal crystal system,0.09937888198757763
+metastability,monoclinic crystal system,0.07453416149068323
+biomaterial,biocompatibility,0.1565217391304348
+lattice constant,lattice (music),0.1134020618556701
+lattice constant,tetragonal crystal system,0.10824742268041238
+ionic radius,stoichiometry,0.0603448275862069
+ionic radius,lattice constant,0.0603448275862069
+ionic radius,rietveld refinement,0.0603448275862069
+thermal stability,thermogravimetric analysis,0.0729312762973352
+oxygen sensor,partial pressure,0.07142857142857142
+distilled water,universal testing machine,0.13043478260869565
+x-ray absorption spectroscopy,oxidation state,0.07142857142857142
+x-ray absorption spectroscopy,xanes,0.11428571428571428
+high-κ dielectric,dielectric loss,0.07692307692307693

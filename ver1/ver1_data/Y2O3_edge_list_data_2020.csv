@@ -1,0 +1,53 @@
+from,to,weight
+monoclinic crystal system,tetragonal crystal system,0.23931623931623933
+suspension,temperature cycling,0.109375
+mullite,thermal shock,0.11538461538461539
+mullite,thermal stability,0.11538461538461539
+rietveld refinement,tetragonal crystal system,0.1038961038961039
+rietveld refinement,monoclinic crystal system,0.1038961038961039
+electrophoretic deposition,deposition,0.2222222222222222
+differential thermal analysis,thermogravimetric analysis,0.17857142857142858
+differential thermal analysis,thermogravimetry,0.10714285714285714
+differential thermal analysis,powder diffraction,0.10714285714285714
+tape casting,non-blocking i/o,0.125
+chemical stability,chemical-looping combustion,0.125
+indentation,vickers hardness test,0.15517241379310345
+shrinkage,vickers hardness test,0.14285714285714285
+shrinkage,relative density,0.11428571428571428
+hot isostatic pressing,powder metallurgy,0.12698412698412698
+thermogravimetry,powder diffraction,0.10714285714285714
+thermogravimetry,differential thermal analysis,0.10714285714285714
+pulsed laser deposition,deposition,0.175
+relative density,spark plasma sintering,0.0989010989010989
+relative density,vickers hardness test,0.13186813186813187
+hydrofluoric acid,monoclinic crystal system,0.16666666666666666
+nickel oxide,high temperature electrolysis,0.10204081632653061
+nickel oxide,non-blocking i/o,0.2857142857142857
+vickers hardness test,tetragonal crystal system,0.11333333333333333
+energy-dispersive x-ray spectroscopy,tetragonal crystal system,0.13333333333333333
+dental porcelain,lithium disilicate,0.11
+carbon dioxide reforming,carbon fibers,0.10465116279069768
+zeta potential,suspension,0.10256410256410256
+zeta potential,electrophoretic deposition,0.10256410256410256
+tetragonal crystal system,monoclinic crystal system,0.19112627986348124
+surface modification,biocompatibility,0.125
+reactivity,chemical-looping combustion,0.11538461538461539
+agglomerate,spark plasma sintering,0.10526315789473684
+weibull modulus,universal testing machine,0.12244897959183673
+diffractometer,monoclinic crystal system,0.17391304347826086
+diffractometer,tetragonal crystal system,0.13043478260869565
+lithium disilicate,dental porcelain,0.15714285714285714
+dental ceramics,dental porcelain,0.10465116279069768
+dental ceramics,biocompatibility,0.11627906976744186
+simulated body fluid,biocompatibility,0.12121212121212122
+physical vapor deposition,deposition,0.22448979591836735
+physical vapor deposition,thermal shock,0.10204081632653061
+titanium alloy,biocompatibility,0.14035087719298245
+hot pressing,vickers hardness test,0.18867924528301888
+hot pressing,relative density,0.1320754716981132
+nanoporous,tetragonal crystal system,0.1
+non-blocking i/o,nickel oxide,0.13861386138613863
+opacity,transparent ceramics,0.2
+orthorhombic crystal system,tetragonal crystal system,0.12307692307692308
+orthorhombic crystal system,monoclinic crystal system,0.1076923076923077
+zirconate,temperature cycling,0.13043478260869565

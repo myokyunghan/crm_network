@@ -1,0 +1,116 @@
+from,to,weight
+intumescent,limiting oxygen index,0.13636363636363635
+intumescent,thermal stability,0.18181818181818182
+foaming agent,thermal stability,0.13333333333333333
+foaming agent,blowing agent,0.2
+high-density polyethylene,polymer nanocomposite,0.13333333333333333
+high-density polyethylene,low-density polyethylene,0.2
+shrinkage,silica fume,0.1686746987951807
+superplasticizer,silica fume,0.38461538461538464
+superplasticizer,cementitious,0.1282051282051282
+vinyl acetate,charring,0.125
+vinyl acetate,ethylene-vinyl acetate,0.1875
+vinyl acetate,thermogravimetric analysis,0.125
+vinyl acetate,thermal stability,0.125
+glycidyl methacrylate,thermal stability,0.14285714285714285
+glycidyl methacrylate,halloysite,0.14285714285714285
+glycidyl methacrylate,triethoxysilane,0.14285714285714285
+glycidyl methacrylate,surface modification,0.14285714285714285
+glycidyl methacrylate,polymer nanocomposite,0.14285714285714285
+glycidyl methacrylate,thermogravimetric analysis,0.14285714285714285
+nanotoxicology,nanomaterials,0.13793103448275862
+gravimetric analysis,thermogravimetric analysis,0.17391304347826086
+compounding,dielectric strength,0.15384615384615385
+compounding,filler (materials),0.23076923076923078
+molding (decorative),thermal stability,0.12
+sedimentation,volume fraction,0.125
+sedimentation,particle (ecology),0.125
+pozzolanic reaction,silica fume,0.16
+polyolefin,silanization,0.16666666666666666
+polyolefin,surface modification,0.16666666666666666
+calcium silicate hydrate,calcium silicate,0.19117647058823528
+resin composite,dental composite,0.16666666666666666
+agglomerate,particle (ecology),0.11842105263157894
+bet theory,specific surface area,0.15151515151515152
+cone calorimeter,thermal stability,0.1951219512195122
+cone calorimeter,thermogravimetric analysis,0.14634146341463414
+penetration (warfare),dilatant,0.13157894736842105
+cementitious,silica fume,0.22522522522522523
+silanization,surface modification,0.1590909090909091
+coalescence (physics),pickering emulsion,0.12307692307692308
+charring,vinyl acetate,0.14285714285714285
+charring,thermal stability,0.14285714285714285
+charring,thermogravimetric analysis,0.14285714285714285
+brittleness,polypropylene,0.125
+calcium silicate,calcium silicate hydrate,0.22413793103448276
+phase inversion,pickering emulsion,0.16666666666666666
+coprecipitation,limiting oxygen index,0.14285714285714285
+coprecipitation,thermal stability,0.14285714285714285
+angle of repose,granulation,0.12121212121212122
+angle of repose,friability,0.21212121212121213
+ethylene-vinyl acetate,vinyl acetate,0.125
+ethylene-vinyl acetate,thermogravimetric analysis,0.125
+limiting oxygen index,thermal stability,0.16666666666666666
+reactive extrusion,maleic anhydride,0.11764705882352941
+reactive extrusion,polypropylene,0.11764705882352941
+thermogravimetric analysis,thermal stability,0.1601423487544484
+emulsified fuel,oil droplet,0.18181818181818182
+emulsified fuel,particle (ecology),0.18181818181818182
+ethylene propylene rubber,epdm rubber,0.13636363636363635
+ethylene propylene rubber,polypropylene,0.13636363636363635
+silsesquioxane,thermal stability,0.1724137931034483
+thermal stability,thermogravimetric analysis,0.1274787535410765
+shear strength,silica fume,0.14285714285714285
+blowing agent,foaming agent,0.13043478260869565
+blowing agent,silicone rubber,0.13043478260869565
+compression set,silicone rubber,0.15384615384615385
+styrene-butadiene,filler (materials),0.2222222222222222
+emulsion polymerization,pickering emulsion,0.125
+polylactic acid,thermal stability,0.20833333333333334
+polylactic acid,thermogravimetric analysis,0.125
+metakaolin,silica fume,0.23684210526315788
+maleic anhydride,polypropylene,0.15151515151515152
+oil droplet,pickering emulsion,0.2727272727272727
+silanes,thermogravimetric analysis,0.18181818181818182
+silanes,silanization,0.18181818181818182
+silanes,surface modification,0.18181818181818182
+epdm rubber,polypropylene,0.13333333333333333
+epdm rubber,ethylene propylene rubber,0.2
+epdm rubber,tear resistance,0.13333333333333333
+dielectric strength,silicone rubber,0.13636363636363635
+dispersion stability,particle (ecology),0.125
+suspension,particle (ecology),0.13131313131313133
+interphase,filler (materials),0.18181818181818182
+compatibilization,maleic anhydride,0.11764705882352941
+compatibilization,polypropylene,0.11764705882352941
+compatibilization,thermogravimetric analysis,0.17647058823529413
+ammonium polyphosphate,limiting oxygen index,0.15625
+ammonium polyphosphate,thermal stability,0.15625
+mooney viscosity,thermal stability,0.15384615384615385
+mooney viscosity,precipitated silica,0.15384615384615385
+stabilizer (aeronautics),thermal stability,0.18181818181818182
+shear thinning,dilatant,0.14
+separator (oil production),thermogravimetric analysis,0.125
+separator (oil production),thermal stability,0.125
+lotus effect,superhydrophobic coating,0.16
+lotus effect,hydrophobic silica,0.12
+surface charge,zeta potential,0.13333333333333333
+organosilicon,surface modification,0.25
+organosilicon,thermal stability,0.125
+organosilicon,hydrosilylation,0.125
+organosilicon,silanol,0.125
+organosilicon,hydrophobic silica,0.125
+organosilicon,siloxane,0.125
+silicone resin,silicone rubber,0.19444444444444445
+granulation,friability,0.1326530612244898
+slag (welding),silica fume,0.19047619047619047
+slag (welding),cementitious,0.14285714285714285
+small-angle x-ray scattering,morphology,0.13333333333333333
+precipitated silica,hydrophobic silica,0.13725490196078433
+polycarbonate,thermal stability,0.15384615384615385
+polycarbonate,dispersity,0.15384615384615385
+sulfonic acid,polystyrene,0.15384615384615385
+sulfonic acid,polypropylene,0.15384615384615385
+tearing,tear resistance,0.15
+tearing,silicone rubber,0.15
+tearing,thermal stability,0.15

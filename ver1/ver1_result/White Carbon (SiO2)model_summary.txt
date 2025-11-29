@@ -1,0 +1,22 @@
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -5.42190    0.22571      0 -24.021  < 1e-04 ***
+gwesp.OTP.fixed.0.05  1.23686    0.48549      0   2.548  0.01085 *  
+mutual                   -Inf    0.00000      0    -Inf  < 1e-04 ***
+nodecov.indegree      0.01975    0.06914      0   0.286  0.77516    
+diff.t-h.indegree    -0.22504    0.07075      0  -3.181  0.00147 ** 
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+Warnings:
+
+ * The following terms have infinite coefficient estimates due to an
+   extreme sufficient statistic:
+
+   mutual

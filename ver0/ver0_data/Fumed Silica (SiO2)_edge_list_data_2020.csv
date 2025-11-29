@@ -1,0 +1,70 @@
+from,to,weight
+shore durometer,thermal stability,0.19047619047619047
+mass fraction,particle (ecology),0.23529411764705882
+high-density polyethylene,thermal stability,0.25
+high-density polyethylene,thermogravimetric analysis,0.25
+superplasticizer,silica fume,0.22580645161290322
+pozzolanic reaction,silica fume,0.25
+bagasse,silica fume,0.16666666666666666
+bagasse,styrene-butadiene,0.16666666666666666
+bagasse,shore durometer,0.16666666666666666
+bagasse,thermogravimetric analysis,0.16666666666666666
+bagasse,precipitated silica,0.16666666666666666
+pozzolanic activity,pozzolanic reaction,0.23076923076923078
+hydrotalcite,thermogravimetric analysis,0.16666666666666666
+hydrotalcite,thermal stability,0.16666666666666666
+hydrotalcite,filler (materials),0.16666666666666666
+hydrotalcite,calcium silicate hydrate,0.16666666666666666
+calcium silicate hydrate,calcium silicate,0.23255813953488372
+chloroprene,thermogravimetric analysis,0.2
+chloroprene,filler (materials),0.2
+chloroprene,tear resistance,0.2
+melt flow index,bentonite,0.16666666666666666
+melt flow index,polypropylene,0.16666666666666666
+melt flow index,thermal stability,0.16666666666666666
+melt flow index,talc,0.16666666666666666
+melt flow index,filler (materials),0.16666666666666666
+cementitious,silica fume,0.2111111111111111
+silanization,surface modification,0.18181818181818182
+silanization,triethoxysilane,0.18181818181818182
+apparent viscosity,dilatant,0.16
+limiting oxygen index,cone calorimeter,0.16666666666666666
+limiting oxygen index,ammonium polyphosphate,0.16666666666666666
+sandpaper,abrasion (mechanical),0.21052631578947367
+tear resistance,precipitated silica,0.18181818181818182
+tear resistance,elongation,0.18181818181818182
+tear resistance,chloroprene,0.18181818181818182
+fluoropolymer,particle (ecology),0.25
+fluoropolymer,polystyrene,0.25
+fluoropolymer,thermal stability,0.25
+fluoropolymer,polydimethylsiloxane,0.25
+low-density polyethylene,polylactic acid,0.18181818181818182
+low-density polyethylene,thermogravimetric analysis,0.18181818181818182
+blowing agent,silicone rubber,0.18181818181818182
+metakaolin,silica fume,0.20512820512820512
+styrene-butadiene,thermogravimetric analysis,0.17647058823529413
+hybrid material,filler (materials),0.2
+hybrid material,surface modification,0.4
+hybrid material,thermal stability,0.2
+polymer nanocomposite,surface modification,0.15789473684210525
+dental composite,filler (materials),0.18181818181818182
+soft materials,soft robotics,0.23684210526315788
+condensation reaction,silanol,0.18181818181818182
+hydrophobe,superhydrophobic coating,0.17391304347826086
+mooney viscosity,silicone rubber,0.25
+mooney viscosity,polydimethylsiloxane,0.25
+mooney viscosity,precipitated silica,0.25
+mooney viscosity,hydrophobic silica,0.25
+thermoplastic elastomer,polypropylene,0.16
+kevlar,dilatant,0.25925925925925924
+pickering emulsion,particle (ecology),0.17647058823529413
+shear thinning,dilatant,0.1794871794871795
+shear thinning,thixotropy,0.1794871794871795
+organosilicon,polydimethylsiloxane,0.16666666666666666
+organosilicon,abrasion (mechanical),0.16666666666666666
+organosilicon,hydrosilylation,0.16666666666666666
+organosilicon,thermal stability,0.16666666666666666
+organosilicon,characterization,0.16666666666666666
+slag (welding),silica fume,0.23809523809523808
+slag (welding),cementitious,0.23809523809523808
+active packaging,nanomaterials,0.18181818181818182

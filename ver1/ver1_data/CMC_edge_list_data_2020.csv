@@ -1,0 +1,50 @@
+from,to,weight
+bacterial cellulose,carboxymethyl cellulose,0.14130434782608695
+viability assay,mtt assay,0.09395973154362416
+methyl cellulose,carboxymethyl cellulose,0.22448979591836735
+gum arabic,carboxymethyl cellulose,0.10377358490566038
+polyacrylamide,carboxymethyl cellulose,0.1686746987951807
+sodium alginate,carboxymethyl cellulose,0.16535433070866143
+langmuir adsorption model,carboxymethyl cellulose,0.13454545454545455
+hydrophobic effect,cationic polymerization,0.11504424778761062
+methylene blue,langmuir adsorption model,0.10126582278481013
+methylene blue,cationic polymerization,0.0949367088607595
+methylene blue,carboxymethyl cellulose,0.15822784810126583
+acrylic acid,carboxymethyl cellulose,0.15625
+elongation,carboxymethyl cellulose,0.11214953271028037
+plasticizer,carboxymethyl cellulose,0.15168539325842698
+hydroxypropyl cellulose,carboxymethyl cellulose,0.23076923076923078
+polylactic acid,electrospinning,0.0963855421686747
+polyvinylpyrrolidone,carboxymethyl cellulose,0.1282051282051282
+epichlorohydrin,carboxymethyl cellulose,0.14492753623188406
+biodegradable polymer,biocompatibility,0.12345679012345678
+sodium hydroxide,carboxymethyl cellulose,0.21678321678321677
+vinyl alcohol,polyvinyl alcohol,0.16312056737588654
+vinyl alcohol,carboxymethyl cellulose,0.18439716312056736
+biocompatible material,biocompatibility,0.1267123287671233
+swelling capacity,carboxymethyl cellulose,0.25925925925925924
+coacervate,carboxymethyl cellulose,0.09375
+shear thinning,carboxymethyl cellulose,0.09655172413793103
+thermal stability,carboxymethyl cellulose,0.1648148148148148
+pickering emulsion,carboxymethyl cellulose,0.13636363636363635
+polyvinyl alcohol,carboxymethyl cellulose,0.20386266094420602
+gelatin,carboxymethyl cellulose,0.11716621253405994
+environmental pollution,environmentally friendly,0.10204081632653061
+biomaterial,biocompatibility,0.152
+mtt assay,viability assay,0.1044776119402985
+electrospinning,biocompatibility,0.09417040358744394
+dispersity,zeta potential,0.14107883817427386
+natural polymers,biocompatibility,0.18072289156626506
+bentonite,carboxymethyl cellulose,0.13114754098360656
+guar gum,carboxymethyl cellulose,0.0989010989010989
+wound dressing,biocompatibility,0.14367816091954022
+filtration (mathematics),carboxymethyl cellulose,0.10112359550561797
+thermogravimetric analysis,thermal stability,0.09848484848484848
+thermogravimetric analysis,carboxymethyl cellulose,0.1414141414141414
+glutaraldehyde,carboxymethyl cellulose,0.15053763440860216
+active packaging,carboxymethyl cellulose,0.13270142180094788
+cellulose fiber,carboxymethyl cellulose,0.16129032258064516
+polyacrylic acid,carboxymethyl cellulose,0.14444444444444443
+ingredient,carboxymethyl cellulose,0.10144927536231885
+biopolymer,carboxymethyl cellulose,0.11282051282051282
+silver nanoparticle,carboxymethyl cellulose,0.1358695652173913

@@ -1,0 +1,33 @@
+from,to,weight
+picosecond,nanosecond,0.08074534161490683
+specific surface area,carbon fibers,0.08620689655172414
+molar absorptivity,ellipsometry,0.10869565217391304
+pulsed laser deposition,deposition,0.22549019607843138
+pulsed laser deposition,nanocrystalline material,0.06862745098039216
+saturable absorption,pulse duration,0.10679611650485436
+chemical mechanical planarization,particle (ecology),0.14285714285714285
+nanocrystalline material,pulsed laser deposition,0.07142857142857142
+rutile,titanium dioxide,0.0975609756097561
+self-phase modulation,pulse compression,0.18604651162790697
+self-phase modulation,supercontinuum,0.09302325581395349
+biocompatibility,surface modification,0.09411764705882353
+amorphous carbon,carbon fibers,0.3333333333333333
+amorphous carbon,deposition,0.125
+photodegradation,degradation,0.16279069767441862
+photodegradation,titanium dioxide,0.08139534883720931
+photodegradation,visible spectrum,0.06976744186046512
+titanium dioxide,rutile,0.06896551724137931
+electron mobility,charge carrier,0.0975609756097561
+morphology,deposition,0.08196721311475409
+photocathode,photocurrent,0.125
+charge carrier,electron mobility,0.07547169811320754
+supercontinuum,filamentation,0.09615384615384616
+supercontinuum,self-phase modulation,0.07692307692307693
+filamentation,supercontinuum,0.13513513513513514
+thermogravimetric analysis,thermal stability,0.11214953271028037
+optical coating,deposition,0.10144927536231885
+optical coating,anti-reflective coating,0.11594202898550725
+anti-reflective coating,optical coating,0.12698412698412698
+pulse compression,self-phase modulation,0.1523809523809524
+pulse compression,pulse duration,0.0761904761904762
+indentation,characterization,0.0948905109489051

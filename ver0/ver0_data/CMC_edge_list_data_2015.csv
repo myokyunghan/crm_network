@@ -1,0 +1,50 @@
+from,to,weight
+bacterial cellulose,carboxymethyl cellulose,0.12
+methyl cellulose,carboxymethyl cellulose,0.2032520325203252
+ammonium bromide,cationic polymerization,0.16835016835016836
+ammonium bromide,sodium dodecyl sulfate,0.09427609427609428
+langmuir adsorption model,carboxymethyl cellulose,0.0851063829787234
+langmuir adsorption model,cationic polymerization,0.10638297872340426
+hydrophobic effect,cationic polymerization,0.07792207792207792
+methylene blue,langmuir adsorption model,0.11956521739130435
+methylene blue,cationic polymerization,0.10869565217391304
+methylene blue,carboxymethyl cellulose,0.10869565217391304
+lignocellulosic biomass,enzymatic hydrolysis,0.08156028368794327
+side chain,cationic polymerization,0.09433962264150944
+acrylic acid,carboxymethyl cellulose,0.09574468085106383
+amide,cationic polymerization,0.10476190476190476
+biocompatible material,biocompatibility,0.125
+epichlorohydrin,carboxymethyl cellulose,0.08791208791208792
+epichlorohydrin,cationic polymerization,0.10989010989010989
+sodium hydroxide,carboxymethyl cellulose,0.10810810810810811
+vinyl alcohol,carboxymethyl cellulose,0.09345794392523364
+vinyl alcohol,polyvinyl alcohol,0.1308411214953271
+surface charge,zeta potential,0.14285714285714285
+distilled water,carboxymethyl cellulose,0.08661417322834646
+aggregation number,thermodynamics of micellization,0.15228426395939088
+aggregation number,cationic polymerization,0.11421319796954314
+hydrodynamic radius,aggregation number,0.10752688172043011
+thermal stability,thermogravimetric analysis,0.10096153846153846
+polyvinyl alcohol,carboxymethyl cellulose,0.1299638989169675
+micellar solutions,aggregation number,0.10215053763440861
+micellar solutions,cationic polymerization,0.11827956989247312
+gelatin,carboxymethyl cellulose,0.0872093023255814
+hemicellulose,lignocellulosic biomass,0.0972972972972973
+cellulosic ethanol,lignocellulosic biomass,0.07723577235772358
+dispersity,zeta potential,0.11428571428571428
+bentonite,carboxymethyl cellulose,0.10204081632653061
+filtration (mathematics),bentonite,0.07874015748031496
+guar gum,carboxymethyl cellulose,0.0967741935483871
+thermogravimetric analysis,thermal stability,0.11140583554376658
+thermogravimetric analysis,carboxymethyl cellulose,0.08488063660477453
+enzymatic hydrolysis,lignocellulosic biomass,0.09126984126984126
+glutaraldehyde,carboxymethyl cellulose,0.12371134020618557
+cellulose fiber,cellulosic ethanol,0.1
+cellulose fiber,carboxymethyl cellulose,0.12727272727272726
+polyacrylic acid,carboxymethyl cellulose,0.12727272727272726
+polyacrylic acid,acrylic acid,0.08181818181818182
+nanocellulose,carboxymethyl cellulose,0.07741935483870968
+biopolymer,carboxymethyl cellulose,0.108
+thermodynamics of micellization,aggregation number,0.16483516483516483
+thermodynamics of micellization,cationic polymerization,0.1346153846153846
+silver nanoparticle,carboxymethyl cellulose,0.08888888888888889

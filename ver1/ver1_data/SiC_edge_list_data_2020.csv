@@ -1,0 +1,78 @@
+from,to,weight
+depiction,representation,0.0670391061452514
+cicero,argument (complex analysis),0.056451612903225805
+empirical evidence,empirical research,0.1070110701107011
+empirical evidence,sample (material),0.06273062730627306
+public space,pandemic,0.061855670103092786
+metal matrix composite,matrix (chemical analysis),0.15948275862068967
+metal matrix composite,particle (ecology),0.052801724137931036
+metal matrix composite,powder metallurgy,0.05603448275862069
+cult,worship,0.05172413793103448
+intersectionality,oppression,0.047244094488188976
+certainty,skepticism,0.06315789473684211
+reign,emperor,0.07913669064748201
+nanomaterials,carbon fibers,0.05627705627705628
+earnings management,sample (material),0.08018867924528301
+earnings management,endogeneity,0.04716981132075472
+vickers hardness test,spark plasma sintering,0.06655844155844155
+elongation,ductility (earth science),0.09840425531914894
+elongation,tensile testing,0.06382978723404255
+energy-dispersive x-ray spectroscopy,biocompatibility,0.04700854700854701
+friction stir processing,metal matrix composite,0.0472636815920398
+brittleness,ductility (earth science),0.047910295616717634
+exploratory research,thematic analysis,0.08032128514056225
+the symbolic,symbol (formal),0.056074766355140186
+the symbolic,representation,0.056074766355140186
+particle (ecology),volume fraction,0.04757709251101322
+indentation,brittleness,0.050156739811912224
+indentation,vickers hardness test,0.07523510971786834
+volume fraction,particle (ecology),0.07814761215629522
+structural material,ceramic matrix composite,0.04743083003952569
+isolation,pandemic,0.10052910052910052
+resilience,pandemic,0.09259259259259259
+worship,cult,0.05844155844155844
+ceramic matrix composite,matrix (chemical analysis),0.09749670619235837
+reflexivity,thematic analysis,0.1016260162601626
+boron carbide,metal matrix composite,0.06712962962962964
+thematic analysis,pandemic,0.046811945117029866
+articulation (sociology),representation,0.05309734513274336
+causality,consumption,0.07777777777777778
+causality,investment,0.06666666666666667
+titanium alloy,biocompatibility,0.05238649592549476
+surface modification,biocompatibility,0.06959152798789713
+powder metallurgy,metal matrix composite,0.08934707903780069
+tensile testing,ductility (earth science),0.047619047619047616
+tensile testing,elongation,0.06349206349206349
+pandemic,2019-20 coronavirus outbreak,0.11942098914354644
+delamination,abrasion (mechanical),0.07394366197183098
+thermogravimetric analysis,thermal stability,0.11337209302325581
+thermogravimetric analysis,carbon fibers,0.05232558139534884
+openness to experience,investment,0.06048387096774194
+spark plasma sintering,vickers hardness test,0.07008547008547009
+globe,pandemic,0.0514018691588785
+qualitative property,thematic analysis,0.12903225806451613
+2019-20 coronavirus outbreak,pandemic,0.3431542461005199
+mergers and acquisitions,sample (material),0.07236842105263158
+mergers and acquisitions,value (mathematics),0.09210526315789473
+mergers and acquisitions,stock (firearms),0.06578947368421052
+endogeneity,investment,0.06028368794326241
+endogeneity,sample (material),0.07092198581560284
+thermal stability,thermogravimetric analysis,0.0703971119133574
+empirical research,empirical evidence,0.07837837837837838
+skepticism,argument (complex analysis),0.05
+biocompatibility,surface modification,0.09330628803245436
+biocompatibility,titanium alloy,0.09127789046653144
+ductility (earth science),elongation,0.049597855227882036
+ductility (earth science),brittleness,0.06300268096514745
+equity,stock (firearms),0.05142857142857143
+vulnerability,pandemic,0.04814814814814815
+conceptual framework,empirical research,0.04861111111111111
+machinability,metal matrix composite,0.07880434782608696
+carbon steel,carbon fibers,0.13778705636743216
+disadvantaged,thematic analysis,0.059322033898305086
+selective laser melting,titanium alloy,0.099644128113879
+selective laser melting,ductility (earth science),0.07473309608540925
+matrix (chemical analysis),metal matrix composite,0.14382896015549076
+matrix (chemical analysis),ceramic matrix composite,0.07191448007774538
+mindset,value (mathematics),0.06451612903225806
+capital (architecture),investment,0.052941176470588235

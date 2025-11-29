@@ -1,0 +1,58 @@
+from,to,weight
+stoichiometry,carbon fibers,0.07954545454545454
+rake,rake angle,0.15025906735751296
+rake,cutting tool,0.12953367875647667
+flank,cutting tool,0.1694915254237288
+inconel,machinability,0.09036144578313253
+inert gas,carbon fibers,0.08974358974358974
+design of experiments,orthogonal array,0.1813186813186813
+design of experiments,electrical discharge machining,0.19230769230769232
+tempering,hardening (computing),0.08695652173913043
+tempering,high speed steel,0.13043478260869565
+surface integrity,electrical discharge machining,0.10655737704918032
+metal matrix composite,matrix (chemical analysis),0.12025316455696203
+metal matrix composite,electrical discharge machining,0.11392405063291139
+machine tool,cutting tool,0.16304347826086957
+fatigue limit,diamond-like carbon,0.08064516129032258
+end mill,cutting tool,0.11304347826086956
+end mill,ball (mathematics),0.10434782608695652
+adhesive wear,cemented carbide,0.09090909090909091
+end milling,ball (mathematics),0.13095238095238096
+polycrystalline diamond,diamond tool,0.10416666666666667
+polycrystalline diamond,electrical discharge machining,0.08333333333333333
+diamond-like carbon,carbon fibers,0.2833333333333333
+brazing,cemented carbide,0.16666666666666666
+orthogonal array,design of experiments,0.1774193548387097
+orthogonal array,electrical discharge machining,0.1774193548387097
+orthogonal array,grey relational analysis,0.0913978494623656
+hot pressing,vickers hardness test,0.1079136690647482
+breakage,cemented carbide,0.0784313725490196
+diamond tool,cutting tool,0.08461538461538462
+grey relational analysis,orthogonal array,0.20987654320987653
+grey relational analysis,design of experiments,0.14814814814814814
+grey relational analysis,electrical discharge machining,0.13580246913580246
+diamond grinding,surface integrity,0.09482758620689655
+diamond grinding,electrical discharge machining,0.13793103448275862
+diamond grinding,brittleness,0.08620689655172414
+tensile testing,indentation,0.10294117647058823
+insert (composites),cutting tool,0.10185185185185185
+volume fraction,particle (ecology),0.08450704225352113
+cemented carbide,cutting tool,0.08189655172413793
+hardened steel,cutting tool,0.12903225806451613
+physical vapor deposition,cutting tool,0.09090909090909091
+physical vapor deposition,deposition,0.1919191919191919
+rake angle,rake,0.17791411042944785
+friction stir processing,friction stir welding,0.125
+coefficient of friction,ball (mathematics),0.08333333333333333
+spark plasma sintering,nanocrystalline material,0.07906976744186046
+austenitic stainless steel,machinability,0.09574468085106383
+relative density,powder metallurgy,0.08823529411764706
+relative density,spark plasma sintering,0.11029411764705882
+brass,electrical discharge machining,0.17391304347826086
+spall,cemented carbide,0.11363636363636363
+carbon steel,carbon fibers,0.15748031496062992
+vickers hardness test,indentation,0.0797872340425532
+vickers hardness test,hot pressing,0.0797872340425532
+machinability,titanium alloy,0.09705882352941177
+chip formation,titanium alloy,0.12093023255813953
+flow stress,chip formation,0.10526315789473684

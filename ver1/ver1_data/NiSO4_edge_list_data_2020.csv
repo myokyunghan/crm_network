@@ -1,0 +1,37 @@
+from,to,weight
+electroless nickel plating,plating (geology),0.35294117647058826
+nanodiamond,plating (geology),0.5
+galvanic anode,plating (geology),0.4
+electrophoretic deposition,deposition,0.5
+mass transport,deposition,1.0
+carboxylate,deposition,0.5
+volt,plating (geology),1.0
+exfoliation joint,carbon fibers,0.5
+exfoliation joint,thermogravimetric analysis,0.5
+overpotential,oxygen evolution,0.36363636363636365
+nitrobenzene,nickel sulfide,0.5
+nitrobenzene,carbon fibers,0.5
+shear strength,plating (geology),0.5
+adhesive bonding,plating (geology),1.0
+quantum yield,carbon fibers,0.5
+quantum yield,degradation,0.5
+carbon quantum dots,carbon fibers,0.5
+carbon quantum dots,degradation,0.5
+carbon footprint,carbon fibers,0.42857142857142855
+induction heating,plating (geology),0.5
+electric heating,plating (geology),0.5
+bagasse,langmuir adsorption model,0.5
+bagasse,non-blocking i/o,0.5
+polycarbonate,chronoamperometry,0.5
+polycarbonate,deposition,0.5
+sample (material),deposition,0.5
+high-entropy alloys,deposition,1.0
+indium tin oxide,deposition,1.0
+liquid nitrogen,deposition,0.5
+service life,environmentally friendly,0.5
+service life,deposition,0.5
+sodium carbonate,sodium hydroxide,0.4
+duty cycle,plating (geology),0.5
+mechanical resistance,deposition,1.0
+refractory metals,deposition,0.5
+refractory metals,plating (geology),0.5

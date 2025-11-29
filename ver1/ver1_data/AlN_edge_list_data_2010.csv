@@ -1,0 +1,105 @@
+from,to,weight
+band bending,quantum efficiency,0.1111111111111111
+band bending,wide-bandgap semiconductor,0.2
+band bending,band offset,0.13333333333333333
+hydrostatic equilibrium,hydrostatic pressure,0.3448275862068966
+saturation current,saturation (graph theory),0.10256410256410256
+saturation current,transconductance,0.14102564102564102
+saturation current,passivation,0.10256410256410256
+lattice constant,lattice (music),0.17482517482517482
+saturation (graph theory),saturation current,0.10666666666666667
+linearity,photodiode,0.11764705882352941
+surface states,density of states,0.11363636363636363
+surface states,wide-bandgap semiconductor,0.18181818181818182
+cathodoluminescence,wide-bandgap semiconductor,0.13615023474178403
+transconductance,wide-bandgap semiconductor,0.10196078431372549
+transconductance,electron mobility,0.13725490196078433
+ellipsometry,wurtzite crystal structure,0.10465116279069768
+hillock,cathodoluminescence,0.20833333333333334
+band diagram,wide-bandgap semiconductor,0.25
+band diagram,band offset,0.14285714285714285
+sublimation,crystal (programming language),0.1276595744680851
+wurtzite crystal structure,wide-bandgap semiconductor,0.11259259259259259
+light emission,wide-bandgap semiconductor,0.21212121212121213
+laser linewidth,wide-bandgap semiconductor,0.11392405063291139
+photocurrent,photoconductivity,0.12612612612612611
+photocurrent,ultraviolet,0.11711711711711711
+photocurrent,wide-bandgap semiconductor,0.10810810810810811
+template,ultraviolet,0.11494252873563218
+indium nitride,wide-bandgap semiconductor,0.17
+indium nitride,wurtzite crystal structure,0.18
+barrier layer,wide-bandgap semiconductor,0.16939890710382513
+hydrostatic pressure,hydrostatic equilibrium,0.14285714285714285
+hydrostatic pressure,wurtzite crystal structure,0.2
+ohmic contact,contact resistance,0.1717557251908397
+ohmic contact,wide-bandgap semiconductor,0.11068702290076336
+stacking fault,cathodoluminescence,0.10344827586206896
+auger electron spectroscopy,wurtzite crystal structure,0.11538461538461539
+strain (injury),wide-bandgap semiconductor,0.14634146341463414
+etch pit density,crystal (programming language),0.12
+cavity magnetron,deposition,0.20754716981132076
+photoelectric effect,photocurrent,0.17391304347826086
+blueshift,wide-bandgap semiconductor,0.17391304347826086
+emission intensity,wide-bandgap semiconductor,0.13793103448275862
+polarity (international relations),wide-bandgap semiconductor,0.12658227848101267
+polarity (international relations),deposition,0.10126582278481013
+magnetic semiconductor,wide-bandgap semiconductor,0.10227272727272728
+magnetic semiconductor,wurtzite crystal structure,0.10227272727272728
+mosaicity,lattice (music),0.11764705882352941
+quantum efficiency,wide-bandgap semiconductor,0.15426997245179064
+quantum efficiency,ultraviolet,0.19008264462809918
+rod,nanorod,0.21428571428571427
+carbothermic reaction,carbon fibers,0.18867924528301888
+carbothermic reaction,sialon,0.2169811320754717
+deep-level transient spectroscopy,wide-bandgap semiconductor,0.1896551724137931
+degradation,wide-bandgap semiconductor,0.1978021978021978
+leakage (economics),wide-bandgap semiconductor,0.1471861471861472
+contact resistance,wide-bandgap semiconductor,0.1076923076923077
+contact resistance,ohmic contact,0.34615384615384615
+phonon scattering,electron mobility,0.21348314606741572
+phonon scattering,wide-bandgap semiconductor,0.15730337078651685
+pulsed laser deposition,deposition,0.28125
+coalescence (physics),cathodoluminescence,0.10526315789473684
+pseudopotential,wurtzite crystal structure,0.12903225806451613
+pseudopotential,lattice (music),0.11290322580645161
+band offset,wide-bandgap semiconductor,0.2916666666666667
+band offset,band bending,0.125
+band offset,wurtzite crystal structure,0.10416666666666667
+lattice (music),lattice constant,0.16286644951140064
+density of states,wurtzite crystal structure,0.12857142857142856
+quantum-confined stark effect,wide-bandgap semiconductor,0.21518987341772153
+oscillation (cell signaling),transconductance,0.14705882352941177
+oscillation (cell signaling),cutoff frequency,0.12745098039215685
+carrier lifetime,wide-bandgap semiconductor,0.14
+ultraviolet,wide-bandgap semiconductor,0.1752767527675277
+ultraviolet,quantum efficiency,0.12730627306273062
+sialon,carbothermic reaction,0.12169312169312169
+high-κ dielectric,passivation,0.11864406779661017
+cladding (metalworking),ultraviolet,0.16071428571428573
+indium gallium nitride,wide-bandgap semiconductor,0.23423423423423423
+spinodal decomposition,thermal stability,0.11475409836065574
+acceptor,wide-bandgap semiconductor,0.13114754098360656
+buffer (optical fiber),wide-bandgap semiconductor,0.14166666666666666
+active layer,wide-bandgap semiconductor,0.12903225806451613
+active layer,quantum efficiency,0.16129032258064516
+active layer,ultraviolet,0.14516129032258066
+charge density,wide-bandgap semiconductor,0.11764705882352941
+stress relaxation,strain (injury),0.17543859649122806
+monoclinic crystal system,metastability,0.1111111111111111
+electron mobility,wide-bandgap semiconductor,0.2686230248306998
+photoluminescence excitation,wide-bandgap semiconductor,0.14285714285714285
+photoluminescence excitation,sialon,0.10714285714285714
+debye model,lattice constant,0.11764705882352941
+facet (psychology),crystal (programming language),0.13636363636363635
+photodiode,ultraviolet,0.10982658959537572
+photoconductivity,ultraviolet,0.1518987341772152
+photoconductivity,photocurrent,0.17721518987341772
+reverse leakage current,wide-bandgap semiconductor,0.12658227848101267
+reverse leakage current,leakage (economics),0.2911392405063291
+cutoff frequency,transconductance,0.26595744680851063
+cutoff frequency,oscillation (cell signaling),0.13829787234042554
+hamiltonian (control theory),wurtzite crystal structure,0.15555555555555556
+mole fraction,lattice constant,0.125
+temperature coefficient,electromechanical coupling coefficient,0.11290322580645161
+temperature coefficient,atmospheric temperature range,0.16129032258064516
+charge carrier,wide-bandgap semiconductor,0.13559322033898305

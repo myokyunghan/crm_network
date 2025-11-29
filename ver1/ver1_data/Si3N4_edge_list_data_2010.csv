@@ -1,0 +1,64 @@
+from,to,weight
+charge carrier,carrier lifetime,0.14893617021276595
+surface charge,nanopore,0.08227848101265822
+trap (plumbing),flash memory,0.1
+trap (plumbing),non-volatile memory,0.15454545454545454
+q factor,waveguide,0.08843537414965986
+ellipsometry,deposition,0.09166666666666666
+micrometer,nanometre,0.09734513274336283
+nanocrystalline material,nanocrystalline silicon,0.09523809523809523
+surface force,surface forces apparatus,0.1744186046511628
+surface force,force spectroscopy,0.08139534883720931
+layer by layer,deposition,0.09722222222222222
+nanocrystalline silicon,passivation,0.13496932515337423
+nanocrystalline silicon,nanocrystalline material,0.09815950920245399
+titanium dioxide,silicon dioxide,0.1111111111111111
+high-κ dielectric,non-volatile memory,0.09929078014184398
+suspension,particle (ecology),0.125
+nanophotonics,waveguide,0.08333333333333333
+surface forces apparatus,surface force,0.17647058823529413
+surface forces apparatus,force spectroscopy,0.1411764705882353
+passivation,carrier lifetime,0.07681564245810056
+plasma etching,dry etching,0.14814814814814814
+plasma etching,photoresist,0.09876543209876543
+chemical stability,surface modification,0.08108108108108109
+self-assembled monolayer,surface modification,0.09836065573770492
+locos,hybrid silicon laser,0.0963855421686747
+locos,strained silicon,0.13253012048192772
+locos,silicon oxide,0.12048192771084337
+locos,nanocrystalline silicon,0.0963855421686747
+triethoxysilane,deposition,0.0967741935483871
+triethoxysilane,biomolecule,0.0967741935483871
+cladding (metalworking),waveguide,0.2440944881889764
+nanoporous,nanopore,0.2109375
+open-circuit voltage,passivation,0.189873417721519
+photoconductivity,ultraviolet,0.078125
+photoconductivity,photocurrent,0.140625
+contact resistance,ohmic contact,0.10144927536231885
+hybrid silicon laser,waveguide,0.13846153846153847
+nanosensor,nanopore,0.10204081632653061
+nanosensor,biomolecule,0.10204081632653061
+ohmic contact,contact resistance,0.14
+flash memory,non-volatile memory,0.2620689655172414
+plasmonic solar cell,photocurrent,0.08450704225352113
+nanofluidics,surface charge,0.11594202898550725
+nanofluidics,nanopore,0.10144927536231885
+carrier lifetime,passivation,0.22267206477732793
+silicon nanowires,passivation,0.0784313725490196
+silicon nanowires,piezoresistive effect,0.0784313725490196
+nanomechanics,nanoelectromechanical systems,0.07766990291262135
+laser ablation,passivation,0.14285714285714285
+scanning probe microscopy,nanometre,0.10185185185185185
+scanning probe microscopy,characterization,0.12037037037037036
+anti-reflective coating,passivation,0.10476190476190476
+isotropic etching,dry etching,0.10344827586206896
+wide-bandgap semiconductor,passivation,0.1048951048951049
+strained silicon,locos,0.14473684210526316
+strained silicon,hybrid silicon laser,0.07894736842105263
+strained silicon,nanocrystalline silicon,0.14473684210526316
+biomolecule,nanopore,0.09818181818181818
+morphology,deposition,0.07971014492753623
+dangling bond,passivation,0.1511627906976744
+non-volatile memory,flash memory,0.17117117117117117
+dry etching,isotropic etching,0.08391608391608392
+dry etching,plasma etching,0.08391608391608392

@@ -1,0 +1,113 @@
+from,to,weight
+chemical bath deposition,deposition,0.2391304347826087
+chemical bath deposition,non-blocking i/o,0.13043478260869565
+rational design,oxygen evolution,0.14285714285714285
+laser ablation,non-blocking i/o,0.2222222222222222
+exchange current density,overpotential,0.17647058823529413
+fluorine,overpotential,0.13333333333333333
+fluorine,oxygen evolution,0.13333333333333333
+solvothermal synthesis,carbon fibers,0.14285714285714285
+solvothermal synthesis,oxygen evolution,0.14285714285714285
+solvothermal synthesis,pseudocapacitor,0.14285714285714285
+direct-ethanol fuel cell,carbon fibers,0.16666666666666666
+cobalt sulfide,nickel sulfide,0.19047619047619047
+photocathode,photocurrent,0.17647058823529413
+morphology,non-blocking i/o,0.175
+photoelectrochemical cell,photoelectrochemistry,0.22857142857142856
+visible spectrum,non-blocking i/o,0.125
+energy density,power density,0.18181818181818182
+hexamethylenetetramine,hydrothermal synthesis,0.15
+hexamethylenetetramine,non-blocking i/o,0.15
+hexamethylenetetramine,nanosheet,0.15
+bimetallic strip,oxygen evolution,0.12987012987012986
+alkaline water electrolysis,electrolysis of water,0.24539877300613497
+alkaline water electrolysis,oxygen evolution,0.20245398773006135
+glassy carbon,carbon fibers,0.25
+solar fuel,oxygen evolution,0.15
+non-blocking i/o,nickel oxide,0.1568627450980392
+electrochemical gas sensor,amperometry,0.14545454545454545
+prussian blue,oxygen evolution,0.16666666666666666
+zinc hydroxide,metal hydroxide,0.1875
+zinc hydroxide,separator (oil production),0.125
+absorption edge,non-blocking i/o,0.125
+absorption edge,nickel oxide,0.125
+absorption edge,xanes,0.125
+stoichiometry,non-blocking i/o,0.16
+cobalt oxide,nickel oxide,0.14473684210526316
+honeycomb,carbon fibers,0.15384615384615385
+honeycomb,power density,0.15384615384615385
+heteroatom,oxygen evolution,0.13157894736842105
+heteroatom,carbon fibers,0.13157894736842105
+electrospinning,carbon fibers,0.13333333333333333
+bet theory,langmuir adsorption model,0.15384615384615385
+layered double hydroxides,oxygen evolution,0.16923076923076924
+graphite oxide,nanomaterials,0.18181818181818182
+graphite oxide,exfoliation joint,0.18181818181818182
+bifunctional catalyst,oxygen evolution,0.3142857142857143
+bifunctional catalyst,overpotential,0.22857142857142856
+galvanic cell,oxygen evolution,0.125
+galvanic cell,plating (geology),0.125
+photocurrent,oxygen evolution,0.13186813186813187
+photoelectrochemistry,photoelectrochemical cell,0.1568627450980392
+photoelectrochemistry,photocurrent,0.17647058823529413
+electrochemical energy storage,electrochemical energy conversion,0.2727272727272727
+x-ray absorption spectroscopy,oxygen evolution,0.23684210526315788
+x-ray absorption spectroscopy,overpotential,0.13157894736842105
+carbon nitride,carbon fibers,0.25925925925925924
+carbon nitride,graphitic carbon nitride,0.25925925925925924
+overlayer,oxygen evolution,0.16666666666666666
+phosphide,oxygen evolution,0.17692307692307693
+phosphide,overpotential,0.15384615384615385
+nanocages,oxygen evolution,0.22857142857142856
+nickel oxide,non-blocking i/o,0.2880886426592798
+lithium–sulfur battery,carbon fibers,0.19047619047619047
+hybrid material,layered double hydroxides,0.16666666666666666
+energy transformation,electrochemical energy conversion,0.2127659574468085
+oxygen evolution,overpotential,0.23549107142857142
+amperometry,electrochemical gas sensor,0.13114754098360656
+differential pulse voltammetry,electrochemical gas sensor,0.16666666666666666
+pseudocapacitance,pseudocapacitor,0.15789473684210525
+pseudocapacitance,non-blocking i/o,0.18421052631578946
+potassium hydroxide,oxygen evolution,0.125
+potassium hydroxide,overpotential,0.15625
+electrolysis of water,alkaline water electrolysis,0.14388489208633093
+electrolysis of water,overpotential,0.15467625899280577
+electrolysis of water,oxygen evolution,0.2446043165467626
+dispersity,specific surface area,0.16666666666666666
+dispersity,overpotential,0.16666666666666666
+dispersity,nanoclusters,0.16666666666666666
+dispersity,oxygen evolution,0.16666666666666666
+dispersity,surface modification,0.16666666666666666
+dispersity,non-blocking i/o,0.16666666666666666
+nanocrystalline material,non-blocking i/o,0.12698412698412698
+overpotential,oxygen evolution,0.3296875
+electrosynthesis,nanomaterials,0.16666666666666666
+oleylamine,oxygen evolution,0.2
+oleylamine,noble metal,0.2
+selenide,overpotential,0.13513513513513514
+selenide,oxygen evolution,0.1891891891891892
+bimetal,bimetallic strip,0.13513513513513514
+noble metal,overpotential,0.1360544217687075
+noble metal,oxygen evolution,0.16326530612244897
+nanometre,nanomaterials,0.17647058823529413
+specific energy,carbon fibers,0.15384615384615385
+electrophoretic deposition,non-blocking i/o,0.14634146341463414
+nanochemistry,non-blocking i/o,0.16666666666666666
+photocatalytic water splitting,visible spectrum,0.16666666666666666
+photocatalytic water splitting,non-blocking i/o,0.16666666666666666
+photocatalytic water splitting,oxygen evolution,0.125
+current collector,non-blocking i/o,0.2
+nanoclusters,oxygen evolution,0.19444444444444445
+nanoclusters,overpotential,0.1388888888888889
+anodizing,non-blocking i/o,0.21052631578947367
+vanadium oxide,nickel oxide,0.2
+ammonia borane,bimetallic strip,0.13333333333333333
+nickel sulfide,oxygen evolution,0.14583333333333334
+nickel sulfide,overpotential,0.20833333333333334
+electrochemical energy conversion,electrochemical energy storage,0.23863636363636365
+electrochromic devices,non-blocking i/o,0.16666666666666666
+carbon dioxide reforming,thermogravimetric analysis,0.125
+graphitic carbon nitride,carbon nitride,0.20588235294117646
+graphitic carbon nitride,visible spectrum,0.14705882352941177
+methylene blue,visible spectrum,0.14285714285714285
+nanomaterial-based catalyst,bimetallic strip,0.13725490196078433

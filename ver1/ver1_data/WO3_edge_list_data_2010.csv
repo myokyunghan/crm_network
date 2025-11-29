@@ -1,0 +1,56 @@
+from,to,weight
+titanium oxide,visible spectrum,0.10909090909090909
+orthorhombic crystal system,monoclinic crystal system,0.11702127659574468
+chemical bath deposition,nanorod,0.08695652173913043
+chemical bath deposition,tin oxide,0.08695652173913043
+chemical bath deposition,deposition,0.17391304347826086
+chemical bath deposition,monoclinic crystal system,0.08695652173913043
+chemical bath deposition,photocurrent,0.08695652173913043
+tungstate,sodium tungstate,0.1198501872659176
+tungsten carbide,carbon fibers,0.1504424778761062
+bet theory,specific surface area,0.2
+photoelectrochemical cell,photoelectrochemistry,0.15384615384615385
+photoelectrochemical cell,photocurrent,0.2153846153846154
+anodizing,photocurrent,0.13541666666666666
+anodizing,nanoporous,0.09375
+pulsed laser deposition,deposition,0.32727272727272727
+pulsed laser deposition,nanorod,0.10909090909090909
+methyl orange,visible spectrum,0.0958904109589041
+methyl orange,photodegradation,0.0958904109589041
+methyl orange,degradation,0.0958904109589041
+hydrothermal synthesis,nanorod,0.11594202898550725
+thermogravimetric analysis,thermal stability,0.1388888888888889
+spin coating,monoclinic crystal system,0.08823529411764706
+spin coating,electrochromic devices,0.08823529411764706
+photodegradation,degradation,0.09574468085106383
+photodegradation,visible spectrum,0.09574468085106383
+indium tin oxide,electrochromic devices,0.13392857142857142
+indium tin oxide,tin oxide,0.09821428571428571
+tin oxide,electrochromic devices,0.11818181818181818
+tin oxide,indium tin oxide,0.1
+thermal stability,thermogravimetric analysis,0.09433962264150944
+oxygen evolution,photoelectrochemistry,0.09230769230769231
+oxygen evolution,photocurrent,0.15384615384615385
+carbon fibers,tungsten carbide,0.09340659340659341
+morphology,nanorod,0.12121212121212122
+hybrid material,electrochromic devices,0.09375
+nanoporous,anodizing,0.12857142857142856
+degradation,visible spectrum,0.0847457627118644
+photocurrent,photoelectrochemistry,0.08860759493670886
+sodium tungstate,tungstate,0.25396825396825395
+photoelectrochemistry,photoelectrochemical cell,0.10101010101010101
+photoelectrochemistry,photocurrent,0.21212121212121213
+rutile,visible spectrum,0.11627906976744186
+nanometre,nanomaterials,0.15384615384615385
+methylene blue,degradation,0.11940298507462686
+methylene blue,visible spectrum,0.14925373134328357
+methylene blue,photodegradation,0.08955223880597014
+bismuth,tungstate,0.10256410256410256
+tetragonal crystal system,monoclinic crystal system,0.1346153846153846
+specific surface area,bet theory,0.10204081632653061
+mesoporous organosilica,cationic polymerization,0.08333333333333333
+mesoporous organosilica,tungstate,0.08333333333333333
+rhodamine b,visible spectrum,0.1
+rhodamine b,degradation,0.12857142857142856
+rhodamine b,photodegradation,0.08571428571428572
+titanium dioxide,visible spectrum,0.10975609756097561

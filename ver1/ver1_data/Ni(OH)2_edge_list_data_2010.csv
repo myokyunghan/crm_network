@@ -1,0 +1,60 @@
+from,to,weight
+nanopore,non-blocking i/o,0.2727272727272727
+polyvinyl alcohol,non-blocking i/o,0.2222222222222222
+indium tin oxide,nickel oxide,0.16666666666666666
+indium tin oxide,non-blocking i/o,0.16666666666666666
+nickel oxide,non-blocking i/o,0.31095406360424027
+tin oxide,nickel oxide,0.16279069767441862
+tin oxide,non-blocking i/o,0.16279069767441862
+energy transformation,electrochemical energy conversion,0.21739130434782608
+amperometry,non-blocking i/o,0.19047619047619047
+oxygen evolution,overpotential,0.1724137931034483
+colloidal crystal,non-blocking i/o,0.2
+colloidal crystal,deposition,0.2
+auxiliary electrode,non-blocking i/o,0.2222222222222222
+hydrothermal synthesis,non-blocking i/o,0.18055555555555555
+potassium hydroxide,passivation,0.18181818181818182
+nanocrystalline material,non-blocking i/o,0.17073170731707318
+photoelectrochemical cell,photoelectrochemistry,0.16666666666666666
+overpotential,oxygen evolution,0.28846153846153844
+thermogravimetric analysis,non-blocking i/o,0.21739130434782608
+specific surface area,non-blocking i/o,0.19767441860465115
+differential thermal analysis,non-blocking i/o,0.25
+differential thermal analysis,thermogravimetric analysis,0.25
+oxalic acid,nickel oxide,0.15384615384615385
+ultraviolet,non-blocking i/o,0.19047619047619047
+methyl orange,non-blocking i/o,0.16666666666666666
+methyl orange,nickel oxide,0.16666666666666666
+nanoflower,non-blocking i/o,0.2
+nanosheet,non-blocking i/o,0.2
+plating (geology),deposition,0.16216216216216217
+glassy carbon,carbon fibers,0.17391304347826086
+glassy carbon,chronoamperometry,0.17391304347826086
+saturated calomel electrode,deposition,0.25
+saturated calomel electrode,non-blocking i/o,0.25
+degradation,non-blocking i/o,0.15151515151515152
+nanometre,non-blocking i/o,0.18181818181818182
+non-blocking i/o,nickel oxide,0.17813765182186234
+electrochemical gas sensor,non-blocking i/o,0.25
+coprecipitation,non-blocking i/o,0.16071428571428573
+ammonium bromide,nanomaterials,0.15384615384615385
+ammonium bromide,non-blocking i/o,0.23076923076923078
+hydrothermal carbonization,hydrothermal synthesis,0.16666666666666666
+hydrothermal carbonization,specific surface area,0.16666666666666666
+hydrothermal carbonization,chronoamperometry,0.16666666666666666
+hydrothermal carbonization,non-blocking i/o,0.16666666666666666
+hydrothermal carbonization,nanoporous,0.16666666666666666
+hydrothermal carbonization,carbon fibers,0.16666666666666666
+carbon paste electrode,chronoamperometry,0.2
+electrochemical energy conversion,energy transformation,0.2
+nickel sulfide,nanorod,0.1875
+photodegradation,non-blocking i/o,0.2222222222222222
+electrospinning,non-blocking i/o,0.2857142857142857
+bet theory,specific surface area,0.2
+passivation,non-blocking i/o,0.28
+amorphous carbon,carbon fibers,0.3
+power density,carbon fibers,0.15151515151515152
+electrochromic devices,non-blocking i/o,0.2
+photocurrent,non-blocking i/o,0.1875
+photoelectrochemistry,photocurrent,0.21052631578947367
+electrochemical energy storage,nanomaterials,0.16666666666666666

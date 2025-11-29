@@ -1,0 +1,115 @@
+from,to,weight
+ultramafic rock,peridotite,0.08295964125560538
+methylene blue,degradation,0.058394160583941604
+methylene blue,langmuir adsorption model,0.08759124087591241
+pellet,iron ore,0.05531914893617021
+pellet,slag (welding),0.05531914893617021
+atmospheric temperature range,slag (welding),0.06369426751592357
+ettringite,cementitious,0.11538461538461539
+ettringite,slag (welding),0.09197324414715718
+ettringite,calcium silicate hydrate,0.06020066889632107
+metasomatism,peridotite,0.08877284595300261
+fineness,cementitious,0.0962962962962963
+copper slag,slag (welding),0.32242990654205606
+iron ore,slag (welding),0.07572815533980583
+wollastonite,diopside,0.07641196013289037
+layered double hydroxides,hydrotalcite,0.11822660098522167
+shrinkage,slag (welding),0.0773966578715919
+shrinkage,cementitious,0.08619173262972735
+energy-dispersive x-ray spectroscopy,characterization,0.05660377358490566
+powder diffraction,monoclinic crystal system,0.059602649006622516
+pozzolanic activity,cementitious,0.1367713004484305
+pozzolanic activity,silica fume,0.05829596412556054
+pozzolanic activity,pozzolanic reaction,0.17937219730941703
+calcium silicate hydrate,calcium silicate,0.10178117048346055
+calcium silicate hydrate,cementitious,0.089058524173028
+calcium silicate hydrate,slag (welding),0.06615776081424936
+calcium silicate hydrate,ettringite,0.0916030534351145
+sodium hydroxide,metakaolin,0.07855626326963906
+sodium hydroxide,slag (welding),0.06369426751592357
+roasting,slag (welding),0.05714285714285714
+ladle,slag (welding),0.23780487804878048
+ladle,refining (metallurgy),0.09146341463414634
+laterite,ferroalloy,0.06938775510204082
+crucible (geodemography),slag (welding),0.1793478260869565
+refractory (planetary science),slag (welding),0.10429447852760736
+differential thermal analysis,thermogravimetric analysis,0.11020408163265306
+differential thermal analysis,thermogravimetry,0.061224489795918366
+alkalinity,slag (welding),0.08070175438596491
+gehlenite,slag (welding),0.11165048543689321
+gehlenite,anorthite,0.06310679611650485
+mass fraction,slag (welding),0.06914893617021277
+red mud,slag (welding),0.0593607305936073
+liquidus,slag (welding),0.11983471074380166
+superplasticizer,cementitious,0.09748427672955975
+superplasticizer,silica fume,0.07232704402515723
+phosphoric acid,phosphogypsum,0.07471264367816093
+refining (metallurgy),slag (welding),0.2978723404255319
+refining (metallurgy),ladle,0.0911854103343465
+properties of concrete,silica fume,0.07050092764378478
+properties of concrete,cementitious,0.07606679035250463
+ductility (earth science),brittleness,0.06606606606606606
+foundry,slag (welding),0.06896551724137931
+industrial waste,environmental pollution,0.05660377358490566
+industrial waste,slag (welding),0.09905660377358491
+environmental pollution,environmentally friendly,0.05785123966942149
+aluminate,cementitious,0.05704697986577181
+aluminate,ettringite,0.08053691275167785
+aluminate,slag (welding),0.087248322147651
+pyroxene,amphibole,0.057391304347826085
+silica fume,cementitious,0.14301801801801803
+silica fume,metakaolin,0.07207207207207207
+surface modification,biocompatibility,0.058394160583941604
+bet theory,langmuir adsorption model,0.07936507936507936
+bet theory,specific surface area,0.1693121693121693
+ilmenite,rutile,0.06276150627615062
+hardening (computing),cementitious,0.06640625
+portlandite,ettringite,0.08882521489971347
+portlandite,pozzolanic reaction,0.06876790830945559
+portlandite,cementitious,0.11174785100286533
+scrap,slag (welding),0.1320754716981132
+scrap,electric arc furnace,0.05660377358490566
+diopside,wollastonite,0.06388888888888888
+sodium carbonate,sodium hydroxide,0.0963855421686747
+sodium carbonate,slag (welding),0.09036144578313253
+carbonatite,metasomatism,0.06278026905829596
+pyrometallurgy,slag (welding),0.1926605504587156
+phosphogypsum,cementitious,0.06930693069306931
+phosphogypsum,slag (welding),0.0594059405940594
+phosphogypsum,phosphoric acid,0.06435643564356436
+specific surface area,bet theory,0.0835509138381201
+specific surface area,carbon fibers,0.07049608355091384
+muscovite,pegmatite,0.12146892655367232
+gibbsite,illite,0.05737704918032787
+oxidizing agent,slag (welding),0.06306306306306306
+agglomerate,particle (ecology),0.06153846153846154
+brittleness,ductility (earth science),0.07096774193548387
+chromite,ultramafic rock,0.08152173913043478
+langmuir adsorption model,thermogravimetric analysis,0.05731225296442688
+magnesium phosphate,biocompatibility,0.055793991416309016
+cementitious,silica fume,0.06001890359168242
+cementitious,slag (welding),0.07655954631379962
+metakaolin,silica fume,0.08121827411167512
+metakaolin,cementitious,0.12436548223350254
+thermal stability,thermogravimetric analysis,0.0827178729689808
+hydrotalcite,layered double hydroxides,0.08823529411764706
+isothermal process,thermogravimetric analysis,0.05995203836930456
+anorthite,slag (welding),0.06422018348623854
+anorthite,gehlenite,0.05963302752293578
+anorthite,wollastonite,0.05963302752293578
+anorthite,diopside,0.06880733944954129
+brucite,portlandite,0.05726872246696035
+pozzolanic reaction,pozzolanic activity,0.17278617710583152
+pozzolanic reaction,cementitious,0.14038876889848811
+calcium silicate,calcium silicate hydrate,0.12779552715654952
+ferroalloy,slag (welding),0.19113573407202217
+electric arc furnace,slag (welding),0.27129337539432175
+phlogopite,peridotite,0.058011049723756904
+phlogopite,amphibole,0.06353591160220995
+phlogopite,metasomatism,0.06353591160220995
+bagasse,husk,0.059880239520958084
+pegmatite,muscovite,0.07706093189964158
+peridotite,ultramafic rock,0.0884109916367981
+peridotite,metasomatism,0.08124253285543608
+rutile,ilmenite,0.1507537688442211
+thermogravimetry,differential thermal analysis,0.06172839506172839

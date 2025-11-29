@@ -1,0 +1,136 @@
+from,to,weight
+boranes,moiety,0.2
+boranes,oxazole,0.13333333333333333
+boranes,annulation,0.13333333333333333
+pyrazole,carboxamide,0.12121212121212122
+gravimetric analysis,separator (oil production),0.0967741935483871
+gravimetric analysis,thermogravimetric analysis,0.0967741935483871
+hemiacetal,diastereomer,0.125
+hemiacetal,aldol reaction,0.125
+hemiacetal,michael reaction,0.125
+hemiacetal,sonication,0.125
+hemiacetal,convergent synthesis,0.125
+hemiacetal,moiety,0.25
+hemiacetal,protecting group,0.125
+carbon skeleton,coupling reaction,0.1
+carbon skeleton,synthon,0.1
+carbon skeleton,natural product,0.1
+carbon skeleton,stereocenter,0.1
+carbon skeleton,trifluoromethanesulfonate,0.1
+carbon skeleton,convergent synthesis,0.1
+carbon skeleton,radical cyclization,0.1
+hydrosilylation,conjugate,0.1
+hydrosilylation,dehydroalanine,0.2
+hydrosilylation,moiety,0.1
+hydrosilylation,alkyne,0.1
+hydrosilylation,alkene,0.1
+hydrosilylation,tripeptide,0.1
+hydrosilylation,peptide synthesis,0.1
+hydrosilylation,alanine,0.1
+fragment (logic),aldol reaction,0.13043478260869565
+fragment (logic),moiety,0.13043478260869565
+dihydroxylation,enantiopure drug,0.10714285714285714
+lithium battery,fast ion conductor,0.11904761904761904
+cyclobutanes,stereocenter,0.18181818181818182
+abcg2,chalcone,0.16666666666666666
+abcg2,linker,0.16666666666666666
+abcg2,structure–activity relationship,0.16666666666666666
+synthon,natural product,0.0975609756097561
+axial chirality,chirality,0.26666666666666666
+native chemical ligation,thioester,0.14285714285714285
+tetrahydropyran,alkene,0.125
+tetrahydropyran,alkyne,0.125
+tetrahydropyran,kinetic resolution,0.125
+tetrahydropyran,reductive amination,0.125
+tetrahydropyran,natural product,0.125
+tetrahydropyran,conjugate,0.125
+tetrahydropyran,diastereomer,0.125
+tetrahydropyran,pyran,0.125
+salt metathesis reaction,ring-closing metathesis,0.1896551724137931
+oxygen evolution,overpotential,0.22962962962962963
+racemization,kinetic resolution,0.12
+racemization,wittig reaction,0.12
+depsipeptide,natural product,0.10869565217391304
+absolute configuration,natural product,0.11290322580645161
+absolute configuration,stereocenter,0.0967741935483871
+cleavage (geology),bond cleavage,0.10526315789473684
+quaternary carbon,carbon fibers,0.17647058823529413
+quaternary carbon,stereocenter,0.23529411764705882
+quaternary carbon,aldol reaction,0.11764705882352941
+quaternary carbon,absolute configuration,0.11764705882352941
+histone deacetylase inhibitor,ic50,0.1
+ring-closing metathesis,salt metathesis reaction,0.18333333333333332
+domino,cascade reaction,0.21428571428571427
+aldol reaction,aldol condensation,0.11888111888111888
+suzuki reaction,coupling reaction,0.1875
+hydroxamic acid,ic50,0.1111111111111111
+radical cyclization,stereocenter,0.12
+tetrahydrofuran,cationic polymerization,0.1111111111111111
+linker,conjugate,0.12244897959183673
+allylic alcohol,desymmetrization,0.1111111111111111
+allylic alcohol,moiety,0.1111111111111111
+allylic alcohol,alkene,0.1111111111111111
+allylic alcohol,salt metathesis reaction,0.1111111111111111
+allylic alcohol,wittig reaction,0.1111111111111111
+allylic alcohol,kinetic resolution,0.1111111111111111
+allylic alcohol,derivative (finance),0.1111111111111111
+peptide bond,amide,0.16666666666666666
+phosphonate,moiety,0.125
+conformational isomerism,peptidomimetic,0.1
+oxazole,natural product,0.10526315789473684
+overpotential,oxygen evolution,0.2198581560283688
+overpotential,carbon fibers,0.09929078014184398
+aldol condensation,aldol reaction,0.24285714285714285
+bond cleavage,cleavage (geology),0.1509433962264151
+azepine,pyrrolidine,0.1
+azepine,moiety,0.2
+azepine,tricyclic,0.1
+azepine,amide,0.1
+azepine,peptidomimetic,0.1
+azepine,ring-closing metathesis,0.1
+cyclopropane,natural product,0.16666666666666666
+thermogravimetric analysis,thermal stability,0.1308411214953271
+lithium titanate,hydrothermal synthesis,0.10526315789473684
+lithium titanate,carbon fibers,0.14035087719298245
+solid-phase synthesis,peptide synthesis,0.12195121951219512
+triple bond,alkyne,0.11764705882352941
+dehydroalanine,hydrosilylation,0.11764705882352941
+asymmetric hydrogenation,stereocenter,0.16666666666666666
+asymmetric hydrogenation,amide,0.1111111111111111
+asymmetric hydrogenation,desymmetrization,0.1111111111111111
+carbon group,derivative (finance),0.1
+carbon group,cleavage (geology),0.1
+carbon group,hypervalent molecule,0.1
+carbon group,amide,0.1
+carbon group,stereocenter,0.1
+carbon group,bond cleavage,0.1
+pyrrole,imidazole,0.10256410256410256
+tetrapeptide,tripeptide,0.125
+cyclic peptide,peptide synthesis,0.10416666666666667
+geminal,alkyne,0.125
+geminal,surface modification,0.125
+geminal,bond cleavage,0.125
+geminal,cleavage (geology),0.125
+geminal,peptide bond,0.125
+geminal,amide,0.125
+cascade reaction,domino,0.1232876712328767
+furan,natural product,0.0967741935483871
+negishi coupling,natural product,0.14285714285714285
+thioester,native chemical ligation,0.11538461538461539
+stereoisomerism,enantiopure drug,0.125
+stereoisomerism,moiety,0.125
+enone,enantiopure drug,0.10526315789473684
+imine,alkene,0.10714285714285714
+imidazole,pyrrole,0.0975609756097561
+lead compound,structure–activity relationship,0.1282051282051282
+mitsunobu reaction,kinetic resolution,0.1111111111111111
+sonogashira coupling,alkyne,0.1875
+ec50,lead compound,0.1
+ec50,structure–activity relationship,0.1
+ec50,amide,0.1
+ec50,natural product,0.1
+ec50,epimer,0.1
+ec50,cyclic peptide,0.1
+ec50,peptide synthesis,0.1
+cancer cell lines,conjugate,0.12
+cancer cell lines,moiety,0.12

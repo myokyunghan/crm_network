@@ -1,0 +1,63 @@
+from,to,weight
+electrolytic cell,carbon fibers,0.2
+electrolytic cell,thermogravimetric analysis,0.2
+cobalt oxide,lithium cobalt oxide,0.4
+current collector,carbon fibers,0.23076923076923078
+supercooling,crystal (programming language),0.25
+sodium-ion battery,carbon fibers,0.2222222222222222
+stripping (fiber),plating (geology),0.2631578947368421
+palladium-hydrogen electrode,carbon fibers,0.25
+morphology,crystal (programming language),0.2
+plating (geology),stripping (fiber),0.35714285714285715
+horizontal scan rate,exfoliation joint,0.2
+horizontal scan rate,carbon fibers,0.2
+horizontal scan rate,dimethyl carbonate,0.2
+horizontal scan rate,pyrolytic carbon,0.2
+fade,capacity loss,0.2222222222222222
+thermal runaway,thermal stability,0.2222222222222222
+carboxymethyl cellulose,passivation,0.2
+carboxymethyl cellulose,surface layer,0.2
+carboxymethyl cellulose,interphase,0.2
+carboxymethyl cellulose,degradation,0.2
+transient (computer programming),carbon fibers,0.2
+transient (computer programming),crystal (programming language),0.4
+pyrolytic carbon,carbon fibers,0.2
+glassy carbon,carbon fibers,0.21052631578947367
+gas diffusion electrode,carbon fibers,0.2857142857142857
+dendrite (mathematics),lithium metal,0.34782608695652173
+dimethyl carbonate,propylene carbonate,0.225
+ultraviolet,stoichiometry,0.25
+sodium nitrate,thermogravimetric analysis,0.25
+sodium nitrate,thermal stability,0.25
+sodium nitrate,phase-change material,0.25
+sodium nitrate,lithium nitrate,0.25
+neutron reflectometry,interphase,0.3333333333333333
+neutron reflectometry,carbon fibers,0.3333333333333333
+bimetallic strip,carbon fibers,0.25
+bimetallic strip,overpotential,0.25
+amorphous carbon,carbon fibers,0.5294117647058824
+phase-change material,thermal stability,0.2
+noble metal,carbon fibers,0.2222222222222222
+reflectometry,interphase,0.3333333333333333
+reflectometry,carbon fibers,0.3333333333333333
+capacity loss,fade,0.2222222222222222
+capacity loss,interphase,0.25925925925925924
+dilithium,carbon fibers,0.25
+dilithium,fast ion conductor,0.25
+dilithium,overpotential,0.25
+power density,energy density,0.35714285714285715
+powder diffraction,rietveld refinement,0.21621621621621623
+titanium dioxide,carbon fibers,0.3333333333333333
+molar concentration,orthorhombic crystal system,0.2
+molar concentration,powder diffraction,0.2
+molar concentration,stoichiometry,0.2
+molar concentration,ultraviolet,0.2
+hydrofluoric acid,lithium fluoride,0.25
+nickel oxide,non-blocking i/o,0.2
+lithium cobalt oxide,cobalt oxide,0.25
+outgassing,reactivity,0.3333333333333333
+sodium hydroxide,lithium hydroxide,0.25
+catalytic combustion,carbon fibers,0.3333333333333333
+catalytic combustion,chemisorption,0.3333333333333333
+tetragonal crystal system,orthorhombic crystal system,0.3333333333333333
+nanomaterials,energy density,0.2

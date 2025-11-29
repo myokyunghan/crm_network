@@ -1,0 +1,72 @@
+from,to,weight
+rake,cutting tool,0.16666666666666666
+rake,rake angle,0.12857142857142856
+flank,cutting tool,0.1927710843373494
+inert gas,inert,0.23076923076923078
+design of experiments,orthogonal array,0.1991701244813278
+design of experiments,electrical discharge machining,0.14937759336099585
+electrical discharge machining,orthogonal array,0.08450704225352113
+machine tool,cutting tool,0.17415730337078653
+surface integrity,titanium alloy,0.10176991150442478
+surface integrity,electrical discharge machining,0.09734513274336283
+surface integrity,machinability,0.09734513274336283
+metal matrix composite,matrix (chemical analysis),0.16751269035532995
+metal matrix composite,particle (ecology),0.08629441624365482
+ceramic matrix composite,matrix (chemical analysis),0.11666666666666667
+ceramic matrix composite,spark plasma sintering,0.11666666666666667
+cryogenic treatment,cutting tool,0.09
+central composite design,design of experiments,0.11392405063291139
+central composite design,electrical discharge machining,0.10126582278481013
+matrix (chemical analysis),metal matrix composite,0.10377358490566038
+end mill,cutting tool,0.1
+powder metallurgy,spark plasma sintering,0.08480565371024736
+diamond-like carbon,deposition,0.10619469026548672
+diamond-like carbon,carbon fibers,0.23893805309734514
+polycrystalline diamond,diamond tool,0.08620689655172414
+polycrystalline diamond,brittleness,0.08620689655172414
+brazing,cemented carbide,0.09183673469387756
+base metal,friction stir welding,0.11224489795918367
+groove (engineering),rake,0.0989010989010989
+groove (engineering),cutting tool,0.08791208791208792
+orthogonal array,design of experiments,0.12972972972972974
+orthogonal array,grey relational analysis,0.0972972972972973
+orthogonal array,electrical discharge machining,0.12972972972972974
+chip formation,cutting tool,0.0958904109589041
+chip formation,machinability,0.11301369863013698
+chip formation,titanium alloy,0.10273972602739725
+breakage,cutting tool,0.08928571428571429
+diamond tool,cutting tool,0.13157894736842105
+grey relational analysis,electrical discharge machining,0.17218543046357615
+grey relational analysis,orthogonal array,0.23841059602649006
+grey relational analysis,design of experiments,0.09271523178807947
+specific strength,metal matrix composite,0.10909090909090909
+specific strength,titanium alloy,0.10909090909090909
+specific strength,machinability,0.10909090909090909
+insert (composites),cutting tool,0.13934426229508196
+surface layer,surface modification,0.08490566037735849
+inert,inert gas,0.14634146341463414
+indentation,vickers hardness test,0.10248447204968944
+hardened steel,cutting tool,0.16363636363636364
+hardfacing,abrasion (mechanical),0.08823529411764706
+hardfacing,carbon steel,0.08823529411764706
+work hardening,hardening (computing),0.12345679012345678
+titanium carbide,titanium alloy,0.08762886597938144
+physical vapor deposition,deposition,0.20300751879699247
+high speed steel,cutting tool,0.11475409836065574
+friction stir processing,friction stir welding,0.10526315789473684
+rake angle,rake,0.20930232558139536
+rake angle,cutting tool,0.10852713178294573
+rockwell scale,indentation,0.10526315789473684
+metal powder,selective laser melting,0.10144927536231885
+relative density,vickers hardness test,0.08943089430894309
+relative density,spark plasma sintering,0.17073170731707318
+thermal shock,brittleness,0.09090909090909091
+brass,electrical discharge machining,0.211864406779661
+process variable,design of experiments,0.16883116883116883
+process variable,orthogonal array,0.15584415584415584
+process variable,electrical discharge machining,0.1038961038961039
+titanium alloy,machinability,0.09210526315789473
+carbon steel,carbon fibers,0.10236220472440945
+cutting fluid,cutting tool,0.18045112781954886
+vickers hardness test,indentation,0.09016393442622951
+machinability,titanium alloy,0.1050656660412758

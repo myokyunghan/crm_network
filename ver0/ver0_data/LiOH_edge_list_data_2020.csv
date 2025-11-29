@@ -1,0 +1,87 @@
+from,to,weight
+deoxygenation,moiety,0.16666666666666666
+deoxygenation,dihydroxylation,0.16666666666666666
+deoxygenation,side chain,0.16666666666666666
+deoxygenation,tetrahydropyran,0.16666666666666666
+deoxygenation,functional group,0.16666666666666666
+specific energy,pseudocapacitor,0.2
+specific energy,degradation,0.2
+specific energy,passivation,0.2
+specific energy,specific surface area,0.2
+specific energy,carbon fibers,0.2
+cycling,lithium metal,0.23076923076923078
+current collector,dendrite (mathematics),0.16666666666666666
+cleave,peptide synthesis,0.2
+cleave,solid-phase synthesis,0.2
+cleave,linker,0.2
+cleave,protecting group,0.2
+cleave,moiety,0.2
+interphase,lithium metal,0.20689655172413793
+nickel oxide,non-blocking i/o,0.24
+annulation,desymmetrization,0.15384615384615385
+carbon chain,geminal,0.25
+carbon chain,characterization,0.25
+carbon chain,side chain,0.25
+carbon chain,carbon fibers,0.25
+oxadiazole,amide,0.2857142857142857
+inert gas,inert,0.25
+electrospinning,biocompatibility,0.16666666666666666
+dendrite (mathematics),lithium metal,0.15555555555555556
+capacity loss,degradation,0.3157894736842105
+ambient pressure,oxygen evolution,0.16666666666666666
+ambient pressure,carbon fibers,0.16666666666666666
+ambient pressure,surface layer,0.16666666666666666
+ambient pressure,surface modification,0.16666666666666666
+ambient pressure,degradation,0.16666666666666666
+suzuki reaction,coupling reaction,0.2
+suzuki reaction,sonogashira coupling,0.2
+lithium metal,fast ion conductor,0.15833333333333333
+oxidizing agent,overpotential,0.23529411764705882
+flammable liquid,energy density,0.3076923076923077
+flammable liquid,fast ion conductor,0.15384615384615385
+flammable liquid,lithium metal,0.15384615384615385
+radical cyclization,photoredox catalysis,0.18181818181818182
+polymer electrolytes,fast ion conductor,0.30434782608695654
+polymer electrolytes,lithium metal,0.21739130434782608
+filler (materials),degradation,0.16666666666666666
+filler (materials),surface modification,0.16666666666666666
+filler (materials),plating (geology),0.16666666666666666
+filler (materials),propylene carbonate,0.16666666666666666
+trifluoroacetic acid,protecting group,0.17647058823529413
+proton nmr,amide,0.1875
+phosphonate,moiety,0.25
+bond cleavage,cleavage (geology),0.15789473684210525
+lithium cobalt oxide,cobalt oxide,0.27586206896551724
+lithium titanate,hydrothermal synthesis,0.18181818181818182
+solid-phase synthesis,peptide synthesis,0.16129032258064516
+triazole,alkyne,0.16666666666666666
+electrochemical window,fast ion conductor,0.27586206896551724
+fast ion conductor,lithium metal,0.15833333333333333
+inert,inert gas,0.23529411764705882
+imide,imine,0.15384615384615385
+non-blocking i/o,nickel oxide,0.1875
+lithium fluoride,dendrite (mathematics),0.15789473684210525
+thermal treatment,lithium carbonate,0.25
+geminal,characterization,0.16666666666666666
+geminal,side chain,0.16666666666666666
+geminal,carbon fibers,0.16666666666666666
+geminal,carbon chain,0.16666666666666666
+surface layer,degradation,0.15384615384615385
+power density,energy density,0.17391304347826086
+thiol,thioether,0.2
+thiol,bioconjugation,0.2
+stripping (fiber),plating (geology),0.21052631578947367
+stripping (fiber),dendrite (mathematics),0.15789473684210525
+chemical stability,fast ion conductor,0.23809523809523808
+quasi-solid,fast ion conductor,0.4444444444444444
+sonogashira coupling,suzuki reaction,0.15384615384615385
+sonogashira coupling,amide,0.15384615384615385
+sonogashira coupling,coupling reaction,0.15384615384615385
+epimer,moiety,0.25
+epimer,alkyne,0.16666666666666666
+pseudocapacitance,mxenes,0.15384615384615385
+pseudocapacitance,gravimetric analysis,0.15384615384615385
+desymmetrization,kinetic resolution,0.15384615384615385
+desymmetrization,annulation,0.15384615384615385
+desymmetrization,stereocenter,0.15384615384615385
+cobalt oxide,lithium cobalt oxide,0.27586206896551724

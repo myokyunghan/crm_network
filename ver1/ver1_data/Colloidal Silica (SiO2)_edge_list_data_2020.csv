@@ -1,0 +1,45 @@
+from,to,weight
+recrystallization (geology),dynamic recrystallization,0.1736842105263158
+strain (injury),texture (cosmology),0.125
+carbon steel,carbon fibers,0.1794871794871795
+selective laser melting,titanium alloy,0.11538461538461539
+acicular,titanium alloy,0.18181818181818182
+substructure,lath,0.16666666666666666
+substructure,embrittlement,0.16666666666666666
+cryogenic treatment,diffusionless transformation,0.14285714285714285
+work hardening,strain hardening exponent,0.13402061855670103
+work hardening,hardening (computing),0.20618556701030927
+solid solution strengthening,precipitation hardening,0.1111111111111111
+solid solution strengthening,hardening (computing),0.14814814814814814
+trip steel,elongation,0.11764705882352941
+precipitation hardening,hardening (computing),0.17391304347826086
+tensile testing,elongation,0.10309278350515463
+maraging steel,hardening (computing),0.11538461538461539
+strain hardening exponent,hardening (computing),0.17886178861788618
+strain hardening exponent,work hardening,0.10569105691056911
+fatigue limit,texture (cosmology),0.13513513513513514
+fatigue limit,titanium alloy,0.16216216216216217
+superplasticity,recrystallization (geology),0.14285714285714285
+superplasticity,ductility (earth science),0.14285714285714285
+flow stress,strain hardening exponent,0.125
+flow stress,hardening (computing),0.171875
+elongation,ductility (earth science),0.11926605504587157
+twip,deformation mechanism,0.12195121951219512
+dynamic recrystallization,recrystallization (geology),0.29464285714285715
+powder metallurgy,ductility (earth science),0.10256410256410256
+grain boundary strengthening,misorientation,0.11764705882352941
+thermomechanical processing,recrystallization (geology),0.125
+tempering,precipitation hardening,0.1076923076923077
+hardenability,tempering,0.1
+hardenability,thermomechanical processing,0.1
+stacking-fault energy,high-entropy alloys,0.11764705882352941
+biocompatibility,surface modification,0.11764705882352941
+hot isostatic pressing,titanium alloy,0.12727272727272726
+fractography,brittleness,0.11538461538461539
+fractography,ductility (earth science),0.11538461538461539
+crystal plasticity,deformation mechanism,0.10344827586206896
+crystal plasticity,strain (injury),0.10344827586206896
+crystal plasticity,crystal (programming language),0.10344827586206896
+charpy impact test,tempering,0.1
+charpy impact test,brittleness,0.1
+embrittlement,ductility (earth science),0.17391304347826086

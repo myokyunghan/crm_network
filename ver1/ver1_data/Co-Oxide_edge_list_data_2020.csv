@@ -1,0 +1,83 @@
+from,to,weight
+rational design,oxygen evolution,0.14084507042253522
+langmuir adsorption model,endothermic process,0.07303370786516854
+hydrazine (antidepressant),oxygen evolution,0.09615384615384616
+noble metal,oxygen evolution,0.1660377358490566
+noble metal,overpotential,0.10943396226415095
+physisorption,langmuir adsorption model,0.08771929824561403
+isostructural,carboxylate,0.07228915662650602
+space velocity,fischer–tropsch process,0.0761904761904762
+bimetallic strip,oxygen evolution,0.07777777777777778
+rutile,titanium dioxide,0.09836065573770492
+nickel oxide,non-blocking i/o,0.23728813559322035
+xanes,x-ray absorption spectroscopy,0.1619047619047619
+xanes,oxidation state,0.0761904761904762
+visible spectrum,degradation,0.11420612813370473
+visible spectrum,photodegradation,0.08635097493036212
+propane,space velocity,0.08139534883720931
+imidazolate,zeolitic imidazolate framework,0.32894736842105265
+imidazolate,carbon fibers,0.07894736842105263
+nanorod,oxygen evolution,0.06951871657754011
+oxidation state,x-ray absorption spectroscopy,0.06923076923076923
+oxidation state,oxygen evolution,0.08461538461538462
+photodegradation,degradation,0.12416107382550336
+photodegradation,visible spectrum,0.1040268456375839
+photodegradation,methylene blue,0.07046979865771812
+photodegradation,rhodamine b,0.08389261744966443
+fischer–tropsch process,carbon fibers,0.11290322580645161
+electrolysis of water,oxygen evolution,0.35398230088495575
+electrolysis of water,overpotential,0.16519174041297935
+powder diffraction,thermogravimetric analysis,0.10303030303030303
+congo red,degradation,0.08928571428571429
+congo red,photodegradation,0.07142857142857142
+congo red,langmuir adsorption model,0.08928571428571429
+oxygen evolution,electrolysis of water,0.0784313725490196
+oxygen evolution,overpotential,0.23137254901960785
+x-ray absorption spectroscopy,oxygen evolution,0.14666666666666667
+x-ray absorption spectroscopy,xanes,0.11333333333333333
+thermogravimetric analysis,thermal stability,0.09803921568627451
+wurtzite crystal structure,photodegradation,0.07377049180327869
+coordination complex,coordination polymer,0.09701492537313433
+pulsed laser deposition,deposition,0.17391304347826086
+overpotential,oxygen evolution,0.3877327491785323
+coordination polymer,coordination complex,0.0718232044198895
+coordination polymer,carboxylate,0.08287292817679558
+orthorhombic crystal system,tetragonal crystal system,0.07462686567164178
+carbon nitride,carbon fibers,0.22522522522522523
+carbon nitride,graphitic carbon nitride,0.1891891891891892
+endothermic process,langmuir adsorption model,0.16774193548387098
+power density,carbon fibers,0.1111111111111111
+cobaltite,lanthanum,0.09278350515463918
+nanocellulose,nanomaterials,0.07317073170731707
+rhodamine b,degradation,0.10752688172043011
+rhodamine b,photodegradation,0.08960573476702509
+chemisorption,langmuir adsorption model,0.1342281879194631
+cationic polymerization,methylene blue,0.07664233576642336
+specific surface area,bet theory,0.1005586592178771
+nanosheet,oxygen evolution,0.15384615384615385
+nanosheet,overpotential,0.07264957264957266
+bet theory,specific surface area,0.2748091603053435
+bet theory,langmuir adsorption model,0.07633587786259542
+bet theory,thermogravimetric analysis,0.07633587786259542
+methylene blue,degradation,0.11081794195250659
+methyl orange,degradation,0.07878787878787878
+methyl orange,methylene blue,0.07878787878787878
+charge carrier,photocurrent,0.10256410256410256
+heteroatom,overpotential,0.09740259740259741
+heteroatom,carbon fibers,0.2077922077922078
+heteroatom,oxygen evolution,0.1038961038961039
+rietveld refinement,powder diffraction,0.0945945945945946
+graphitic carbon nitride,carbon fibers,0.1258741258741259
+graphitic carbon nitride,carbon nitride,0.14685314685314685
+photocurrent,oxygen evolution,0.09142857142857143
+zeolitic imidazolate framework,imidazolate,0.3184713375796178
+zeolitic imidazolate framework,carbon fibers,0.08917197452229299
+monoclinic crystal system,crystal (programming language),0.08947368421052632
+electrochemical energy conversion,oxygen evolution,0.12987012987012986
+layered double hydroxides,oxygen evolution,0.08888888888888889
+malachite green,rhodamine b,0.08333333333333333
+cobalt hydroxide,oxygen evolution,0.15
+cobalt hydroxide,nanomaterials,0.07
+cobalt hydroxide,overpotential,0.07
+polyacrylic acid,acrylic acid,0.08653846153846154
+thermal stability,thermogravimetric analysis,0.09900990099009901

@@ -1,0 +1,68 @@
+from,to,weight
+non-blocking i/o,nickel oxide,0.08270676691729323
+non-blocking i/o,carbon dioxide reforming,0.10150375939849623
+exothermic reaction,endothermic process,0.1276595744680851
+exothermic reaction,methanation,0.0851063829787234
+carbon fibers,carbon dioxide reforming,0.08681135225375626
+catalytic combustion,catalytic oxidation,0.0851063829787234
+tetragonal crystal system,monoclinic crystal system,0.15702479338842976
+biogas,carbon dioxide reforming,0.16470588235294117
+biocompatibility,nanomaterials,0.09970674486803519
+x-ray absorption spectroscopy,oxidation state,0.125
+x-ray absorption spectroscopy,xanes,0.1
+rietveld refinement,powder diffraction,0.08333333333333333
+silver nanoparticle,nanomaterials,0.078125
+benzyl alcohol,alcohol oxidation,0.16666666666666666
+crystal (programming language),facet (psychology),0.102803738317757
+photodegradation,methylene blue,0.10365853658536585
+photodegradation,visible spectrum,0.0975609756097561
+photodegradation,methyl orange,0.07926829268292683
+nickel oxide,non-blocking i/o,0.3333333333333333
+monoclinic crystal system,tetragonal crystal system,0.2087912087912088
+methylene blue,degradation,0.15517241379310345
+methylene blue,photodegradation,0.14655172413793102
+thermal desorption spectroscopy,temperature-programmed reduction,0.11475409836065574
+visible spectrum,degradation,0.11312217194570136
+endothermic process,langmuir adsorption model,0.13114754098360656
+endothermic process,exothermic reaction,0.09836065573770492
+facet (psychology),crystal (programming language),0.15492957746478872
+carbon dioxide reforming,methane reformer,0.17015706806282724
+carbon dioxide reforming,carbon fibers,0.13612565445026178
+lanthanum,lanthanum oxide,0.1641025641025641
+selected area diffraction,powder diffraction,0.125
+lanthanum oxide,lanthanum,0.35555555555555557
+chemisorption,physisorption,0.10294117647058823
+mixed oxide,temperature-programmed reduction,0.09836065573770492
+temperature-programmed reduction,thermogravimetric analysis,0.0903954802259887
+temperature-programmed reduction,carbon dioxide reforming,0.0847457627118644
+oxygenate,carbon fibers,0.08064516129032258
+methane reformer,carbon fibers,0.08717948717948718
+methane reformer,carbon dioxide reforming,0.3333333333333333
+partial pressure,thermogravimetric analysis,0.09090909090909091
+cermet,high temperature electrolysis,0.11475409836065574
+methyl orange,photodegradation,0.14606741573033707
+methyl orange,methylene blue,0.0898876404494382
+methyl orange,visible spectrum,0.10112359550561797
+methyl orange,degradation,0.0898876404494382
+nanometre,ammonia production,0.07894736842105263
+nanometre,reactivity,0.07894736842105263
+nanometre,nanorod,0.07894736842105263
+monolith,methanation,0.08620689655172414
+chemical stability,thermal stability,0.0851063829787234
+water-gas shift reaction,methanation,0.0815450643776824
+langmuir adsorption model,endothermic process,0.11267605633802817
+electrolysis of water,oxygen evolution,0.17142857142857143
+overpotential,oxygen evolution,0.273972602739726
+incipient wetness impregnation,carbon dioxide reforming,0.10256410256410256
+alcohol oxidation,benzyl alcohol,0.16923076923076924
+xanes,oxidation state,0.1388888888888889
+xanes,x-ray absorption spectroscopy,0.1111111111111111
+specific surface area,bet theory,0.08421052631578947
+bet theory,specific surface area,0.21621621621621623
+bet theory,thermogravimetric analysis,0.08108108108108109
+prox,catalytic oxidation,0.07692307692307693
+prox,nanorod,0.07692307692307693
+oxygen evolution,electrolysis of water,0.07725321888412018
+oxygen evolution,overpotential,0.17167381974248927
+physisorption,chemisorption,0.07954545454545454
+reaction rate,water-gas shift reaction,0.09090909090909091

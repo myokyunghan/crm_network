@@ -1,0 +1,40 @@
+from,to,weight
+miniemulsion,emulsion polymerization,0.13986013986013987
+methyl cellulose,carboxymethyl cellulose,0.17486338797814208
+ammonium bromide,cationic polymerization,0.1883720930232558
+polyacrylamide,cationic polymerization,0.09375
+langmuir adsorption model,cationic polymerization,0.08379888268156424
+hydrophobic effect,cationic polymerization,0.13043478260869565
+side chain,chain transfer,0.1037037037037037
+amide,cationic polymerization,0.11029411764705882
+surface charge,cationic polymerization,0.08904109589041095
+surface charge,zeta potential,0.10273972602739725
+conductometry,cationic polymerization,0.11764705882352941
+conductometry,thermodynamics of micellization,0.1092436974789916
+proton nmr,cationic polymerization,0.08163265306122448
+coacervate,carboxymethyl cellulose,0.08080808080808081
+coacervate,gelatin,0.08080808080808081
+gel permeation chromatography,atom-transfer radical-polymerization,0.10077519379844961
+aggregation number,thermodynamics of micellization,0.18264014466546113
+aggregation number,cationic polymerization,0.10126582278481013
+polystyrene,emulsion polymerization,0.08178438661710037
+krafft temperature,thermodynamics of micellization,0.11688311688311688
+raft,chain transfer,0.27391304347826084
+hydrodynamic radius,aggregation number,0.12921348314606743
+thermal stability,thermogravimetric analysis,0.08529411764705883
+absorbance,cationic polymerization,0.11278195488721804
+polyvinyl alcohol,carboxymethyl cellulose,0.10548523206751055
+micellar solutions,aggregation number,0.10333333333333333
+micellar solutions,cationic polymerization,0.09666666666666666
+sodium dodecyl sulfate,cationic polymerization,0.08958333333333333
+nonionic surfactant,cationic polymerization,0.07643312101910828
+ammonium chloride,cationic polymerization,0.1871345029239766
+thermogravimetric analysis,thermal stability,0.1124031007751938
+chain transfer,raft,0.2135593220338983
+emulsion polymerization,particle (ecology),0.09234828496042216
+potassium persulfate,acrylic acid,0.10843373493975904
+potassium persulfate,emulsion polymerization,0.13253012048192772
+atom-transfer radical-polymerization,dispersity,0.07653061224489796
+thermodynamics of micellization,aggregation number,0.18984962406015038
+thermodynamics of micellization,cationic polymerization,0.10902255639097744
+carboxylate,cationic polymerization,0.09848484848484848

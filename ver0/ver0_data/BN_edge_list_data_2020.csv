@@ -1,0 +1,75 @@
+from,to,weight
+supervised learning,feature (linguistics),0.08
+dropout (neural networks),overfitting,0.13953488372093023
+dropout (neural networks),normalization,0.10465116279069768
+modality (human–computer interaction),feature (linguistics),0.11363636363636363
+modality (human–computer interaction),identification,0.08181818181818182
+modality (human–computer interaction),modalities,0.12272727272727273
+modality (human–computer interaction),discriminative model,0.08181818181818182
+code (set theory),feature (linguistics),0.07709251101321586
+generative model,autoencoder,0.08849557522123894
+sensor fusion,feature (linguistics),0.13425925925925927
+softmax function,feature (linguistics),0.13545816733067728
+pruning,flops,0.08333333333333333
+pruning,feature (linguistics),0.08333333333333333
+convolution (computer science),feature (linguistics),0.19557195571955718
+granularity,feature (linguistics),0.10619469026548672
+feature learning,representation,0.11367380560131796
+feature learning,feature (linguistics),0.2158154859967051
+feature learning,discriminative model,0.07742998352553541
+feature vector,feature (linguistics),0.2708333333333333
+spectrogram,feature (linguistics),0.12849162011173185
+deep neural networks,normalization,0.17034700315457413
+representation,feature (linguistics),0.10990009082652134
+benchmark (surveying),feature (linguistics),0.11769290724863601
+net (polyhedron),feature (linguistics),0.12686567164179105
+fuse (electrical),feature (linguistics),0.26900584795321636
+regularization,normalization,0.09375
+transfer of learning,feature (linguistics),0.10662824207492795
+interpretability,feature (linguistics),0.07749077490774908
+subnetwork,feature (linguistics),0.125
+minimum bounding box,bounding overwatch,0.25146198830409355
+minimum bounding box,feature (linguistics),0.1695906432748538
+modalities,modality (human–computer interaction),0.13432835820895522
+rgb color model,feature (linguistics),0.1391304347826087
+activity recognition,convolution (computer science),0.08108108108108109
+activity recognition,feature (linguistics),0.0945945945945946
+f1 score,feature (linguistics),0.09375
+mnist database,normalization,0.07834101382488479
+overfitting,feature (linguistics),0.10535714285714286
+backbone network,feature (linguistics),0.2907488986784141
+backbone network,pyramid (geometry),0.1013215859030837
+flops,feature (linguistics),0.14720812182741116
+flops,convolution (computer science),0.13705583756345177
+flops,pruning,0.13705583756345177
+bounding overwatch,minimum bounding box,0.24157303370786518
+bounding overwatch,feature (linguistics),0.1404494382022472
+discriminator,feature (linguistics),0.13008130081300814
+discriminator,generative adversarial network,0.08130081300813008
+binary classification,feature (linguistics),0.10619469026548672
+similarity (geometry),feature (linguistics),0.14429530201342283
+aerial image,feature (linguistics),0.17857142857142858
+identification,feature (linguistics),0.09214501510574018
+discriminative model,feature (linguistics),0.16527942925089179
+cross entropy,feature (linguistics),0.1111111111111111
+initialization,normalization,0.1134453781512605
+distortion (music),feature (linguistics),0.0918918918918919
+signal (programming language),feature (linguistics),0.07839388145315487
+contextual image classification,feature (linguistics),0.14959016393442623
+domain adaptation,transfer of learning,0.1076923076923077
+domain adaptation,normalization,0.1076923076923077
+training set,normalization,0.102880658436214
+pooling,pyramid (geometry),0.09261744966442953
+pooling,feature (linguistics),0.17315436241610738
+tracking (education),feature (linguistics),0.08759124087591241
+pyramid (geometry),feature (linguistics),0.2832116788321168
+pyramid (geometry),pooling,0.10072992700729927
+autoencoder,feature (linguistics),0.08010335917312661
+fundus (uterus),feature (linguistics),0.10891089108910891
+attention network,feature (linguistics),0.2087912087912088
+land cover,feature (linguistics),0.11428571428571428
+kernel (algebra),convolution (computer science),0.1443661971830986
+kernel (algebra),feature (linguistics),0.13028169014084506
+generative adversarial network,discriminator,0.1092896174863388
+upsampling,feature (linguistics),0.20434782608695654
+upsampling,convolution (computer science),0.12173913043478261

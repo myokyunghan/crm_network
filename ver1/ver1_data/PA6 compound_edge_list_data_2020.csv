@@ -1,0 +1,77 @@
+from,to,weight
+talc,filler (materials),0.1
+talc,thermogravimetric analysis,0.1
+talc,polypropylene,0.15
+maleic anhydride,compatibilization,0.11578947368421053
+maleic anhydride,polypropylene,0.09473684210526316
+reactive extrusion,compatibilization,0.1
+reactive extrusion,maleic anhydride,0.23333333333333334
+injection moulding,molding (decorative),0.125
+biocompatibility,electrospinning,0.16666666666666666
+compatibilization,maleic anhydride,0.2558139534883721
+compatibilization,polypropylene,0.09302325581395349
+compression molding,molding (decorative),0.25136612021857924
+cellulose fiber,natural fiber,0.0967741935483871
+fused deposition modeling,3d printed,0.09649122807017543
+fused deposition modeling,deposition,0.13157894736842105
+infill,polylactic acid,0.1
+in situ polymerization,surface modification,0.09523809523809523
+in situ polymerization,thermal stability,0.11904761904761904
+blowing agent,polypropylene,0.17647058823529413
+blowing agent,environmentally friendly,0.11764705882352941
+blowing agent,maleic anhydride,0.17647058823529413
+blowing agent,polylactic acid,0.11764705882352941
+blowing agent,reactive extrusion,0.11764705882352941
+transfer molding,compression molding,0.13114754098360656
+transfer molding,molding (decorative),0.3114754098360656
+transfer molding,thermosetting polymer,0.13114754098360656
+filtration (mathematics),electrospinning,0.1506849315068493
+low-density polyethylene,high-density polyethylene,0.1111111111111111
+low-density polyethylene,molding (decorative),0.1111111111111111
+fused filament fabrication,fused deposition modeling,0.09259259259259259
+poly(n-isopropylacrylamide),compounding,0.1111111111111111
+kenaf,molding (decorative),0.09090909090909091
+kenaf,compounding,0.09090909090909091
+kenaf,synthetic fiber,0.09090909090909091
+kenaf,textile,0.09090909090909091
+kenaf,thermogravimetric analysis,0.09090909090909091
+kenaf,thermal stability,0.09090909090909091
+kenaf,biocomposite,0.09090909090909091
+kenaf,compression molding,0.09090909090909091
+kenaf,natural fiber,0.18181818181818182
+polyolefin,polypropylene,0.14705882352941177
+deposition,fused deposition modeling,0.2459016393442623
+percolation (cognitive psychology),morphology,0.125
+percolation (cognitive psychology),carbon fibers,0.125
+3d printed,fused deposition modeling,0.14666666666666667
+design of experiments,fused filament fabrication,0.1111111111111111
+thermogravimetry,thermogravimetric analysis,0.13043478260869565
+acrylonitrile butadiene styrene,fused filament fabrication,0.0958904109589041
+synthetic fiber,textile,0.1
+cone calorimeter,limiting oxygen index,0.14925373134328357
+cone calorimeter,thermal stability,0.16417910447761194
+cone calorimeter,thermogravimetric analysis,0.16417910447761194
+limiting oxygen index,cone calorimeter,0.15151515151515152
+limiting oxygen index,thermal stability,0.21212121212121213
+limiting oxygen index,thermogravimetric analysis,0.16666666666666666
+biopolymer,electrospinning,0.14285714285714285
+biopolymer,polylactic acid,0.10714285714285714
+damage tolerance,delamination,0.18181818181818182
+thermogravimetric analysis,thermal stability,0.21608040201005024
+delamination,thermosetting polymer,0.14545454545454545
+thermal stability,thermogravimetric analysis,0.16666666666666666
+basalt fiber,thermal stability,0.17391304347826086
+silver nanoparticle,electrospinning,0.12
+charpy impact test,compression molding,0.10714285714285714
+charpy impact test,flexural modulus,0.10714285714285714
+charpy impact test,delamination,0.10714285714285714
+biocomposite,compression molding,0.1
+ductility (earth science),acrylonitrile butadiene styrene,0.11538461538461539
+fiber-reinforced composite,thermoplastic composites,0.10526315789473684
+fiber-reinforced composite,natural fiber,0.10526315789473684
+molding (decorative),compression molding,0.14556962025316456
+melt spinning,textile,0.1388888888888889
+universal testing machine,molding (decorative),0.15384615384615385
+universal testing machine,tensile testing,0.15384615384615385
+rheometry,thermogravimetric analysis,0.14285714285714285
+nanomaterials,surface modification,0.12048192771084337

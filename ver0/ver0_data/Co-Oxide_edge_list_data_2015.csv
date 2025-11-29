@@ -1,0 +1,121 @@
+from,to,weight
+rational design,oxygen evolution,0.14414414414414414
+rational design,carbon fibers,0.07207207207207207
+deposition,chemical bath deposition,0.06907378335949764
+titanium dioxide,visible spectrum,0.07746478873239436
+langmuir adsorption model,methylene blue,0.07334963325183375
+noble metal,oxygen evolution,0.15690376569037656
+noble metal,carbon fibers,0.06694560669456066
+noble metal,overpotential,0.07531380753138076
+gravimetric analysis,carbon fibers,0.0859375
+gravimetric analysis,thermogravimetric analysis,0.1015625
+polyacrylic acid,acrylic acid,0.1440677966101695
+isostructural,carboxylate,0.06477732793522267
+lanthanum,cobaltite,0.10382513661202186
+linker,carboxylate,0.06153846153846154
+linker,coordination polymer,0.09230769230769231
+thermogravimetry,thermal stability,0.09826589595375723
+imidazole,carboxylate,0.0916030534351145
+bimetallic strip,carbon fibers,0.08517887563884156
+bimetallic strip,oxygen evolution,0.0817717206132879
+indium tin oxide,tin oxide,0.10833333333333334
+phosphide,oxygen evolution,0.22596153846153846
+phosphide,overpotential,0.14903846153846154
+rutile,nanorod,0.06382978723404255
+nickel oxide,non-blocking i/o,0.23756906077348067
+tetragonal crystal system,orthorhombic crystal system,0.06312292358803986
+xanes,x-ray absorption spectroscopy,0.12903225806451613
+visible spectrum,degradation,0.06925207756232687
+imidazolate,zeolitic imidazolate framework,0.3113207547169811
+imidazolate,carbon fibers,0.10377358490566038
+imidazolate,oxygen evolution,0.07075471698113207
+oxidation state,oxygen evolution,0.0670391061452514
+oxidation state,xanes,0.061452513966480445
+sulfidation,cobalt sulfide,0.06578947368421052
+carbon fibers,oxygen evolution,0.06485671191553545
+photodegradation,visible spectrum,0.15879828326180256
+photodegradation,methylene blue,0.07725321888412018
+photodegradation,degradation,0.07296137339055794
+photodegradation,rhodamine b,0.06866952789699571
+fischer–tropsch process,carbon fibers,0.109375
+electrolysis of water,oxygen evolution,0.32601880877742945
+electrolysis of water,overpotential,0.13479623824451412
+cobalt sulfide,oxygen evolution,0.13138686131386862
+cobalt sulfide,overpotential,0.08759124087591241
+powder diffraction,thermogravimetric analysis,0.08259587020648967
+oxygen evolution,overpotential,0.19558823529411765
+oxygen evolution,carbon fibers,0.08431372549019608
+tin oxide,nanorod,0.0663265306122449
+tin oxide,indium tin oxide,0.0663265306122449
+ultraviolet,nanorod,0.08433734939759036
+x-ray absorption spectroscopy,xanes,0.1564245810055866
+x-ray absorption spectroscopy,oxygen evolution,0.0782122905027933
+benzoic acid,carboxylate,0.11486486486486487
+thermogravimetric analysis,thermal stability,0.09560723514211886
+wurtzite crystal structure,nanorod,0.10031347962382445
+coordination complex,coordination polymer,0.0942622950819672
+overpotential,oxygen evolution,0.3463541666666667
+overpotential,carbon fibers,0.0703125
+electrospinning,carbon fibers,0.09653465346534654
+moiety,carboxylate,0.061224489795918366
+amorphous carbon,carbon fibers,0.40869565217391307
+lattice (music),lattice constant,0.06666666666666667
+coordination polymer,coordination complex,0.061170212765957445
+coordination polymer,carboxylate,0.07180851063829788
+nanomaterial-based catalyst,carbon fibers,0.08071748878923767
+orthorhombic crystal system,monoclinic crystal system,0.06551724137931035
+orthorhombic crystal system,tetragonal crystal system,0.06551724137931035
+pseudocapacitor,non-blocking i/o,0.07547169811320754
+pseudocapacitor,power density,0.08490566037735849
+pseudocapacitor,nanosheet,0.07547169811320754
+prussian blue,oxygen evolution,0.09615384615384616
+isothermal process,thermogravimetric analysis,0.0625
+carbon nitride,carbon fibers,0.23448275862068965
+carbon nitride,graphitic carbon nitride,0.23448275862068965
+power density,carbon fibers,0.09904153354632587
+cobaltite,oxygen evolution,0.0728476821192053
+cobaltite,lanthanum,0.12582781456953643
+rhodamine b,visible spectrum,0.09848484848484848
+rhodamine b,degradation,0.0946969696969697
+chemisorption,fischer–tropsch process,0.060810810810810814
+temperature-programmed reduction,thermogravimetric analysis,0.07692307692307693
+specific surface area,carbon fibers,0.07552083333333333
+nanosheet,overpotential,0.06962025316455696
+nanosheet,oxygen evolution,0.12447257383966245
+nanosheet,carbon fibers,0.07805907172995781
+bet theory,specific surface area,0.16793893129770993
+spin coating,nanorod,0.06134969325153374
+spin coating,wurtzite crystal structure,0.10429447852760736
+lattice constant,lattice (music),0.11612903225806452
+methylene blue,langmuir adsorption model,0.07731958762886598
+methylene blue,degradation,0.07989690721649484
+methylene blue,visible spectrum,0.07731958762886598
+chemical bath deposition,deposition,0.1685823754789272
+chemical bath deposition,nanorod,0.09195402298850575
+methyl orange,visible spectrum,0.0970873786407767
+methyl orange,degradation,0.08737864077669903
+methyl orange,methylene blue,0.06796116504854369
+charge carrier,visible spectrum,0.07878787878787878
+heteroatom,carbon fibers,0.2712765957446808
+heteroatom,oxygen evolution,0.10638297872340426
+heteroatom,overpotential,0.06382978723404255
+rietveld refinement,orthorhombic crystal system,0.07514450867052024
+rietveld refinement,powder diffraction,0.09826589595375723
+degradation,visible spectrum,0.07194244604316546
+graphitic carbon nitride,carbon fibers,0.22784810126582278
+graphitic carbon nitride,carbon nitride,0.21518987341772153
+graphitic carbon nitride,visible spectrum,0.08227848101265822
+quantum yield,carbon fibers,0.07482993197278912
+zeolitic imidazolate framework,imidazolate,0.2907488986784141
+zeolitic imidazolate framework,carbon fibers,0.11013215859030837
+monoclinic crystal system,crystal (programming language),0.07512953367875648
+template,carbon fibers,0.07079646017699115
+partial pressure,stoichiometry,0.061068702290076333
+electrochemical energy conversion,oxygen evolution,0.1746031746031746
+electrochemical energy conversion,overpotential,0.07407407407407407
+nanoporous,carbon fibers,0.11538461538461539
+layered double hydroxides,oxygen evolution,0.10582010582010581
+non-blocking i/o,nickel oxide,0.0637037037037037
+cobalt hydroxide,oxygen evolution,0.16591928251121077
+cobalt hydroxide,overpotential,0.07623318385650224
+thermal stability,thermogravimetric analysis,0.09668989547038327

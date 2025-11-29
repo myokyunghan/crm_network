@@ -1,0 +1,142 @@
+from,to,weight
+photocathode,photocurrent,0.20597014925373133
+photocathode,photoelectrochemistry,0.11044776119402985
+photocathode,photoelectrochemical cell,0.10746268656716418
+langmuir adsorption model,methylene blue,0.05333333333333334
+chemical bath deposition,deposition,0.2631578947368421
+chemical bath deposition,nanorod,0.06315789473684211
+monoclinic crystal system,tetragonal crystal system,0.06872037914691943
+tetragonal crystal system,orthorhombic crystal system,0.10989010989010989
+tetragonal crystal system,monoclinic crystal system,0.07967032967032966
+template,nanomaterials,0.06837606837606838
+reactivity,chemical-looping combustion,0.06140350877192982
+chemical-looping combustion,reactivity,0.08588957055214724
+chemical-looping combustion,carbon fibers,0.06748466257668712
+chemical-looping combustion,thermogravimetric analysis,0.05828220858895705
+ammonium perchlorate,thermogravimetric analysis,0.06796116504854369
+chemisorption,physisorption,0.05521472392638037
+nanoporous,carbon fibers,0.06220095693779904
+orthorhombic crystal system,tetragonal crystal system,0.15267175572519084
+cationic polymerization,methylene blue,0.05426356589147287
+diffractometer,monoclinic crystal system,0.08064516129032258
+powder diffraction,rietveld refinement,0.05747126436781609
+powder diffraction,orthorhombic crystal system,0.06321839080459771
+powder diffraction,monoclinic crystal system,0.07471264367816093
+4-nitrophenol,selective catalytic reduction,0.15151515151515152
+overpotential,oxygen evolution,0.2445414847161572
+overpotential,carbon fibers,0.05240174672489083
+chronoamperometry,linear sweep voltammetry,0.07216494845360824
+chronoamperometry,electrochemical gas sensor,0.061855670103092786
+chronoamperometry,amperometry,0.05154639175257732
+tandem,photoelectrochemical cell,0.061946902654867256
+tandem,photocathode,0.061946902654867256
+thermogravimetric analysis,thermal stability,0.08450704225352113
+hydrazine (antidepressant),reducing agent,0.08571428571428572
+rhodamine b,degradation,0.11607142857142858
+rhodamine b,methylene blue,0.05803571428571429
+rhodamine b,visible spectrum,0.11607142857142858
+rhodamine b,methyl orange,0.0625
+rhodamine b,photodegradation,0.07589285714285714
+selective catalytic reduction,atmospheric temperature range,0.05204460966542751
+selective catalytic reduction,4-nitrophenol,0.055762081784386616
+visible spectrum,degradation,0.0921544209215442
+visible spectrum,methylene blue,0.05977584059775841
+visible spectrum,methyl orange,0.052303860523038606
+visible spectrum,photodegradation,0.062266500622665005
+rietveld refinement,powder diffraction,0.0847457627118644
+rietveld refinement,tetragonal crystal system,0.06779661016949153
+non-blocking i/o,nickel oxide,0.09732824427480916
+titanium dioxide,visible spectrum,0.0660377358490566
+titanium dioxide,titanium oxide,0.0660377358490566
+electrospinning,nanomaterials,0.07425742574257425
+thermal stability,thermogravimetric analysis,0.11368421052631579
+methyl orange,visible spectrum,0.116991643454039
+methyl orange,degradation,0.11142061281337047
+methyl orange,photodegradation,0.06963788300835655
+hybrid material,nanomaterials,0.0625
+anodizing,nanoporous,0.05555555555555555
+anodizing,visible spectrum,0.05555555555555555
+anodizing,photocurrent,0.05555555555555555
+photocurrent,photoelectrochemistry,0.06801470588235294
+photocurrent,photoelectrochemical cell,0.051470588235294115
+photocurrent,photocathode,0.12683823529411764
+laser ablation,particle (ecology),0.05813953488372093
+laser ablation,pulsed laser deposition,0.06976744186046512
+titanium oxide,titanium dioxide,0.1590909090909091
+nickel oxide,non-blocking i/o,0.2670157068062827
+indium tin oxide,tin oxide,0.064
+electrochemical gas sensor,amperometry,0.11475409836065574
+catalytic combustion,specific surface area,0.05263157894736842
+catalytic combustion,carbon fibers,0.07017543859649122
+chemical stability,chemical-looping combustion,0.06593406593406594
+noble metal,bimetallic strip,0.06440677966101695
+tin oxide,nanorod,0.05405405405405406
+tin oxide,photocurrent,0.06756756756756757
+oxidation state,x-ray absorption spectroscopy,0.05232558139534884
+oxidation state,reactivity,0.06976744186046512
+oxidation state,xanes,0.06395348837209303
+rutile,visible spectrum,0.07352941176470588
+oxygen evolution,overpotential,0.19047619047619047
+methylene blue,visible spectrum,0.125
+methylene blue,degradation,0.125
+methylene blue,photodegradation,0.0703125
+pulsed laser deposition,deposition,0.17424242424242425
+matrix (chemical analysis),particle (ecology),0.05263157894736842
+matrix (chemical analysis),carbon fibers,0.05263157894736842
+overlayer,photocurrent,0.0945945945945946
+overlayer,photocathode,0.08108108108108109
+biocompatibility,surface modification,0.054878048780487805
+biocompatibility,nanomaterials,0.10365853658536585
+morphology,deposition,0.05263157894736842
+amperometry,electrochemical gas sensor,0.16091954022988506
+amperometry,carbon fibers,0.06321839080459771
+xanes,oxidation state,0.07096774193548387
+xanes,x-ray absorption spectroscopy,0.10967741935483871
+nanomaterial-based catalyst,bimetallic strip,0.05789473684210526
+nanomaterial-based catalyst,carbon fibers,0.05789473684210526
+ultraviolet,visible spectrum,0.08737864077669903
+ultraviolet,nanorod,0.05825242718446602
+nanosheet,oxygen evolution,0.06293706293706294
+inert gas,inert,0.20588235294117646
+nanorod,visible spectrum,0.051515151515151514
+physisorption,temperature-programmed reduction,0.06956521739130435
+physisorption,chemisorption,0.0782608695652174
+photodegradation,visible spectrum,0.15527950310559005
+photodegradation,degradation,0.07453416149068323
+photodegradation,rhodamine b,0.052795031055900624
+photodegradation,methylene blue,0.08385093167701864
+photodegradation,methyl orange,0.07763975155279502
+surface modification,nanomaterials,0.05916030534351145
+degradation,visible spectrum,0.10771470160116449
+degradation,methylene blue,0.06986899563318777
+degradation,methyl orange,0.05822416302765648
+water-gas shift reaction,temperature-programmed reduction,0.06976744186046512
+sodium borohydride,reducing agent,0.09195402298850575
+sodium borohydride,methyl orange,0.06896551724137931
+bet theory,specific surface area,0.1743119266055046
+bet theory,degradation,0.05504587155963303
+photoelectrochemical cell,photoelectrochemistry,0.22274881516587677
+photoelectrochemical cell,photocathode,0.17061611374407584
+photoelectrochemical cell,photocurrent,0.13270142180094788
+graphitic carbon nitride,carbon fibers,0.17117117117117117
+graphitic carbon nitride,visible spectrum,0.07207207207207207
+wurtzite crystal structure,nanorod,0.0673076923076923
+temperature-programmed reduction,selective catalytic reduction,0.06976744186046512
+temperature-programmed reduction,water-gas shift reaction,0.05232558139534884
+x-ray absorption spectroscopy,oxidation state,0.0625
+x-ray absorption spectroscopy,xanes,0.11805555555555555
+galvanic cell,bimetallic strip,0.07272727272727272
+charge carrier,visible spectrum,0.06382978723404255
+charge carrier,photocurrent,0.0851063829787234
+linear sweep voltammetry,chronoamperometry,0.07526881720430108
+linear sweep voltammetry,photoelectrochemistry,0.06451612903225806
+linear sweep voltammetry,electrochemical gas sensor,0.08602150537634409
+linear sweep voltammetry,photocurrent,0.07526881720430108
+photoelectrochemistry,photoelectrochemical cell,0.18007662835249041
+photoelectrochemistry,photocathode,0.1417624521072797
+photoelectrochemistry,photocurrent,0.1417624521072797
+absorbance,visible spectrum,0.05511811023622047
+inert,inert gas,0.18421052631578946
+inert,chemical-looping combustion,0.05263157894736842
+specific surface area,bet theory,0.06761565836298933
+specific surface area,carbon fibers,0.05338078291814947

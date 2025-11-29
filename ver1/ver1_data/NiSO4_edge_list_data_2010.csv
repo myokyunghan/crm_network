@@ -1,0 +1,40 @@
+from,to,weight
+interquartile range,patch test,0.5
+interquartile range,patch testing,0.5
+danish,patch testing,0.3333333333333333
+danish,contact allergy,0.3333333333333333
+danish,patch test,0.3333333333333333
+eschar,thiomersal,0.5
+eschar,patch test,0.5
+thiomersal,patch test,0.3333333333333333
+spectacle,potassium dichromate,0.5
+spectacle,patch test,0.5
+histology,patch testing,0.3333333333333333
+histology,patch test,0.3333333333333333
+histology,skin reaction,0.3333333333333333
+dimethyl fumarate,patch testing,0.3333333333333333
+dimethyl fumarate,patch test,0.3333333333333333
+medical record,etiology,0.3333333333333333
+medical record,patch test,0.3333333333333333
+medical record,irritant contact dermatitis,0.3333333333333333
+matricaria chamomilla,contact allergy,0.3333333333333333
+matricaria chamomilla,patch test,0.3333333333333333
+sesquiterpene lactone,patch test,0.3333333333333333
+sesquiterpene lactone,contact allergy,0.3333333333333333
+statistical analysis,potassium dichromate,0.5
+statistical analysis,patch test,0.5
+loratadine,patch test,0.3333333333333333
+systemic reaction,contact allergy,0.3333333333333333
+systemic reaction,hair dyes,0.3333333333333333
+systemic reaction,skin reaction,0.3333333333333333
+seborrhoeic dermatitis,patch test,0.5
+seborrhoeic dermatitis,patch testing,0.5
+maculopapular rash,culprit,0.5
+maculopapular rash,patch test,0.5
+lanolin,patch test,0.42857142857142855
+copper sulfate,patch test,0.3333333333333333
+case series,patch test,0.5
+case series,patch testing,0.5
+sodium metabisulfite,cobalt chloride,0.5
+sodium metabisulfite,patch test,0.5
+skin test,patch test,0.3333333333333333
