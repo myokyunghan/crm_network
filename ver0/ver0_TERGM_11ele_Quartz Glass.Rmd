@@ -85,14 +85,18 @@ X.list <- list(X1, X2)
 
 # === 7. TERGM (btergm) 모델 추정 ===
 set.seed(100)
+
+
 model <- tergm(net.list ~ edges 
-                + gwesp(0.001, fixed = TRUE) 
+                + gwesp(0.05, fixed = TRUE) 
                 #+ edgecov(X.list)
                 + mutual
                 + nodecov("indegree")
                 + diff(attr="indegree", dir="t-h")
                 ,
-                estimate="CMLE", times=0:2)
+                estimate="CMPLE", times=0:2
+                )
+                #estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
 r_f_name <- paste0(params$option, "result/",element, "model_summary.txt")

@@ -92,7 +92,8 @@ model <- tergm(net.list ~ edges
                 + nodecov("indegree")
                 + diff(attr="indegree", dir="t-h")
                 , 
-                estimate="CMLE", times=0:2)
+                estimate="CMPLE", times=0:2)
+                #estimate="CMLE", times=0:2)
 
 # === 8. 결과 확인 ===
 r_f_name <- paste0(params$option, "result/",element, "model_summary.txt")
