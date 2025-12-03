@@ -1,0 +1,20 @@
+Call:
+tergm(formula = net.list ~ edges + gwesp(0.05, fixed = TRUE) + 
+    mutual + nodecov("indegree") + diff(attr = "indegree", dir = "t-h"), 
+    estimate = "CMLE", times = 0:2)
+
+Monte Carlo Conditional Maximum Likelihood Results:
+
+                     Estimate Std. Error MCMC % z value Pr(>|z|)    
+edges                -6.59602    0.16881      0 -39.075   <1e-04 ***
+gwesp.OTP.fixed.0.05  1.37466    0.20852      0   6.592   <1e-04 ***
+mutual                5.05987    0.53356      0   9.483   <1e-04 ***
+nodecov.indegree      0.06271    0.05276      0   1.189    0.235    
+diff.t-h.indegree    -0.54640    0.06459      0  -8.459   <1e-04 ***
+---
+Signif. codes:  0 '***' 0.001 '**' 0.01 '*' 0.05 '.' 0.1 ' ' 1
+
+     Null Deviance: 35267.3  on 25440  degrees of freedom
+ Residual Deviance:   927.1  on 25435  degrees of freedom
+ 
+AIC: 937.1  BIC: 977.8  (Smaller is better. MC Std. Err. = 0.2205)
